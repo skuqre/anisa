@@ -41,6 +41,14 @@ const prydress = await (await fetch(prydlink)).json();
 		<title>{ jsonresponse.name + " - Anisa" }</title>
 		<meta name="description" content={ prydress.result.data.currentUnit.nodes[0].backstory != null ? prydress.result.data.currentUnit.nodes[0].backstory.backstory : jsonresponse.description }>
 		<meta property="og:image" content={ `https://nikke-db-legacy.pages.dev/images/sprite/${jsonresponse.img}.png`}>
+
+		<style>
+			@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+			
+			body {
+				font-family: 'Pretendard', sans-serif;
+			}
+		</style>
 	</head>
 	<body>
 		<div class="main">
