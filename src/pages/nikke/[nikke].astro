@@ -1,0 +1,141 @@
+---
+import fuzzysort from "fuzzysort";
+
+const { nikke } = Astro.params;
+
+export async function getStaticPaths() {
+	const response = await fetch('https://api.dotgg.gg/nikke/characters/');
+	const jsonresponse = await response.json();
+	return jsonresponse.map((e: any) => {return {params: {nikke: e.url}}});
+}
+
+const prydres = await fetch('https://www.prydwen.gg/page-data/nikke/characters/page-data.json');
+const prydresj = await prydres.json();
+
+// dev note: i have to replace all dashes with spaces for the fuzzy to work correctly
+// apparently "anis-sparkling-summer" and "sparkling-summer-anis" are not the same thing with dashes
+const prydslug = fuzzysort.go((nikke + '').replaceAll('-', ' '), prydresj.result.data.allCharacters.nodes.map((e: any) => e.slug.replaceAll('-', ' ')));
+
+const nikkegglink = 'https://api.dotgg.gg/nikke/character/' + nikke;
+const prydlink = 'https://www.prydwen.gg/page-data/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-') + '/page-data.json';
+const prydress = await (await fetch(prydlink)).json();
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Astro</title>
+
+		<style>
+			table, th, td {
+			  border: 1px solid black;
+			  border-collapse: collapse;
+			}
+			th, td {
+			  padding: 15px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1 id="nikke-name"></h1>
+		<img id="nikke-fb" src="" />
+		<p id="nikke-bs"></p>
+
+		<h2>Ratings</h2>
+		<h3>NIKKE.gg</h3>
+		<table>
+			<tr>
+				<th>Story</th>
+				<th>Bosses</th>
+				<th>PvP</th>
+				<th>Combined</th>
+			</tr>
+			<tr>
+				<td id="nikgg-story"></td>
+				<td id="nikgg-boss"></td>
+				<td id="nikgg-pvp"></td>
+				<td id="nikgg-comb"></td>
+			</tr>
+		</table>
+		<p><i>This may have <b>rounded values</b>.</i></p>
+
+		<h3>Prydwen.gg</h3>
+		<table>
+			<tr>
+				<th>Boss (Adds)</th>
+				<th>Boss (Solo)</th>
+				<th>PvP</th>
+			</tr>
+			<tr>
+				<td id="pryd-bossadds"></td>
+				<td id="pryd-bosssolo"></td>
+				<td id="pryd-pvp"></td>
+			</tr>
+			<tr>
+				<th>Early Story</th>
+				<th>Mid Story</th>
+				<th>Late Story</th>
+			</tr>
+			<tr>
+				<td id="pryd-early"></td>
+				<td id="pryd-mid"></td>
+				<td id="pryd-late"></td>
+			</tr>
+		</table>
+		<p>
+			<i>As NIKKE.GG and Prydwen have different character cases, <b>this may have the wrong values</b>.</i><br>
+			<i>Slug used: {prydslug[0].target.replaceAll(" ", '-')}</i>
+		</p>
+
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydress}}>
+			var prydRates = {
+				"11": "SSS",
+				"10": "SS",
+				"9": "S",
+				"8": "A",
+				"7": "B",
+				"6": "C",
+				"5": "D",
+				"4": "F",
+				"1": "Unrated"
+			}
+
+			fetch(nikkegglink)
+				.then((e) => {
+					e.json().then((d) => {
+						console.log(d);
+						document.getElementById('nikke-name').innerHTML = d.name;
+						document.getElementById('nikke-fb').src = "https://static.dotgg.gg/nikke/characters/" + d.imgBig + ".webp";
+						document.getElementById('nikke-bs').innerHTML = prydress.result.data.currentUnit.nodes[0].backstory.backstory;
+
+						if (d.tierlist != null) {
+							document.getElementById('nikgg-story').innerHTML = d.tierlist.Story;
+							document.getElementById('nikgg-boss').innerHTML = d.tierlist.Boss;
+							document.getElementById('nikgg-pvp').innerHTML = d.tierlist.PvP;
+							document.getElementById('nikgg-comb').innerHTML = d.tierlist.Combined;
+						} else {
+							document.getElementById('nikgg-story').innerHTML = "Unrated";
+							document.getElementById('nikgg-boss').innerHTML = "Unrated";
+							document.getElementById('nikgg-pvp').innerHTML = "Unrated";
+							document.getElementById('nikgg-comb').innerHTML = "Unrated";
+						}
+					});
+				})
+				.catch((err) => {
+
+				});
+
+			console.log(prydress.result.data.currentUnit.nodes[0])
+			document.getElementById('pryd-bossadds').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.bossAdds)];
+			document.getElementById('pryd-bosssolo').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.bossSolo)];
+			document.getElementById('pryd-pvp').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.pvp)];
+
+			document.getElementById('pryd-early').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.storyEarly)];
+			document.getElementById('pryd-mid').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.storyMid)];
+			document.getElementById('pryd-late').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.storyEnd)];
+		</script>
+	</body>
+</html>
