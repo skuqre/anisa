@@ -1,5 +1,10 @@
 ---
+import NIKKEgg from "../../components/ratetables/NIKKEgg.astro";
+import Prydwen from "../../components/ratetables/Prydwen.astro";
+import Hover from "../../components/Hover.astro";
+
 import fuzzysort from "fuzzysort";
+import GlobalStyles from "../../components/GlobalStyles.astro";
 
 const { nikke } = Astro.params;
 
@@ -17,7 +22,12 @@ const prydresj = await prydres.json();
 const prydslug = fuzzysort.go((nikke + '').replaceAll('-', ' '), prydresj.result.data.allCharacters.nodes.map((e: any) => e.slug.replaceAll('-', ' ')));
 
 const nikkegglink = 'https://api.dotgg.gg/nikke/character/' + nikke;
+
+const response = await fetch(nikkegglink);
+const jsonresponse = await response.json();
+
 const prydlink = 'https://www.prydwen.gg/page-data/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-') + '/page-data.json';
+const prydlinka = 'https://www.prydwen.gg/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-');
 const prydress = await (await fetch(prydlink)).json();
 ---
 
@@ -27,100 +37,122 @@ const prydress = await (await fetch(prydlink)).json();
 		<!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
 
-		<style>
-			table, th, td {
-			  border: 1px solid black;
-			  border-collapse: collapse;
-			}
-			th, td {
-			  padding: 15px;
-			}
-		</style>
+		<title>{ jsonresponse.name + " - Anisa" }</title>
+		<meta name="description" content={ prydress.result.data.currentUnit.nodes[0].backstory != null ? prydress.result.data.currentUnit.nodes[0].backstory.backstory : jsonresponse.description }>
+		<meta property="og:image" content={ `https://nikke-db-legacy.pages.dev/images/sprite/${jsonresponse.img}.png`}>
 	</head>
 	<body>
-		<h1 id="nikke-name"></h1>
-		<img id="nikke-fb" src="" />
-		<p id="nikke-bs"></p>
+		<div class="main">
+			<div class="wrapper">
+				<h1 id="nikke-name">{ jsonresponse.name }</h1>
 
-		<h2>Ratings</h2>
-		<h3>NIKKE.gg</h3>
-		<table>
-			<tr>
-				<th>Story</th>
-				<th>Bosses</th>
-				<th>PvP</th>
-				<th>Combined</th>
-			</tr>
-			<tr>
-				<td id="nikgg-story"></td>
-				<td id="nikgg-boss"></td>
-				<td id="nikgg-pvp"></td>
-				<td id="nikgg-comb"></td>
-			</tr>
-		</table>
-		<p><i>This may have <b>rounded values</b>.</i></p>
+				<div class="top-main">
+					<div class="img-wrapper">
+						<img id="nikke-fb" src="" alt={ jsonresponse.name + " Full Body" } />
+					</div>
+					<div class="rates-scroll">
+						<div class="rates">
+							<h3>
+								<a href={ "https://nikke.gg/characters/" + nikke } target="_blank">NIKKE.gg</a>
+								<Hover content="*" hid="nikkegg">
+									This may have <b>rounded values</b>.<br>
+									Letter ranking may also be inaccurate.
+								</Hover>
+							</h3>
+							<NIKKEgg />
+						</div>
 
-		<h3>Prydwen.gg</h3>
-		<table>
-			<tr>
-				<th>Boss (Adds)</th>
-				<th>Boss (Solo)</th>
-				<th>PvP</th>
-			</tr>
-			<tr>
-				<td id="pryd-bossadds"></td>
-				<td id="pryd-bosssolo"></td>
-				<td id="pryd-pvp"></td>
-			</tr>
-			<tr>
-				<th>Early Story</th>
-				<th>Mid Story</th>
-				<th>Late Story</th>
-			</tr>
-			<tr>
-				<td id="pryd-early"></td>
-				<td id="pryd-mid"></td>
-				<td id="pryd-late"></td>
-			</tr>
-		</table>
-		<p>
-			<i>As NIKKE.GG and Prydwen have different character cases, <b>this may have the wrong values</b>.</i><br>
-			<i>Slug used: {prydslug[0].target.replaceAll(" ", '-')}</i>
-		</p>
+						<div class="rates">
+							<h3>
+								<a href={ "https://prydwen.gg/nikke/characters/" + prydslug[0].target.replaceAll(" ", '-') } target="_blank">Prydwen.gg</a>
+								<Hover content="*" hid="prydwen">
+									<b>Data from:</b><br>
+									<a href={prydlinka} target="_blank">{prydlinka}</a><br>
+									The link may be wrong on specific cases;<br>
+									be on the lookout!
+								</Hover>
+							</h3>
+							<Prydwen />
+						</div>
+					</div>
+				</div>
+				<p id="nikke-bs"></p>
+			</div>
+		</div>
 
 		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydress}}>
 			var prydRates = {
-				"11": "SSS",
-				"10": "SS",
-				"9": "S",
-				"8": "A",
-				"7": "B",
-				"6": "C",
-				"5": "D",
-				"4": "F",
-				"1": "Unrated"
+				"11": ["SSS", "#e04be0"],
+				"10": ["SS", "#ef5350"],
+				"9": ["S", "#ff7f7f"],
+				"8": ["A", "#f9a2a2"],
+				"7": ["B", "#ffbf7f"],
+				"6": ["C", "#ffff7f"],
+				"5": ["D", "#bfff7f"],
+				"4": ["E", "#9df89d"],
+				"1": ["Unrated", ""]
+			}
+			
+			function getNIKKEggRating(a) {
+				let num = parseFloat(a)
+				
+				// anyone from nikke.gg reading this may correct this however they want
+				// please increase the contrast of the rank colors!
+				var ratings = [
+					["SSS", num > 9.5, "#c12d5c"],
+					["SS", num > 9, "#c34545"],
+					["S+", num > 8.5, "#bf4f3b"], // u r a fucken doozy this rank
+					["S", num > 8, "#bc5d34"],
+					["A", num > 7, "#b0732c"],
+					["B", num > 6, "#a08633"],
+					["C", num > 4, "#8f9646"],
+					["D", num > 2, "#7da361"],
+					["F", num > 0, "#6eaf7f"]
+				];
+
+				for (let i = 0; i < ratings.length; i++) {
+					if (ratings[i][1]) {
+						return [ratings[i][0], ratings[i][2]];
+					}
+				}
 			}
 
 			fetch(nikkegglink)
 				.then((e) => {
 					e.json().then((d) => {
 						console.log(d);
-						document.getElementById('nikke-name').innerHTML = d.name;
 						document.getElementById('nikke-fb').src = "https://static.dotgg.gg/nikke/characters/" + d.imgBig + ".webp";
-						document.getElementById('nikke-bs').innerHTML = prydress.result.data.currentUnit.nodes[0].backstory.backstory;
+
+						if (pry.backstory != null) {
+							document.getElementById('nikke-bs').innerHTML = pry.backstory.backstory;
+						} else if (d.description != null) {
+							document.getElementById('nikke-bs').innerHTML = d.description;
+						} else {
+							document.getElementById('nikke-bs').innerHTML = "This NIKKE has no description provided."
+						}
 
 						if (d.tierlist != null) {
-							document.getElementById('nikgg-story').innerHTML = d.tierlist.Story;
-							document.getElementById('nikgg-boss').innerHTML = d.tierlist.Boss;
-							document.getElementById('nikgg-pvp').innerHTML = d.tierlist.PvP;
-							document.getElementById('nikgg-comb').innerHTML = d.tierlist.Combined;
+							document.getElementById('nikgg-story').innerHTML = d.tierlist.Story + " (" + getNIKKEggRating(d.tierlist.Story)[0] + ")";
+							document.getElementById('nikgg-story').style.backgroundColor = getNIKKEggRating(d.tierlist.Story)[1];
+
+							document.getElementById('nikgg-boss').innerHTML = d.tierlist.Boss + " (" + getNIKKEggRating(d.tierlist.Boss)[0] + ")";
+							document.getElementById('nikgg-boss').style.backgroundColor = getNIKKEggRating(d.tierlist.Boss)[1];
+
+							document.getElementById('nikgg-pvp').innerHTML = d.tierlist.PvP + " (" + getNIKKEggRating(d.tierlist.PvP)[0] + ")";
+							document.getElementById('nikgg-pvp').style.backgroundColor = getNIKKEggRating(d.tierlist.PvP)[1];
+
+							document.getElementById('nikgg-comb').innerHTML = d.tierlist.Combined + " (" + getNIKKEggRating(d.tierlist.Combined)[0] + ")";
+							document.getElementById('nikgg-comb').style.backgroundColor = getNIKKEggRating(d.tierlist.Combined)[1];
+
+							document.getElementById('nikgg-invest').innerHTML = d.tierlist.reqInvest == 'FALSE' ? 'No' : 'Yes';
+							document.getElementById('nikgg-invest').style.backgroundColor = d.tierlist.reqInvest == 'FALSE' ? '#ed4245' : '#77dd77';
 						} else {
 							document.getElementById('nikgg-story').innerHTML = "Unrated";
 							document.getElementById('nikgg-boss').innerHTML = "Unrated";
 							document.getElementById('nikgg-pvp').innerHTML = "Unrated";
 							document.getElementById('nikgg-comb').innerHTML = "Unrated";
+							document.getElementById('nikgg-invest').innerHTML = "Unrated";
 						}
 					});
 				})
@@ -128,14 +160,30 @@ const prydress = await (await fetch(prydlink)).json();
 
 				});
 
-			console.log(prydress.result.data.currentUnit.nodes[0])
-			document.getElementById('pryd-bossadds').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.bossAdds)];
-			document.getElementById('pryd-bosssolo').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.bossSolo)];
-			document.getElementById('pryd-pvp').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.pvp)];
+			let pry = prydress.result.data.currentUnit.nodes[0];
 
-			document.getElementById('pryd-early').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.storyEarly)];
-			document.getElementById('pryd-mid').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.storyMid)];
-			document.getElementById('pryd-late').innerHTML = prydRates[parseInt(prydress.result.data.currentUnit.nodes[0].ratings.storyEnd)];
+			console.log(pry)
+			document.getElementById('pryd-bossadds').innerHTML = prydRates[parseInt(pry.ratings.bossAdds)][0];
+			document.getElementById('pryd-bossadds').style.backgroundColor = prydRates[parseInt(pry.ratings.bossAdds)][1];
+
+			document.getElementById('pryd-bosssolo').innerHTML = prydRates[parseInt(pry.ratings.bossSolo)][0];
+			document.getElementById('pryd-bosssolo').style.backgroundColor = prydRates[parseInt(pry.ratings.bossSolo)][1];
+
+			document.getElementById('pryd-pvp').innerHTML = prydRates[parseInt(pry.ratings.pvp)][0];
+			document.getElementById('pryd-pvp').style.backgroundColor = prydRates[parseInt(pry.ratings.pvp)][1];
+
+
+			document.getElementById('pryd-early').innerHTML = prydRates[parseInt(pry.ratings.storyEarly)][0];
+			document.getElementById('pryd-early').style.backgroundColor = prydRates[parseInt(pry.ratings.storyEarly)][1];
+
+			document.getElementById('pryd-mid').innerHTML = prydRates[parseInt(pry.ratings.storyMid)][0];
+			document.getElementById('pryd-mid').style.backgroundColor = prydRates[parseInt(pry.ratings.storyMid)][1];
+
+			document.getElementById('pryd-late').innerHTML = prydRates[parseInt(pry.ratings.storyEnd)][0];
+			document.getElementById('pryd-late').style.backgroundColor = prydRates[parseInt(pry.ratings.storyEnd)][1];
+
 		</script>
 	</body>
 </html>
+
+<GlobalStyles />

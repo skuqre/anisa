@@ -1,0 +1,72 @@
+---
+const { content, hid } = Astro.props
+---
+
+<span class="hoverinfo" id={hid}>
+    {content}
+    <p class="hoverinfo-content" id={hid}>
+        <slot />
+    </p>
+</span>
+
+<style>
+    p.hoverinfo-content {
+        background-color: var(--darkerer);
+        color: var(--lighterer);
+
+        box-shadow: black 0 0 4px;
+        
+        position: absolute;
+        display: inline-block;
+        padding: 12px 16px;
+        
+        border-radius: 8px;
+        border-bottom-left-radius: 0;
+
+        font-weight: normal;
+        font-size: 16px;
+
+        z-index: 999;
+
+        top: 0;
+        left: 0;
+
+        user-select: all;
+
+        transition: opacity 0.2s ease-in-out;
+    }
+</style>
+
+<script define:vars={{hid}}>
+    let toast = document.querySelectorAll("p.hoverinfo-content#" + hid)[0];
+    toast.style.opacity = "0";
+    // toast.style.display = "none";
+
+    let lmao = document.querySelectorAll("span.hoverinfo#" + hid)[0];
+
+    function over(e) {
+        toast.style.opacity = "1";
+        // toast.style.display = "inline-block";
+    }
+
+    function out(e) {
+        toast.style.opacity = "0";
+        // toast.style.display = "none";
+    }
+
+    function hoverMove(e) {
+        if (parseFloat(toast.style.opacity) > 0) {
+            let left = e.pageX;
+            let top = e.pageY - toast.offsetHeight - 16;
+            toast.style.left = left + 'px';
+            toast.style.top = top + 'px';
+        } else {
+            toast.style.top = "-1000px";
+        }
+    }
+    
+    document.addEventListener('mousemove', hoverMove);
+    document.addEventListener('wheel', hoverMove);
+    lmao.addEventListener("mouseover", over);
+    lmao.addEventListener("mouseout", out);
+</script>
