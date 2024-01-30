@@ -1,0 +1,70 @@
+---
+---
+
+<div class="sidebar">
+    <div class="sidebar-content">
+        <a href="/anisa/" class="sidebar-link"><i class='bx bxs-home'></i> Home</a>
+        <a href="/anisa/nikkes/" class="sidebar-link"><i class='bx bxs-group'></i> NIKKEs</a>
+        <a href="/anisa/tierlists" class="sidebar-link"><i class='bx bxs-bar-chart-alt-2'></i> Tierlists</a>
+        <p class="sidebar-divider">LISTS</p>
+        <a href="/anisa/" class="sidebar-link"><i class='bx bxs-cube'></i> Harmony Cubes</a>
+        <a href="/anisa/" class="sidebar-link"><i class='bx bxs-notepad'></i> Advise</a>
+        <p class="sidebar-divider">ANISA</p>
+        <a href="/anisa/" class="sidebar-link"><i class='bx bxs-copyright'></i> Credits</a>
+        <a href="/anisa/why/" class="sidebar-link"><i class='bx bx-question-mark'></i> Why?</a>
+    </div>
+</div>
+
+<style>
+    div.sidebar {
+        width: 300px;
+        height: calc(100% - 58px);
+
+        top: 58px;
+        left: 0;
+        position: fixed;
+        background-color: rgba(0, 0, 0, 0.5);
+        overflow-y: auto;
+
+        transition: left 0.2s ease-in-out;
+    }
+
+    div.sidebar-content {
+        padding: 16px;
+        padding-top: 32px;
+
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    a i.bx {
+        scale: 1.5;
+        display: inline-block;
+        margin-right: 16px;
+    }
+
+    a.sidebar-link {
+        display: block;
+        padding: 16px;
+        color: var(--lighter);
+        transition: 0.2s color ease-in-out;
+    }
+
+    a.sidebar-link:hover {
+        color: var(--lightererest);
+        text-decoration: none;
+        transition: 0.2s color ease-in-out;
+    }
+
+    p.sidebar-divider {
+        margin: 0 8px;
+        font-weight: bold;
+        color: var(--light);
+        opacity: 0.5;
+
+        padding-top: 8px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid var(--light);
+    }
+</style>

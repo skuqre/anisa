@@ -1,0 +1,240 @@
+---
+---
+
+<div class="nikke-search">
+    <div class="nikke-search-wrapper">
+        <input type="text" placeholder="🔍 Search for a NIKKE." id="nikke-searchbar" />
+        <span class="option" id="context"><i class='bx bx-checkbox optionico'></i> Context</span>
+        <span class="option" id="minimal"><i class='bx bx-checkbox optionico'></i> Minimalist Mode</span>
+        <div class="picker">
+            <span id="burst1">
+                <div class="imgicon"><img src="/anisa/images/burst_1.png" alt="Burst 1" /></div>
+                <i class="con">Burst 1</i>
+            </span>
+            <span id="burst2"><div class="imgicon">
+                <img src="/anisa/images/burst_2.png" alt="Burst 2" /></div>
+                <i class="con">Burst 2</i>
+            </span>
+            <span id="burst3">
+                <div class="imgicon"><img src="/anisa/images/burst_3.png" alt="Burst 3" /></div>
+                <i class="con">Burst 3</i>
+            </span>
+            <span id="burstp">
+                <div class="imgicon"><img src="/anisa/images/burst_p.png" alt="Burst All" /></div>
+                <i class="con">Burst All</i>
+            </span>
+        </div>
+        <div class="picker">
+            <span id="fire">
+                <div class="imgicon"><img src="/anisa/images/ele_fire.png" alt="Fire" /></div>
+                <i class="con">Code H.S.T.A</i>
+            </span>
+            <span id="water">
+                <div class="imgicon"><img src="/anisa/images/ele_water.png" alt="Water" /></div>
+                <i class="con">Code P.S.I.D.</i>
+            </span>
+            <span id="wind">
+                <div class="imgicon"><img src="/anisa/images/ele_wind.png" alt="Wind" /></div>
+                <i class="con">Code A.N.M.I.</i>
+            </span>
+            <span id="iron">
+                <div class="imgicon"><img src="/anisa/images/ele_iron.png" alt="Iron" /></div>
+                <i class="con">Code D.M.T.R.</i>
+            </span>
+            <span id="electric">
+                <div class="imgicon"><img src="/anisa/images/ele_electric.png" alt="Electric" /></div>
+                <i class="con">Code Z.E.U.S.</i>
+            </span>
+        </div>
+        <div class="picker">
+            <span id="elysion">
+                <div class="imgicon"><img src="/anisa/images/manu_elysion.png" alt="Elysion" /></div>
+                <i class="con">Elysion</i>
+            </span>
+            <span id="tetra">
+                <div class="imgicon"><img src="/anisa/images/manu_tetra.png" alt="Tetra Line" /></div>
+                <i class="con">Tetra Line</i>
+            </span>
+            <span id="missilis">
+                <div class="imgicon"><img src="/anisa/images/manu_missilis.png" alt="Missilis" /></div>
+                <i class="con">Missilis</i>
+            </span>
+            <span id="pilgrim">
+                <div class="imgicon"><img src="/anisa/images/manu_pilgrim.png" alt="Pilgrim" /></div>
+                <i class="con">Pilgrim</i>
+            </span>
+            <span id="abnormal">
+                <div class="imgicon"><img src="/anisa/images/manu_abnormal.png" alt="Abnormal" /></div>
+                <i class="con">Abnormal</i>
+            </span>
+        </div>
+        <div class="picker">
+            <span id="attacker">
+                <div class="imgicon"><img src="/anisa/images/class_attacker.png" alt="Fire" /></div>
+                <i class="con">Attacker</i>
+            </span>
+            <span id="defender">
+                <div class="imgicon"><img src="/anisa/images/class_defender.png" alt="Fire" /></div>
+                <i class="con">Defender</i>
+            </span>
+            <span id="supporter">
+                <div class="imgicon"><img src="/anisa/images/class_supporter.png" alt="Fire" /></div>
+                <i class="con">Supporter</i>
+            </span>
+        </div>
+        <div class="picker">
+            <span id="ar">
+                <div class="imgicon"><img src="/anisa/images/sight_ar.png" alt="AR" /></div>
+            </span>
+            <span id="mg">
+                <div class="imgicon"><img src="/anisa/images/sight_mg.png" alt="MG" /></div>
+            </span>
+            <span id="rl">
+                <div class="imgicon"><img src="/anisa/images/sight_rl.png" alt="RL" /></div>
+            </span>
+            <span id="sg">
+                <div class="imgicon"><img src="/anisa/images/sight_sg.png" alt="SG" /></div>
+            </span>
+            <span id="smg">
+                <div class="imgicon"><img src="/anisa/images/sight_smg.png" alt="SMG" /></div>
+            </span>
+            <span id="sr">
+                <div class="imgicon"><img src="/anisa/images/sight_sr.png" alt="SR" /></div>
+            </span>
+        </div>
+    </div>
+</div>
+
+<style>
+    div.nikke-search {
+        display: flex;
+        margin: auto;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        margin: 16px 0;
+    }
+
+    div.nikke-search-wrapper {
+        display: flex;
+        width: max-content;
+        max-width: 80%;
+        align-content: center;
+        justify-content: center;
+        padding: 8px;
+        background-image: radial-gradient( at top right, var(--darkerer), var(--darkererer) );
+        border: var(--dark) 1px solid;
+        border-radius: 4px;
+        font-size: 16px;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    div.break {
+        flex-basis: 100%;
+        height: 0;
+    }
+
+    div.nikke-search input {
+        padding: 12px 16px;
+        outline: none;
+        background-color: var(--darker);
+        border: none;
+        color: var(--lightererest);
+        font-family: 'Pretendard', sans-serif;
+        border-radius: 4px;
+        font-size: 16px;
+        width: 100%;
+        max-width: 500px;
+    }
+
+    div.picker {
+        display: flex;
+        border-radius: 4px;
+        background-color: var(--darker);
+        flex-direction: row;
+    }
+
+    div.picker span {
+        display: inline-flex;
+        justify-content: center;
+        gap: 8px;
+        padding: 12px 16px;
+        border-right: 2px solid var(--darkerer);
+        line-height: 24px;
+        user-select: none;
+
+        transition: background-color 0.2s ease-in-out;
+    }
+
+    div.picker span:hover {
+        background-color: var(--dark);
+        transition: background-color 0.2s ease-in-out;
+        cursor: pointer;
+    }
+
+    div.picker span:last-child {
+        border-right: none;
+        border-bottom-right-radius: 4px;
+        border-top-right-radius: 4px;
+    }
+
+    div.picker span:first-child {
+        border-bottom-left-radius: 4px;
+        border-top-left-radius: 4px;
+    }
+
+    div.imgicon {
+        display: inline-block;
+        height: 24px;
+    }
+
+    div.imgicon img {
+        height: 100%;
+        scale: 1.25;
+    }
+
+    i.con {
+        font-style: normal;
+        display: none;
+    }
+
+    span.option {
+        display: inline-flex;
+        justify-content: center;
+        gap: 8px;
+        padding: 12px 16px;
+        line-height: 24px;
+        user-select: none;
+        border-radius: 4px;
+        background-color: var(--darker);
+
+        transition: background-color 0.2s ease-in-out;
+    }
+
+    span.option:hover {
+        background-color: var(--dark);
+        transition: background-color 0.2s ease-in-out;
+    }
+</style>
+
+<script>
+    var contextMode = false;
+    const context: any = document.querySelectorAll("span#context")[0];
+    const contexts = document.querySelectorAll("i.con");
+    context.addEventListener('pointerdown', (e: any) => {
+        contextMode = !contextMode;
+
+        context.innerHTML = (contextMode ? "<i class='bx bx-checkbox-checked optionico'></i>" : "<i class='bx bx-checkbox optionico'></i>") + " Context";
+
+        if (contextMode) {
+            contexts.forEach((e: any) => {
+                e.style.display = 'inline-block';
+            });
+        } else {
+            contexts.forEach((e: any) => {
+                e.style.display = 'none';
+            });
+        }
+    });
+</script>

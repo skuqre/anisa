@@ -1,9 +1,13 @@
 ---
 import GlobalStyles from "../components/GlobalStyles.astro";
+import Header from "../components/Header.astro";
+import Sidebar from "../components/Sidebar.astro";
+import NIKKESearchbar from "../components/NIKKESearchbar.astro";
+
+import fuzzysort from "fuzzysort";
 
 const response = await fetch('https://api.dotgg.gg/nikke/characters/');
-const jsonresponse = await response.json();
-
+const jsonresponsea = await response.json();
 ---
 
 <html lang="en">
@@ -16,28 +20,291 @@ const jsonresponse = await response.json();
 		<title>NIKKEs - Anisa</title>
 		<meta name="description" content="Anisa is a soon-to-be awful NIKKE information aggregator that collects information from other sites in order to function for once in its' goddamn life.">
 		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
+
+		<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 	</head>
 	<body>
+		<Header />
+		<Sidebar />
 		<div class="main">
 			<div class="wrapper">
 				<h1>NIKKEs</h1>
 
+				<p>All currently available playable NIKKEs.</p>
+				<p>You can sort by rarity, manufacturer, and all that stuff.</p>
+				<p>Clicking "Context" will show what the symbols truly mean.</p>
+				<p>Clicking "Minimalist Mode" will hide the hexagon icons on the NIKKEs.</p>
+
+				<hr>
+
+				<NIKKESearchbar />
+
 				<div class="nikke-table" id="nikketable">
 				</div>
+				
+				<script define:vars={{jsonresponsea}} type="module">
+					import {go} from "../fuzzysort.js";
 
-				<script define:vars={{jsonresponse}}>
+					let jsonresponse = [...jsonresponsea];
+
+					document.getElementById("nikke-searchbar").addEventListener('input', refreshList);
+
+					let order = ['ssr', 'sr', 'r']
+
+					let burstList = ['1', '2', '3', 'p'];
+					let bursts = [true, true, true, true]; // "include"
+
+					let elemList = ['fire', 'water', 'wind', 'iron', 'electric'];
+					let elems = [true, true, true, true, true]; // "include"
+
+					let manuList = ['elysion', 'tetra', 'missilis', 'pilgrim', 'abnormal'];
+					let manus = [true, true, true, true, true]; // "include"
+
+					let classesList = ['attacker', 'defender', 'supporter'];
+					let classes = [true, true, true]; // "include"
+
+					refreshList();
+
+					for (let i = 0; i < bursts.length; i++) {
+						let immut = i;
+						document.querySelectorAll("div.picker span#burst" + burstList[i])[0].addEventListener('pointerdown', (e) => {
+							if (bursts.indexOf(false) == -1) {
+								bursts = [false, false, false, false]
+							}
+
+							bursts[immut] = !bursts[immut];
+							refreshList();
+						});
+					}
+
+					for (let i = 0; i < manus.length; i++) {
+						let immut = i;
+						document.querySelectorAll("div.picker span#" + manuList[i])[0].addEventListener('pointerdown', (e) => {
+							if (manus.indexOf(false) == -1) {
+								manus = [false, false, false, false, false]
+							}
+
+							manus[immut] = !manus[immut];
+							refreshList();
+						});
+					}
+
+					for (let i = 0; i < elems.length; i++) {
+						let immut = i;
+						document.querySelectorAll("div.picker span#" + elemList[i])[0].addEventListener('pointerdown', (e) => {
+							if (elems.indexOf(false) == -1) {
+								elems = [false, false, false, false, false]
+							}
+
+							elems[immut] = !elems[immut];
+							refreshList();
+						});
+					}
+
+					for (let i = 0; i < classes.length; i++) {
+						let immut = i;
+						document.querySelectorAll("div.picker span#" + classesList[i])[0].addEventListener('pointerdown', (e) => {
+							if (classes.indexOf(false) == -1) {
+								classes = [false, false, false]
+							}
+
+							classes[immut] = !classes[immut];
+							refreshList();
+						});
+					}
+
+					function refreshList() {
+						document.querySelectorAll('#nikketable')[0].innerHTML = '';
+
+						if (bursts.indexOf(true) == -1) {
+							bursts = [true, true, true, true]
+						}
+						for (let i = 0; i < bursts.length; i++) {
+							document.querySelectorAll("div.picker span#burst" + burstList[i])[0].style.opacity = bursts[i] ? "1.0" : "0.3";	
+						}
+
+
+						if (manus.indexOf(true) == -1) {
+							manus = [true, true, true, true, true]
+						}
+						for (let i = 0; i < manus.length; i++) {
+							document.querySelectorAll("div.picker span#" + manuList[i])[0].style.opacity = manus[i] ? "1.0" : "0.3";	
+						}
+
+						if (elems.indexOf(true) == -1) {
+							elems = [true, true, true, true, true]
+						}
+						for (let i = 0; i < elems.length; i++) {
+							document.querySelectorAll("div.picker span#" + elemList[i])[0].style.opacity = elems[i] ? "1.0" : "0.3";	
+						}
+						
+						if (classes.indexOf(true) == -1) {
+							classes = [true, true, true]
+						}
+						for (let i = 0; i < classes.length; i++) {
+							document.querySelectorAll("div.picker span#" + classesList[i])[0].style.opacity = classes[i] ? "1.0" : "0.3";	
+						}
+
+						jsonresponse = jsonresponsea.map((x) => x);
+
+						// filters
+						for (let j = 0; j < jsonresponse.length; j++) {
+							for (let i = 0; i < burstList.length; i++) {
+								if (jsonresponse[j] != null) {
+									if (jsonresponse[j].burst == burstList[i]) {
+										if (!bursts[i]) {
+											jsonresponse[j] = null;
+										}
+									}
+								}
+							}
+
+							for (let i = 0; i < elemList.length; i++) {
+								if (jsonresponse[j] != null) {
+									if (jsonresponse[j].element.toLowerCase() == elemList[i]) {
+										if (!elems[i]) {
+											jsonresponse[j] = null;
+										}
+									}
+								}
+							}
+
+							for (let i = 0; i < manuList.length; i++) {
+								if (jsonresponse[j] != null) {
+									if (jsonresponse[j].manufacturer.toLowerCase() == manuList[i]) {
+										if (!manus[i]) {
+											jsonresponse[j] = null;
+										}
+									}
+								}
+							}
+
+							for (let i = 0; i < classesList.length; i++) {
+								if (jsonresponse[j] != null) {
+									if (jsonresponse[j].class.toLowerCase() == classesList[i]) {
+										if (!classes[i]) {
+											jsonresponse[j] = null;
+										}
+									}
+								}
+							}
+						}
+
+						jsonresponse = jsonresponse.filter((e) => {
+							return e != null;
+						});
+
+						if (document.getElementById("nikke-searchbar").value != null) {
+							var searchResults = go(document.getElementById("nikke-searchbar").value.trim(), jsonresponse, {key: 'name', all: true});
+							jsonresponse = [];
+							
+							for (let i = 0; i < searchResults.length; i++) {
+								jsonresponse[i] = searchResults[i].obj;
+							}
+						}
+
 						jsonresponse.map((e) => {
 							// document.getElementById('nikketable').innerHTML += `<img src=${"https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png"} alt=${e.name.toLowerCase()} class="nikke" />`
-							document.getElementById('nikketable').innerHTML += `
-							<div class="nikke-portrait">
-								<a href="/anisa/nikke/${e.url}" style="color: white;">
-									<img src=${"https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png"} alt=${e.name} class="nikke"/>
-									<div class="nikke-portrait-gradient"></div>
-									<span class="nikke-name">${e.name}</span>
-								</a>
+							
+							// THIS IS BAD. DON'T EVER DO THIS.
+							// DO NOT TAKE NOTES FROM THIS, PLEASE INVEST YOURSELF IN SOME SERVERS
+							// I BEG OF YOU
+
+							// console.log(e)
+							if (e == null) {
+								return;
+							}
+
+							let bggradient = '';
+
+							switch (e.rarity.toLowerCase()) {
+								case 'r':
+									bggradient = "linear-gradient(to top, rgba(0, 210, 255, 0.1), rgba(0, 210, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))";
+									break;
+								case 'sr':
+									bggradient = "linear-gradient(to top, rgba(255, 44, 255, 0.1), rgba(255, 44, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))"
+									break;
+								case 'ssr':
+									bggradient = "linear-gradient(to top, rgba(254, 216, 0, 0.1), rgba(254, 216, 0, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))";
+									break;
+							}
+
+							let name = `<span class="nikke-name">${e.name}</span>`;
+
+							if (e.name.trim().length > 14) {
+								name = `
+								<div class="marquee-name">
+									<span>${e.name}</span>
+								</div>
+								`
+							}
+
+							let hextray = `
+							<div class="hex-tray">
+								<div class="hex-gray">
+									<img src="/anisa/images/burst_${e.burst}.png" alt="B${e.burst}" title="Burst ${e.burst}" />
+								</div>
+								<div class="hex-gray ${e.element.toLowerCase()}">
+									<img src="/anisa/images/ele_${e.element.toLowerCase()}.png" alt="${e.element}" title="${e.element}" />
+								</div>
+								<div class="hex-gray">
+									<img src="/anisa/images/manu_${e.manufacturer.toLowerCase()}.png" alt="${e.manufacturer}" title="${e.manufacturer}" />
+								</div>
+								<div class="hex-gray">
+									<img src="/anisa/images/class_${e.class.toLowerCase()}.png" alt="${e.class}" title="${e.class}" />
+								</div>
 							</div>
-							`;
+							`
+
+
+							// document.getElementById('nikketable').innerHTML += `
+							// <div class="nikke-portrait">
+							// 	<a href="/anisa/nikke/${e.url}" style="color: white;">
+							// 		<img src=${"https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png"} alt=${e.name} class="nikke"/>
+							// 		<div class="portrait-overlay portrait-gradient" style="background: ${bggradient}"></div>
+							// 		${name}
+							// 		<img class="rarity-bar portrait-overlay" src="/anisa/images/rarbar_${e.rarity.toLowerCase()}.png" alt="Rarity Bar" />
+							// 		${hextray}
+							// 	</a>
+							// </div>
+							// `;
+
+							// Instancing it is faster. Somehow.
+
+							const newPortrait = document.createElement('div');
+							newPortrait.classList.add('nikke-portrait');
+
+							const a = document.createElement('a');
+							a.style.color = 'white';
+							a.href = '/anisa/nikke/' + e.url
+							newPortrait.appendChild(a);
+
+							const img = document.createElement('img');
+							img.src = "https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png";
+							img.alt = e.name;
+							img.classList.add('nikke');
+							a.appendChild(img);
+
+							const gradient = document.createElement('div');
+							gradient.classList.add('portrait-overlay');
+							gradient.classList.add('portrait-gradient');
+							gradient.style.background = bggradient;
+							a.appendChild(gradient);
+
+							a.innerHTML += name;
+
+							const bar = document.createElement('img');
+							bar.src = `/anisa/images/rarbar_${e.rarity.toLowerCase()}.png`;
+							bar.alt = "Rarity Bar";
+							bar.classList.add('rarity-bar');
+							bar.classList.add('portrait-overlay');
+							a.appendChild(bar);
+
+							a.innerHTML += hextray;
+
+							document.getElementById('nikketable').appendChild(newPortrait);
 						})
+					}
 				</script>
 			</div>
 		</div>

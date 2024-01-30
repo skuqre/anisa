@@ -2,6 +2,8 @@
 import NIKKEgg from "../../components/ratetables/NIKKEgg.astro";
 import Prydwen from "../../components/ratetables/Prydwen.astro";
 import Hover from "../../components/Hover.astro";
+import Header from "../../components/Header.astro";
+import Sidebar from "../../components/Sidebar.astro";
 
 import fuzzysort from "fuzzysort";
 import GlobalStyles from "../../components/GlobalStyles.astro";
@@ -44,6 +46,7 @@ const prydress = await (await fetch(prydlink)).json();
 
 		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
 		<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+		<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
 		<style>
 			body {
@@ -52,6 +55,8 @@ const prydress = await (await fetch(prydlink)).json();
 		</style>
 	</head>
 	<body>
+		<Header />
+		<Sidebar />
 		<div class="main">
 			<div class="wrapper">
 				<h1 id="nikke-name">{ jsonresponse.name }</h1>
