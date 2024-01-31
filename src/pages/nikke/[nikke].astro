@@ -31,6 +31,9 @@ const jsonresponse = await response.json();
 const prydlink = 'https://www.prydwen.gg/page-data/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-') + '/page-data.json';
 const prydlinka = 'https://www.prydwen.gg/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-');
 const prydress = await (await fetch(prydlink)).json();
+
+import limitData from '../../../public/data/limited.json';
+import variationsData from '../../../public/data/variations.json';
 ---
 
 <html lang="en">
@@ -65,37 +68,117 @@ const prydress = await (await fetch(prydlink)).json();
 					<div class="img-wrapper">
 						<img id="nikke-fb" src="" alt={ jsonresponse.name + " Full Body" } />
 					</div>
-					<div class="rates-scroll">
-						<div class="rates">
-							<h3>
-								<a href={ "https://nikke.gg/characters/" + nikke } target="_blank">NIKKE.gg</a>
-								<Hover content="*" hid="nikkegg">
-									This may have <b>rounded values</b>.<br>
-									Letter ranking may also be inaccurate.
-								</Hover>
-							</h3>
-							<NIKKEgg />
-						</div>
+					<div class="rate-wrapper">
+						<h2>Ratings</h2>
+						<div class="rates-scroll">
+							<div class="rates">
+								<h3>
+									<a href={ "https://nikke.gg/characters/" + nikke } target="_blank">NIKKE.gg</a>
+									<Hover content="*" hid="nikkegg">
+										This may have <b>rounded values</b>.<br>
+										Letter ranking may also be inaccurate.
+									</Hover>
+								</h3>
+								<NIKKEgg />
+							</div>
 
-						<div class="rates">
-							<h3>
-								<a href={ "https://prydwen.gg/nikke/characters/" + prydslug[0].target.replaceAll(" ", '-') } target="_blank">Prydwen.gg</a>
-								<Hover content="*" hid="prydwen">
-									<b>Data from:</b><br>
-									<a href={prydlinka} target="_blank">{prydlinka}</a><br>
-									The link may be wrong on specific cases;<br>
-									be on the lookout!
-								</Hover>
-							</h3>
-							<Prydwen />
+							<div class="rates">
+								<h3>
+									<a href={ "https://prydwen.gg/nikke/characters/" + prydslug[0].target.replaceAll(" ", '-') } target="_blank">Prydwen.gg</a>
+									<Hover content="*" hid="prydwen">
+										<b>Data from:</b><br>
+										<a href={prydlinka} target="_blank">{prydlinka}</a><br>
+										The link may be wrong on specific cases;<br>
+										be on the lookout!
+									</Hover>
+								</h3>
+								<Prydwen />
+							</div>
 						</div>
 					</div>
 				</div>
-				<p id="nikke-bs"></p>
+
+				<div class="nikke-main">
+					<div class="fun-stuff">
+						<div>
+							<h2>Backstory</h2>
+							<p id="nikke-bs"></p>
+						</div>
+						<div>
+							<h2>Character Information</h2>
+							<div class="info-table">
+								<table class="char-info">
+									<tr>
+										<th>Full Name</th>
+										<td id="nikke-fn"></td>
+									</tr>
+									<tr>
+										<th>Voice (EN)</th>
+										<td id="nikke-ven"></td>
+									</tr>
+									<tr>
+										<th>Voice (JP)</th>
+										<td id="nikke-vjp"></td>
+									</tr>
+									<tr>
+										<th>Voice (KR)</th>
+										<td id="nikke-vkr"></td>
+									</tr>
+									<tr>
+										<th>Release Date</th>
+										<td id="nikke-release"></td>
+									</tr>
+									<tr>
+										<th>Specialities</th>
+										<td id="nikke-special"></td>
+									</tr>
+								</table>
+								<table class="char-info">
+									<tr>
+										<th>Squad</th>
+										<td id="nikke-squad"></td>
+									</tr>
+									<tr>
+										<th>Rarity</th>
+										<td id="nikke-rarity"></td>
+									</tr>
+									<tr>
+										<th>Element</th>
+										<td id="nikke-elem"></td>
+									</tr>
+									<tr>
+										<th>Manufacturer</th>
+										<td id="nikke-manu"></td>
+									</tr>
+									<tr>
+										<th>Class</th>
+										<td id="nikke-class"></td>
+									</tr>
+									<tr>
+										<th>Weapon</th>
+										<td id="nikke-weapon"></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="build-stuff">
+						<div>
+							<h2>About</h2>
+							<p id="nikke-who"></p>
+						</div>
+						<div>
+							<h2>Advise Data</h2>
+						</div>
+						<div>
+							<h2>Harmony Cube Data</h2>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 
-		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydress}}>
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydress, limitData, variationsData}}>
 			var prydRates = {
 				"11": ["SSS", "#e04be0"],
 				"10": ["SS", "#ef5350"],
@@ -132,9 +215,12 @@ const prydress = await (await fetch(prydlink)).json();
 				}
 			}
 
+			let pry = prydress.result.data.currentUnit.nodes[0];
+
 			fetch(nikkegglink)
 				.then((e) => {
 					e.json().then((d) => {
+
 						console.log(d);
 						document.getElementById('nikke-fb').src = "https://static.dotgg.gg/nikke/characters/" + d.imgBig + ".webp";
 
@@ -168,13 +254,88 @@ const prydress = await (await fetch(prydlink)).json();
 							document.getElementById('nikgg-comb').innerHTML = "Unrated";
 							document.getElementById('nikgg-invest').innerHTML = "Unrated";
 						}
+
+						document.getElementById('nikke-fn').innerHTML = d.name;
+						document.getElementById('nikke-ven').innerHTML = pry.cv.en;
+						document.getElementById('nikke-vjp').innerHTML = pry.cv.jpn;
+						document.getElementById('nikke-vkr').innerHTML = pry.cv.kr;
+
+						document.getElementById('nikke-release').innerHTML = pry.releaseDate;
+						document.getElementById('nikke-special').innerHTML = pry.specialities == null ? 'None found.' : pry.specialities.join(', ');
+						document.getElementById('nikke-squad').innerHTML = d.squad;
+						document.getElementById('nikke-rarity').innerHTML = d.rarity;
+
+						document.getElementById('nikke-weapon').innerHTML = `
+						<div class="inlined-hex hex-gray" style='filter: invert(1)'>
+							<img src="/anisa/images/sight_${d.weapon.toLowerCase()}.png" alt="Burst ${pry.weapon}" title="${pry.weapon}" />
+						</div>
+						${pry.weapon}
+						`;
+
+						document.getElementById('nikke-manu').innerHTML = `
+						<div class="inlined-hex hex-gray">
+							<img src="/anisa/images/manu_${d.manufacturer.toLowerCase()}.png" alt="${d.manufacturer}" title="${d.manufacturer}" />
+						</div>
+						${d.manufacturer}
+						`;
+
+						document.getElementById('nikke-elem').innerHTML = `
+						<div class="inlined-hex hex-gray" style='background-image: url(/anisa/images/colored/hex_frame_${d.element.toLowerCase()}.png)'>
+							<img src="/anisa/images/colored/ele_${d.element.toLowerCase()}.png" alt="${d.element}" title="${d.element}" />
+						</div>
+						${d.element}
+						`;
+
+						document.getElementById('nikke-class').innerHTML = `
+						<div class="inlined-hex hex-gray">
+							<img src="/anisa/images/class_${d.class.toLowerCase()}.png" alt="${d.class}" title="${d.class}" />
+						</div>
+						${d.class}
+						`;
+
+						let bursticon = `
+						<div class="inlined-hex hex-gray">
+							<img src="/anisa/images/burst_${d.burst}.png" alt="Burst ${d.burst}" title="${d.burst}" />
+						</div>
+						`
+
+						let burstDisc = d.burst != 'p' ? '' : `
+						<p class="burst disc">
+						She\'s a NIKKE with a special gimmick where she can progress every burst stage. When she bursts for any stage, she has a different ability.
+						</p>`
+
+						let rehabDisc = ["guilty", "sin", "quency", "nihilister"].indexOf(d.name.toLowerCase()) == -1 ? '' : `
+						<p class="rehab disc">
+						🚓 ${d.name} is a <b>Rehabilitation</b> NIKKE.<br><br>
+						She can only be obtained through accessing the Outpost's elevator${d.name.toLowerCase() == 'nihilister' ? ' (and after completing Stage 20-31 Normal)' : ''}, and spare bodies can only be obtained through the Union Shop.
+						</p>`
+
+						let limitDisc = limitData[d.url] === undefined ? '' : `
+						<p class="limited disc">
+						⚠ ${d.name} is a <b>Limited</b> NIKKE. This means the unit is not in any recruitment pool.<br><br>
+						${limitData[d.url]}
+						</p>
+						`
+
+						let seeAlso = variationsData[d.url] === undefined ? '' : `
+						<a href="/anisa/nikke/${variationsData[d.url]}/">Wanna see the base form of this unit?</a>
+						`
+
+						let nikkeAbout = `
+						${d.name} is a ${bursticon} Burst ${d.burst != 'p' ? d.burst : 'All'} NIKKE.
+						${burstDisc}
+						${rehabDisc}
+						${limitDisc}
+						`
+
+						nikkeAbout += seeAlso.length <= 0 ? '' : `<br><br>${seeAlso}`;
+						
+						document.getElementById('nikke-who').innerHTML = nikkeAbout.trim();
 					});
 				})
 				.catch((err) => {
 
 				});
-
-			let pry = prydress.result.data.currentUnit.nodes[0];
 
 			console.log(pry)
 			document.getElementById('pryd-bossadds').innerHTML = prydRates[parseInt(pry.ratings.bossAdds)][0];

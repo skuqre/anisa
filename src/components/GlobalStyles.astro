@@ -81,7 +81,7 @@
         margin-left: 300px;
         margin-top: 100px;
 
-        transition: margin-left 0.2s ease-in-out;
+        transition: margin-left, width, 0.2s ease-in-out;
     }
 
     div.wrapper {
@@ -90,22 +90,24 @@
 
     div.img-wrapper {
         display: flex;
-        align-items: center;
-        justify-content: center;
-
-        max-width: 600px;
-        max-height: 600px;
+        margin: 0;
+        width: 100%;
     }
 
     img#nikke-fb {
+        margin: auto;
+        width: auto;
         max-height: 600px;
-        aspect-ratio: auto;
     }
 
     div.top-main {
         display: flex;
         flex-direction: row;
-        justify-content: space-evenly;
+        justify-content: center;
+    }
+
+    div.rate-wrapper {
+        width: 100%;
     }
 
     div.rates-scroll {
@@ -143,7 +145,7 @@
         text-align: center;
         border-radius: 4px;
         font-weight: bold;
-        text-shadow: black 0 0 4px;
+        text-shadow: black 0 0 4px, black 0 0 2px;
     }
 
     div.rates {
@@ -176,6 +178,58 @@
     div.rates p {
         margin: 0;
         margin-top: 16px;
+    }
+
+    div.nikke-main {
+        display: flex;
+        width: 100%;
+
+        flex-direction: row;
+        gap: 16px;
+        align-content: stretch;
+    }
+
+    div.fun-stuff, div.build-stuff {
+        display: flex;
+
+        flex-direction: column;
+        gap: 16px;
+
+        flex-basis: 50%;
+        flex-grow: 2;
+    }
+
+    table.char-info td, table.char-info th {
+        padding: 16px 0;
+        padding-right: 16px;
+        text-align: left;
+    }
+
+    div.info-table {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    p.rehab.disc {
+        border-left: 4px #2ced73 solid;
+        background-color: #032e10;
+    }
+
+    p.burst.disc {
+        border-left: 4px #fe000a solid;
+        background-color: #310000;
+    }
+
+    p.limited.disc {
+        border-left: 4px #fe9000 solid;
+        background-color: #311700;
+    }
+
+    p.disc {
+        padding: 12px 16px;
+        margin: 16px 0;
     }
 
     /* CHARACTER LIST */
@@ -327,25 +381,38 @@
         height: 30px;
     }
 
+    div.inlined-hex {
+        display: inline-flex;
+        position: relative;
+        width: 15px;
+        height: 15px;
+
+        margin: 0 8px;
+
+        scale: 2;
+    }
+
+    div.inlined-hex img {
+        width: 75%;
+    }
+
     .optionico {
         font-size: 24px;
     }
 
-    /* ASPECT RATIO STUFF */
-
-    @media only screen and (max-width: 1215px) {
-        img#nikke-fb {
-            width: 100%;
-            height: auto;
-        }
+    div.imgicon {
+        display: inline-block;
+        height: 24px;
     }
 
-    @media only screen and (max-width: 600px) {
-        img#nikke-fb {
-            width: auto;
-            height: 100%;
-        }
+    div.imgicon img {
+        height: 100%;
+        scale: 1.25;
+    }
 
+    /* ASPECT RATIO STUFF */
+
+    @media only screen and (max-width: 600px) {
         div.wrapper {
             width: 90%;
         }
@@ -356,9 +423,10 @@
     }
 
     @media only screen and (max-width: 840px) {
-        div.sidebar {
-            left: -300px !important;
+        div.nikke-main {
+            flex-direction: column;
         }
+
         div.main {
             width: 100%;
             margin-left: 0px;
@@ -371,5 +439,18 @@
         div.top-main {
             flex-direction: column;
         }
+
+        img.marian {
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    }
+
+    img.marian {
+        position: fixed;
+        bottom: -750px;
+        right: -20%;
+        opacity: 0.2;
+        z-index: -1;
     }
 </style>
