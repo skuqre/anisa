@@ -1,0 +1,109 @@
+---
+---
+
+<div class="events">
+    <div class="event fbd">
+        <span class="ev-subtitle">REWARD UP EVENT</span><br>
+        <span class="ev-title">FULL BURST DAY</span>
+    </div>
+    <div class="event coop">
+        <span class="ev-subtitle">FIGHT UNTIL THE END, FOR THE BETTER OF MANKIND</span><br>
+        <span class="ev-title">COOP</span>
+    </div>
+    <div class="event slr">
+        <span class="ev-subtitle">"EDGY BADASS SUBTITLE HERE"</span><br>
+        <span class="ev-title">SOLO RAID</span>
+    </div>
+    <div class="event unr">
+        <span class="ev-subtitle">UNITED WE STAND, DIVIDED WE FALL</span><br>
+        <span class="ev-title">UNION RAID</span>
+    </div>
+</div>
+
+<style>
+    @font-face {
+        font-family: 'Abolition';
+        src: url(/anisa/fonts/Abolition.ttf);
+    }
+    @font-face {
+        font-family: 'Voltec';
+        src: url(/anisa/fonts/Voltec.ttf);
+    }
+    @font-face {
+        font-family: 'Mechsuit';
+        src: url(/anisa/fonts/Mechsuit.otf);
+    }
+    @font-face {
+        font-family: 'American Captain';
+        src: url(/anisa/fonts/American-Captain.ttf);
+    }
+
+    div.events {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    div.events div.event {
+        padding: 16px 24px;
+        border-radius: 4px;
+        text-shadow: black 0 0 4px, black 0 0 4px;
+    }
+
+    span.ev-subtitle {
+        font-family: 'Abolition', sans-serif;
+        font-size: 22px;
+        position: relative;
+        top: 8px;
+    }
+
+    /* FULL BURST DAY */
+
+    div.fbd {
+        background-color: #100;
+        background-image: linear-gradient(to right,#400 1px,transparent 1px),linear-gradient(to bottom, #400 1px,transparent 1px);
+        background-size: 16px 16px;
+        background-position: center;
+
+        border: 1px solid #800;
+    }
+
+    div.fbd span.ev-title {
+        font-family: 'American Captain', sans-serif;
+        font-size: 48px;
+    }
+
+
+    /* COORDINATED OPERATION */
+
+    div.coop {
+        background-image: repeating-linear-gradient(45deg, var(--darkerer), var(--darkerer) 1px, var(--darkererer) 1px, var(--darkererer) 8px);
+        background-position: center;
+
+        border: 1px solid var(--darker);
+    }
+
+    div.coop span.ev-title {
+        font-family: 'Mechsuit', sans-serif;
+        font-size: 48px;
+        line-height: 60px;
+        padding-bottom: 12px;
+        display: block;
+    }
+
+    /* SOLO RAID */
+
+    div.slr, div.unr {
+        /* background-color: #100; */
+        background-image: repeating-linear-gradient(45deg, hsl(47, 38%, 15%), hsl(47, 38%, 15%) 4px, var(--darkererer) 4px, var(--darkererer) 8px);
+        background-position: center;
+
+        border: 1px solid var(--darker);
+    }
+
+    div.slr span.ev-title, div.unr span.ev-title {
+        font-family: 'Voltec', sans-serif;
+        font-size: 64px;
+    }
+
+</style>

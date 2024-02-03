@@ -4,6 +4,7 @@ import Prydwen from "../../components/ratetables/Prydwen.astro";
 import Hover from "../../components/Hover.astro";
 import Header from "../../components/Header.astro";
 import Sidebar from "../../components/Sidebar.astro";
+import ADVISESearchbar from '../../components/ADVISESearchbar.astro';
 
 import fuzzysort from "fuzzysort";
 import GlobalStyles from "../../components/GlobalStyles.astro";
@@ -32,8 +33,25 @@ const prydlink = 'https://www.prydwen.gg/page-data/nikke/characters/' + prydslug
 const prydlinka = 'https://www.prydwen.gg/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-');
 const prydress = await (await fetch(prydlink)).json();
 
+const adviselist = await fetch('https://api.dotgg.gg/nikke/advise');
+const advisejson = await adviselist.json();
+
+const adviseClean: any = {};
+for (let i = 0; i < advisejson.length; i++) {
+	if (adviseClean[advisejson[i].nikke] === undefined) {
+		adviseClean[advisejson[i].nikke] = [];
+	}
+
+	adviseClean[advisejson[i].nikke].push({
+		"query": advisejson[i].question.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+		"good": advisejson[i].goodanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+		"bad": advisejson[i].badanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+	});
+}
+
 import limitData from '../../../public/data/limited.json';
 import variationsData from '../../../public/data/variations.json';
+import specialData from '../../../public/data/special.json';
 ---
 
 <html lang="en">
@@ -50,6 +68,7 @@ import variationsData from '../../../public/data/variations.json';
 		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
 		<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
 		<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+		<link rel="icon" type="image/x-icon" href={ `https://nikke-db-legacy.pages.dev/images/sprite/${jsonresponse.img}.png` }>
 
 		<style>
 			body {
@@ -70,7 +89,7 @@ import variationsData from '../../../public/data/variations.json';
 					</div>
 					<div class="rate-wrapper">
 						<h2>Ratings</h2>
-						<div class="rates-scroll">
+						<div class="scroll-limit">
 							<div class="rates">
 								<h3>
 									<a href={ "https://nikke.gg/characters/" + nikke } target="_blank">NIKKE.gg</a>
@@ -168,7 +187,16 @@ import variationsData from '../../../public/data/variations.json';
 							<p id="nikke-who"></p>
 						</div>
 						<div>
-							<h2>Advise Data</h2>
+							<h2>
+								Advise Data
+								<Hover content=`*` hid="advise">
+									<b>Colors are marked as follows:</b>
+									<span class="advise-right">Right answer</span>
+									<span class="advise-wrong">Wrong answer</span>
+								</Hover>
+							</h2>
+							<ADVISESearchbar />
+							<div class="scroll-limit" id="advise-list"></div>
 						</div>
 						<div>
 							<h2>Harmony Cube Data</h2>
@@ -178,7 +206,9 @@ import variationsData from '../../../public/data/variations.json';
 			</div>
 		</div>
 
-		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydress, limitData, variationsData}}>
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydress, limitData, variationsData, specialData, adviseClean, jsonresponse}} type="module">
+			import {go} from "../fuzzysort.js";
+
 			var prydRates = {
 				"11": ["SSS", "#e04be0"],
 				"10": ["SS", "#ef5350"],
@@ -217,125 +247,147 @@ import variationsData from '../../../public/data/variations.json';
 
 			let pry = prydress.result.data.currentUnit.nodes[0];
 
-			fetch(nikkegglink)
-				.then((e) => {
-					e.json().then((d) => {
+			let d = jsonresponse;
 
-						console.log(d);
-						document.getElementById('nikke-fb').src = "https://static.dotgg.gg/nikke/characters/" + d.imgBig + ".webp";
+			console.log(d);
+			document.getElementById('nikke-fb').src = "https://static.dotgg.gg/nikke/characters/" + d.imgBig + ".webp";
 
-						if (pry.backstory != null) {
-							document.getElementById('nikke-bs').innerHTML = pry.backstory.backstory;
-						} else if (d.description != null) {
-							document.getElementById('nikke-bs').innerHTML = d.description;
-						} else {
-							document.getElementById('nikke-bs').innerHTML = "This NIKKE has no description provided."
-						}
+			if (pry.backstory != null) {
+				document.getElementById('nikke-bs').innerHTML = pry.backstory.backstory;
+			} else if (d.description != null) {
+				document.getElementById('nikke-bs').innerHTML = d.description;
+			} else {
+				document.getElementById('nikke-bs').innerHTML = "This NIKKE has no description provided."
+			}
 
-						if (d.tierlist != null) {
-							document.getElementById('nikgg-story').innerHTML = d.tierlist.Story + " (" + getNIKKEggRating(d.tierlist.Story)[0] + ")";
-							document.getElementById('nikgg-story').style.backgroundColor = getNIKKEggRating(d.tierlist.Story)[1];
+			if (d.tierlist != null) {
+				document.getElementById('nikgg-story').innerHTML = d.tierlist.Story + " (" + getNIKKEggRating(d.tierlist.Story)[0] + ")";
+				document.getElementById('nikgg-story').style.backgroundColor = getNIKKEggRating(d.tierlist.Story)[1];
 
-							document.getElementById('nikgg-boss').innerHTML = d.tierlist.Boss + " (" + getNIKKEggRating(d.tierlist.Boss)[0] + ")";
-							document.getElementById('nikgg-boss').style.backgroundColor = getNIKKEggRating(d.tierlist.Boss)[1];
+				document.getElementById('nikgg-boss').innerHTML = d.tierlist.Boss + " (" + getNIKKEggRating(d.tierlist.Boss)[0] + ")";
+				document.getElementById('nikgg-boss').style.backgroundColor = getNIKKEggRating(d.tierlist.Boss)[1];
 
-							document.getElementById('nikgg-pvp').innerHTML = d.tierlist.PvP + " (" + getNIKKEggRating(d.tierlist.PvP)[0] + ")";
-							document.getElementById('nikgg-pvp').style.backgroundColor = getNIKKEggRating(d.tierlist.PvP)[1];
+				document.getElementById('nikgg-pvp').innerHTML = d.tierlist.PvP + " (" + getNIKKEggRating(d.tierlist.PvP)[0] + ")";
+				document.getElementById('nikgg-pvp').style.backgroundColor = getNIKKEggRating(d.tierlist.PvP)[1];
 
-							document.getElementById('nikgg-comb').innerHTML = d.tierlist.Combined + " (" + getNIKKEggRating(d.tierlist.Combined)[0] + ")";
-							document.getElementById('nikgg-comb').style.backgroundColor = getNIKKEggRating(d.tierlist.Combined)[1];
+				document.getElementById('nikgg-comb').innerHTML = d.tierlist.Combined + " (" + getNIKKEggRating(d.tierlist.Combined)[0] + ")";
+				document.getElementById('nikgg-comb').style.backgroundColor = getNIKKEggRating(d.tierlist.Combined)[1];
 
-							document.getElementById('nikgg-invest').innerHTML = d.tierlist.reqInvest == 'FALSE' ? 'No' : 'Yes';
-							document.getElementById('nikgg-invest').style.backgroundColor = d.tierlist.reqInvest == 'FALSE' ? '#ed4245' : '#77dd77';
-						} else {
-							document.getElementById('nikgg-story').innerHTML = "Unrated";
-							document.getElementById('nikgg-boss').innerHTML = "Unrated";
-							document.getElementById('nikgg-pvp').innerHTML = "Unrated";
-							document.getElementById('nikgg-comb').innerHTML = "Unrated";
-							document.getElementById('nikgg-invest').innerHTML = "Unrated";
-						}
+				document.getElementById('nikgg-invest').innerHTML = d.tierlist.reqInvest == 'FALSE' ? 'No' : 'Yes';
+				document.getElementById('nikgg-invest').style.backgroundColor = d.tierlist.reqInvest == 'FALSE' ? '#ed4245' : '#77dd77';
+			} else {
+				document.getElementById('nikgg-story').innerHTML = "Unrated";
+				document.getElementById('nikgg-boss').innerHTML = "Unrated";
+				document.getElementById('nikgg-pvp').innerHTML = "Unrated";
+				document.getElementById('nikgg-comb').innerHTML = "Unrated";
+				document.getElementById('nikgg-invest').innerHTML = "Unrated";
+			}
 
-						document.getElementById('nikke-fn').innerHTML = d.name;
-						document.getElementById('nikke-ven').innerHTML = pry.cv.en;
-						document.getElementById('nikke-vjp').innerHTML = pry.cv.jpn;
-						document.getElementById('nikke-vkr').innerHTML = pry.cv.kr;
+			document.getElementById('nikke-fn').innerHTML = d.name;
+			document.getElementById('nikke-ven').innerHTML = pry.cv.en;
+			document.getElementById('nikke-vjp').innerHTML = pry.cv.jpn;
+			document.getElementById('nikke-vkr').innerHTML = pry.cv.kr;
 
-						document.getElementById('nikke-release').innerHTML = pry.releaseDate;
-						document.getElementById('nikke-special').innerHTML = pry.specialities == null ? 'None found.' : pry.specialities.join(', ');
-						document.getElementById('nikke-squad').innerHTML = d.squad;
-						document.getElementById('nikke-rarity').innerHTML = d.rarity;
+			document.getElementById('nikke-release').innerHTML = pry.releaseDate;
+			document.getElementById('nikke-special').innerHTML = pry.specialities == null ? 'None found.' : pry.specialities.join(', ');
+			document.getElementById('nikke-squad').innerHTML = d.squad;
+			document.getElementById('nikke-rarity').innerHTML = d.rarity;
 
-						document.getElementById('nikke-weapon').innerHTML = `
-						<div class="inlined-hex hex-gray" style='filter: invert(1)'>
-							<img src="/anisa/images/sight_${d.weapon.toLowerCase()}.png" alt="Burst ${pry.weapon}" title="${pry.weapon}" />
-						</div>
-						${pry.weapon}
-						`;
+			document.getElementById('nikke-weapon').innerHTML = `
+			<div class="inlined-hex hex-gray" style='filter: invert(1)'>
+				<img src="/anisa/images/sight_${d.weapon.toLowerCase()}.png" alt="Burst ${pry.weapon}" title="${pry.weapon}" />
+			</div>
+			${pry.weapon}
+			`;
 
-						document.getElementById('nikke-manu').innerHTML = `
-						<div class="inlined-hex hex-gray">
-							<img src="/anisa/images/manu_${d.manufacturer.toLowerCase()}.png" alt="${d.manufacturer}" title="${d.manufacturer}" />
-						</div>
-						${d.manufacturer}
-						`;
+			document.getElementById('nikke-manu').innerHTML = `
+			<div class="inlined-hex hex-gray">
+				<img src="/anisa/images/manu_${d.manufacturer.toLowerCase()}.png" alt="${d.manufacturer}" title="${d.manufacturer}" />
+			</div>
+			${d.manufacturer}
+			`;
 
-						document.getElementById('nikke-elem').innerHTML = `
-						<div class="inlined-hex hex-gray" style='background-image: url(/anisa/images/colored/hex_frame_${d.element.toLowerCase()}.png)'>
-							<img src="/anisa/images/colored/ele_${d.element.toLowerCase()}.png" alt="${d.element}" title="${d.element}" />
-						</div>
-						${d.element}
-						`;
+			document.getElementById('nikke-elem').innerHTML = `
+			<div class="inlined-hex hex-gray" style='background-image: url(/anisa/images/colored/hex_frame_${d.element.toLowerCase()}.png)'>
+				<img src="/anisa/images/colored/ele_${d.element.toLowerCase()}.png" alt="${d.element}" title="${d.element}" />
+			</div>
+			${d.element}
+			`;
 
-						document.getElementById('nikke-class').innerHTML = `
-						<div class="inlined-hex hex-gray">
-							<img src="/anisa/images/class_${d.class.toLowerCase()}.png" alt="${d.class}" title="${d.class}" />
-						</div>
-						${d.class}
-						`;
+			document.getElementById('nikke-class').innerHTML = `
+			<div class="inlined-hex hex-gray">
+				<img src="/anisa/images/class_${d.class.toLowerCase()}.png" alt="${d.class}" title="${d.class}" />
+			</div>
+			${d.class}
+			`;
 
-						let bursticon = `
-						<div class="inlined-hex hex-gray">
-							<img src="/anisa/images/burst_${d.burst}.png" alt="Burst ${d.burst}" title="Burst ${d.burst}" />
-						</div>
-						`
+			let bursticon = `
+			<div class="inlined-hex hex-gray">
+				<img src="/anisa/images/burst_${d.burst}.png" alt="Burst ${d.burst}" title="Burst ${d.burst}" />
+			</div>
+			`
 
-						let burstDisc = d.burst != 'p' ? '' : `
-						<p class="burst disc">
-						She\'s a NIKKE with a special gimmick where she can progress every burst stage. When she bursts for any stage, she has a different ability.
-						</p>`
+			let burstDisc = specialData[d.url] === undefined ? '' : `<p class="burst disc">${specialData[d.url]}</p>`
 
-						let rehabDisc = ["guilty", "sin", "quency", "nihilister"].indexOf(d.name.toLowerCase()) == -1 ? '' : `
-						<p class="rehab disc">
-						🚓 ${d.name} is a <b>Rehabilitation</b> NIKKE.<br><br>
-						She can only be obtained through accessing the Outpost's elevator${d.name.toLowerCase() == 'nihilister' ? ' (and after completing Stage 20-31 Normal)' : ''}, and spare bodies can only be obtained through the Union Shop.
-						</p>`
+			let rehabDisc = ["guilty", "sin", "quency", "nihilister"].indexOf(d.name.toLowerCase()) == -1 ? '' : `
+			<p class="rehab disc">
+			<i class='bx bxs-taxi'></i> ${d.name} is a <b>Rehabilitation</b> NIKKE.<br><br>
+			She can only be obtained through accessing the Outpost's elevator${d.name.toLowerCase() == 'nihilister' ? ' (and after completing Stage 20-31 Normal)' : ''}, and spare bodies can only be obtained through the Union Shop.
+			</p>`
 
-						let limitDisc = limitData[d.url] === undefined ? '' : `
-						<p class="limited disc">
-						⚠ ${d.name} is a <b>Limited</b> NIKKE. This means the unit is not in any recruitment pool.<br><br>
-						${limitData[d.url]}
-						</p>
-						`
+			let limitDisc = limitData[d.url] === undefined ? '' : `
+			<p class="limited disc">
+			<i class='bx bxs-alarm-exclamation'></i> ${d.name} is a <b>Limited</b> NIKKE. This means the unit is not in any recruitment pool.<br><br>
+			${limitData[d.url]}
+			</p>
+			`
 
-						let seeAlso = variationsData[d.url] === undefined ? '' : `
-						<a href="/anisa/nikke/${variationsData[d.url]}/">Wanna see the base form of this unit?</a>
-						`
+			let seeAlso = variationsData[d.url] === undefined ? '' : `
+			<a href="/anisa/nikke/${variationsData[d.url]}/">Wanna see the base form of this unit?</a>
+			`
 
-						let nikkeAbout = `
-						${d.name} is a ${bursticon} Burst ${d.burst != 'p' ? d.burst : 'All'} NIKKE.
-						${burstDisc}
-						${rehabDisc}
-						${limitDisc}
-						`
+			let nikkeAbout = `
+			${d.name} is a ${bursticon} Burst ${d.burst != 'p' ? d.burst : 'All'} NIKKE.
+			${burstDisc}
+			${rehabDisc}
+			${limitDisc}
+			`
 
-						nikkeAbout += seeAlso.length <= 0 ? '' : `<br><br>${seeAlso}`;
-						
-						document.getElementById('nikke-who').innerHTML = nikkeAbout.trim();
-					});
-				})
-				.catch((err) => {
+			nikkeAbout += seeAlso.length <= 0 ? '' : `<br><br>${seeAlso}`;
+			
+			document.getElementById('nikke-who').innerHTML = nikkeAbout.trim();
 
-				});
+			refreshAdvise(d, adviseClean, false);
+
+			function refreshAdvise(d, adviseList, isSearch) {
+				document.getElementById('advise-list').innerHTML = '';
+
+				if (adviseList[d.name] !== undefined && adviseList[d.name].length > 0) {
+					for (let i = 0; i < adviseList[d.name].length; i++) {
+						let adviseCell = `
+						<div class="advise-question">
+							<h4 class="advise-main">${adviseList[d.name][i].query}</h4>
+							<span class="advise-right">${adviseList[d.name][i].good}</span>
+							<span class="advise-wrong">${adviseList[d.name][i].bad}</span>
+						</div>`
+
+						document.getElementById('advise-list').innerHTML += adviseCell;
+					}
+				} else {
+					document.getElementById('advise-list').innerHTML = isSearch ? "No results found." : "There are no advise sessions with this Nikke.";
+					if (!isSearch) {
+						document.getElementById('advise-search').style.display = 'none';
+					}
+				}
+			}
+
+			document.getElementById('advise-searchbar').addEventListener('input', (e) => {
+				let dupe = [...adviseClean[jsonresponse.name]];
+				let ass = go(document.getElementById("advise-searchbar").value.trim(), dupe, {keys: ['query', 'good', 'bad'], all: true});
+				let ass2 = {}
+				ass2[jsonresponse.name] = ass.map(e => e.obj);
+				refreshAdvise(jsonresponse, ass2, true);
+			})
 
 			console.log(pry)
 			document.getElementById('pryd-bossadds').innerHTML = prydRates[parseInt(pry.ratings.bossAdds)][0];

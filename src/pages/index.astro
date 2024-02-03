@@ -1,0 +1,33 @@
+---
+import GlobalStyles from "../components/GlobalStyles.astro";
+import Header from "../components/Header.astro";
+import Sidebar from "../components/Sidebar.astro";
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+
+		<title>Anisa - A NIKKE information aggregator that (kinda) sucks.</title>
+		<meta name="description" content="Anisa is a soon-to-be awful NIKKE information aggregator that collects information from other sites in order to function for once in its' goddamn life.">
+		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
+
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+	</head>
+	<body>
+        <Header />
+        <Sidebar />
+		<div class="main">
+			<div class="wrapper">
+                <h1>A NIKKE information aggregator that (kinda) sucks.</h1>
+                <p>Anisa is currently in BETA. Not all things you see here are final.</p>
+                <p>Also, Anisa is more of a proof-of-concept for now.</p>
+            </div>
+        </div>
+    </body>
+</html>
+
+<GlobalStyles />
