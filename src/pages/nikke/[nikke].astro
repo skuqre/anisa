@@ -188,15 +188,15 @@ import colors from '../../../public/data/colors.json';
 								<p id="normal-attack"></p>
 							</div>
 							<div class="skill-cell">
-								<h4 class="skill-main" id="sk1t">Skill 1: </h4>
+								<h4 class="skill-main" id="sk1t"></h4>
 								<p id="skill1"></p>
 							</div>
 							<div class="skill-cell">
-								<h4 class="skill-main" id="sk2t">Skill 2: </h4>
+								<h4 class="skill-main" id="sk2t"></h4>
 								<p id="skill2"></p>
 							</div>
 							<div class="skill-cell">
-								<h4 class="skill-main" id="burt">Burst: </h4>
+								<h4 class="skill-main" id="burt"></h4>
 								<p id="burst"></p>
 							</div>
 						</div>
@@ -379,6 +379,8 @@ import colors from '../../../public/data/colors.json';
 
 			refreshAdvise(d, adviseClean, false);
 
+			let lvls = [1, 1, 1];
+
 			function refreshAdvise(d, adviseList, isSearch) {
 				document.getElementById('advise-list').innerHTML = '';
 
@@ -437,21 +439,31 @@ import colors from '../../../public/data/colors.json';
 			<b>Max Ammo</b>: ${d.maxAmmo}
 			`
 
-			document.getElementById('sk1t').innerHTML += `<span class="no-header-weight">${d.skills[0].name}</span>`;
-			document.getElementById('skill1').innerHTML = skillReplace(0, 1);
+			document.getElementById('sk1t').innerHTML = `<span>Skill 1: <span class="no-header-weight">${d.skills[0].name}</span></span> <span>Level<input type="number" class="lvl" id="skill1g" value="1" step="1" min="1" max="10" /></span>`;
+			document.getElementById('skill1').innerHTML = `${ d.skills[0].cooldown != "" ? `<b>Cooldown</b>: ${d.skills[0].cooldown} second(s)<br><br>` : `` } ${skillReplace(0, lvls[0])}`;
 
-			document.getElementById('sk2t').innerHTML += `<span class="no-header-weight">${d.skills[1].name}</span>`;
-			document.getElementById('skill2').innerHTML = skillReplace(1, 1);
+			document.getElementById('sk2t').innerHTML = `<span>Skill 2: <span class="no-header-weight">${d.skills[1].name}</span></span> <span>Level<input type="number" class="lvl" id="skill2g" value="1" step="1" min="1" max="10" /></span>`;
+			document.getElementById('skill2').innerHTML = `${ d.skills[1].cooldown != "" ? `<b>Cooldown</b>: ${d.skills[1].cooldown} second(s)<br><br>` : `` } ${skillReplace(1, lvls[1])}`;
 
-			document.getElementById('burt').innerHTML += `<span class="no-header-weight">${d.skills[2].name}</span>`;
-			document.getElementById('burst').innerHTML = skillReplace(2, 1);
+			document.getElementById('burt').innerHTML = `<span>Burst: <span class="no-header-weight">${d.skills[2].name}</span></span> <span>Level<input type="number" class="lvl" id="burstg" value="1" step="1" min="1" max="10" /></span>`;
+			document.getElementById('burst').innerHTML = `${ d.skills[2].cooldown != "" ? `<b>Cooldown</b>: ${d.skills[2].cooldown} second(s)<br><br>` : `` } ${skillReplace(2, lvls[2])}`;
+
+			document.getElementById('skill1g').addEventListener('input', (e) => {
+				document.getElementById('skill1').innerHTML = `${ d.skills[0].cooldown != "" ? `<b>Cooldown</b>: ${d.skills[0].cooldown} second(s)<br><br>` : `` } ${skillReplace(0, parseInt(document.getElementById('skill1g').value))}`;
+			});
+			document.getElementById('skill2g').addEventListener('input', (e) => {
+				document.getElementById('skill2').innerHTML = `${ d.skills[1].cooldown != "" ? `<b>Cooldown</b>: ${d.skills[1].cooldown} second(s)<br><br>` : `` } ${skillReplace(1, parseInt(document.getElementById('skill2g').value))}`;
+			});
+			document.getElementById('burstg').addEventListener('input', (e) => {
+				document.getElementById('burst').innerHTML = `${ d.skills[2].cooldown != "" ? `<b>Cooldown</b>: ${d.skills[2].cooldown} second(s)<br><br>` : `` } ${skillReplace(2, parseInt(document.getElementById('burstg').value))}`;
+			});
 
 			function skillReplace(skill, level)
 			{
 				let desc = d.skills[skill].description;
 
-				for (let i = 0; i < Object.keys(d.skills[skill].levels[level]).length + 1; i++) {
-					desc = desc.replaceAll("{description_value_" + String(i+1).padStart(2, '0') + "}", `<b>${d.skills[skill].levels[level]["description_value_" + String(i+1).padStart(2, '0')]}</b>`)
+				for (let i = 0; i < Object.keys(d.skills[skill].levels[level - 1]).length + 1; i++) {
+					desc = desc.replaceAll("{description_value_" + String(i+1).padStart(2, '0') + "}", `<b>${d.skills[skill].levels[level - 1]["description_value_" + String(i+1).padStart(2, '0')]}</b>`)
 				}
 
 				desc = desc.replaceAll("When", "<br><br>When");

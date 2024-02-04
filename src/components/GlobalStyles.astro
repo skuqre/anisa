@@ -263,9 +263,19 @@
         background-image: radial-gradient(at top right, #252525, #151515);
     }
 
-    div.advise-question > h4.advise-main, div.skill-cell > h4.skill-main {
+    div.advise-question > h4.advise-main {
         margin: 8px;
         margin-bottom: 4px;
+    }
+
+    div.skill-cell > h4.skill-main {
+        display: flex;
+        margin: 8px;
+        margin-bottom: 4px;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        column-gap: 16px;
     }
 
     span.advise-right {
@@ -294,6 +304,18 @@
 
     span.no-header-weight {
         font-weight: normal;
+    }
+
+    input.lvl {
+        padding: 12px 16px;
+        outline: none;
+        background-color: var(--darker);
+        border: none;
+        color: var(--lightererest);
+        font-family: 'Pretendard', sans-serif;
+        border-radius: 4px;
+        font-size: 16px;
+        margin-left: 8px;
     }
 
     /* CHARACTER LIST */
