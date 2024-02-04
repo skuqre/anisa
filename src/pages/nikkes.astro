@@ -49,7 +49,7 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 					import {go} from "../fuzzysort.js";
 
 					let minimal = false;
-					document.querySelectorAll("span#minimal")[0].addEventListener('pointerdown', (e) => {
+					document.querySelectorAll("span#minimal")[0].addEventListener('pointerup', (e) => {
 						minimal = !minimal;
 						document.querySelectorAll("span#minimal")[0].innerHTML = (minimal ? "<i class='bx bx-checkbox-checked optionico'></i>" : "<i class='bx bx-checkbox optionico'></i>") + " Minimalist Mode";
 						refreshList();
@@ -80,7 +80,7 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 					for (let i = 0; i < bursts.length; i++) {
 						let immut = i;
-						document.querySelectorAll("div.picker span#burst" + burstList[i])[0].addEventListener('pointerdown', (e) => {
+						document.querySelectorAll("div.picker span#burst" + burstList[i])[0].addEventListener('pointerup', (e) => {
 							if (bursts.indexOf(false) == -1) {
 								bursts = [false, false, false, false]
 							}
@@ -92,7 +92,7 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 					for (let i = 0; i < manus.length; i++) {
 						let immut = i;
-						document.querySelectorAll("div.picker span#" + manuList[i])[0].addEventListener('pointerdown', (e) => {
+						document.querySelectorAll("div.picker span#" + manuList[i])[0].addEventListener('pointerup', (e) => {
 							if (manus.indexOf(false) == -1) {
 								manus = [false, false, false, false, false]
 							}
@@ -104,7 +104,7 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 					for (let i = 0; i < elems.length; i++) {
 						let immut = i;
-						document.querySelectorAll("div.picker span#" + elemList[i])[0].addEventListener('pointerdown', (e) => {
+						document.querySelectorAll("div.picker span#" + elemList[i])[0].addEventListener('pointerup', (e) => {
 							if (elems.indexOf(false) == -1) {
 								elems = [false, false, false, false, false]
 							}
@@ -116,7 +116,7 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 					for (let i = 0; i < classes.length; i++) {
 						let immut = i;
-						document.querySelectorAll("div.picker span#" + classesList[i])[0].addEventListener('pointerdown', (e) => {
+						document.querySelectorAll("div.picker span#" + classesList[i])[0].addEventListener('pointerup', (e) => {
 							if (classes.indexOf(false) == -1) {
 								classes = [false, false, false]
 							}
@@ -128,7 +128,7 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 					for (let i = 0; i < scopes.length; i++) {
 						let immut = i;
-						document.querySelectorAll("div.picker span#" + scopesList[i])[0].addEventListener('pointerdown', (e) => {
+						document.querySelectorAll("div.picker span#" + scopesList[i])[0].addEventListener('pointerup', (e) => {
 							if (scopes.indexOf(false) == -1) {
 								scopes = [false, false, false, false, false, false]
 							}

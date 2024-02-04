@@ -98,7 +98,7 @@
 
     // yes, I know, broken as shit.
     // will fix soon:tm:
-    button.addEventListener('pointerdown', (e) => {
+    button.addEventListener('pointerup', (e) => {
         var cur = sidebar.computedStyleMap().get('left') as any;
 
         if (cur.value >= 0) {

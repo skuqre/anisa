@@ -212,7 +212,7 @@
     var contextMode = false;
     const context: any = document.querySelectorAll("span#context")[0];
     const contexts = document.querySelectorAll("i.con");
-    context.addEventListener('pointerdown', (e: any) => {
+    context.addEventListener('pointerup', (e: any) => {
         contextMode = !contextMode;
 
         context.innerHTML = (contextMode ? "<i class='bx bx-checkbox-checked optionico'></i>" : "<i class='bx bx-checkbox optionico'></i>") + " Context";
