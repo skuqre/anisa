@@ -29,14 +29,15 @@ const {frontmatter} = Astro.props;
 				</div>
 
 				<script>
-					let matches = [...document.getElementById('md').innerHTML.matchAll(/\[imgicon::.*\]/g)]
+					let md: any = document.getElementById('md');
+					let matches = [....md.innerHTML.matchAll(/\[imgicon::.*\]/g)]
 					for (let i = 0; i < matches.length; i++) {
 						let element = `
 						<div class="imgicon" style="display: inline-block;">
 							<img src="https://static.dotgg.gg/nikke/items/${matches[i][0].replace("[", "").replace("]", "").split("::")[1]}.webp" />
 						</div>
 						`
-						document.getElementById('md').innerHTML = document.getElementById('md').innerHTML.replace(matches[i][0], element)
+						md.innerHTML = md.innerHTML.replace(matches[i][0], element)
 					}
 				</script>
             </div>
