@@ -31,7 +31,9 @@ const jsonresponse = await response.json();
 
 const prydlink = 'https://www.prydwen.gg/page-data/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-') + '/page-data.json';
 const prydlinka = 'https://www.prydwen.gg/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-');
-const prydress = await (await fetch(prydlink)).json();
+
+const ass = await fetch(prydlink);
+const prydress = await ass.json();
 
 const adviselist = await fetch('https://api.dotgg.gg/nikke/advise');
 const advisejson = await adviselist.json();
