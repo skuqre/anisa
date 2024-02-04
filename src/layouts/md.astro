@@ -30,8 +30,7 @@ const {frontmatter} = Astro.props;
 
 				<script>
 					let md: any = document.getElementById('md');
-					let regex = /\[imgicon::.*\]/g;
-					let matches = [....md.innerHTML.matchAll(regex)]
+					let matches = [...md.innerHTML.matchAll(/\[imgicon::.*\]/g)]
 					for (let i = 0; i < matches.length; i++) {
 						let element = `
 						<div class="imgicon" style="display: inline-block;">
