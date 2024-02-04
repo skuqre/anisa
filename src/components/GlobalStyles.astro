@@ -1,5 +1,9 @@
 <style is:global>
     @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+    @font-face {
+        font-family: 'Abolition';
+        src: url(/anisa/fonts/Abolition.ttf);
+    }
 
     :root {
         --accent: #f4d259;
@@ -238,7 +242,7 @@
         margin: 16px 0;
     }
 
-    div.advise-question {
+    div.advise-question, div.skill-cell {
         width: 90%;
         height: min-content;
 
@@ -255,11 +259,11 @@
         color: var(--lightererest);
     }
 
-    div.advise-question:hover {
+    div.advise-question:hover, div.skill-cell:hover {
         background-image: radial-gradient(at top right, #252525, #151515);
     }
 
-    div.advise-question > h4.advise-main {
+    div.advise-question > h4.advise-main, div.skill-cell > h4.skill-main {
         margin: 8px;
         margin-bottom: 4px;
     }
@@ -282,6 +286,14 @@
         margin: 0 8px;
         margin-top: 16px;
         margin-bottom: 8px;
+    }
+
+    div.skill-cell p {
+        margin: 8px;
+    }
+
+    span.no-header-weight {
+        font-weight: normal;
     }
 
     /* CHARACTER LIST */
@@ -460,6 +472,50 @@
     div.imgicon img {
         height: 100%;
         scale: 1.25;
+    }
+
+    div.tags-list {
+        display: flex;
+        position: absolute;
+        top: 0;
+        right: -2px;
+        flex-direction: column;
+    }
+
+    div.tags-list > span.tag {
+        text-align: center;
+        font-family: 'Abolition', monospace;
+        padding: 4px 8px;
+        font-size: 18px;
+        border-radius: 4px;
+        line-height: 16px;
+        text-shadow: black 0 0 4px, black 0 0 4px;
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+    div.tags-list > span.tag:last-child {
+        border-bottom-right-radius: 4px;
+    }
+
+    div.tags-list > span.tag:first-child {
+        border-top-right-radius: 4px;
+    }
+
+    .new {
+        background-image: radial-gradient(
+            at top right,
+            #00aaff,
+            #0066ff
+        );
+    }
+
+    .invest {
+        background-image: radial-gradient(
+            at top right,
+            #ffaa00,
+            #ff6600
+        );
     }
 
     /* ASPECT RATIO STUFF */

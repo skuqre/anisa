@@ -52,6 +52,7 @@ for (let i = 0; i < advisejson.length; i++) {
 import limitData from '../../../public/data/limited.json';
 import variationsData from '../../../public/data/variations.json';
 import specialData from '../../../public/data/special.json';
+import colors from '../../../public/data/colors.json';
 ---
 
 <html lang="en">
@@ -180,6 +181,25 @@ import specialData from '../../../public/data/special.json';
 								</table>
 							</div>
 						</div>
+						<div>
+							<h2>Skills Data</h2>
+							<div class="skill-cell">
+								<h4 class="skill-main">Normal Attack</h4>
+								<p id="normal-attack"></p>
+							</div>
+							<div class="skill-cell">
+								<h4 class="skill-main" id="sk1t">Skill 1: </h4>
+								<p id="skill1"></p>
+							</div>
+							<div class="skill-cell">
+								<h4 class="skill-main" id="sk2t">Skill 2: </h4>
+								<p id="skill2"></p>
+							</div>
+							<div class="skill-cell">
+								<h4 class="skill-main" id="burt">Burst: </h4>
+								<p id="burst"></p>
+							</div>
+						</div>
 					</div>
 					<div class="build-stuff">
 						<div>
@@ -206,7 +226,7 @@ import specialData from '../../../public/data/special.json';
 			</div>
 		</div>
 
-		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydress, limitData, variationsData, specialData, adviseClean, jsonresponse}} type="module">
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydress, limitData, variationsData, specialData, adviseClean, jsonresponse, colors}} type="module">
 			import {go} from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
 
 			var prydRates = {
@@ -408,6 +428,41 @@ import specialData from '../../../public/data/special.json';
 
 			document.getElementById('pryd-late').innerHTML = prydRates[parseInt(pry.ratings.storyEnd)][0];
 			document.getElementById('pryd-late').style.backgroundColor = prydRates[parseInt(pry.ratings.storyEnd)][1];
+
+			document.getElementById('normal-attack').innerHTML = `
+			<b>Damage</b>: ${d.damage} of ATK<br>
+			${['sr', 'rl'].indexOf(d.weapon.toLowerCase()) !== -1 ? `<b>Charge Damage</b>: ${d.chargeDamage}<br><b>Charge Time</b>: ${d.chargeTime} second(s)<br>` : ""}
+			<b>Burst Generation</b>: ${d.burstGen}<br>
+			<b>Reload Time</b>: ${d.reloadTime} second(s)<br>
+			<b>Max Ammo</b>: ${d.maxAmmo}
+			`
+
+			document.getElementById('sk1t').innerHTML += `<span class="no-header-weight">${d.skills[0].name}</span>`;
+			document.getElementById('skill1').innerHTML = skillReplace(0, 1);
+
+			document.getElementById('sk2t').innerHTML += `<span class="no-header-weight">${d.skills[1].name}</span>`;
+			document.getElementById('skill2').innerHTML = skillReplace(1, 1);
+
+			document.getElementById('burt').innerHTML += `<span class="no-header-weight">${d.skills[2].name}</span>`;
+			document.getElementById('burst').innerHTML = skillReplace(2, 1);
+
+			function skillReplace(skill, level)
+			{
+				let desc = d.skills[skill].description;
+
+				for (let i = 0; i < Object.keys(d.skills[skill].levels[level]).length + 1; i++) {
+					desc = desc.replaceAll("{description_value_" + String(i+1).padStart(2, '0') + "}", `<b>${d.skills[skill].levels[level]["description_value_" + String(i+1).padStart(2, '0')]}</b>`)
+				}
+
+				desc = desc.replaceAll("When", "<br><br>When");
+				desc = desc.replaceAll("■", "<br><br>■");
+
+				while (desc.startsWith("<br>")) {
+					desc = desc.replace('<br>', '');
+				}
+
+				return desc;
+			}
 
 		</script>
 	</body>
