@@ -184,7 +184,14 @@ import colors from '../../../public/data/colors.json';
 							</div>
 						</div>
 						<div>
-							<h2>Skills Data</h2>
+							<h2>
+								Skills Data 
+								<Hover content="*" hid="skills">
+									<span class="stat-inc">Stat increases are highlighted like this.</span><br>
+									<span class="stat-dec">Stat decreases are highlighted like this.</span><br>
+									They are highlighted as blue and orange as it can be positive or negative.
+								</Hover>
+							</h2>
 							<div class="skill-cell">
 								<h4 class="skill-main">Normal Attack</h4>
 								<p id="normal-attack"></p>
@@ -463,6 +470,18 @@ import colors from '../../../public/data/colors.json';
 			function skillReplace(skill, level)
 			{
 				let desc = d.skills[skill].description;
+
+				desc = desc.replaceAll(/<[^>]*>/g, "");
+
+				let sentences = desc.split(/[\.\!]+(?!\d)\s*|\n+\s*/g);
+				
+				for (let i = 0; i < sentences.length; i++) {
+					if (sentences[i].includes("▲")) {
+						desc = desc.replaceAll(sentences[i] + ".", `<span class="stat-inc">${sentences[i] + "."}</span>`);
+					} else if (sentences[i].includes("▼")) {
+						desc = desc.replaceAll(sentences[i] + ".", `<span class="stat-dec">${sentences[i] + "."}</span>`);
+					}
+				}
 
 				for (let i = 0; i < Object.keys(d.skills[skill].levels[level - 1]).length + 1; i++) {
 					desc = desc.replaceAll("{description_value_" + String(i+1).padStart(2, '0') + "}", `<b>${d.skills[skill].levels[level - 1]["description_value_" + String(i+1).padStart(2, '0')]}</b>`)
