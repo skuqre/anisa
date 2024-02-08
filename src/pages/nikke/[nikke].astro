@@ -358,12 +358,6 @@ import colors from '../../../public/data/colors.json';
 			${d.class}
 			`;
 
-			let bursticon = `
-			<div class="inlined-hex hex-gray">
-				<img src="/anisa/images/burst_${d.burst}.png" alt="Burst ${d.burst}" title="Burst ${d.burst}" />
-			</div>
-			`
-
 			let burstDisc = specialData[d.url] === undefined ? '' : `<p class="burst disc">${specialData[d.url]}</p>`
 
 			let rehabDisc = ["guilty", "sin", "quency", "nihilister"].indexOf(d.name.toLowerCase()) == -1 ? '' : `
@@ -384,7 +378,7 @@ import colors from '../../../public/data/colors.json';
 			`
 
 			let nikkeAbout = `
-			${d.name} is a ${bursticon} Burst ${d.burst != 'p' ? d.burst : 'All'} NIKKE.
+			${d.name} is a ${burstImage(d.burst)} Burst ${d.burst != 'p' ? d.burst : 'All'} NIKKE.
 			${burstDisc}
 			${rehabDisc}
 			${limitDisc}
@@ -475,6 +469,12 @@ import colors from '../../../public/data/colors.json';
 				document.getElementById('burst').innerHTML = `${ d.skills[2].cooldown != "" ? `<b>Cooldown</b>: ${d.skills[2].cooldown} second(s)<br><br>` : `` } ${skillReplace(2, parseInt(document.getElementById('burstg').value))}`;
 			});
 
+			function burstImage(e) {
+				return `<div class="inlined-hex hex-gray">
+							<img src="/anisa/images/burst_${e}.png" alt="Burst ${e}" title="Burst ${e}" />
+						</div>`
+			}
+
 			function skillReplace(skill, level)
 			{
 				let desc = d.skills[skill].description.trim();
@@ -487,7 +487,17 @@ import colors from '../../../public/data/colors.json';
 				
 				for (let i = 0; i < sentences.length; i++) {
 					if (sentences[i].startsWith("When")) {
-						desc = desc.replaceAll(sentences[i], `<h4>${sentences[i]}</h4>`);
+						let burst = ``;
+
+						if (sentences[i].includes("Step 1")) {
+							burst = burstImage(1);
+						} else if (sentences[i].includes("Step 2")) {
+							burst = burstImage(2);
+						} else if (sentences[i].includes("Step 3")) {
+							burst = burstImage(3);
+						}
+
+						desc = desc.replaceAll(sentences[i], `<h4>${burst} ${sentences[i]}</h4>`);
 					}
 
 					if (sentences[i].includes("▲")) {
@@ -497,8 +507,9 @@ import colors from '../../../public/data/colors.json';
 					}
 				}
 
-				for (let i = 0; i < Object.keys(d.skills[skill].levels[level - 1]).length + 1; i++) {
-					desc = desc.replaceAll("{description_value_" + String(i+1).padStart(2, '0') + "}", `<b>${d.skills[skill].levels[level - 1]["description_value_" + String(i+1).padStart(2, '0')]}</b>`)
+				let descValues = Object.keys(d.skills[skill].levels[level - 1]);
+				for (let i = 0; i < descValues.length + 1; i++) {
+					desc = desc.replaceAll("{" + descValues[i] + "}", `<b>${d.skills[skill].levels[level - 1][descValues[i]]}</b>`)
 				}
 
 				desc = desc.replaceAll(".<br>■", ".■");
