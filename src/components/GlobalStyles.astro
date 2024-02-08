@@ -100,6 +100,7 @@
         display: flex;
         margin: 0;
         width: 100%;
+        position: relative;
     }
 
     img#nikke-fb {
@@ -107,6 +108,26 @@
         width: auto;
         max-width: 600px;
         max-height: 600px;
+        z-index: 420;
+    }
+
+    img#nikke-fb-bg {
+        max-width: 90%;
+        height: 90%;
+        aspect-ratio: 1;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+
+        -webkit-mask-image: url(/anisa/images/portraitbgs/mask.png);
+        mask-image: url(/anisa/images/portraitbgs/mask.png);
+        -webkit-mask-position: center;
+        mask-position: center;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        -webkit-mask-repeat: no-repeat;
+        mask-repeat: no-repeat;
     }
 
     div.top-main {
@@ -336,6 +357,11 @@
     span.stat-dec {
         color: #fe9000;
         text-shadow: #8f3400 0 0 4px, #8f3400 0 0 4px;
+    }
+
+    div.nikke-table.squad-list {
+        margin: 0;
+        margin-top: 16px;
     }
 
     /* CHARACTER LIST */

@@ -58,6 +58,7 @@ import limitData from '../../../public/data/limited.json';
 import variationsData from '../../../public/data/variations.json';
 import specialData from '../../../public/data/special.json';
 import colors from '../../../public/data/colors.json';
+import bgs from '../../../public/data/bgs.json';
 ---
 
 <html lang="en">
@@ -91,6 +92,7 @@ import colors from '../../../public/data/colors.json';
 
 				<div class="top-main">
 					<div class="img-wrapper">
+						<img id="nikke-fb-bg" src="/anisa/images/portraitbgs/default.png" alt="nikke bg" />
 						<img id="nikke-fb" src="" alt={ jsonresponse.name + " Full Body" } />
 					</div>
 					<div class="rate-wrapper">
@@ -243,7 +245,7 @@ import colors from '../../../public/data/colors.json';
 			</div>
 		</div>
 
-		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista}} type="module">
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista, bgs}} type="module">
 			import {go} from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
 
 			var prydRates = {
@@ -377,16 +379,91 @@ import colors from '../../../public/data/colors.json';
 			<a href="/anisa/nikke/${variationsData[d.url]}/">Wanna see the base form of this unit?</a>
 			`
 
+			let squadMembers = [];
+
+			for (let i = 0; i < charLista.length; i++) {
+				if (charLista[i].squad == d.squad) {
+					squadMembers.push(i)
+				}
+			}
+
+			let squadStatus = squadMembers.length > 1 ? "squad" : "\"squad\""
+
 			let nikkeAbout = `
 			${d.name} is a ${burstImage(d.burst)} Burst ${d.burst != 'p' ? d.burst : 'All'} NIKKE.
 			${burstDisc}
 			${rehabDisc}
 			${limitDisc}
+			She is part of the <b>${d.squad}</b> ${squadStatus}, and her ${squadStatus} consists of:
+			<div class="nikke-table squad-list" id="nikketable">
+			</div>
 			`
 
 			nikkeAbout += seeAlso.length <= 0 ? '' : `<br><br>${seeAlso}`;
 			
 			document.getElementById('nikke-who').innerHTML = nikkeAbout.trim();
+			document.getElementById('nikke-fb-bg').src = `/anisa/images/portraitbgs/${bgs[d.url] === undefined ? "default" : bgs[d.url]}.png`;
+
+			// create squad portraits
+
+			for (let i = 0; i < squadMembers.length; i++) {
+				let e = charLista[squadMembers[i]];
+
+				let bggradient = '';
+
+				switch (e.rarity.toLowerCase()) {
+					case 'r':
+						bggradient = "linear-gradient(to top, rgba(0, 210, 255, 0.1), rgba(0, 210, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))";
+						break;
+					case 'sr':
+						bggradient = "linear-gradient(to top, rgba(255, 44, 255, 0.1), rgba(255, 44, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))"
+						break;
+					case 'ssr':
+						bggradient = "linear-gradient(to top, rgba(254, 216, 0, 0.1), rgba(254, 216, 0, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))";
+						break;
+				}
+
+				let name = `<span class="nikke-name">${e.name}</span>`;
+
+				if (e.name.trim().length > 14) {
+					name = `
+					<div class="marquee-name">
+						<span>${e.name}</span>
+					</div>
+					`
+				}
+
+				const newPortrait = document.createElement('div');
+				newPortrait.classList.add('nikke-portrait');
+
+				const a = document.createElement('a');
+				a.style.color = 'white';
+				a.href = '/anisa/nikke/' + e.url
+				newPortrait.appendChild(a);
+
+				const img = document.createElement('img');
+				img.src = "https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png";
+				img.alt = e.name;
+				img.classList.add('nikke');
+				a.appendChild(img);
+
+				const gradient = document.createElement('div');
+				gradient.classList.add('portrait-overlay');
+				gradient.classList.add('portrait-gradient');
+				gradient.style.background = bggradient;
+				a.appendChild(gradient);
+
+				a.innerHTML += name;
+
+				const bar = document.createElement('img');
+				bar.src = `/anisa/images/rarbar_${e.rarity.toLowerCase()}.png`;
+				bar.alt = "Rarity Bar";
+				bar.classList.add('rarity-bar');
+				bar.classList.add('portrait-overlay');
+				a.appendChild(bar);
+
+				document.getElementById('nikketable').appendChild(newPortrait);
+			}
 
 			refreshAdvise(d, adviseClean, false);
 
