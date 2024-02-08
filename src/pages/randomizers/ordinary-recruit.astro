@@ -1,0 +1,34 @@
+---
+import GlobalStyles from "../../components/GlobalStyles.astro";
+import Header from "../../components/Header.astro";
+import Sidebar from "../../components/Sidebar.astro";
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+
+		<title>Anisa - Ordinary Recruitment</title>
+		<meta name="description" content="Just one more pull! I'll get her, I swear! Just one more!">
+		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
+
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+	</head>
+	<body>
+        <Header />
+        <Sidebar />
+		<div class="main">
+			<div class="wrapper">
+                <h1>Ordinary Recruit</h1>
+				<p>Just one more pull! You'll get her! Come on!</p>
+				<p>Test your luck with this pull simulator! Barely Accurate, of course!</p>
+				<hr>
+            </div>
+        </div>
+    </body>
+</html>
+
+<GlobalStyles />

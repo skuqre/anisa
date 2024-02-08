@@ -26,6 +26,9 @@ const prydslug = fuzzysort.go((nikke + '').replaceAll('-', ' '), prydresj.result
 
 const nikkegglink = 'https://api.dotgg.gg/nikke/character/' + nikke;
 
+const charList = await fetch('https://api.dotgg.gg/nikke/characters');
+const charLista = await charList.json();
+
 const response = await fetch(nikkegglink);
 const jsonresponse = await response.json();
 
@@ -232,10 +235,15 @@ import colors from '../../../public/data/colors.json';
 						</div>
 					</div>
 				</div>
+
+				<p class="bottom-redirects">
+					<a href="" id="previous-nikke">Previous</a> | 
+					<a href="" id="next-nikke">Next</a>
+				</p>
 			</div>
 		</div>
 
-		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors}} type="module">
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista}} type="module">
 			import {go} from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
 
 			var prydRates = {
@@ -469,13 +477,19 @@ import colors from '../../../public/data/colors.json';
 
 			function skillReplace(skill, level)
 			{
-				let desc = d.skills[skill].description;
+				let desc = d.skills[skill].description.trim();
 
 				desc = desc.replaceAll(/<[^>]*>/g, "");
 
 				let sentences = desc.split(/[\.\!]+(?!\d)\s*|\n+\s*/g);
+
+				desc = desc.replace(/[\.\!]+(?!\d)\s*|\n+\s*/g, `.<br>`);
 				
 				for (let i = 0; i < sentences.length; i++) {
+					if (sentences[i].startsWith("When")) {
+						desc = desc.replaceAll(sentences[i], `<h4>${sentences[i]}</h4>`);
+					}
+
 					if (sentences[i].includes("▲")) {
 						desc = desc.replaceAll(sentences[i] + ".", `<span class="stat-inc">${sentences[i] + "."}</span>`);
 					} else if (sentences[i].includes("▼")) {
@@ -487,8 +501,13 @@ import colors from '../../../public/data/colors.json';
 					desc = desc.replaceAll("{description_value_" + String(i+1).padStart(2, '0') + "}", `<b>${d.skills[skill].levels[level - 1]["description_value_" + String(i+1).padStart(2, '0')]}</b>`)
 				}
 
-				desc = desc.replaceAll("When", "<br><br>When");
-				desc = desc.replaceAll("■", "<br><br>■");
+				desc = desc.replaceAll(".<br>■", ".■");
+				desc = desc.replaceAll(":.<br>", ":<br>");
+				desc = desc.replaceAll(" .", "");
+				desc = desc.replaceAll("■", "<br>■");
+				desc = desc.replaceAll("<br><br>", "<br>");
+				desc = desc.replaceAll("■", "<br>■");
+				desc = desc.replaceAll("</h4>.<br>", "</h4>")
 
 				while (desc.startsWith("<br>")) {
 					desc = desc.replace('<br>', '');
@@ -496,6 +515,31 @@ import colors from '../../../public/data/colors.json';
 
 				return desc;
 			}
+
+			let prevIndex = 0;
+			let nextIndex = 0;
+			for (let i = 0; i < charLista.length; i++) {
+				if (charLista[i].name == d.name) {
+					prevIndex = i - 1;
+					nextIndex = i + 1;
+
+					if (nextIndex > charLista.length - 1) {
+						nextIndex = 0;
+					}
+
+					if (prevIndex < 0) {
+						prevIndex = charLista.length - 1;
+					}
+
+					break;
+				}
+			}
+
+			document.getElementById('previous-nikke').innerHTML += ` (${charLista[prevIndex].name})`;
+			document.getElementById('previous-nikke').href = `/anisa/nikke/${charLista[prevIndex].url}`;
+
+			document.getElementById('next-nikke').innerHTML += ` (${charLista[nextIndex].name})`;
+			document.getElementById('next-nikke').href = `/anisa/nikke/${charLista[nextIndex].url}`;
 
 		</script>
 	</body>
