@@ -146,6 +146,10 @@
         let utcTime = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), now.getUTCHours(), now.getUTCMinutes(), now.getUTCSeconds(), now.getUTCMilliseconds()); // local to utc
         let endUtcTime = new Date(utcTime.getFullYear(), utcTime.getMonth(), utcTime.getDate(), 20, 0, 0); // reset time based from local to utc time, time resets at hour 20
 
+        if (utcTime > endUtcTime) {
+            endUtcTime = new Date(utcTime.getFullYear(), utcTime.getMonth(), utcTime.getDate() + 1, 20, 0, 0);
+        }
+
         let timeLeft = Math.abs(utcTime.getTime() - endUtcTime.getTime()); // for some reason, when multiplying by -1 (or wrapping in abs) it decreases an hour?
         const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
         const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
