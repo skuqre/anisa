@@ -94,8 +94,20 @@
         background-image: linear-gradient(to right,#024 1px,transparent 1px),linear-gradient(to bottom, #024 1px,transparent 1px);
         background-size: 16px 16px;
         background-position: center;
+        background-position-y: 0px;
+
+        animation: gridup linear 2s infinite;
 
         border: 1px solid #058;
+    }
+
+    @keyframes gridup {
+        0% {
+            background-position-y: 0px;
+        }
+        100% {
+            background-position-y: -32px;
+        }
     }
 
     span.tt-title {

@@ -44,6 +44,7 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 				<div class="nikke-table" id="nikketable">
 				</div>
+				<p class="bottom-redirects"><i id="result-stats"></i></p>
 				
 				<script define:vars={{jsonresponsea, prydwen}} type="module">
 					import {go} from "../fuzzysort.js";
@@ -167,6 +168,8 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 					}
 
 					function refreshList() {
+						let now = new Date();
+
 						document.querySelectorAll('#nikketable')[0].innerHTML = '';
 
 						if (bursts.indexOf(true) == -1) {
@@ -425,6 +428,8 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 							document.getElementById('nikketable').appendChild(newPortrait);
 						})
+
+						document.getElementById('result-stats').innerHTML = `${jsonresponse.length} result(s) in ${(new Date() - now) / 1000} seconds.`
 					}
 				</script>
 			</div>
