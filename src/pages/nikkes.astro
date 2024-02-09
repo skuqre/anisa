@@ -59,8 +59,6 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 					document.getElementById("nikke-searchbar").addEventListener('input', refreshList);
 
-					let order = ['ssr', 'sr', 'r']
-
 					let burstList = ['1', '2', '3', 'p'];
 					let bursts = [true, true, true, true]; // "include"
 
@@ -75,6 +73,12 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 					let scopesList = ['ar', 'mg', 'rl', 'sg', 'smg', 'sr'];
 					let scopes = [true, true, true, true, true, true]; // "include"
+
+					let miscList = ["new", "changed"];
+					let misc = [false, false];
+
+					let rarityList = ["ssr", "sr", "r"];
+					let rarities = [true, true, true];
 
 					refreshList();
 
@@ -138,6 +142,30 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 						});
 					}
 
+					for (let i = 0; i < misc.length; i++) {
+						let immut = i;
+						document.querySelectorAll("div.picker span#" + miscList[i])[0].addEventListener('pointerup', (e) => {
+							misc[immut] = !misc[immut];
+							refreshList();
+						});
+					}
+
+					for (let i = 0; i < rarities.length; i++) {
+						let immut = i;
+						document.querySelectorAll("div.picker span#r-" + rarityList[i])[0].addEventListener('pointerup', (e) => {
+							if (rarities.indexOf(false) == -1) {
+								rarities = [false, false, false]
+							}
+
+							rarities[immut] = !rarities[immut];
+							refreshList();
+						});
+					}
+
+					function prydslug(e) {
+						return go((e.url + '').replaceAll('-', ' '), prydwen.map((e) => e.slug.replaceAll('-', ' ')))[0].target.replaceAll(" ", '-');
+					}
+
 					function refreshList() {
 						document.querySelectorAll('#nikketable')[0].innerHTML = '';
 
@@ -175,6 +203,17 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 						}
 						for (let i = 0; i < scopes.length; i++) {
 							document.querySelectorAll("div.picker span#" + scopesList[i])[0].style.opacity = scopes[i] ? "1.0" : "0.3";	
+						}
+
+						for (let i = 0; i < misc.length; i++) {
+							document.querySelectorAll("div.picker span#" + miscList[i])[0].style.opacity = misc[i] ? "1.0" : "0.3";	
+						}
+
+						if (rarities.indexOf(true) == -1) {
+							rarities = [true, true, true]
+						}
+						for (let i = 0; i < rarities.length; i++) {
+							document.querySelectorAll("div.picker span#r-" + rarityList[i])[0].style.opacity = rarities[i] ? "1.0" : "0.3";	
 						}
 
 						jsonresponse = jsonresponsea.map((x) => x);
@@ -225,6 +264,39 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 								if (jsonresponse[j] != null) {
 									if (jsonresponse[j].weapon.toLowerCase() == scopesList[i]) {
 										if (!scopes[i]) {
+											jsonresponse[j] = null;
+										}
+									}
+								}
+							}
+
+							for (let i = 0; i < miscList.length; i++) {
+								if (jsonresponse[j] != null) {
+
+									let prydRes = null;
+									let slug = prydslug(jsonresponse[j])
+
+									for (let i = 0; i < prydwen.length; i++) {
+										if (slug == prydwen[i].slug) {
+											prydRes = prydwen[i];
+											break;
+										}
+									}
+
+									if ((prydRes.isNew !== null ? !prydRes.isNew : true) && ("new" == miscList[i]) && misc[0]) {
+										jsonresponse[j] = null;
+									}
+
+									if ((prydRes.isUpdated !== null ? !prydRes.isUpdated : true) && ("changed" == miscList[i]) && misc[1]) {
+										jsonresponse[j] = null;
+									}
+								}
+							}
+
+							for (let i = 0; i < rarityList.length; i++) {
+								if (jsonresponse[j] != null) {
+									if (jsonresponse[j].rarity.toLowerCase() == rarityList[i]) {
+										if (!rarities[i]) {
 											jsonresponse[j] = null;
 										}
 									}
@@ -300,17 +372,20 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 							let isNew = false;
 							let shouldInvest = false;
+							let changed = false;
 
 							for (let i = 0; i < prydwen.length; i++) {
 								if (prydwen[i].name.toLowerCase() == e.name.toLowerCase()) {
-									isNew = prydwen[i].isNew !== null ? prydwen[i].isNew : false
+									isNew = prydwen[i].isNew !== null ? prydwen[i].isNew : false;
+									changed = prydwen[i].isUpdated !== null ? prydwen[i].isUpdated : false;
 								}
 							}
 
 							let tagslist = `
 							<div class="tags-list" ${minimal ? "style=\"display: none\"" : ""}>
-								<span class="tag new" ${ !isNew ? "style=\"display: none\"" : "" }>NEW</span>
-								<span class="tag invest" ${ !shouldInvest ? "style=\"display: none\"" : "" }>$$$</span>
+								${ isNew ? "<span class=\"tag new\">NEW</span>" : ""}
+								${ shouldInvest ? "<span class=\"tag invest\">$$$</span>" : ""}
+								${ changed ? "<span class=\"tag changed\">!!!</span>" : ""}
 							</div>
 							`
 

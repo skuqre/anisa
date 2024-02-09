@@ -102,6 +102,27 @@
                 <div class="imgicon"><img src="/anisa/images/sight_sr.png" alt="SR" /></div>
             </span>
         </div>
+        <div class="picker">
+            <span id="new">
+                <i class="tag">NEW</i>
+                <i class="con">New units</i>
+            </span>
+            <span id="changed">
+                <i class="tag">!!!</i>
+                <i class="con">Changed units</i>
+            </span>
+        </div>
+        <div class="picker">
+            <span id="r-ssr">
+                <i class="tag">SSR</i>
+            </span>
+            <span id="r-sr">
+                <i class="tag">SR</i>
+            </span>
+            <span id="r-r">
+                <i class="tag">R</i>
+            </span>
+        </div>
     </div>
 </div>
 
@@ -205,6 +226,12 @@
     span.option:hover {
         background-color: var(--dark);
         transition: background-color 0.2s ease-in-out;
+    }
+
+    i.tag {
+        font-family: 'Abolition', monospace;
+        font-size: 24px;
+        font-style: normal;
     }
 </style>
 

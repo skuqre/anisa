@@ -30,6 +30,7 @@
         color: var(--lightererest);
 
         line-height: 24px;
+        scrollbar-gutter: stable both-edges;
     }
 
     body {
@@ -562,12 +563,12 @@
         border-top-right-radius: 0;
     }
 
-    div.tags-list > span.tag:last-child {
-        border-bottom-right-radius: 4px;
-    }
-
     div.tags-list > span.tag:first-child {
         border-top-right-radius: 4px;
+    }
+
+    div.tags-list > span.tag:last-child {
+        border-bottom-right-radius: 4px;
     }
 
     .new {
@@ -583,6 +584,14 @@
             at top right,
             #ffaa00,
             #ff6600
+        );
+    }
+
+    .changed {
+        background-image: radial-gradient(
+            at top right,
+            #aaffaa,
+            #66ff66
         );
     }
 
