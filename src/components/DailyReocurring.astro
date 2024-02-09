@@ -208,6 +208,9 @@
         let towerDay = towers[dayOfCountdown];
 
         for (let i = 0; i < towerDay.length; i++) {
+            document.getElementById(towerIds[i])?.classList.remove('open-tower');
+            document.getElementById(towerIds[i])?.classList.remove('closed-tower');
+
             if (towerDay[i]) {
                 document.getElementById(towerIds[i])?.classList.add('open-tower');
             } else {
