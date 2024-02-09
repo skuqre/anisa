@@ -161,10 +161,12 @@
     // don't mind me :)
     // this also doesnt work properly
     setInterval(() => {
-        let utcTime = new Date();
-        let endUtcTime = new Date(utcTime.getUTCFullYear(), utcTime.getUTCMonth(), utcTime.getUTCDate() + 1, 20)
+        let now = new Date(); // local
 
-        let timeLeft = -(utcTime.getTime() - (endUtcTime.getTime() - utcTime.getTimezoneOffset() * 60 * 1000));
+        let utcTime = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), now.getUTCHours(), now.getUTCMinutes(), now.getUTCSeconds(), now.getUTCMilliseconds()); // local to utc
+        let endUtcTime = new Date(utcTime.getFullYear(), utcTime.getMonth(), utcTime.getDate(), 20, 0, 0); // reset time based from local to utc time, time resets at hour 20
+
+        let timeLeft = Math.abs(utcTime.getTime() - endUtcTime.getTime()); // for some reason, when multiplying by -1 (or wrapping in abs) it decreases an hour?
         const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
         const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
         const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
@@ -175,8 +177,7 @@
             times[i].innerHTML = `${hours}H ${minutes}M ${seconds}S`;
         }
 
-        const dayOfCountdown = endUtcTime.getDay() - 2;
-        console.log(dayOfCountdown)
+        const dayOfCountdown = endUtcTime.getDay() - 1; // since its the next day, decrease by one to get to previous reset time
 
         let bosses = [
             ['chatterbox', 'Chatterbox'],
