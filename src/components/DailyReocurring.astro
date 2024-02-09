@@ -2,15 +2,17 @@
 ---
 
 <div class="special-interception">
+    <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0));"></div>
     <img src="" alt="SI boss" class="boss-bg" id="si-boss" draggable="false">
     <span class="si-text">
         <div>
-            <span class="si-title">TODAY'S SPECIAL INTERCEPTION</span><br>
+            <span class="si-title">SPECIAL INTERCEPTION</span><br>
             <span class="si-boss" id="si-boss-name"></span>
         </div>
     </span>
 </div>
 <div class="tribe-towers">
+    <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(0, 216, 255, 0.075), rgba(0, 216, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0));"></div>
     <span class="tt-title">TRIBE TOWERS</span>
     <div class="tt-towers">
         <div id="t-ely" class="tower">
@@ -117,11 +119,11 @@
     }
 
     div.open-tower {
-        filter: drop-shadow(0px 0px 2px) brightness(0) saturate(100%) invert(67%) sepia(67%) saturate(3992%) hue-rotate(156deg) brightness(105%) contrast(100%);
+        filter: drop-shadow(0px 0px 1.5px) brightness(0) saturate(100%) invert(67%) sepia(67%) saturate(3992%) hue-rotate(156deg) brightness(105%) contrast(100%);
     }
 
     div.closed-tower {
-        opacity: 0.5;
+        filter: brightness(60%);
     }
 
     div.tower {
@@ -133,6 +135,13 @@
 
         /* font-weight: 600; */
         text-shadow: none;
+    }
+
+    div.bg-gradient {
+        width: 100%;
+        height: 100%;
+
+        position: absolute;
     }
 </style>
 
@@ -155,14 +164,13 @@
         const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
         const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
 
-        var times = document.getElementsByClassName('time');
+        var times = document.querySelectorAll(".time.daily");
 
         for (let i = 0; i < times.length; i++) {
             times[i].innerHTML = `${(hours + '').padStart(2, '0')}H ${(minutes + '').padStart(2, '0')}M ${(seconds + '').padStart(2, '0')}S`;
         }
 
         const dayOfCountdown = (endUtcTime.getDay() - 1) % 6; // since its the next day, decrease by one to get to previous reset time
-        
 
         let bosses = [
             ['chatterbox', 'Chatterbox'],

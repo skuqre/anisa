@@ -30,12 +30,12 @@
         color: var(--lightererest);
 
         line-height: 24px;
-        scrollbar-gutter: stable both-edges;
+        scrollbar-gutter: stable;
     }
 
     body {
         width: 100%;
-        scrollbar-gutter: stable both-edges;
+        scrollbar-gutter: stable;
         margin: 0;
     }
 
@@ -609,7 +609,14 @@
 
         font-weight: 600;
         color: var(--lighterer);
-        float: right;
+    }
+
+    .header-with-side-element {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-content: center;
     }
 
     /* ASPECT RATIO STUFF */
