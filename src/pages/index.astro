@@ -2,6 +2,8 @@
 import GlobalStyles from "../components/GlobalStyles.astro";
 import Header from "../components/Header.astro";
 import Sidebar from "../components/Sidebar.astro";
+
+import SpecialInterception from "../components/SpecialInterception.astro";
 ---
 
 <html lang="en">
@@ -25,6 +27,16 @@ import Sidebar from "../components/Sidebar.astro";
                 <h1>A NIKKE information aggregator that (kinda) sucks.</h1>
                 <p>Anisa is currently in BETA. Not all things you see here are final.</p>
                 <p>Also, Anisa is more of a proof-of-concept for now.</p>
+
+				<div class="nikke-main">
+					<div class="fun-stuff">
+						<h2>Currently happening</h2>
+						<SpecialInterception />
+					</div>
+					<div class="build-stuff">
+
+					</div>
+				</div>
             </div>
         </div>
     </body>
