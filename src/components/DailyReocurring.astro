@@ -1,0 +1,215 @@
+---
+---
+
+<div class="special-interception">
+    <img src="" alt="SI boss" class="boss-bg" id="si-boss" draggable="false">
+    <span class="si-text">
+        <div>
+            <span class="si-title">TODAY'S SPECIAL INTERCEPTION</span><br>
+            <span class="si-boss" id="si-boss-name"></span>
+        </div>
+
+        <span class="time" title="Time until reset">00H 00M 00S</span>
+    </span>
+</div>
+<div class="tribe-towers">
+    <span class="tt-title">TRIBE TOWERS</span>
+    <div class="tt-towers">
+        <div id="t-ely" class="tower">
+            <div class="imgicon"><img src="/anisa/images/manu_elysion.png" alt="Elysion" /></div>
+            Elysion Tower
+        </div>
+        <div id="t-mis" class="tower">
+            <div class="imgicon"><img src="/anisa/images/manu_missilis.png" alt="Missilis" /></div>
+            Missilis Tower
+        </div>
+        <div id="t-tet" class="tower">
+            <div class="imgicon"><img src="/anisa/images/manu_tetra.png" alt="Tetra" /></div>
+            Tetra Tower
+        </div>
+        <div id="t-pil" class="tower">
+            <div class="imgicon"><img src="/anisa/images/manu_pilgrim.png" alt="Pilgrim" /></div>
+            Pilgrim Tower
+        </div>
+    </div>
+    <span class="time" title="Time until reset">00H 00M 00S</span>
+</div>
+
+<style>
+    div.special-interception, div.tribe-towers {
+        width: 100%;
+        height: 150px;
+        position: relative;
+        overflow: hidden;
+
+        background-image: repeating-linear-gradient(45deg, var(--darkerer), var(--darkerer) 1px, var(--darkererer) 1px, var(--darkererer) 8px);
+        background-position: center;
+        border: 1px solid var(--darker);
+        border-radius: 4px;
+        text-shadow: black 0 0 4px, black 0 0 4px;
+    }
+
+    img.boss-bg {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+        z-index: 0;
+    }
+
+    span.si-text {
+        bottom: 8px;
+        margin: 0 16px;
+        position: absolute;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        width: calc(100% - 32px);
+        flex-wrap: wrap;
+        gap: 4px;
+    }
+
+    span.si-boss {
+        font-weight: bolder;
+        font-size: 32px;
+    }
+
+    span.si-title, span.tt-title {
+        font-size: 20px;
+        font-family: "Abolition", monospace;
+        line-height: 24px;
+    }
+
+
+    span.time {
+        border-radius: 16px;
+        line-height: 24px;
+        font-size: 14px;
+
+        background-color: var(--darkererer);
+        border: 1px solid var(--darker);
+        padding: 4px 16px;
+
+        width: max-content;
+        height: min-content;
+
+        font-weight: 600;
+        color: var(--lighterer);
+    }
+
+    div.tribe-towers {
+        display: flex;
+        height: min-content;
+        padding: 16px 0;
+
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 16px;
+
+        background-color: #011;
+        background-image: linear-gradient(to right,#024 1px,transparent 1px),linear-gradient(to bottom, #024 1px,transparent 1px);
+        background-size: 16px 16px;
+        background-position: center;
+
+        border: 1px solid #058;
+    }
+
+    span.tt-title {
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+    div.tt-towers {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-content: space-evenly;
+        flex-wrap: wrap;
+        width: calc(100% - 32px);
+        gap: 32px;
+    }
+
+    div.tower > div.imgicon {
+        width: 32px;
+        height: 32px;
+    }
+
+    div.open-tower {
+        filter: drop-shadow(0px 0px 2px) brightness(0) saturate(100%) invert(67%) sepia(67%) saturate(3992%) hue-rotate(156deg) brightness(105%) contrast(100%);
+    }
+
+    div.closed-tower {
+        opacity: 0.5;
+    }
+
+    div.tower {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 4px;
+
+        /* font-weight: 600; */
+        text-shadow: none;
+    }
+</style>
+
+<script>
+    // lost my fucking mind at this
+    // don't mind me :)
+    // this also doesnt work properly
+    setInterval(() => {
+        let utcTime = new Date();
+        let endUtcTime = new Date(utcTime.getUTCFullYear(), utcTime.getUTCMonth(), utcTime.getUTCDate() + 1, 20)
+
+        let timeLeft = -(utcTime.getTime() - (endUtcTime.getTime() - utcTime.getTimezoneOffset() * 60 * 1000));
+        const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+        var times = document.getElementsByClassName('time');
+
+        for (let i = 0; i < times.length; i++) {
+            times[i].innerHTML = `${hours}H ${minutes}M ${seconds}S`;
+        }
+
+        const dayOfCountdown = endUtcTime.getDay() - 2;
+        console.log(dayOfCountdown)
+
+        let bosses = [
+            ['chatterbox', 'Chatterbox'],
+            ['modernia', 'Modernia'],
+            ['train', 'Alteisen MK. VI'],
+            ['gravedigger', 'Gravedigger'],
+            ['blacksmith', 'Blacksmith'],
+        ];
+
+        const curBoss = bosses[dayOfCountdown % 5];
+
+        let towers = [
+            [false, false, true, false],
+            [true, false, false, false],
+            [false, true, false, true],
+            [false, false, true, false],
+            [true, false, false, false],
+            [false, true, false, false],
+            [true, true, true, true]
+        ];
+
+        let towerIds = ['t-ely', 't-mis', 't-tet', 't-pil'];
+        let towerDay = towers[dayOfCountdown];
+
+        for (let i = 0; i < towerDay.length; i++) {
+            if (towerDay[i]) {
+                document.getElementById(towerIds[i])?.classList.add('open-tower');
+            } else {
+                document.getElementById(towerIds[i])?.classList.add('closed-tower');
+            }
+        }
+
+        (document.getElementById('si-boss') as any).src = '/anisa/images/si/' + curBoss[0] + '.png';
+        (document.getElementById('si-boss-name') as any).innerHTML = curBoss[1];
+    }, 500)
+</script>
