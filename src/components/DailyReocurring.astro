@@ -174,10 +174,11 @@
         var times = document.getElementsByClassName('time');
 
         for (let i = 0; i < times.length; i++) {
-            times[i].innerHTML = `${hours}H ${minutes}M ${seconds}S`;
+            times[i].innerHTML = `${(hours + '').padStart(2, '0')}H ${(minutes + '').padStart(2, '0')}M ${(seconds + '').padStart(2, '0')}S`;
         }
 
-        const dayOfCountdown = endUtcTime.getDay() - 1; // since its the next day, decrease by one to get to previous reset time
+        const dayOfCountdown = (endUtcTime.getDay() - 1) % 6; // since its the next day, decrease by one to get to previous reset time
+        
 
         let bosses = [
             ['chatterbox', 'Chatterbox'],
