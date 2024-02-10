@@ -41,11 +41,24 @@
         position: relative;
         overflow: hidden;
 
-        background-image: repeating-linear-gradient(45deg, var(--darkerer), var(--darkerer) 1px, var(--darkererer) 1px, var(--darkererer) 8px);
+        background-color: var(--darkererer);
+        background-image: url(/anisa/images/stripes.png);
+        background-blend-mode: overlay;
         background-position: center;
         border: 1px solid var(--darker);
         border-radius: 4px;
         text-shadow: black 0 0 4px, black 0 0 4px;
+
+        animation: stripeleft linear 1s infinite;
+    }
+
+    @keyframes stripeleft {
+        0% {
+            background-position-x: 0px;
+        }
+        100% {
+            background-position-x: -32px;
+        }
     }
 
     img.boss-bg {
@@ -53,6 +66,8 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
+        max-width: 512px;
+        max-height: 512px;
 
         z-index: 0;
     }
@@ -99,6 +114,7 @@
         animation: gridup linear 2s infinite;
 
         border: 1px solid #058;
+        background-blend-mode: normal;
     }
 
     @keyframes gridup {
