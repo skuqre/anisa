@@ -1,7 +1,6 @@
 ---
-import fireSpark from '../../public/data/particles/fire-spark.json';
----
 
+---
 <div class="daily-reoccurring">
     <div class="special-interception">
         <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0));"></div>
@@ -41,10 +40,10 @@ import fireSpark from '../../public/data/particles/fire-spark.json';
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" integrity="sha512-Kef5sc7gfTacR7TZKelcrRs15ipf7+t+n7Zh6mKNJbmW+/RRdCW9nwfLn4YX0s2nO6Kv5Y2ChqgIakaC6PW09A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-<script define:vars={{fireSpark}}>
+<script>
     window.onload = function() {
-        window.particlesJS.load('pjs', '../../public/data/particles/fire-spark.json');
-        window.particlesJS.load('pjs2', '../../public/data/particles/fire-spark.json');
+        window.particlesJS.load('pjs', '/anisa/data/particles/fire-spark.json');
+        window.particlesJS.load('pjs2', '/anisa/data/particles/fire-spark.json');
     };
 </script>
 
