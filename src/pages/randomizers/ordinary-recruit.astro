@@ -2,6 +2,17 @@
 import GlobalStyles from "../../components/GlobalStyles.astro";
 import Header from "../../components/Header.astro";
 import Sidebar from "../../components/Sidebar.astro";
+import GACHASearchbar from '../../components/GACHASearchbar.astro';
+import Gacha from '../../components/Gacha.astro';
+
+const response = await fetch('https://api.dotgg.gg/nikke/characters/');
+const jsonresponsea = await response.json();
+
+const pryd = await fetch('https://www.prydwen.gg/page-data/nikke/characters/page-data.json');
+const prydjson = await pryd.json();
+const prydwen = prydjson.result.data.allCharacters.nodes
+
+import limitData from '../../../public/data/limited.json';
 ---
 
 <html lang="en">
@@ -11,8 +22,8 @@ import Sidebar from "../../components/Sidebar.astro";
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 
-		<title>Anisa - Ordinary Recruitment</title>
-		<meta name="description" content="Just one more pull! I'll get her, I swear! Just one more!">
+		<title>Anisa - Ordinary Recruit</title>
+		<meta name="description" content="Just one more pull! I'll get her, I swear! Just one more! Test your luck!">
 		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
 
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
@@ -25,9 +36,571 @@ import Sidebar from "../../components/Sidebar.astro";
                 <h1>Ordinary Recruit</h1>
 				<p>Just one more pull! You'll get her! Come on!</p>
 				<p>Test your luck with this pull simulator! Barely Accurate, of course!</p>
+
+				<h2>Caveats</h2>
+				<p>
+					This should work similarly to the one in the game, BUT:<br>
+					- This assumes that Pilgrims have a cumulative chance of <b>{0.005 * 100}%</b>.<br>
+					- The pool excludes <b>Rehabilitation</b> and <b>Limited</b> Nikkes.<br>
+					- The pool excludes Nikkes deemed by <b>Prydwen</b> as new. (some units may be included in the pool while not even being in the pool ingame)
+				</p>
 				<hr>
 
-				@ skuqre to do: EVERY THING LMAOOO
+				<div class="nikke-main">
+					<div class="fun-stuff">
+						<div>
+							<h2>Pull</h2>
+							<Gacha />
+						</div>
+						<div>
+							<h2>History</h2>
+							<div class="scroll-limit" id="history">
+								<div class="advise-question">
+									There's nothing yet. You should pull!
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="build-stuff">
+						<div>
+							<h2>Pool</h2>
+							<!-- <GACHASearchbar /> -->
+							<div class="scroll-limit" id="gacha-pool"></div>
+						</div>
+						<div>
+							<h2>Analysis</h2>
+							<p>
+								In <b>SSR %</b>, Pilgrims are not excluded in the calculation.<br>
+								If you'd like to see something like how the actual chances are, simulate a high number of pulls!
+							</p>
+						</div>
+						<div>
+							<h3 class="skill-main">Cumulative (10 pulls and single pulls combined)</h3>
+							<div class="info-table">
+								<table class="char-info">
+									<tr>
+										<th>Total Pulls</th>
+										<td id="tps"></td>
+									</tr>
+									<tr>
+										<th>Total SSRs</th>
+										<td id="tssrs"></td>
+									</tr>
+									<tr>
+										<th>Total SRs</th>
+										<td id="tsrs"></td>
+									</tr>
+									<tr>
+										<th>Total Rs</th>
+										<td id="trs"></td>
+									</tr>
+								</table>
+								<table class="char-info">
+									<tr>
+										<th>Pilgrim %</th>
+										<td id="tpp"></td>
+									</tr>
+									<tr>
+										<th>SSR %</th>
+										<td id="tssrp"></td>
+									</tr>
+									<tr>
+										<th>SR %</th>
+										<td id="tsrp"></td>
+									</tr>
+									<tr>
+										<th>R %</th>
+										<td id="trp"></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+						<div>
+							<h3 class="skill-main">10 Pulls only</h3>
+							<div class="info-table">
+								<table class="char-info">
+									<tr>
+										<th>Multi Pulls</th>
+										<td id="mps"></td>
+									</tr>
+									<tr>
+										<th>Total SSRs</th>
+										<td id="mssrs"></td>
+									</tr>
+									<tr>
+										<th>Total SRs</th>
+										<td id="msrs"></td>
+									</tr>
+									<tr>
+										<th>Total Rs</th>
+										<td id="mrs"></td>
+									</tr>
+								</table>
+								<table class="char-info">
+									<tr>
+										<th>Pilgrim %</th>
+										<td id="mpp"></td>
+									</tr>
+									<tr>
+										<th>SSR %</th>
+										<td id="mssrp"></td>
+									</tr>
+									<tr>
+										<th>SR %</th>
+										<td id="msrp"></td>
+									</tr>
+									<tr>
+										<th>R %</th>
+										<td id="mrp"></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+						<div>
+							<h3 class="skill-main">Single Pulls only</h3>
+							<div class="info-table">
+								<table class="char-info">
+									<tr>
+										<th>Single Pulls</th>
+										<td id="sps"></td>
+									</tr>
+									<tr>
+										<th>Total SSRs</th>
+										<td id="sssrs"></td>
+									</tr>
+									<tr>
+										<th>Total SRs</th>
+										<td id="ssrs"></td>
+									</tr>
+									<tr>
+										<th>Total Rs</th>
+										<td id="srs"></td>
+									</tr>
+								</table>
+								<table class="char-info">
+									<tr>
+										<th>Pilgrim %</th>
+										<td id="spp"></td>
+									</tr>
+									<tr>
+										<th>SSR %</th>
+										<td id="sssrp"></td>
+									</tr>
+									<tr>
+										<th>SR %</th>
+										<td id="ssrp"></td>
+									</tr>
+									<tr>
+										<th>R %</th>
+										<td id="srp"></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<script define:vars={{jsonresponsea, prydwen, limitData}} type="module">
+					import {go} from "../fuzzysort.js";
+					import {select} from "../weighted.js";
+
+					const SSR_CHANCE = 0.04;
+					const SR_CHANCE = 0.43;
+					const R_CHANCE = 0.53;
+
+					const PILGRIM_CHANCE = 0.005; // 0.05% * 10 (currently available as of 2/10/24)
+
+					let history = [];
+
+					let excludedNikkes = [...Object.keys(limitData)];
+
+					// limited pool will also include the rehab nikkes to exclude
+					excludedNikkes = excludedNikkes.concat(excludedNikkes, ['guilty', 'sin', 'quency', 'nihilister']);
+
+					// limited pool will also include the "new" nikkes
+					for (let j = 0; j < jsonresponsea.length; j++) {
+						let prydRes = null;
+						let slug = prydslug(jsonresponsea[j])
+
+						for (let i = 0; i < prydwen.length; i++) {
+							if (slug == prydwen[i].slug) {
+								prydRes = prydwen[i];
+								break;
+							}
+						}
+
+						if (prydRes.isNew && !excludedNikkes.includes(jsonresponsea[j].url)) {
+							excludedNikkes.push(jsonresponsea[j].url);
+						}
+					}
+
+					let pilgrims = 0;
+					let ssrPool = [];
+					let srPool = [];
+					let rPool = []
+
+					// Just The Slugs
+					let pilPool_s = [];
+					let ssrPool_s = [];
+					let srPool_s = [];
+					let rPool_s = [];
+
+					// sorting
+					for (let i = 0; i < jsonresponsea.length; i++) {
+						switch (jsonresponsea[i].rarity.toLowerCase()) {
+							case 'ssr':
+								if (!excludedNikkes.includes(jsonresponsea[i].url)) {
+									ssrPool.push({
+										name: jsonresponsea[i].name,
+										url: jsonresponsea[i].url,
+										manufacturer: jsonresponsea[i].manufacturer,
+										img: jsonresponsea[i].img,
+										rarity: "ssr",
+										chance: -1
+									});
+
+									if (jsonresponsea[i].manufacturer == 'Pilgrim') {
+										pilgrims++;
+										pilPool_s.push(jsonresponsea[i].url);
+									}
+
+									ssrPool_s.push(jsonresponsea[i].url);
+								}
+								break;
+							case 'sr':
+								if (!excludedNikkes.includes(jsonresponsea[i].url)) {
+									srPool.push({
+										name: jsonresponsea[i].name,
+										url: jsonresponsea[i].url,
+										manufacturer: jsonresponsea[i].manufacturer,
+										img: jsonresponsea[i].img,
+										rarity: "sr",
+										chance: -1
+									});
+
+									srPool_s.push(jsonresponsea[i].url);
+								}
+								break;
+							case 'r':
+								if (!excludedNikkes.includes(jsonresponsea[i].url)) {
+									rPool.push({
+										name: jsonresponsea[i].name,
+										url: jsonresponsea[i].url,
+										manufacturer: jsonresponsea[i].manufacturer,
+										img: jsonresponsea[i].img,
+										rarity: "r",
+										chance: -1
+									});
+
+									rPool_s.push(jsonresponsea[i].url);
+								}
+								break;
+						}
+					}
+
+
+					let weightedSorted = {}
+
+					// adding chances (and sorting for weighted)
+					for (let i = 0; i < ssrPool.length; i++) {
+						if (ssrPool[i].manufacturer != 'Pilgrim') {
+							ssrPool[i].chance = (SSR_CHANCE - PILGRIM_CHANCE) / (ssrPool.length - pilgrims);
+						} else {
+							ssrPool[i].chance = PILGRIM_CHANCE / pilgrims;
+						}
+
+						weightedSorted[ssrPool[i].url] = ssrPool[i].chance;
+					}
+					for (let i = 0; i < srPool.length; i++) {
+						srPool[i].chance = SR_CHANCE / srPool.length;
+						weightedSorted[srPool[i].url] = srPool[i].chance;
+					}
+					for (let i = 0; i < rPool.length; i++) {
+						rPool[i].chance = R_CHANCE / rPool.length;
+						weightedSorted[rPool[i].url] = rPool[i].chance;
+					}
+
+					function prydslug(e) {
+						return go((e.url + '').replaceAll('-', ' '), prydwen.map((e) => e.slug.replaceAll('-', ' ')))[0].target.replaceAll(" ", '-');
+					}
+
+					// create pool display
+
+					/*
+					<div class="nikke-chance">
+						<div class="nikke-portrait">
+							<img src="" alt="" class="nikke">
+						</div>
+						<span class="nikke-name-gacha">I AM NIKKE NAME</span>
+						<span class="chance-number">100%</span>
+					</div>
+					*/
+
+					ssrPool.sort(function(a, b) {
+						return b.chance - a.chance;
+					});
+
+					srPool.sort(function(a, b) {
+						return b.chance - a.chance;
+					});
+
+					rPool.sort(function(a, b) {
+						return b.chance - a.chance;
+					});
+
+					let list = document.getElementById('gacha-pool');
+					let ass = [ssrPool, srPool, rPool];
+
+					ass.forEach((a) => {
+						a.forEach((e) => {
+							let div = document.createElement('div');
+							div.classList.add('nikke-chance');
+
+							let porDiv = document.createElement('div');
+							porDiv.classList.add('nikke-portrait');
+							porDiv.classList.add('smaller');
+							div.appendChild(porDiv);
+
+							let img = document.createElement('img');
+							img.src = "https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png";
+							img.classList.add('nikke');
+							img.classList.add('smaller');
+							img.classList.add(e.rarity);
+							img.alt = e.name;
+							porDiv.appendChild(img);
+
+							const a = document.createElement('a');
+							a.href = '/anisa/nikke/' + e.url;
+							a.classList.add('filler');
+							porDiv.appendChild(a);
+
+							let spanName = document.createElement('span');
+							spanName.classList.add('nikke-name-gacha');
+							spanName.innerHTML = e.name;
+							div.appendChild(spanName);
+
+							let spanNum = document.createElement('span');
+							spanNum.classList.add('chance-number');
+							spanNum.innerHTML = `${(e.chance * 100).toFixed(4)}%`
+							div.appendChild(spanNum);
+
+							list.appendChild(div);
+						});
+					});
+
+					refreshList([])
+
+					document.getElementById('once').addEventListener('click', (e) => {
+						let chosen = select(weightedSorted);
+
+						history.push({
+							type: 'one',
+							nikkes: [chosen]
+						});
+						
+						refreshList([chosen]);
+					});
+
+					document.getElementById('tens').addEventListener('click', (e) => {
+						let chosen = [];
+						for (let i = 0; i < 10; i++) {
+							chosen.push(select(weightedSorted));
+						}
+
+						history.push({
+							type: 'ten',
+							nikkes: chosen
+						});
+
+						refreshList(chosen);
+					});
+
+					function refreshList(list) {
+						let imgs = [];
+						let prevLength = history.length - 1;
+
+						for (let i = 0; i < 10; i++) {
+							let curCell = document.getElementById('c' + i);
+
+							curCell.classList.remove('r');
+							curCell.classList.remove('sr');
+							curCell.classList.remove('ssr');
+
+							while (curCell.firstChild) {
+								curCell.removeChild(curCell.lastChild);
+							}
+
+							if (list[i] !== undefined) {
+								let found = null;
+								let pool = rPool_s.includes(list[i]) ? rPool : (srPool_s.includes(list[i]) ? srPool : ssrPool);
+
+								pool.forEach((e) => {
+									if (e.url == list[i]) {
+										found = e;
+										return;
+									}
+								});
+
+								imgs.push(found);
+
+								let bggradient = '';
+
+								if (rPool_s.includes(list[i])) {
+									bggradient = "linear-gradient(to top, rgba(0, 210, 255, 0.1), rgba(0, 210, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))";
+									curCell.classList.add('r');
+								} else if (srPool_s.includes(list[i])) {
+									bggradient = "linear-gradient(to top, rgba(255, 44, 255, 0.1), rgba(255, 44, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))"
+									curCell.classList.add('sr');
+								} else if (ssrPool_s.includes(list[i])) {
+									bggradient = "linear-gradient(to top, rgba(254, 216, 0, 0.1), rgba(254, 216, 0, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0))";
+									curCell.classList.add('ssr');
+								}
+
+								const gradient = document.createElement('div');
+								gradient.classList.add('portrait-overlay');
+								gradient.classList.add('portrait-gradient');
+								gradient.style.background = bggradient;
+								curCell.appendChild(gradient);
+
+								const a = document.createElement('a');
+								a.href = '/anisa/nikke/' + list[i];
+								a.classList.add('filler');
+								curCell.appendChild(a);
+
+								const img = document.createElement('img');
+								img.alt = list[i];
+								img.classList.add('nikke-card-img');
+								img.style.opacity = '0';
+								a.appendChild(img);
+
+								fetch('https://api.dotgg.gg/nikke/character/' + list[i])
+									.then((e) => {
+										e.json().then((j) => {
+											img.src = "https://static.dotgg.gg/nikke/characters/" + j.imgBig + ".webp";
+											img.onload = (e) => {
+												img.style.opacity = '1';
+											}
+										});
+									});
+							}
+						}
+
+						// ${imgs.map((e) => `<div class="nikke-portrait smaller"><img src=${"https://nikke-db-legacy.pages.dev/images/sprite/" + e + ".png"} alt="ugh" /></div>`)}
+						if (list.length > 0) {
+							if (prevLength == 0) {
+								while (document.getElementById('history').firstChild) {
+									document.getElementById('history').removeChild(document.getElementById('history').lastChild);
+								}
+							}
+							let date = new Date();
+							document.getElementById('history').innerHTML = `
+							<div class="advise-question">
+								<h4 class="advise-main skill-main"><span>${list.length > 1 ? 'Ten Pulls' : 'Single Pull'}</span><span>${date.toDateString()} | ${date.getHours()}:${date.getMinutes()}</span></h4>
+								<div class="history-tray">
+									${imgs.map((e) => `<div class="nikke-portrait smaller"><img class="nikke smaller ${e.rarity}" src=${"https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png"} alt="ugh" /></div>`).join("")}
+								</div>
+							</div>
+							` + document.getElementById('history').innerHTML;
+
+							let mpulls = 0;
+							let spulls = 0;
+							
+							let tssrs = 0;
+							let tsrs = 0;
+							let trs = 0;
+							let tpils = 0;
+
+							let mssrs = 0;
+							let msrs = 0;
+							let mrs = 0;
+							let mpils = 0;
+							
+							let sssrs = 0;
+							let ssrs = 0;
+							let srs = 0;
+							let spils = 0;
+
+							for (let i = 0; i < history.length; i++) {
+								if (history[i].type == 'one') {
+									spulls++;
+								} else if (history[i].type == 'ten') {
+									mpulls++;
+								}
+
+								for (let j = 0; j < history[i].nikkes.length; j++) {
+									if (ssrPool_s.includes(history[i].nikkes[j])) {
+										tssrs++;
+										if (pilPool_s.includes(history[i].nikkes[j])) {
+											tpils++;
+
+											if (history[i].type == 'one') {
+												spils++;
+											} else if (history[i].type == 'ten') {
+												mpils++;
+											}
+										}
+
+										if (history[i].type == 'one') {
+											sssrs++;
+										} else if (history[i].type == 'ten') {
+											mssrs++;
+										}
+									} else if (srPool_s.includes(history[i].nikkes[j])) {
+										tsrs++;
+
+										if (history[i].type == 'one') {
+											ssrs++;
+										} else if (history[i].type == 'ten') {
+											msrs++;
+										}
+									} else if (rPool_s.includes(history[i].nikkes[j])) {
+										trs++;
+
+										if (history[i].type == 'one') {
+											srs++;
+										} else if (history[i].type == 'ten') {
+											mrs++;
+										}
+									}
+								}
+							}
+
+							let total = mpulls * 10 + spulls;
+
+							document.getElementById('tps').innerHTML = total;
+							document.getElementById('tssrs').innerHTML = tssrs;
+							document.getElementById('tsrs').innerHTML = tsrs;
+							document.getElementById('trs').innerHTML = trs;
+
+							document.getElementById('tpp').innerHTML = (tpils / total * 100).toFixed(4) + '% (' + tpils + ")";
+							document.getElementById('tssrp').innerHTML = (tssrs / total * 100).toFixed(4) + '%';
+							document.getElementById('tsrp').innerHTML = (tsrs / total * 100).toFixed(4) + '%';
+							document.getElementById('trp').innerHTML = (trs / total * 100).toFixed(4) + '%';
+
+							document.getElementById('mps').innerHTML = mpulls;
+							document.getElementById('mssrs').innerHTML = mssrs;
+							document.getElementById('msrs').innerHTML = msrs;
+							document.getElementById('mrs').innerHTML = mrs;
+
+							document.getElementById('mpp').innerHTML = (mpils / (mpulls * 10) * 100).toFixed(4) + '% (' + mpils + ")";
+							document.getElementById('mssrp').innerHTML = (mssrs / (mpulls * 10) * 100).toFixed(4) + '%';
+							document.getElementById('msrp').innerHTML = (msrs / (mpulls * 10) * 100).toFixed(4) + '%';
+							document.getElementById('mrp').innerHTML = (mrs / (mpulls * 10) * 100).toFixed(4) + '%';
+
+							document.getElementById('sps').innerHTML = spulls;
+							document.getElementById('sssrs').innerHTML = sssrs;
+							document.getElementById('ssrs').innerHTML = ssrs;
+							document.getElementById('srs').innerHTML = srs;
+
+							document.getElementById('spp').innerHTML = (spils / spulls * 100).toFixed(4) + '% (' + spils + ")";
+							document.getElementById('sssrp').innerHTML = (sssrs / spulls * 100).toFixed(4) + '%';
+							document.getElementById('ssrp').innerHTML = (ssrs / spulls * 100).toFixed(4) + '%';
+							document.getElementById('srp').innerHTML = (srs / spulls * 100).toFixed(4) + '%';
+
+						}
+					}
+
+				</script>
             </div>
         </div>
     </body>

@@ -291,7 +291,7 @@
         margin-bottom: 4px;
     }
 
-    div.skill-cell > h4.skill-main {
+    .skill-main {
         display: flex;
         margin: 8px;
         margin-bottom: 4px;
@@ -621,6 +621,102 @@
 
     i#result-stats {
         color: #999;
+    }
+
+    code {
+        font-size: 14px;
+        background-color: rgba(0, 0, 0, 0.4);
+        padding: 4px;
+        border-radius: 6px;
+    }
+
+    /* ORDINARY RECRUITMENT */
+
+    div.nikke-chance {
+        width: 90%;
+        height: min-content;
+
+        margin: 16px auto;
+        border: var(--dark) 1px solid;
+
+        border-radius: 4px;
+        background-image: radial-gradient(
+            at top right,
+            var(--darkerer),
+            var(--darkererer)
+        );
+        padding: 8px;
+        color: var(--lightererest);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    div.nikke-chance:hover {
+        background-image: radial-gradient(at top right, #252525, #151515);
+    }
+
+    div.nikke-portrait.smaller, img.nikke.smaller {
+        width: 48px;
+        height: 48px;
+    }
+
+    span.nikke-name-gacha {
+        font-size: 18px;
+        font-weight: bold;
+        display: block;
+        text-align: left;
+    }
+
+    div.nikke-chance span.chance-number {
+        font-size: 24px;
+        font-family: 'Abolition', monospace;
+    }
+
+    img.nikke-card-img {
+        height: 100%;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: opacity 0.2s ease-in-out;
+    }
+
+    div.nikke-card {
+        border: var(--darker) 1px solid;
+    }
+
+    div.nikke-card.r, img.nikke.r {
+        border: rgba(0, 210, 255) 1px solid;
+    }
+
+    div.nikke-card.sr, img.nikke.sr {
+        border: rgba(255, 44, 255) 1px solid;
+    }
+
+    div.nikke-card.ssr, img.nikke.ssr {
+        border: rgba(254, 216, 0) 1px solid;
+    }
+
+    a.filler {
+        width: 100%;
+        height: 100%;
+        z-index: 420;
+        position: absolute;
+        top:0;
+        left: 0;
+    }
+
+    div.history-tray {
+        display: flex;
+        gap: 8px;
+        justify-content: center;
+        align-items: center;
+        width: calc(100% - 32px);
+        margin: 8px auto;
+        flex-wrap: wrap;
     }
 
     /* ASPECT RATIO STUFF */

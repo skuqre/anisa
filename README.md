@@ -16,6 +16,4 @@ but then again the sites below could just block me /shrug
 
 ---
 
-information:
-- [nikke.gg](https://nikke.gg)
-- [prydwen.gg](https://prydwen.gg)
+[up-to-date site credits](https://skuqre.github.io/anisa/credits/)

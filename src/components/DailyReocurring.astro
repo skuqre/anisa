@@ -1,40 +1,61 @@
 ---
+import fireSpark from '../../public/data/particles/fire-spark.json';
 ---
 
-<div class="special-interception">
-    <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0));"></div>
-    <img src="" alt="SI boss" class="boss-bg" id="si-boss" draggable="false">
-    <span class="si-text">
-        <div>
-            <span class="si-title">SPECIAL INTERCEPTION</span><br>
-            <span class="si-boss" id="si-boss-name"></span>
-        </div>
-    </span>
-</div>
-<div class="tribe-towers">
-    <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(0, 216, 255, 0.075), rgba(0, 216, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0));"></div>
-    <span class="tt-title">TRIBE TOWERS</span>
-    <div class="tt-towers">
-        <div id="t-ely" class="tower">
-            <div class="imgicon"><img src="/anisa/images/manu_elysion.png" alt="Elysion" /></div>
-            Elysion Tower
-        </div>
-        <div id="t-mis" class="tower">
-            <div class="imgicon"><img src="/anisa/images/manu_missilis.png" alt="Missilis" /></div>
-            Missilis Tower
-        </div>
-        <div id="t-tet" class="tower">
-            <div class="imgicon"><img src="/anisa/images/manu_tetra.png" alt="Tetra" /></div>
-            Tetra Tower
-        </div>
-        <div id="t-pil" class="tower">
-            <div class="imgicon"><img src="/anisa/images/manu_pilgrim.png" alt="Pilgrim" /></div>
-            Pilgrim Tower
+<div class="daily-reoccurring">
+    <div class="special-interception">
+        <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0));"></div>
+        <div id="pjs" class="particles"></div>
+        <img src="" alt="SI boss" class="boss-bg" id="si-boss" draggable="false">
+        <div id="pjs2" class="particles"></div>
+        <span class="si-text">
+            <div>
+                <span class="si-title">SPECIAL INTERCEPTION</span><br>
+                <span class="si-boss" id="si-boss-name"></span>
+            </div>
+        </span>
+    </div>
+    <div class="tribe-towers">
+        <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(0, 216, 255, 0.075), rgba(0, 216, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0));"></div>
+        <span class="tt-title">TRIBE TOWERS</span>
+        <div class="tt-towers">
+            <div id="t-ely" class="tower">
+                <div class="imgicon"><img src="/anisa/images/manu_elysion.png" alt="Elysion" /></div>
+                Elysion Tower
+            </div>
+            <div id="t-mis" class="tower">
+                <div class="imgicon"><img src="/anisa/images/manu_missilis.png" alt="Missilis" /></div>
+                Missilis Tower
+            </div>
+            <div id="t-tet" class="tower">
+                <div class="imgicon"><img src="/anisa/images/manu_tetra.png" alt="Tetra" /></div>
+                Tetra Tower
+            </div>
+            <div id="t-pil" class="tower">
+                <div class="imgicon"><img src="/anisa/images/manu_pilgrim.png" alt="Pilgrim" /></div>
+                Pilgrim Tower
+            </div>
         </div>
     </div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" integrity="sha512-Kef5sc7gfTacR7TZKelcrRs15ipf7+t+n7Zh6mKNJbmW+/RRdCW9nwfLn4YX0s2nO6Kv5Y2ChqgIakaC6PW09A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script define:vars={{fireSpark}}>
+    window.onload = function() {
+        window.particlesJS.load('pjs', '../../public/data/particles/fire-spark.json');
+        window.particlesJS.load('pjs2', '../../public/data/particles/fire-spark.json');
+    };
+</script>
+
+
 <style>
+    div.daily-reoccurring {
+        display: flex;
+        gap: 16px;
+        flex-direction: column;
+    }
+
     div.special-interception, div.tribe-towers {
         width: 100%;
         height: 150px;
@@ -171,12 +192,21 @@
 
         position: absolute;
     }
+
+    div.particles {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
 </style>
 
 <script>
     // lost my fucking mind at this
     // don't mind me :)
     // this also doesnt work properly
+
     setInterval(() => {
         let now = new Date(); // local
 

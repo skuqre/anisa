@@ -1,0 +1,91 @@
+---
+---
+
+<div class="gacha">
+    <div class="table-10">
+        <div class="nikke-card" id="c0"></div>
+        <div class="nikke-card" id="c1"></div>
+        <div class="nikke-card" id="c2"></div>
+        <div class="nikke-card" id="c3"></div>
+        <div class="nikke-card" id="c4"></div>
+        <div class="nikke-card" id="c5"></div>
+        <div class="nikke-card" id="c6"></div>
+        <div class="nikke-card" id="c7"></div>
+        <div class="nikke-card" id="c8"></div>
+        <div class="nikke-card" id="c9"></div>
+    </div>
+    <div class="pull-table">
+        <div class="pull" id="once"><b>Pull once</b></div>
+        <div class="pull" id="tens"><b>Pull x10</b></div>
+    </div>
+</div>
+
+<style>
+    div.table-10 {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        justify-content: center;
+        width: 100%;
+    }
+
+    div.pull-table {
+        display: flex;
+        gap: 16px;
+        justify-content: center;
+        align-content: center;
+        width: 100%;
+        margin-top: 16px;
+    }
+
+    div.pull {
+        background-image: radial-gradient(
+            at top right,
+            #00aaff,
+            #0066ff
+        );
+        color: white;
+        text-shadow: black 0 0 4px;
+        width: max-content;
+        height: max-content;
+        font-size: 16px;
+        border-radius: 4px;
+        border: white 1px solid;
+        padding: 12px 20px;
+        text-align: center;
+        user-select: none;
+    }
+
+    div.pull:hover {
+        background-image: radial-gradient(
+            at top right,
+            #0099ee,
+            #0055ee
+        );
+
+        cursor: pointer;
+    }
+
+    div.nikke-card {
+        flex-basis: calc((100% / 5) - (((5 - 1) / 5) * 16px));
+        height: auto;
+        aspect-ratio: 125 / 300;
+        max-width: 125px;
+        max-height: 300px;
+
+        border-radius: 4px;
+
+        background-image: radial-gradient(
+            at top right,
+            var(--darkerer),
+            var(--darkererer)
+        );
+
+        position: relative;
+        overflow: hidden;
+    }
+
+    div.nikke-card:hover {
+        background-image: radial-gradient(at top right, #252525, #151515);
+    }
+</style>
