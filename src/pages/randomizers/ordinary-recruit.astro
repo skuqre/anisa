@@ -495,7 +495,7 @@ import limitData from '../../../public/data/limited.json';
 							let date = new Date();
 							document.getElementById('history').innerHTML = `
 							<div class="advise-question">
-								<h4 class="advise-main skill-main"><span>${list.length > 1 ? 'Ten Pulls' : 'Single Pull'}</span><span>${date.toDateString()} | ${date.getHours()}:${date.getMinutes()}</span></h4>
+								<h4 class="advise-main skill-main"><span>${list.length > 1 ? 'Ten Pulls' : 'Single Pull'}</span><span>${date.toDateString().padStart(2, '0')} | ${date.getHours().padStart(2, '0')}:${date.getMinutes()}</span></h4>
 								<div class="history-tray">
 									${imgs.map((e) => `<div class="nikke-portrait smaller"><img class="nikke smaller ${e.rarity}" src=${"https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png"} alt="ugh" /></div>`).join("")}
 								</div>
