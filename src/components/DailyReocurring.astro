@@ -227,7 +227,10 @@
             times[i].innerHTML = `${(hours + '').padStart(2, '0')}H ${(minutes + '').padStart(2, '0')}M ${(seconds + '').padStart(2, '0')}S`;
         }
 
-        const dayOfCountdown = (endUtcTime.getDay() - 1) % 6; // since its the next day, decrease by one to get to previous reset time
+        let dayOfCountdown = endUtcTime.getDay() - 1 % 6; // since its the next day, decrease by one to get to previous reset time
+        if (dayOfCountdown < 0) {
+            dayOfCountdown = 6;
+        }
 
         let bosses = [
             ['chatterbox', 'Chatterbox'],
