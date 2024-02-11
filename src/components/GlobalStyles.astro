@@ -4,6 +4,10 @@
         font-family: 'Abolition';
         src: url(/anisa/fonts/Abolition.ttf);
     }
+    @font-face {
+        font-family: 'Azonix';
+        src: url(/anisa/fonts/Azonix.otf);
+    }
 
     :root {
         --accent: #f4d259;
@@ -671,8 +675,9 @@
     }
 
     div.nikke-chance span.chance-number {
-        font-size: 24px;
-        font-family: 'Abolition', monospace;
+        font-size: 16px;
+        font-family: 'Azonix', monospace;
+        letter-spacing: 0.5px;
     }
 
     img.nikke-card-img {
@@ -717,6 +722,53 @@
         width: calc(100% - 32px);
         margin: 8px auto;
         flex-wrap: wrap;
+    }
+
+    .locked {
+        filter: grayscale(1.0);
+    }
+
+    .unlocked {
+        filter: grayscale(0);
+    }
+
+    div#inventory {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+    }
+
+    div#inventory div.nikke-portrait {
+        position: relative;
+        transition: filter 0.2s ease-in-out, scale 0.2s ease-in-out;
+    }
+
+    span.inv-counter {
+        display: block;
+        position: absolute;
+        width: 100%;
+        right: 0;
+        bottom: -6px;
+        text-align: right;
+        font-family: 'Pretendard', sans-serif;
+        font-weight: bold;
+        text-shadow: black 0 0 4px, black 0 0 4px;
+    }
+
+    div#inventory .locked img.nikke {
+        box-shadow: none !important;
+    }
+
+    div#inventory img.nikke.r {
+        box-shadow: rgba(0, 210, 255) 0 0 4px;
+    }
+
+    div#inventory img.nikke.sr {
+        box-shadow: rgba(255, 44, 255) 0 0 4px;
+    }
+
+    div#inventory img.nikke.ssr {
+        box-shadow: rgba(254, 216, 0) 0 0 4px;
     }
 
     /* ASPECT RATIO STUFF */

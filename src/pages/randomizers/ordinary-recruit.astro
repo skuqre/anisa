@@ -3,6 +3,7 @@ import GlobalStyles from "../../components/GlobalStyles.astro";
 import Header from "../../components/Header.astro";
 import Sidebar from "../../components/Sidebar.astro";
 import GACHASearchbar from '../../components/GACHASearchbar.astro';
+import Hover from "../../components/Hover.astro";
 import Gacha from '../../components/Gacha.astro';
 
 const response = await fetch('https://api.dotgg.gg/nikke/characters/');
@@ -40,9 +41,11 @@ import limitData from '../../../public/data/limited.json';
 				<h2>Caveats</h2>
 				<p>
 					This should work similarly to the one in the game, BUT:<br>
-					- This assumes that Pilgrims have a cumulative chance of <b>{0.005 * 100}%</b>.<br>
-					- The pool excludes <b>Rehabilitation</b> and <b>Limited</b> Nikkes.<br>
-					- The pool excludes Nikkes deemed by <b>Prydwen</b> as new. (some units may be included in the pool while not even being in the pool ingame)
+					<ul>
+						<li>This assumes that Pilgrims have a cumulative chance of <b>{0.005 * 100}%</b>.</li>
+						<li>The pool excludes <b>Rehabilitation</b> and <b>Limited</b> Nikkes.</li>
+						<li>The pool excludes Nikkes deemed by <b>Prydwen</b> as new. (some units may be included in the pool while not even being in the pool ingame)</li>
+					</ul>
 				</p>
 				<hr>
 
@@ -59,6 +62,10 @@ import limitData from '../../../public/data/limited.json';
 									There's nothing yet. You should pull!
 								</div>
 							</div>
+						</div>
+						<div>
+							<h2>Inventory</h2>
+							<div class="scroll-limit" id="inventory"></div>
 						</div>
 					</div>
 					<div class="build-stuff">
@@ -120,7 +127,12 @@ import limitData from '../../../public/data/limited.json';
 							<div class="info-table">
 								<table class="char-info">
 									<tr>
-										<th>Multi Pulls</th>
+										<th>
+											Multi pulls
+											<Hover content="ⁱ" hid="hmps">
+												Should be multiplied by 10 in calculations.
+											</Hover>
+										</th>
 										<td id="mps"></td>
 									</tr>
 									<tr>
@@ -349,6 +361,7 @@ import limitData from '../../../public/data/limited.json';
 					});
 
 					let list = document.getElementById('gacha-pool');
+					let inventory = document.getElementById('inventory');
 					let ass = [ssrPool, srPool, rPool];
 
 					ass.forEach((a) => {
@@ -385,6 +398,17 @@ import limitData from '../../../public/data/limited.json';
 							div.appendChild(spanNum);
 
 							list.appendChild(div);
+
+							const clone = porDiv.cloneNode(true);
+							clone.classList.add('locked');
+							clone.id = 'inv-' + e.url;
+
+							let text = document.createElement('span')
+							text.classList.add('inv-counter');
+							text.innerHTML = '0';
+							clone.appendChild(text);
+
+							inventory.appendChild(clone);
 						});
 					});
 
@@ -441,6 +465,14 @@ import limitData from '../../../public/data/limited.json';
 									}
 								});
 
+								let invNikke = document.getElementById('inv-' + list[i]);
+								let invCount = document.querySelectorAll('#inv-' + list[i] + " span.inv-counter")[0];
+
+								invNikke.classList.remove('locked');
+								invNikke.classList.remove('unlocked');
+								let count = parseInt(invCount.innerHTML);
+								invCount.innerHTML = count + 1;
+
 								imgs.push(found);
 
 								let bggradient = '';
@@ -495,7 +527,7 @@ import limitData from '../../../public/data/limited.json';
 							let date = new Date();
 							document.getElementById('history').innerHTML = `
 							<div class="advise-question">
-								<h4 class="advise-main skill-main"><span>${list.length > 1 ? 'Ten Pulls' : 'Single Pull'}</span><span>${date.toDateString().toString().padStart(2, '0')} | ${date.getHours().toString().padStart(2, '0')}:${date.getMinutes()}</span></h4>
+								<h4 class="advise-main skill-main"><span>${list.length > 1 ? 'Ten Pulls' : 'Single Pull'}</span><span>${date.toDateString()} | ${date.getHours().toString().padStart(2, '0')}:${date.getMinutes().toString().padStart(2, '0')}</span></h4>
 								<div class="history-tray">
 									${imgs.map((e) => `<div class="nikke-portrait smaller"><a class="filler" href='/anisa/nikke/${e.url}'><img class="nikke smaller ${e.rarity}" src=${"https://nikke-db-legacy.pages.dev/images/sprite/" + e.img + ".png"} alt="ugh" /></a></div>`).join("")}
 								</div>
