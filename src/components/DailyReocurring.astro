@@ -206,6 +206,8 @@
     // don't mind me :)
     // this also doesnt work properly
 
+    let ass = 0
+
     setInterval(() => {
         let now = new Date(); // local
 
@@ -233,11 +235,11 @@
         }
 
         let bosses = [
-            ['chatterbox', 'Chatterbox'],
-            ['modernia', 'Modernia'],
             ['train', 'Alteisen MK. VI'],
             ['gravedigger', 'Gravedigger'],
             ['blacksmith', 'Blacksmith'],
+            ['chatterbox', 'Chatterbox'],
+            ['modernia', 'Modernia'],
         ];
 
         const curBoss = bosses[dayOfCountdown % 5];
