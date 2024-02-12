@@ -267,6 +267,7 @@ import limitData from '../../../public/data/limited.json';
 										url: jsonresponsea[i].url,
 										manufacturer: jsonresponsea[i].manufacturer,
 										img: jsonresponsea[i].img,
+										bigImg: jsonresponsea[i].img.replace("si_", "").replace("_s", ""),
 										rarity: "ssr",
 										chance: -1
 									});
@@ -286,6 +287,7 @@ import limitData from '../../../public/data/limited.json';
 										url: jsonresponsea[i].url,
 										manufacturer: jsonresponsea[i].manufacturer,
 										img: jsonresponsea[i].img,
+										bigImg: jsonresponsea[i].img.replace("si_", "").replace("_s", ""),
 										rarity: "sr",
 										chance: -1
 									});
@@ -300,6 +302,7 @@ import limitData from '../../../public/data/limited.json';
 										url: jsonresponsea[i].url,
 										manufacturer: jsonresponsea[i].manufacturer,
 										img: jsonresponsea[i].img,
+										bigImg: jsonresponsea[i].img.replace("si_", "").replace("_s", ""),
 										rarity: "r",
 										chance: -1
 									});
@@ -503,17 +506,11 @@ import limitData from '../../../public/data/limited.json';
 								img.alt = list[i];
 								img.classList.add('nikke-card-img');
 								img.style.opacity = '0';
+								img.src = "https://static.dotgg.gg/nikke/characters/" + found.bigImg + ".webp";
+								img.onload = (e) => {
+									img.style.opacity = '1';
+								}
 								a.appendChild(img);
-
-								fetch('https://api.dotgg.gg/nikke/character/' + list[i])
-									.then((e) => {
-										e.json().then((j) => {
-											img.src = "https://static.dotgg.gg/nikke/characters/" + j.imgBig + ".webp";
-											img.onload = (e) => {
-												img.style.opacity = '1';
-											}
-										});
-									});
 							}
 						}
 
