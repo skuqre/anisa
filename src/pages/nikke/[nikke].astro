@@ -54,6 +54,15 @@ for (let i = 0; i < advisejson.length; i++) {
 	});
 }
 
+const mdTexts = await Astro.glob('../../../public/data/unit-specific-text/*.md');
+let RAWTEXT = "";
+
+mdTexts.forEach((e) => {
+	if (e.frontmatter.name == nikke) {
+		RAWTEXT = e.rawContent();
+	}
+})
+
 import limitData from '../../../public/data/limited.json';
 import variationsData from '../../../public/data/variations.json';
 import specialData from '../../../public/data/special.json';
@@ -245,8 +254,9 @@ import bgs from '../../../public/data/bgs.json';
 			</div>
 		</div>
 
-		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista, bgs}} type="module">
-			import {go} from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista, bgs, RAWTEXT}} type="module">
+			import { go } from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
+			import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
 
 			var prydRates = {
 				"11": ["SSS", "#e04be0"],
@@ -400,6 +410,26 @@ import bgs from '../../../public/data/bgs.json';
 			`
 
 			nikkeAbout += seeAlso.length <= 0 ? '' : `<br><br>${seeAlso}`;
+
+			let markedText = RAWTEXT;
+
+			let matches = [...markedText.matchAll(/\[hex::[^\]]*\]/gm)]
+			for (let i = 0; i < matches.length; i++) {
+				let element = `<span class="inlined-hex hex-gray"><img src="/anisa/images/${matches[i][0].replace("[", "").replace("]", "").split("::")[1]}.png" alt="hex icon genned by md" /></span>`;
+				markedText = markedText.replace(matches[i][0], element)
+			}
+
+			let matches2 = [...markedText.matchAll(/\|\|[^\|\|]*\|\|/gm)]; // spoilers
+			for (let i = 0; i < matches2.length; i++) {
+				markedText = markedText.replace(matches2[i][0], `<span class="spoiler">${matches2[i][0].replaceAll('||', '')}</span>`)
+			}
+
+
+			let parsedText = marked.parse(markedText);
+
+			if (parsedText.length > 0) {
+				nikkeAbout += "<h3>An Idiot's Description</h3>" + parsedText;
+			}
 			
 			document.getElementById('nikke-who').innerHTML = nikkeAbout.trim();
 			document.getElementById('nikke-fb-bg').src = `/anisa/images/portraitbgs/${bgs[d.url] === undefined ? "default" : bgs[d.url]}.png`;
