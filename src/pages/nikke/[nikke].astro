@@ -92,8 +92,8 @@ import bgs from '../../../public/data/bgs.json';
 
 				<div class="top-main">
 					<div class="img-wrapper">
-						<img id="nikke-fb-bg" src="/anisa/images/portraitbgs/default.png" alt="nikke bg" />
-						<img id="nikke-fb" src="" alt={ jsonresponse.name + " Full Body" } />
+						<img id="nikke-fb-bg" src="" alt="nikke bg" />
+						<div id="nikke-fb"></div>
 					</div>
 					<div class="rate-wrapper">
 						<h2>Ratings</h2>
@@ -289,7 +289,7 @@ import bgs from '../../../public/data/bgs.json';
 			let d = jsonresponse;
 
 			console.log(d);
-			document.getElementById('nikke-fb').src = "https://static.dotgg.gg/nikke/characters/" + d.imgBig + ".webp";
+			document.getElementById('nikke-fb').style.backgroundImage = `url(${"https://static.dotgg.gg/nikke/characters/" + d.imgBig + ".webp"})`;
 
 			if (pry.backstory != null) {
 				document.getElementById('nikke-bs').innerHTML = pry.backstory.backstory;

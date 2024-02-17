@@ -108,18 +108,28 @@
         position: relative;
     }
 
-    img#nikke-fb {
+    div#nikke-fb {
         margin: auto;
         width: auto;
         max-width: 600px;
         max-height: 600px;
+        width: 100%;
+        /* height: 100%; */
+        display: inline-block;
+        aspect-ratio: 1;
         z-index: 420;
+
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
     }
 
     img#nikke-fb-bg {
-        max-width: 90%;
-        height: 90%;
-        aspect-ratio: 1;
+        aspect-ratio: 1 / 1;
+        max-width: calc(600px * 0.9);
+        max-height: calc(600px * 0.9);
+        width: 90%;
+        /* height: 100%; */
         position: absolute;
         left: 50%;
         top: 50%;
@@ -788,10 +798,10 @@
             flex-direction: column;
         }
 
-        img#nikke-fb {
+        div#nikke-fb {
             width: 100%;
 
-            max-height: none;
+            max-height: 600px;
         }
 
         div.main {
