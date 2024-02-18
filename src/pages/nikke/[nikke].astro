@@ -424,7 +424,6 @@ import bgs from '../../../public/data/bgs.json';
 				markedText = markedText.replace(matches2[i][0], `<span class="spoiler">${matches2[i][0].replaceAll('||', '')}</span>`)
 			}
 
-
 			let parsedText = marked.parse(markedText);
 
 			if (parsedText.length > 0) {

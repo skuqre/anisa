@@ -24,7 +24,7 @@ import limitData from '../../../public/data/limited.json';
 		<meta name="generator" content={Astro.generator} />
 
 		<title>Anisa - Ordinary Recruit</title>
-		<meta name="description" content="Just one more pull! I'll get her, I swear! Just one more! Test your luck!">
+		<meta name="description" content="Test your luck. Does not include Limited NIKKEs.">
 		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
 
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
@@ -387,6 +387,7 @@ import limitData from '../../../public/data/limited.json';
 
 							const a = document.createElement('a');
 							a.href = '/anisa/nikke/' + e.url;
+							a.ariaLabel = e.name;
 							a.classList.add('filler');
 							porDiv.appendChild(a);
 
@@ -497,6 +498,11 @@ import limitData from '../../../public/data/limited.json';
 								gradient.style.background = bggradient;
 								curCell.appendChild(gradient);
 
+								const manu = document.createElement('img');
+								manu.classList.add('manu');
+								manu.src = `/anisa/images/manu_${found.manufacturer.toLowerCase()}.png`;
+								curCell.appendChild(manu);
+
 								const a = document.createElement('a');
 								a.href = '/anisa/nikke/' + list[i];
 								a.classList.add('filler');
@@ -511,6 +517,17 @@ import limitData from '../../../public/data/limited.json';
 									img.style.opacity = '1';
 								}
 								a.appendChild(img);
+
+								const rarity = document.createElement('span');
+								rarity.classList.add('rarity-text');
+								rarity.innerHTML = found.rarity.toUpperCase();
+								curCell.appendChild(rarity);
+
+								const rarGlow = document.createElement('span');
+								rarGlow.classList.add('rarglow');
+								rarGlow.classList.add(found.rarity);
+								rarGlow.innerHTML = found.rarity.toUpperCase();
+								curCell.appendChild(rarGlow);
 							}
 						}
 

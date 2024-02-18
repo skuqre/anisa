@@ -715,12 +715,62 @@
         border: rgba(254, 216, 0) 1px solid;
     }
 
+    span.rarity-text {
+        position: absolute;
+        bottom: 24px;
+        left: 8px;
+        z-index: 423;
+
+        font-family: 'Abolition', monospace;
+        font-size: 64px;
+        color: #0000;
+        -webkit-text-stroke: 1px white;
+
+        letter-spacing: 2px;
+        pointer-events: none;
+    }
+
+    span.rarglow {
+        filter: blur(2px);
+        position: absolute;
+        bottom: 24px;
+        left: 8px;
+        z-index: 422;
+        font-family: 'Abolition', monospace;
+        font-size: 64px;
+        letter-spacing: 2px;
+        color: #0000;
+        pointer-events: none;
+    }
+
+    span.rarglow.r {
+        -webkit-text-stroke: 2px rgba(0, 210, 255);
+    }
+
+    span.rarglow.sr {
+        -webkit-text-stroke: 2px rgba(255, 44, 255);
+    }
+
+    span.rarglow.ssr {
+        -webkit-text-stroke: 2px rgba(254, 216, 0);
+    }
+
+    div.nikke-card > img.manu {
+        position: absolute;
+        right: -25px;
+        top: -25px;
+        width: 150px;
+        height: 150px;
+        opacity: 0.25;
+        z-index: 419;
+    }
+
     a.filler {
         width: 100%;
         height: 100%;
         z-index: 420;
         position: absolute;
-        top:0;
+        top: 0;
         left: 0;
     }
 
