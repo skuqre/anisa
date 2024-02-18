@@ -1,5 +1,6 @@
 ---
 layout: ../layouts/md.astro
+title: Why?
 ---
 
 # Why?

@@ -13,7 +13,8 @@ const {frontmatter} = Astro.props;
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 
-		<title>{frontmatter.title !== undefined ? (frontmatter.title.length != 0 ? frontmatter.title + " - Anisa" : "Anisa") : "Anisa"}</title>
+		<title>{frontmatter.title !== undefined ? (frontmatter.title.length != 0 ? "Anisa - " + frontmatter.title : "Anisa") : "Anisa"}</title>
+		<meta name="title" content="Anisa">
 		<meta name="description" content="Anisa is a soon-to-be awful NIKKE information aggregator that collects information from other sites in order to function for once in its' goddamn life.">
 		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
 

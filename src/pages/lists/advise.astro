@@ -1,0 +1,117 @@
+---
+import GlobalStyles from "../../components/GlobalStyles.astro";
+import Header from "../../components/Header.astro";
+import Sidebar from "../../components/Sidebar.astro";
+import ADVISESearchbar from '../../components/ADVISESearchbar.astro';
+import Hover from "../../components/Hover.astro";
+
+const adviselist = await fetch('https://api.dotgg.gg/nikke/advise');
+const advisejson = await adviselist.json();
+
+const adviseClean: any = [];
+for (let i = 0; i < advisejson.length; i++) {
+	adviseClean.push({
+        "character": advisejson[i].nikke,
+        "slug": advisejson[i].nikke.replaceAll(/[\\\/:*?"<>|]/g, "").toLowerCase().replaceAll(" ", '-').trim(),
+		"query": advisejson[i].question.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+		"good": advisejson[i].goodanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+		"bad": advisejson[i].badanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+	});
+}
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+
+		<title>Anisa - Advise List</title>
+        <meta name="title" content="Anisa">
+		<meta name="description" content="The Whole Ass Advise List">
+		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
+
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+	</head>
+	<body>
+        <Header />
+        <Sidebar />
+		<div class="main">
+			<div class="wrapper">
+                <h1>
+                    Advise List
+                    <Hover content=`*` hid="advise">
+                        <b>Colors are marked as follows:</b>
+                        <span class="advise-right">Right answer</span>
+                        <span class="advise-wrong">Wrong answer</span>
+                    </Hover>
+                </h1>
+
+                <p>People mostly say "live with your mistakes," but if you're just looking to max your Nikke advise sessions, you can look the answers/questions here.</p>
+                <p>If you'd like to search from a specific character's advise list, please just head to their respective page.</p>
+
+				<hr>
+                <ADVISESearchbar />
+                <div class="scroll-limit" id="advise-list"></div>
+                <p class="bottom-redirects"><i id="result-stats"></i></p>
+
+				<script define:vars={{adviseClean}} type="module">
+                    import { go } from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
+
+                    document.getElementById('advise-searchbar').addEventListener('input', (e) => {
+                        let dupe = [...adviseClean];
+                        let ass = go(document.getElementById("advise-searchbar").value.trim(), dupe, {keys: ['character', 'query', 'good', 'bad'], all: true});
+                        let ass2 = []
+                        ass2 = ass.map(e => e.obj);
+                        refreshAdvise(ass2, true);
+                    })
+
+                    refreshAdvise(adviseClean, false);
+
+                    function refreshAdvise(adviseList, isSearch) {
+                        let now = new Date();
+                        
+                        document.getElementById('advise-list').innerHTML = '';
+
+                        if (adviseList.length > 0) {
+                            for (let j = 0; j < adviseList.length; j++) {
+                                const advise = adviseList[j];
+
+                                const cellDiv = document.createElement("div");
+                                cellDiv.classList.add("advise-question");
+
+                                const header = document.createElement("h4");
+                                header.classList.add("advise-main");
+                                header.innerHTML = `<a href="/anisa/nikke/${advise.slug}">${advise.character}</a><span style="font-weight: normal;">: ${advise.query}</span>`;
+                                cellDiv.appendChild(header);
+                                
+                                
+                                const right = document.createElement("span");
+                                right.classList.add("advise-right");
+                                right.innerHTML = advise.good;
+                                cellDiv.appendChild(right);
+
+                                const wrong = document.createElement("span");
+                                wrong.classList.add("advise-wrong");
+                                wrong.innerHTML = advise.bad;
+                                cellDiv.appendChild(wrong);
+
+                                document.getElementById('advise-list').appendChild(cellDiv);
+                            }
+                        } else {
+                            document.getElementById('advise-list').innerHTML = isSearch ? "No results found." : "There are no advise sessions with this Nikke.";
+                            if (!isSearch) {
+                                document.getElementById('advise-search').style.display = 'none';
+                            }
+                        }
+
+                        document.getElementById('result-stats').innerHTML = `${adviseList.length} result(s) in ${(new Date() - now) / 1000} seconds.`
+                    }
+				</script>
+            </div>
+        </div>
+    </body>
+</html>
+
+<GlobalStyles />

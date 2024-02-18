@@ -1,4 +1,4 @@
-# Anisa (BETA)
+# Anisa (INDEV)
 
 a soon-to-be awful site that collects nikke information from other sites
 
