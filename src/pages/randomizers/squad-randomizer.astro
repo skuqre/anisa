@@ -1,0 +1,47 @@
+---
+import GlobalStyles from "../../components/GlobalStyles.astro";
+import Header from "../../components/Header.astro";
+import Sidebar from "../../components/Sidebar.astro";
+import Hover from "../../components/Hover.astro";
+import RandomizerOptions from "../../components/RandomizerOptions.astro";
+
+const response = await fetch('https://api.dotgg.gg/nikke/characters/');
+const jsonresponsea = await response.json();
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+
+		<title>Anisa - Random Squad</title>
+		<meta name="title" content="Anisa">
+		<meta name="description" content="Anisa is a soon-to-be awful NIKKE information aggregator that collects information from other sites in order to function for once in its' goddamn life.">
+		<meta content="#f4d259" data-react-helmet="true" name="theme-color" />
+
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+	</head>
+	<body>
+        <Header />
+        <Sidebar />
+		<div class="main">
+			<div class="wrapper">
+                <h1>Squad Randomizer</h1>
+				<p>Randomly generate a squad with a passive-aggressive judger.</p>
+
+                <hr>
+
+				<div class="squad"></div>
+				<RandomizerOptions />
+
+				<script>
+
+				</script>
+            </div>
+        </div>
+    </body>
+</html>
+
+<GlobalStyles />

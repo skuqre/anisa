@@ -1,0 +1,198 @@
+---
+import Hover from "./Hover.astro";
+---
+
+
+<div class="soption-tray">
+    <div class="squadcomp-picker">
+        <b>Burst Stage</b>
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/burst_1.png" alt="Burst 1" title="Burst 1" /></span> <i class="con">Burst 1</i></b>
+            <input type="number" class="lvl" id="burst1" value="1" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/burst_2.png" alt="Burst 2" title="Burst 2" /></span> <i class="con">Burst 2</i></b>
+            <input type="number" class="lvl" id="burst2" value="1" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/burst_3.png" alt="Burst 3" title="Burst 3" /></span> <i class="con">Burst 3</i></b>
+            <input type="number" class="lvl" id="burst2" value="3" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/burst_p.png" alt="Burst All" title="Burst All" /></span> <i class="con">Burst All</i></b>
+            <input type="number" class="lvl" id="burstp" value="0" />
+        </span>
+    </div>
+
+    <div class="squadcomp-picker">
+        <b>Rarity</b>
+        <span class="squad-option">
+            <b>SSR</b>
+            <input type="number" class="lvl" id="ssrs" value="5" />
+        </span>
+
+        <span class="squad-option">
+            <b>SR</b>
+            <input type="number" class="lvl" id="srs" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b>R</b>
+            <input type="number" class="lvl" id="rs" value="0" />
+        </span>
+    </div>
+
+    <div class="squadcomp-picker">
+        <b>Weapon</b>
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='filter: invert(1)'><img src="/anisa/images/sight_ar.png" alt="Assault Rifle" title="Assault Rifle" /></span> <i class="con">Assault Rifle</i></b>
+            <input type="number" class="lvl" id="w-ar" value="0" />
+        </span>
+        
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='filter: invert(1)'><img src="/anisa/images/sight_mg.png" alt="Minigun" title="Minigun" /></span> <i class="con">Minigun</i></b>
+            <input type="number" class="lvl" id="w-mg" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='filter: invert(1)'><img src="/anisa/images/sight_rl.png" alt="Rocket Launcher" title="Rocket Launcher" /></span> <i class="con">Minigun</i></b>
+            <input type="number" class="lvl" id="w-rl" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='filter: invert(1)'><img src="/anisa/images/sight_sg.png" alt="v" title="Shotgun" /></span> <i class="con">Shotgun</i></b>
+            <input type="number" class="lvl" id="w-sg" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='filter: invert(1)'><img src="/anisa/images/sight_smg.png" alt="Sub-machine Gun" title="Sub-machine Gun" /></span> <i class="con">Sub-machine Gun</i></b>
+            <input type="number" class="lvl" id="w-smg" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='filter: invert(1)'><img src="/anisa/images/sight_sr.png" alt="Sniper Rifle" title="Sniper Rifle" /></span> <i class="con">Sniper Rifle</i></b>
+            <input type="number" class="lvl" id="w-sr" value="0" />
+        </span>
+    </div>
+
+    <div class="squadcomp-picker">
+        <b>Class</b>
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/class_attacker.png" alt="Attacker" title="Attacker" /></span> <i class="con">Attacker</i></b>
+            <input type="number" class="lvl" id="c-att" value="5" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/class_defender.png" alt="Defender" title="Defender" /></span> <i class="con">Defender</i></b>
+            <input type="number" class="lvl" id="c-def" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/class_supporter.png" alt="Supporter" title="Supporter" /></span> <i class="con">Supporter</i></b>
+            <input type="number" class="lvl" id="c-sup" value="0" />
+        </span>
+    </div>
+
+    <div class="squadcomp-picker">
+        <b>Manufacturer</b>
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/manu_elysion.png" alt="Elysion" title="Elysion" /></span> <i class="con">Elysion</i></b>
+            <input type="number" class="lvl" id="m-ely" value="5" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/manu_tetra.png" alt="v" title="Tetra Line" /></span> <i class="con">Tetra Line</i></b>
+            <input type="number" class="lvl" id="m-tet" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/manu_missilis.png" alt="Missilis" title="Missilis" /></span> <i class="con">Missilis</i></b>
+            <input type="number" class="lvl" id="m-mis" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/manu_pilgrim.png" alt="Pilgrim" title="Pilgrim" /></span> <i class="con">Pilgrim</i></b>
+            <input type="number" class="lvl" id="m-pil" value="0" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray"><img src="/anisa/images/manu_abnormal.png" alt="Abnormal" title="Abnormal" /></span> <i class="con">Abnormal</i></b>
+            <input type="number" class="lvl" id="m-abn" value="0" />
+        </span>
+    </div>
+
+    <div class="squadcomp-picker">
+        <b>Element</b>
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='background-image: url(/anisa/images/colored/hex_frame_fire.png)'><img src="/anisa/images/colored/ele_fire.png" alt="Fire" title="Fire" /></span> <i class="con">Fire</i></b>
+            <input type="number" class="lvl" id="c-att" value="1" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='background-image: url(/anisa/images/colored/hex_frame_water.png)'><img src="/anisa/images/colored/ele_water.png" alt="Water" title="Water" /></span> <i class="con">Water</i></b>
+            <input type="number" class="lvl" id="c-def" value="1" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='background-image: url(/anisa/images/colored/hex_frame_wind.png)'><img src="/anisa/images/colored/ele_wind.png" alt="Wind" title="Wind" /></span> <i class="con">Wind</i></b>
+            <input type="number" class="lvl" id="c-sup" value="1" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='background-image: url(/anisa/images/colored/hex_frame_iron.png)'><img src="/anisa/images/colored/ele_iron.png" alt="Iron" title="Iron" /></span> <i class="con">Iron</i></b>
+            <input type="number" class="lvl" id="c-sup" value="1" />
+        </span>
+
+        <span class="squad-option">
+            <b><span class="inlined-hex hex-gray" style='background-image: url(/anisa/images/colored/hex_frame_electric.png)'><img src="/anisa/images/colored/ele_electric.png" alt="Electric" title="Electric" /></span> <i class="con">Electric</i></b>
+            <input type="number" class="lvl" id="c-sup" value="1" />
+        </span>
+    </div>
+</div>
+
+<style>
+    div.soption-tray {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 16px;
+        margin: auto;
+        justify-content: center;
+        align-content: start;
+    }
+    
+    div.squadcomp-picker {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+
+        align-content: start;
+
+        background-image: radial-gradient( at top right, var(--darkerer), var(--darkererer) );
+        border: var(--dark) 1px solid;
+        border-radius: 4px;
+        padding: 16px;
+        width: max-content;
+        height: min-content;
+    }
+
+    span.squad-option {
+        display: flex;
+        gap: 16px;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    div.squadcomp-picker input {
+        margin: 0;
+        width: 100px;
+    }
+
+    i.con {
+        font-style: normal;
+        display: none;
+    }
+</style>
