@@ -235,14 +235,16 @@
         }
 
         let bosses = [
-            ['train', 'Alteisen MK. VI'],
-            ['gravedigger', 'Gravedigger'],
             ['blacksmith', 'Blacksmith'],
             ['chatterbox', 'Chatterbox'],
             ['modernia', 'Modernia'],
+            ['train', 'Alteisen MK. VI'],
+            ['gravedigger', 'Gravedigger'],
+            ['blacksmith', 'Blacksmith'],
+            ['chatterbox', 'Chatterbox']
         ];
 
-        const curBoss = bosses[dayOfCountdown % 5];
+        const curBoss = bosses[dayOfCountdown];
 
         let towers = [
             [false, false, true, false],
