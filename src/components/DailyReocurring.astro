@@ -240,11 +240,9 @@
             ['modernia', 'Modernia'],
             ['train', 'Alteisen MK. VI'],
             ['gravedigger', 'Gravedigger'],
-            ['blacksmith', 'Blacksmith'],
-            ['chatterbox', 'Chatterbox']
         ];
 
-        const curBoss = bosses[dayOfCountdown];
+        const curBoss = bosses[dayOfCountdown % 5];
 
         let towers = [
             [false, false, true, false],
