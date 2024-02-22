@@ -296,7 +296,7 @@
         let dayCurrent = endUtcTime.getDay();
         let wdays = 0;
         
-        if (dayCurrent > 2) {
+        if (dayCurrent >= 2) {
             wdays = 8 - dayCurrent; // go by next week, 6 + 2 (tuesday)
         } else {
             wdays = 2 - dayCurrent; // go by week's tuesday.
