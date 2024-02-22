@@ -276,6 +276,10 @@
         let utcTime = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), now.getUTCHours(), now.getUTCMinutes(), now.getUTCSeconds(), now.getUTCMilliseconds()); // local to utc
         let endUtcTime = new Date(utcTime.getFullYear(), utcTime.getMonth(), utcTime.getDate(), 20, 0, 0); // reset time based from local to utc time, time resets at hour 20
 
+        if (utcTime > endUtcTime) {
+            endUtcTime = new Date(utcTime.getFullYear(), utcTime.getMonth(), utcTime.getDate() + 1, 20, 0, 0);
+        }
+
         var times = document.querySelectorAll(".time.daily");
 
         let timeLeft = Math.abs(utcTime.getTime() - endUtcTime.getTime()); // for some reason, when multiplying by -1 (or wrapping in abs) it decreases an hour?
@@ -295,7 +299,7 @@
         if (dayCurrent > 2) {
             wdays = 8 - dayCurrent; // go by next week, 6 + 2 (tuesday)
         } else {
-            wdays = 2 - dayCurrent; // go by week's tuesday.
+            wdays = 1 - dayCurrent; // go by week's tuesday.
         }
 
         for (let i = 0; i < weeklies.length; i++) {
