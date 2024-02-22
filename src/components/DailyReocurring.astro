@@ -36,6 +36,16 @@
             </div>
         </div>
     </div>
+    <div class="weeklies common-card">
+        <span class="nikke-emboss">WEEKLY</span>
+        <span class="big-text">WEEKLY MISSIONS</span>
+        <span class="time weekly" title="Time until reset">00H 00M 00S</span>
+    </div>
+    <div class="dailies common-card">
+        <span class="nikke-emboss">DAILY</span>
+        <span class="big-text">DAILY MISSIONS</span>
+        <span class="time daily" title="Time until reset">00H 00M 00S</span>
+    </div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" integrity="sha512-Kef5sc7gfTacR7TZKelcrRs15ipf7+t+n7Zh6mKNJbmW+/RRdCW9nwfLn4YX0s2nO6Kv5Y2ChqgIakaC6PW09A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -199,6 +209,58 @@
         top: 0;
         left: 0;
     }
+
+    div.common-card {
+        padding: 16px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        overflow: hidden;
+    }
+
+    div.dailies, div.weeklies {
+        border: 1px var(--dark) solid;
+        border-radius: 4px;
+        background-image: radial-gradient(
+            at top left,
+            #f5f5f5,
+            #f5f5f5,
+            #cccccc
+        );
+    }
+
+    div.dailies .big-text, div.weeklies .big-text {
+        color: #323232;
+        padding-left: 8px;
+        border-left: 3px #00aeff solid;
+        z-index: 423;
+    }
+
+    div.dailies .time, div.weeklies .time {
+        background-color: var(--darkerer);
+        color: #f5f5f5;
+        border-radius: 0;
+        z-index: 424;
+    }
+
+    span.nikke-emboss {
+        position: absolute;
+        color: #000;
+        opacity: 0.15;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 32px;
+        font-size: 128px;
+        font-family: 'Abolition', sans-serif;
+        z-index: 422;
+    }
+
+    .big-text {
+        font-size: 32px;
+        line-height: 32px;
+        font-family: "Abolition", monospace;
+    }
 </style>
 
 <script>
@@ -214,19 +276,30 @@
         let utcTime = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), now.getUTCHours(), now.getUTCMinutes(), now.getUTCSeconds(), now.getUTCMilliseconds()); // local to utc
         let endUtcTime = new Date(utcTime.getFullYear(), utcTime.getMonth(), utcTime.getDate(), 20, 0, 0); // reset time based from local to utc time, time resets at hour 20
 
-        if (utcTime > endUtcTime) {
-            endUtcTime = new Date(utcTime.getFullYear(), utcTime.getMonth(), utcTime.getDate() + 1, 20, 0, 0);
-        }
+        var times = document.querySelectorAll(".time.daily");
 
         let timeLeft = Math.abs(utcTime.getTime() - endUtcTime.getTime()); // for some reason, when multiplying by -1 (or wrapping in abs) it decreases an hour?
         const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
         const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
         const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
 
-        var times = document.querySelectorAll(".time.daily");
-
         for (let i = 0; i < times.length; i++) {
             times[i].innerHTML = `${(hours + '').padStart(2, '0')}H ${(minutes + '').padStart(2, '0')}M ${(seconds + '').padStart(2, '0')}S`;
+        }
+
+        var weeklies = document.querySelectorAll(".time.weekly");
+
+        let dayCurrent = endUtcTime.getDay();
+        let wdays = 0;
+        
+        if (dayCurrent > 2) {
+            wdays = 8 - dayCurrent; // go by next week, 6 + 2 (tuesday)
+        } else {
+            wdays = 2 - dayCurrent; // go by week's tuesday.
+        }
+
+        for (let i = 0; i < weeklies.length; i++) {
+            weeklies[i].innerHTML = `${(wdays + '').padStart(2, '0')}D ${(hours + '').padStart(2, '0')}H ${(minutes + '').padStart(2, '0')}M ${(seconds + '').padStart(2, '0')}S`;
         }
 
         let dayOfCountdown = (endUtcTime.getDay() - 1) % 6; // since its the next day, decrease by one to get to previous reset time
