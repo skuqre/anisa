@@ -22,7 +22,14 @@ const prydresj = await prydres.json();
 
 // dev note: i have to replace all dashes with spaces for the fuzzy to work correctly
 // apparently "anis-sparkling-summer" and "sparkling-summer-anis" are not the same thing with dashes
-const prydslug = fuzzysort.go((nikke + '').replaceAll('-', ' '), prydresj.result.data.allCharacters.nodes.map((e: any) => e.slug.replaceAll('-', ' ')));
+let prydslug: any = fuzzysort.go((nikke + '').replaceAll('-', ' '), prydresj.result.data.allCharacters.nodes.map((e: any) => e.slug.replaceAll('-', ' ')));
+const defLength = prydslug.length;
+
+if (prydslug.length == 0) {
+	prydslug = [
+		{target: 'idoll-sun'}
+	];
+}
 
 const nikkegglink = 'https://api.dotgg.gg/nikke/character/' + nikke;
 
@@ -36,7 +43,37 @@ const prydlink = 'https://www.prydwen.gg/page-data/nikke/characters/' + prydslug
 const prydlinka = 'https://www.prydwen.gg/nikke/characters/' + prydslug[0].target.replaceAll(" ", '-');
 
 const ass = await fetch(prydlink);
-const prydjson = await ass.json();
+let prydjson = await ass.json();
+
+if (defLength == 0) {
+	prydjson = {
+		result: {
+				data: {
+				currentUnit: {
+					nodes: [
+						{
+							backstory: null,
+							cv: {
+								en: '',
+								jpn: '',
+								kr: ''
+							},
+							ratings: {
+								bossAdds: '1',
+								bossSolo: '1',
+								pvp: '1',
+								storyEarly: '1',
+								storyMid: '1',
+								storyEnd: '1'
+							},
+							releaseDate: ''
+						}
+					]
+				}
+			}
+		}
+	}
+}
 
 const adviselist = await fetch('https://api.dotgg.gg/nikke/advise');
 const advisejson = await adviselist.json();
@@ -593,7 +630,7 @@ import bgs from '../../../public/data/bgs.json';
 				desc = desc.replace(/[\.\!]+(?!\d)\s*|\n+\s*/g, `.<br>`);
 				
 				for (let i = 0; i < sentences.length; i++) {
-					if (sentences[i].startsWith("When")) {
+					if (sentences[i].startsWith("When used in Step")) {
 						let burst = ``;
 
 						if (sentences[i].includes("Step 1")) {

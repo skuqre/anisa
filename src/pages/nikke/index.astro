@@ -274,9 +274,14 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 							for (let i = 0; i < miscList.length; i++) {
 								if (jsonresponse[j] != null) {
-
 									let prydRes = null;
-									let slug = prydslug(jsonresponse[j])
+									let slug = null;
+
+									try {
+										slug = prydslug(jsonresponse[j]);
+									} catch (e) {
+										continue;
+									}
 
 									for (let i = 0; i < prydwen.length; i++) {
 										if (slug == prydwen[i].slug) {
