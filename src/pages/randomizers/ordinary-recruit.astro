@@ -2,6 +2,7 @@
 import GlobalStyles from "../../components/GlobalStyles.astro";
 import Header from "../../components/Header.astro";
 import Sidebar from "../../components/Sidebar.astro";
+import Footer from "../../components/Footer.astro";
 import GACHASearchbar from '../../components/GACHASearchbar.astro';
 import Hover from "../../components/Hover.astro";
 import Gacha from '../../components/Gacha.astro';
@@ -50,6 +51,10 @@ import limitData from '../../../public/data/limited.json';
 				</p>
 				<hr>
 
+				<p>You can exclude a Nikke from the pool by clicking the trash bin button next to the Nikke, this will also refresh the page to make the changes.</p>
+				<p>A new link will be generated, so if you'd like to share your simulated pool, you can do so by just sharing the link to others (however I recommend you shorten the link...)!</p>
+				<hr>
+
 				<div class="nikke-main">
 					<div class="fun-stuff">
 						<div>
@@ -71,7 +76,10 @@ import limitData from '../../../public/data/limited.json';
 					</div>
 					<div class="build-stuff">
 						<div>
-							<h2>Pool</h2>
+							<h2 class="header-with-side-element" style="align-items: flex-end;">
+								<span>Pool</span>
+								<span id="reset" style="display: none; font-size: 16px;"><a href="/anisa/randomizers/ordinary-recruit">Reset Pool</a></span>
+							</h2>
 							<!-- <GACHASearchbar /> -->
 							<div class="scroll-limit" id="gacha-pool"></div>
 						</div>
@@ -210,6 +218,30 @@ import limitData from '../../../public/data/limited.json';
 								</table>
 							</div>
 						</div>
+						<div>
+							<h2>Calculations</h2>
+							Since the addition of Nikke exclusion, I thought it'd be proper to add this.
+							<br><br>
+							Rates for each tier have a <b>constant</b> value.
+							<ul>
+								<li><b>For SSRs</b>: 4%</li>
+								<li><b>For SRs</b>: 43%</li>
+								<li><b>For Rs</b>: 53%</li>
+								<li><b>For Pilgrims</b>: 0.5%</li>
+							</ul>
+							Pilgrims have a lower chance, so they have a different value for their overall rate.<br>
+							This number was achieved from:<br>
+							<code>0.05% * 10 (currently available as of 2/10/24) = 0.5%</code>
+							<br><br>
+							An SSR unit's rate is calculated as follows:<br>
+							<code>Unit Rate = (SSR Rate - Pilgrim Rate) / (Amount of SSRs - Amount of Pilgrims)</code>
+							<br><br>
+							Other tiers (SR, R, Pilgrim) are just calculated simple:<br>
+							<code>Unit Rate = Tier Rate / Amount of units in Tier</code>
+							<br><br>
+							All of these are put into each individual units and is put to a weighted randomizer.<br>
+							The weighted randomizer has no bias -- why the hell would I do that?
+						</div>
 					</div>
 				</div>
 
@@ -229,6 +261,15 @@ import limitData from '../../../public/data/limited.json';
 
 					// limited pool will also include the rehab nikkes to exclude
 					excludedNikkes = excludedNikkes.concat(excludedNikkes, ['guilty', 'sin', 'quency', 'nihilister']);
+
+					// exclude through urls
+					const urlSearchParams = new URLSearchParams(window.location.search);
+					const params = Object.fromEntries(urlSearchParams.entries());
+
+					if (params["excluded"] !== undefined) {
+						excludedNikkes = excludedNikkes.concat(excludedNikkes, params.excluded.split(','));
+						document.getElementById("reset").style.display = 'inline';
+					}
 
 					// limited pool will also include the "new" nikkes
 					for (let j = 0; j < jsonresponsea.length; j++) {
@@ -379,10 +420,37 @@ import limitData from '../../../public/data/limited.json';
 							let div = document.createElement('div');
 							div.classList.add('nikke-chance');
 
+							let spanImg = document.createElement('span');
+							spanImg.classList.add('gacha-pfp');
+							div.appendChild(spanImg);
+
 							let porDiv = document.createElement('div');
 							porDiv.classList.add('nikke-portrait');
 							porDiv.classList.add('smaller');
-							div.appendChild(porDiv);
+							spanImg.appendChild(porDiv);
+
+							let trash = document.createElement('div');
+							trash.classList.add('gacha-trash-bin');
+							trash.innerHTML = '<i class=\'bx bxs-trash\'></i>';
+							trash.title = "Exclude Nikke";
+							spanImg.appendChild(trash);
+
+							trash.addEventListener('click', (_) => {
+								let href = window.location;
+								let url = new URL(href);
+
+								let units = [];
+
+								if (url.searchParams.has("excluded")) {
+									units = url.searchParams.get("excluded").split(',');
+								}
+								units.push(e.url);
+
+								url.searchParams.set("excluded", units.join(","));
+
+								window.history.replaceState(null, null, url);
+								document.location.reload();
+							});
 
 							let img = document.createElement('img');
 							img.src = "https://static.dotgg.gg/nikke/characters/" + e.img + ".webp";
@@ -654,6 +722,7 @@ import limitData from '../../../public/data/limited.json';
 
 				</script>
             </div>
+			<Footer />
         </div>
     </body>
 </html>

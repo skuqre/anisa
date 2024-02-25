@@ -95,6 +95,9 @@
         margin-top: 100px;
 
         transition: margin-left, width, 0.2s ease-in-out;
+
+        flex-direction: column;
+        align-items: center;
     }
 
     div.wrapper {
@@ -693,6 +696,34 @@
     div.nikke-portrait.smaller, img.nikke.smaller {
         width: 48px;
         height: 48px;
+    }
+
+    span.gacha-pfp {
+        display: flex;
+        gap: 16px;
+        align-items: center;
+    }
+
+    div.gacha-trash-bin {
+        display: flex;
+        justify-content: center;
+        font-size: 24px;
+        align-items: center;
+        width: 32px;
+        height: 32px;
+        border: var(--dark) 1px solid;
+        border-radius: 4px;
+        background-image: radial-gradient( at top right, var(--darkerer), var(--darkererer) );
+
+        scale: 1;
+        transition: scale 0.2s ease-in-out;
+    }
+
+    div.gacha-trash-bin:hover {
+        scale: 1.1;
+        transition: scale 0.2s ease-in-out;
+
+        background-image: radial-gradient(at top right, #252525, #151515);
     }
 
     span.nikke-name-gacha {
