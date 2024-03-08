@@ -9,14 +9,37 @@ import Hover from "../../components/Hover.astro";
 const adviselist = await fetch('https://api.dotgg.gg/nikke/advise');
 const advisejson = await adviselist.json();
 
+import context from '../../../public/data/advise-contexts.json';
+import contexts from '../../../public/data/advise-contexts.json';
+
 const adviseClean: any = [];
 for (let i = 0; i < advisejson.length; i++) {
+
+    let shit = 0;
+	let context: any = contexts;
+
+	for (let k = 0; k < context[advisejson[i].nikke].length; k++) { // character list level
+		for (let l = 0; l < context[advisejson[i].nikke][k].length; l++) { // advise dialogue level
+			if (context[advisejson[i].nikke][k][l].includes(advisejson[i].question)) {
+				shit = k;
+				break;
+			}
+		}
+	}
+    
 	adviseClean.push({
         "character": advisejson[i].nikke,
         "slug": advisejson[i].nikke.replaceAll(/[\\\/:*?"<>|]/g, "").toLowerCase().replaceAll(" ", '-').trim(),
 		"query": advisejson[i].question.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
 		"good": advisejson[i].goodanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
 		"bad": advisejson[i].badanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+
+        "queryraw": advisejson[i].question,
+        "goodraw": advisejson[i].goodanswer,
+        "badraw": advisejson[i].badanswer,
+
+        "script": context[advisejson[i].nikke][shit],
+		"scriptconc": context[advisejson[i].nikke][shit].join(" ")
 	});
 }
 ---
@@ -51,18 +74,19 @@ for (let i = 0; i < advisejson.length; i++) {
 
                 <p>People mostly say "live with your mistakes," but if you're just looking to max your Nikke advise sessions, you can look the answers/questions here.</p>
                 <p>If you'd like to search from a specific character's advise list, please just head to their respective page.</p>
+                <p>This page is also <b>laggy as hell</b>.</p>
 
 				<hr>
                 <ADVISESearchbar />
                 <div class="scroll-limit" id="advise-list"></div>
                 <p class="bottom-redirects"><i id="result-stats"></i></p>
 
-				<script define:vars={{adviseClean}} type="module">
+				<script define:vars={{adviseClean, context}} type="module">
                     import { go } from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
 
                     document.getElementById('advise-searchbar').addEventListener('input', (e) => {
                         let dupe = [...adviseClean];
-                        let ass = go(document.getElementById("advise-searchbar").value.trim(), dupe, {keys: ['character', 'query', 'good', 'bad'], all: true});
+                        let ass = go(document.getElementById("advise-searchbar").value.trim(), dupe, {keys: ['character', 'query', 'good', 'bad', 'scriptconc'], all: true});
                         let ass2 = []
                         ass2 = ass.map(e => e.obj);
                         refreshAdvise(ass2, true);
@@ -87,7 +111,6 @@ for (let i = 0; i < advisejson.length; i++) {
                                 header.innerHTML = `<a href="/anisa/nikke/${advise.slug}">${advise.character}</a><span style="font-weight: normal;">: ${advise.query}</span>`;
                                 cellDiv.appendChild(header);
                                 
-                                
                                 const right = document.createElement("span");
                                 right.classList.add("advise-right");
                                 right.innerHTML = advise.good;
@@ -97,6 +120,50 @@ for (let i = 0; i < advisejson.length; i++) {
                                 wrong.classList.add("advise-wrong");
                                 wrong.innerHTML = advise.bad;
                                 cellDiv.appendChild(wrong);
+
+                                // check for context
+                                if (context[advise.character] !== undefined) {
+                                    let contextFinal = advise.script;
+
+                                    for (let k = 0; k < contextFinal.length; k++) {
+                                        if (contextFinal[k] == advise.goodraw) {
+                                            contextFinal[k] = `<span class="context-right">${contextFinal[k]}</span>`
+                                        } else if (contextFinal[k] == advise.badraw) {
+                                            contextFinal[k] = `<span class="context-wrong">${contextFinal[k]}</span>`
+                                        }
+                                        contextFinal[k].replaceAll("{AccountData.NickName}", "(you)");
+                                    }
+
+                                    const wrapper = document.createElement("div");
+                                    wrapper.classList.add("advise-context-wrapper");
+
+                                    const header = document.createElement("h4");
+                                    header.classList.add("advise-main");
+                                    header.classList.add("advise-context-view");
+                                    header.innerHTML = `<i class='bx bx-chevron-right'></i> View Transcript <span style="font-size: 12px;">(no names)</span>`;
+                                    wrapper.appendChild(header);
+
+                                    const p = document.createElement("span");
+                                    p.classList.add("advise-context");
+                                    p.setAttribute('shown', 'false')
+                                    p.innerHTML = contextFinal.join("<br>");
+                                    wrapper.appendChild(p);
+
+                                    let shown = false;
+                                    header.addEventListener("click", (_) => {
+                                        shown = !shown;
+
+                                        p.setAttribute('shown', shown + '')
+
+                                        header.innerHTML = `<i class='bx bx-chevron-${shown ? "down" : "right"}'></i> View Transcript <span style="font-size: 12px;">(no names)</span>`;
+                                    });
+
+                                    cellDiv.appendChild(wrapper);
+                                } else {
+                                    // for devs
+                                    // the parser i have isn't perfect
+                                    console.log(`[WARN] ${advise.character} does not have any transcripts!\nPlease warn the dev by posting an issue to the GitHub.`)
+                                }
 
                                 document.getElementById('advise-list').appendChild(cellDiv);
                             }

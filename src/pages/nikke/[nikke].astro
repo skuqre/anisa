@@ -80,15 +80,38 @@ const adviselist = await fetch('https://api.dotgg.gg/nikke/advise');
 const advisejson = await adviselist.json();
 
 const adviseClean: any = {};
+
+import context from '../../../public/data/advise-contexts.json';
+import contexts from '../../../public/data/advise-contexts.json';
+
 for (let i = 0; i < advisejson.length; i++) {
 	if (adviseClean[advisejson[i].nikke] === undefined) {
 		adviseClean[advisejson[i].nikke] = [];
+	}
+
+	let shit = 0;
+	let context: any = contexts;
+
+	for (let k = 0; k < context[advisejson[i].nikke].length; k++) { // character list level
+		for (let l = 0; l < context[advisejson[i].nikke][k].length; l++) { // advise dialogue level
+			if (context[advisejson[i].nikke][k][l].includes(advisejson[i].question)) {
+				shit = k;
+				break;
+			}
+		}
 	}
 
 	adviseClean[advisejson[i].nikke].push({
 		"query": advisejson[i].question.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
 		"good": advisejson[i].goodanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
 		"bad": advisejson[i].badanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+
+		"queryraw": advisejson[i].question,
+        "goodraw": advisejson[i].goodanswer,
+        "badraw": advisejson[i].badanswer,
+
+		"script": context[advisejson[i].nikke][shit],
+		"scriptconc": context[advisejson[i].nikke][shit].join(" ")
 	});
 }
 
@@ -294,7 +317,7 @@ import bgs from '../../../public/data/bgs.json';
 			<Footer />
 		</div>
 
-		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista, bgs, RAWTEXT}} type="module">
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista, bgs, RAWTEXT, context}} type="module">
 			import { go } from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
 			import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
 
@@ -547,14 +570,58 @@ import bgs from '../../../public/data/bgs.json';
 
 				if (adviseList[d.name] !== undefined && adviseList[d.name].length > 0) {
 					for (let i = 0; i < adviseList[d.name].length; i++) {
+						const cellDiv = document.createElement("div");
+						cellDiv.classList.add("advise-question");
+
 						let adviseCell = `
-						<div class="advise-question">
 							<h4 class="advise-main">${adviseList[d.name][i].query}</h4>
 							<span class="advise-right">${adviseList[d.name][i].good}</span>
 							<span class="advise-wrong">${adviseList[d.name][i].bad}</span>
-						</div>`
+						`
 
-						document.getElementById('advise-list').innerHTML += adviseCell;
+						cellDiv.innerHTML = adviseCell;
+
+						// check for context
+						if (context[d.name] !== undefined) {
+							let contextFinal = adviseList[d.name][i].script;
+
+							for (let k = 0; k < contextFinal.length; k++) {
+								if (contextFinal[k] == adviseList[d.name][i].goodraw) {
+									contextFinal[k] = `<span class="context-right">${contextFinal[k]}</span>`
+								} else if (contextFinal[k] == adviseList[d.name][i].badraw) {
+									contextFinal[k] = `<span class="context-wrong">${contextFinal[k]}</span>`
+								}
+								contextFinal[k].replaceAll("{AccountData.NickName}", "(you)");
+							}
+
+							const wrapper = document.createElement("div");
+							wrapper.classList.add("advise-context-wrapper");
+
+							const header = document.createElement("h4");
+							header.classList.add("advise-main");
+							header.classList.add("advise-context-view");
+							header.innerHTML = `<i class='bx bx-chevron-right'></i> View Transcript <span style="font-size: 12px;">(no names)</span>`;
+							wrapper.appendChild(header);
+
+							const p = document.createElement("span");
+							p.classList.add("advise-context");
+							p.setAttribute('shown', 'false')
+							p.innerHTML = contextFinal.join("<br>");
+							wrapper.appendChild(p);
+
+							let shown = false;
+							header.addEventListener("click", (_) => {
+								shown = !shown;
+
+								p.setAttribute('shown', shown + '')
+
+								header.innerHTML = `<i class='bx bx-chevron-${shown ? "down" : "right"}'></i> View Transcript <span style="font-size: 12px;">(no names)</span>`;
+							});
+
+							cellDiv.appendChild(wrapper);
+						}
+
+						document.getElementById('advise-list').appendChild(cellDiv);
 					}
 				} else {
 					document.getElementById('advise-list').innerHTML = isSearch ? "No results found." : "There are no advise sessions with this Nikke.";
@@ -566,7 +633,7 @@ import bgs from '../../../public/data/bgs.json';
 
 			document.getElementById('advise-searchbar').addEventListener('input', (e) => {
 				let dupe = [...adviseClean[jsonresponse.name]];
-				let ass = go(document.getElementById("advise-searchbar").value.trim(), dupe, {keys: ['query', 'good', 'bad'], all: true});
+				let ass = go(document.getElementById("advise-searchbar").value.trim(), dupe, {keys: ['query', 'good', 'bad', 'scriptconc'], all: true});
 				let ass2 = {}
 				ass2[jsonresponse.name] = ass.map(e => e.obj);
 				refreshAdvise(jsonresponse, ass2, true);

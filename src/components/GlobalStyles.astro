@@ -308,6 +308,55 @@
         margin-bottom: 4px;
     }
 
+    div.advise-context-wrapper {
+        background-color: black;
+        border-radius: 4px;
+        padding: 8px;
+        margin: 8px;
+        margin-top: 16px;
+        user-select: none;
+    }
+
+    span.advise-context {
+        padding: 8px;
+        display: block;
+
+        font-family: monospace;
+    }
+
+    span.advise-context[shown=false] {
+        display: none;
+    }
+
+    span.advise-context[shown=true] {
+        display: block;
+    }
+
+    h4.advise-context-view {
+        font-weight: normal;
+        border-bottom: none;
+        margin: 0;
+        padding: 0;
+        cursor: pointer;
+    }
+
+    h4.advise-context-view[shown=true] {
+        font-weight: normal;
+        border-bottom: unset;
+
+        padding-bottom: 16px;
+    }
+
+    span.context-right {
+        color: #2ced73;
+        background-color: #032e10;
+    }
+
+    span.context-wrong {
+        color: #fe000a;
+        background-color: #310000;
+    }
+
     .skill-main {
         display: flex;
         margin: 8px;
