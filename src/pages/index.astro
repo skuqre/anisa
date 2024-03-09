@@ -5,6 +5,7 @@ import Sidebar from "../components/Sidebar.astro";
 import Footer from "../components/Footer.astro";
 
 import DailyReocurring from "../components/DailyReocurring.astro";
+import MaintenanceBanner from "../components/MaintenanceBanner.astro";
 ---
 
 <html lang="en">
@@ -30,6 +31,8 @@ import DailyReocurring from "../components/DailyReocurring.astro";
                 <p>Anisa is currently in INDEV. Not all things you see here are final.</p>
                 <p>Also, Anisa is more of a proof-of-concept for now.</p>
 
+				<!-- <MaintenanceBanner /> -->
+
 				<div class="nikke-main">
 					<div class="fun-stuff">
 						<div>
@@ -37,12 +40,22 @@ import DailyReocurring from "../components/DailyReocurring.astro";
 							<DailyReocurring />
 						</div>
 						<div>
-							<h2>Current Events</h2>
+							<h2>Site Announcements</h2>
+							<div class="scroll-limit" id="announcements-posts"></div>
 						</div>
 					</div>
 					<div class="build-stuff">
 						<div>
-							<h2>Announcements</h2>
+							<h2>Current Events</h2>
+						</div>
+						<div>
+							<h2>Twitter</h2>
+							<div style="display: flex; justify-content: center;">
+								<div style="width: 90%;">
+									<a class="twitter-timeline" data-height="600" data-theme="dark" href="https://twitter.com/NIKKE_en?ref_src=twsrc%5Etfw">Tweets by NIKKE_en</a>
+									<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>

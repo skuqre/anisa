@@ -12,6 +12,8 @@ const advisejson = await adviselist.json();
 import context from '../../../public/data/advise-contexts.json';
 import contexts from '../../../public/data/advise-contexts.json';
 
+import colors from '../../../public/data/colors.json';
+
 const adviseClean: any = [];
 for (let i = 0; i < advisejson.length; i++) {
 
@@ -74,29 +76,32 @@ for (let i = 0; i < advisejson.length; i++) {
 
                 <p>People mostly say "live with your mistakes," but if you're just looking to max your Nikke advise sessions, you can look the answers/questions here.</p>
                 <p>If you'd like to search from a specific character's advise list, please just head to their respective page.</p>
-                <p>This page is also <b>laggy as hell</b>.</p>
 
 				<hr>
                 <ADVISESearchbar />
                 <div class="scroll-limit" id="advise-list"></div>
-                <p class="bottom-redirects"><i id="result-stats"></i></p>
+                <div class="searchoptions">
+                    <span>Amount of displayed search results <input type="number" class="lvl" id="advisecount" value="20" step="1" min="1" max="100" /></span>
+                </div>
 
-				<script define:vars={{adviseClean, context}} type="module">
+				<script define:vars={{adviseClean, context, colors}} type="module">
                     import { go } from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
 
-                    document.getElementById('advise-searchbar').addEventListener('input', (e) => {
+                    function search(e) {
                         let dupe = [...adviseClean];
-                        let ass = go(document.getElementById("advise-searchbar").value.trim(), dupe, {keys: ['character', 'query', 'good', 'bad', 'scriptconc'], all: true});
+                        let ass = go(document.getElementById("advise-searchbar").value.trim(), dupe, {keys: ['character', 'query', 'good', 'bad', 'scriptconc'], all: true, limit: parseInt(document.getElementById("advisecount").value)});
                         let ass2 = []
                         ass2 = ass.map(e => e.obj);
                         refreshAdvise(ass2, true);
-                    })
+                    }
 
-                    refreshAdvise(adviseClean, false);
+                    document.getElementById('advise-searchbar').addEventListener('input', search)
+                    document.getElementById('advisecount').addEventListener('input', search)
+
+                    // refreshAdvise(adviseClean, false);
+                    document.getElementById('advise-searchbar').dispatchEvent(new Event("input"));
 
                     function refreshAdvise(adviseList, isSearch) {
-                        let now = new Date();
-                        
                         document.getElementById('advise-list').innerHTML = '';
 
                         if (adviseList.length > 0) {
@@ -106,9 +111,15 @@ for (let i = 0; i < advisejson.length; i++) {
                                 const cellDiv = document.createElement("div");
                                 cellDiv.classList.add("advise-question");
 
+                                let nikkecolor = "#000000"
+
+                                if (Object.keys(colors).includes(advise.character)) {
+                                    nikkecolor = colors[advise.character];
+                                }
+
                                 const header = document.createElement("h4");
                                 header.classList.add("advise-main");
-                                header.innerHTML = `<a href="/anisa/nikke/${advise.slug}">${advise.character}</a><span style="font-weight: normal;">: ${advise.query}</span>`;
+                                header.innerHTML = `<span style="color: ${nikkecolor};">❚</span> <a href="/anisa/nikke/${advise.slug}">${advise.character}</a><span style="font-weight: normal;">: ${advise.query}</span>`;
                                 cellDiv.appendChild(header);
                                 
                                 const right = document.createElement("span");
@@ -173,8 +184,6 @@ for (let i = 0; i < advisejson.length; i++) {
                                 document.getElementById('advise-search').style.display = 'none';
                             }
                         }
-
-                        document.getElementById('result-stats').innerHTML = `${adviseList.length} result(s) in ${(new Date() - now) / 1000} seconds.`
                     }
 				</script>
             </div>
