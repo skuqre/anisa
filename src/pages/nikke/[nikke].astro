@@ -93,12 +93,11 @@ for (let i = 0; i < advisejson.length; i++) {
 	let context: any = contexts;
 
 	for (let k = 0; k < context[advisejson[i].nikke].length; k++) { // character list level
-		for (let l = 0; l < context[advisejson[i].nikke][k].length; l++) { // advise dialogue level
-			if (context[advisejson[i].nikke][k][l].includes(advisejson[i].question)) {
-				shit = k;
-				break;
-			}
-		}
+        var fuck = context[advisejson[i].nikke][k];
+        if (fuck.includes(advisejson[i].question) && fuck.includes(advisejson[i].goodanswer) && fuck.includes(advisejson[i].badanswer)) {
+            shit = k;
+            break;
+        }
 	}
 
 	adviseClean[advisejson[i].nikke].push({
