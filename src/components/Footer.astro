@@ -1,15 +1,18 @@
 ---
+
 ---
 
 <div class="footer">
     <span>anisa, an information aggregator made by skuqre. more projects at <a href="https://skuqre.github.io/">skuqre.github.io</a></span>
+    <span>you're running on commit <code><a href="/" id="commit" target="_blank"></a></code>. you can always report issues at the <a href="https://github.com/skuqre/anisa/issues">GitHub</a>.</span>
 </div>
 
 <style>
     div.footer {
         display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 8px;
         align-items: center;
         flex-wrap: wrap;
 
@@ -17,7 +20,8 @@
         color: var(--light);
 
         width: 100%;
-        height: 64px;
+        height: min-content;
+        padding: 16px 0;
 
         margin-top: 256px;
 
@@ -26,3 +30,15 @@
         text-align: center;
     }
 </style>
+
+<script>
+    fetch("https://api.github.com/repos/skuqre/anisa/commits/main")
+        .then((e) => {
+            e.json().then((j) => {
+                let ele = document.getElementById("commit") as any;
+
+                ele.innerHTML = j.sha.substring(0, 6);
+                ele.href = j.html_url;
+            });
+        });
+</script>

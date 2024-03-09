@@ -3,8 +3,8 @@
 ---
 
 <div class="navbar">
-    <h1 class="logo"><a href="/anisa/">Anisa</a></h1>
-    <a href="https://github.com/skuqre/anisa"><i class="bx bxl-github"></i> Github</a>
+    <h1 class="logo"><a href="/anisa/"><img src='/anisa/icon.png' alt='Logo'/> <span>Anisa</span></a></h1>
+    <a href="https://github.com/skuqre/anisa" target="_blank"><i class="bx bxl-github"></i> Github</a>
 
     <h1 class="sidebar-button" aria-label="Hide Sidebar"><i class='bx bx-menu'></i></h1>
 </div>
@@ -22,8 +22,15 @@
         box-shadow: 0 4px 16px rgba(0, 0, 0, 0.8);
     }
 
+    .navbar > a i.bx {
+        font-size: 24px;
+    }
+
     .navbar > a {
-        display: flexbox;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
 
         text-align: center;
         text-decoration: none;
@@ -70,6 +77,10 @@
 
     .navbar h1.logo a {
         color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
     }
 
     .navbar h1.logo a:hover {
@@ -88,6 +99,10 @@
         float: right;
         padding: 0;
         border: none;
+    }
+
+    .navbar img {
+        max-height: 32px;
     }
 </style>
 
