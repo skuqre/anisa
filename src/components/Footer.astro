@@ -4,7 +4,7 @@
 
 <div class="footer">
     <span>anisa, an information aggregator made by skuqre. more projects at <a href="https://skuqre.github.io/">skuqre.github.io</a></span>
-    <span>you're running on commit <code><a href="/" id="commit" target="_blank"></a></code>. you can always report issues at the <a href="https://github.com/skuqre/anisa/issues">GitHub</a>.</span>
+    <span>you're running on commit <code><a href="/" aria-label="Link to latest successful commit" id="commit" target="_blank"></a></code>. you can always report issues at the <a href="https://github.com/skuqre/anisa/issues">GitHub</a>.</span>
 </div>
 
 <style>
@@ -32,13 +32,48 @@
 </style>
 
 <script>
-    fetch("https://api.github.com/repos/skuqre/anisa/commits/main")
-        .then((e) => {
-            e.json().then((j) => {
-                let ele = document.getElementById("commit") as any;
+    var commits = await fetch("https://api.github.com/repos/skuqre/anisa/commits")
+    var commitsJson = await commits.json()
 
-                ele.innerHTML = j.sha.substring(0, 6);
-                ele.href = j.html_url;
-            });
-        });
+    var actions = await fetch("https://api.github.com/repos/skuqre/anisa/actions/runs")
+    var actionsJson = await actions.json()
+
+    for (let i = 0; i < commitsJson.length; i++) {
+        let commit = commitsJson[i];
+        let succeededAlready = false;
+
+        for (let j = 0; j < actionsJson.workflow_runs.length; j++) {
+            let action = actionsJson.workflow_runs[j];
+
+            if (action.head_sha == commit.sha && !succeededAlready) {
+                if (action.event == "scheduled") {
+                    continue
+                } else {
+                    if (action.conclusion == "success") {
+                        succeededAlready = true;
+                        break;
+                    } else {
+                        continue;
+                    }
+                }
+            }
+        }
+
+        if (!succeededAlready) {
+            continue;
+        } else {
+            let ele = document.getElementById("commit") as any;
+            ele.innerHTML = commit.sha.substring(0, 6);
+            ele.href = commit.html_url;
+            break;
+        }
+    }
+        // .then((e) => {
+        //     e.json().then((j) => {
+        //         let ele = document.getElementById("commit") as any;
+
+        //         ele.innerHTML = j.sha.substring(0, 6);
+        //         ele.href = j.html_url;
+        //     });
+        // });
 </script>
