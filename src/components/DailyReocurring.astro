@@ -1,5 +1,5 @@
 ---
-
+import Hover from "./Hover.astro";
 ---
 <div class="daily-reoccurring">
     <div class="special-interception">
@@ -13,6 +13,10 @@
                 <span class="si-boss" id="si-boss-name"></span>
             </div>
         </span>
+        <audio src="/" id="boss-theme"></audio>
+        <div class="boss-theme-player" id="boss-theme-player">
+            <i class='bx bx-play'></i>
+        </div>
     </div>
     <div class="tribe-towers">
         <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(0, 216, 255, 0.075), rgba(0, 216, 255, 0.05),rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0));"></div>
@@ -254,9 +258,40 @@
         line-height: 32px;
         font-family: "Abolition", monospace;
     }
+
+    div.boss-theme-player {
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        right: 16px;
+        bottom: 8px;
+        padding: 4px;
+        background-image: radial-gradient( at top right, var(--darkerer), var(--darkererer) );
+        border: 1px solid var(--darker);
+        border-radius: 50%;
+        text-align: center;
+    }
+
+    div.boss-theme-player:hover {
+        background-image: radial-gradient(at top right, #252525, #151515);
+    }
 </style>
 
 <script>
+    var playing = false;
+    let curAudio = "";
+
+    document.getElementById("boss-theme-player")?.addEventListener('click', (e) => {
+        playing = !playing;
+
+        (document.getElementById("boss-theme-player") as HTMLDivElement).innerHTML = playing ? "<i class='bx bx-pause'></i>" : "<i class='bx bx-play'></i>";
+
+        if (playing) {
+            (document.getElementById("boss-theme") as HTMLAudioElement).play();
+        } else {
+            (document.getElementById("boss-theme") as HTMLAudioElement).pause();
+        }
+    });
     // lost my fucking mind at this
     // don't mind me :)
     // this also doesnt work properly
@@ -265,7 +300,6 @@
 
     setInterval(() => {
         let now = new Date(); // local
-
         let utcTime = new Date(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), now.getUTCHours(), now.getUTCMinutes(), now.getUTCSeconds(), now.getUTCMilliseconds()); // local to utc
         let endUtcTime = new Date(utcTime.getFullYear(), utcTime.getMonth(), utcTime.getDate(), 20, 0, 0); // reset time based from local to utc time, time resets at hour 20
 
@@ -340,5 +374,13 @@
 
         (document.getElementById('si-boss') as any).src = '/anisa/images/si/' + curBoss[0] + '.png';
         (document.getElementById('si-boss-name') as any).innerHTML = curBoss[1];
+
+        let audio = (document.getElementById("boss-theme") as HTMLAudioElement);
+
+        if (curAudio != `/anisa/audio/si/${curBoss[0]}.flac`) {
+            curAudio = `/anisa/audio/si/${curBoss[0]}.flac`;
+            audio.src = `/anisa/audio/si/${curBoss[0]}.flac`;
+            audio.load()
+        }
     }, 500)
 </script>
