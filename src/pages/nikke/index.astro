@@ -11,6 +11,8 @@ const jsonresponsea = await response.json();
 const pryd = await fetch('https://www.prydwen.gg/page-data/nikke/characters/page-data.json');
 const prydjson = await pryd.json();
 const prydwen = prydjson.result.data.allCharacters.nodes
+
+import limitData from '../../../public/data/limited.json';
 ---
 
 <html lang="en">
@@ -46,7 +48,7 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 				<div class="nikke-table" id="nikketable"></div>
 				<p class="bottom-redirects"><i id="result-stats"></i></p>
 				
-				<script define:vars={{jsonresponsea, prydwen}} type="module">
+				<script define:vars={{jsonresponsea, prydwen, limitData}} type="module">
 					import {go} from "https://skuqre.github.io/anisa/fuzzysort.js";
 
 					let minimal = false;
@@ -77,6 +79,9 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 
 					let miscList = ["new", "changed"];
 					let misc = [false, false];
+
+					let misc2List = ["limited", "welfare", "rehab"];
+					let misc2 = [false, false, false];
 
 					let rarityList = ["ssr", "sr", "r"];
 					let rarities = [true, true, true];
@@ -163,6 +168,14 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 						});
 					}
 
+					for (let i = 0; i < misc2.length; i++) {
+						let immut = i;
+						document.querySelectorAll("div.picker span#" + misc2List[i])[0].addEventListener('pointerup', (e) => {
+							misc2[immut] = !misc2[immut];
+							refreshList();
+						});
+					}
+
 					function prydslug(e) {
 						return go((e.url + '').replaceAll('-', ' '), prydwen.map((e) => e.slug.replaceAll('-', ' ')))[0].target.replaceAll(" ", '-');
 					}
@@ -217,6 +230,10 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 						}
 						for (let i = 0; i < rarities.length; i++) {
 							document.querySelectorAll("div.picker span#r-" + rarityList[i])[0].style.opacity = rarities[i] ? "1.0" : "0.3";	
+						}
+
+						for (let i = 0; i < misc2.length; i++) {
+							document.querySelectorAll("div.picker span#" + misc2List[i])[0].style.opacity = misc2[i] ? "1.0" : "0.3";	
 						}
 
 						jsonresponse = jsonresponsea.map((x) => x);
@@ -298,6 +315,27 @@ const prydwen = prydjson.result.data.allCharacters.nodes
 									if ((prydRes.isUpdated !== null ? !prydRes.isUpdated : true) && ("changed" == miscList[i]) && misc[1]) {
 										jsonresponse[j] = null;
 									}
+								}
+							}
+
+							// limited
+							if (misc2[0]) {
+								if (!(Object.keys(limitData).includes(jsonresponse[j].url))) {
+									jsonresponse[j] = null;
+								}
+							}
+
+							// welfare
+							if (misc2[1]) {
+								if (!(["snow-white-innocent-days", "rei"].includes(jsonresponse[j].url))) {
+									jsonresponse[j] = null;
+								}
+							}
+
+							// rehab
+							if (misc2[2]) {
+								if (!(["guilty", "sin", "quency", "nihilister"].includes(jsonresponse[j].url))) {
+									jsonresponse[j] = null;
 								}
 							}
 

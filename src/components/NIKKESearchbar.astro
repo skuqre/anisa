@@ -1,4 +1,5 @@
 ---
+import Hover from "./Hover.astro";
 ---
 
 <div class="nikke-search">
@@ -105,11 +106,32 @@
         <div class="picker">
             <span id="new">
                 <i class="tag">NEW</i>
-                <i class="con">New units</i>
+                <i class="con">New Units</i>
             </span>
             <span id="changed">
                 <i class="tag">!!!</i>
-                <i class="con">Changed units</i>
+                <i class="con">Changed Units</i>
+            </span>
+        </div>
+        <div class="picker">
+            <span id="limited">
+                <i class="tag"><i class='bx bxs-time'></i></i>
+                <i class="con">Limited Units</i>
+            </span>
+            <span id="welfare">
+                <i class="tag"><i class='bx bxs-flag-alt'></i></i>
+                <i class="con">
+                    Welfare Units
+                    <Hover content="ⁱ" hid="welfare-def">
+                        <b>Welfare Units</b><br>
+                        Welfare units are SSRs given away for free in an event.<br>
+                        Copies are usually given out throughout the event to make the unit fully limit broken.
+                    </Hover>
+                </i>
+            </span>
+            <span id="rehab">
+                <i class="tag"><i class='bx bxs-taxi' ></i></i>
+                <i class="con">Rehabilitation Units</i>
             </span>
         </div>
         <div class="picker">
