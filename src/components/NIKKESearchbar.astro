@@ -12,8 +12,8 @@ import Hover from "./Hover.astro";
                 <div class="imgicon"><img src="/anisa/images/burst_1.png" alt="Burst 1" /></div>
                 <i class="con">Burst 1</i>
             </span>
-            <span id="burst2"><div class="imgicon">
-                <img src="/anisa/images/burst_2.png" alt="Burst 2" /></div>
+            <span id="burst2">
+                <div class="imgicon"><img src="/anisa/images/burst_2.png" alt="Burst 2" /></div>
                 <i class="con">Burst 2</i>
             </span>
             <span id="burst3">
@@ -236,6 +236,14 @@ import Hover from "./Hover.astro";
         font-family: 'Abolition', monospace;
         font-size: 24px;
         font-style: normal;
+    }
+
+    @media only screen and (max-width: 840px) {
+        div.nikke-search-wrapper {
+            max-width: 100%;
+            overflow-x: scroll;
+            justify-content: flex-start;
+        }
     }
 </style>
 
