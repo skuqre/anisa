@@ -9,7 +9,6 @@ import Hover from "../../components/Hover.astro";
 const adviselist = await fetch('https://api.dotgg.gg/nikke/advise');
 const advisejson = await adviselist.json();
 
-import context from '../../../public/data/advise-contexts.json';
 import contexts from '../../../public/data/advise-contexts.json';
 
 import colors from '../../../public/data/colors.json';
@@ -83,8 +82,11 @@ for (let i = 0; i < advisejson.length; i++) {
                     <span>Amount of displayed search results <input type="number" class="lvl" id="advisecount" value="20" step="1" min="1" /></span>
                 </div>
 
-				<script define:vars={{adviseClean, context, colors}} type="module">
+				<script define:vars={{adviseClean, colors}} type="module">
                     import { go } from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
+
+                    const contexta = await fetch("../../../anisa/data/advise-contexts.json");
+			        const context = await contexta.json();
 
                     function search(e) {
                         let dupe = [...adviseClean];

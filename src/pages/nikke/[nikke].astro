@@ -81,7 +81,6 @@ const advisejson = await adviselist.json();
 
 const adviseClean: any = {};
 
-import context from '../../../public/data/advise-contexts.json';
 import contexts from '../../../public/data/advise-contexts.json';
 
 for (let i = 0; i < advisejson.length; i++) {
@@ -316,9 +315,12 @@ import bgs from '../../../public/data/bgs.json';
 			<Footer />
 		</div>
 
-		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista, bgs, RAWTEXT, context}} type="module">
+		<script define:vars={{nikke, nikkegglink, prydresj, prydslug, prydlink, prydjson, limitData, variationsData, specialData, adviseClean, jsonresponse, colors, charLista, bgs, RAWTEXT}} type="module">
 			import { go } from "https://skuqre.github.io/anisa/fuzzysort.js"; // just fucking direct link it lmao
 			import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+			
+			const contexta = await fetch("../../../anisa/data/advise-contexts.json");
+			const context = await contexta.json();
 
 			var prydRates = {
 				"11": ["SSS", "#e04be0"],
