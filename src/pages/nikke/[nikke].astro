@@ -111,9 +111,8 @@ for (let i = 0; i < advisejson.length; i++) {
 		"queryraw": advisejson[i].question,
         "goodraw": advisejson[i].goodanswer,
         "badraw": advisejson[i].badanswer,
-
-		"script": context[advisejson[i].nikke][shit],
-		"scriptconc": context[advisejson[i].nikke][shit].join(" ")
+		
+		"scriptNum": shit
 	});
 }
 
@@ -588,6 +587,9 @@ import bgs from '../../../public/data/bgs.json';
 
 						// check for context
 						if (context[d.name] !== undefined) {
+							adviseList[d.name][i]["script"] = context[d.name][parseInt(adviseList[d.name][i].scriptNum)];
+							adviseList[d.name][i]["scriptconc"] = adviseList[d.name][i]["script"].join(" ")
+
 							let contextFinal = adviseList[d.name][i].script;
 
 							for (let k = 0; k < contextFinal.length; k++) {
