@@ -84,6 +84,10 @@ const adviseClean: any = {};
 import contexts from '../../../public/data/advise-contexts.json';
 
 for (let i = 0; i < advisejson.length; i++) {
+	if (advisejson[i].nikke !== jsonresponse.name) {
+		continue;
+	}
+
 	if (adviseClean[advisejson[i].nikke] === undefined) {
 		adviseClean[advisejson[i].nikke] = [];
 	}
