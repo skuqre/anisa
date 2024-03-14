@@ -377,9 +377,9 @@ import Hover from "./Hover.astro";
 
         let audio = (document.getElementById("boss-theme") as HTMLAudioElement);
 
-        if (curAudio != `/anisa/audio/si/${curBoss[0]}.flac`) {
-            curAudio = `/anisa/audio/si/${curBoss[0]}.flac`;
-            audio.src = `/anisa/audio/si/${curBoss[0]}.flac`;
+        if (curAudio != `https://raw.githubusercontent.com/skuqre/skuqre/main/si_songs/${curBoss[0]}.flac`) {
+            curAudio = `https://raw.githubusercontent.com/skuqre/skuqre/main/si_songs/${curBoss[0]}.flac`;
+            audio.src = `https://raw.githubusercontent.com/skuqre/skuqre/main/si_songs/${curBoss[0]}.flac`;
             audio.load()
         }
     }, 500)
