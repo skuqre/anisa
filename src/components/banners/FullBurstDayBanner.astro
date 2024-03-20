@@ -1,0 +1,132 @@
+---
+---
+
+<a href="/anisa/events/full-burst-day" class="nocolor">
+    <div class="fbd banner">
+        <div id="fbdp" class="particles"></div>
+        <div class="bg-gradient" style="background-image: linear-gradient(to top, rgba(255, 0, 0, 0.1), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0), rgba(255, 0, 0, 0.1));"></div>
+        <div class="clockwrapper">
+            <div class="fbd-clock">
+                <div class="fbd-clockhand"></div>
+            </div>
+        </div>
+        <span class="title">
+            <span class="subtitle">REWARD UP EVENT</span>
+            FULL BURST DAY
+        </span>
+    </div>
+</a>
+
+<style>
+    div.fbd {
+        border: 1px red solid;
+        border-radius: 4px;
+        position: relative;
+        background-color: #200;
+        background-image: linear-gradient(to right,#500 1px,transparent 1px),linear-gradient(to bottom,#500 1px,transparent 1px);
+        background-size: 32px 32px;
+        background-position: 0px 0px;
+
+        animation: topleft linear 2s infinite;
+    }
+
+    span.title {
+        position: absolute;
+        font-family: 'American Captain', sans-serif;
+        font-size: 48px;
+        right: 8px;
+        bottom: 16px;
+        text-shadow: #a00 0 0 4px, #000 0 0 4px;
+    }
+
+    span.subtitle {
+        display: block;
+        font-size: 24px;
+        position: absolute;
+        top: -32px;
+        right: 0px;
+        font-family: 'Abolition', monospace;
+        text-shadow: #a00 0 0 4px, #000 0 0 4px;
+    }
+
+    div.clockwrapper {
+        top: 50%;
+        transform: translateY(-50%) rotate(-10deg);
+
+        position: absolute;
+        left: -8px;
+
+        aspect-ratio: 1;
+        width: auto;
+        height: 150%;
+    }
+
+    div.fbd-clock {
+        width: 100%;
+        height: 100%;
+
+        background-image: url(/anisa/images/banner/fbd_clock.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100%;
+
+        animation: shake linear 0.35s infinite;
+    }
+
+    div.fbd-clockhand {
+        width: 100%;
+        height: 100%;
+
+        background-image: url(/anisa/images/banner/fbd_clockhand.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100%;
+
+        transform-origin: 49.75% 55.5%;
+
+        animation: spin linear 0.5s infinite;
+    }
+
+    @keyframes topleft {
+        0% {
+            background-position: 0px 0px;
+        }
+
+        100% {
+            background-position: 32px -32px;
+        }
+    }
+
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+
+    @keyframes shake {
+        0% { transform: translate(-1px, -1px) rotate(-1deg); }
+        10% { transform: translate(1px, -1px) rotate(1deg); }
+        20% { transform: translate(-1px, 1px) rotate(-1deg); }
+        30% { transform: translate(1px, 1px) rotate(1deg); }
+        40% { transform: translate(1px, -1px) rotate(-1deg); }
+        50% { transform: translate(1px, -1px) rotate(1deg); }
+        60% { transform: translate(-1px, 1px) rotate(-1deg); }
+        70% { transform: translate(1px, 1px) rotate(1deg); }
+        80% { transform: translate(-1px, 1px) rotate(-1deg); }
+        90% { transform: translate(1px, -1px) rotate(1deg); }
+        100% { transform: translate(-1px, 1px) rotate(-1deg); }
+    }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" integrity="sha512-Kef5sc7gfTacR7TZKelcrRs15ipf7+t+n7Zh6mKNJbmW+/RRdCW9nwfLn4YX0s2nO6Kv5Y2ChqgIakaC6PW09A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script define:vars={{}}>
+    window.addEventListener("load", function() {
+        window.particlesJS.load('fbdp', '/anisa/data/particles/up.json');
+    });
+</script>

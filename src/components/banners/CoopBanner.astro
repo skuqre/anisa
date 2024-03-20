@@ -1,0 +1,195 @@
+---
+const { element } = Astro.props
+---
+
+<a href="/anisa/events/coordinated-operation" class="nocolor">
+    <div class={"coop banner " + element}>
+        <div class="big-square"></div>
+        <div class="bg-gradient"></div>
+        <span class="coop-logo">
+            C<span class="logo-element">O</span>
+            <br>
+            <span class="logo-element">O</span>P
+        </span>
+    </div>
+</a>
+
+<style>
+    div.coop {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-image: url(/anisa/images/stripes.png);
+        background-blend-mode: overlay;
+        background-position: 0 0;
+        background-size: 64px 64px;
+
+        animation: goright 1s linear infinite;
+    }
+
+    div.big-square {
+        border: 4px solid;
+        animation: rotate 2s linear infinite;
+        position: absolute;
+
+        aspect-ratio: 1;
+        width: auto;
+        height: 200%;
+
+        animation: spin 10s linear infinite;
+        opacity: 0.5;
+    }
+
+    span.coop-logo {
+        display: block;
+        position: absolute;
+        top: calc(50% - 6px);
+        left: 0;
+        width: 100%;
+        text-align: center;
+        transform: translateY(-50%);
+        font-family: 'Mechsuit', monospace;
+        line-height: 52px;
+        font-size: 48px;
+    }
+
+    /* ELECTRIC */
+
+    div.coop.electric {
+        border: 1px #ff00fa solid;
+        border-radius: 4px;
+        position: relative;
+        background-color: #100010;
+    }
+
+    .electric .logo-element {
+        background: linear-gradient(to top right,#990099, #ff00fa);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .electric .big-square {
+        border-color: #ff00fa;
+        background-color: #100010;
+    }
+
+    .electric .bg-gradient {
+        background-color: linear-gradient(to top, rgba(255, 0, 251, 0.1), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0), rgba(255, 0, 251, 0.1));
+    }
+
+    /* FIRE */
+
+    div.coop.fire {
+        border: 1px #fe000a solid;
+        border-radius: 4px;
+        position: relative;
+        background-color: #100000;
+    }
+
+    .fire .logo-element {
+        background: linear-gradient(to top right,#990000, #fe000a);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .fire .big-square {
+        border-color: #fe000a;
+        background-color: #100000;
+    }
+
+    .fire .bg-gradient {
+        background-color: linear-gradient(to top, rgba(255, 0, 0, 0.1), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0), rgba(255, 0, 0, 0.1));
+    }
+
+    /* IRON */
+
+    div.coop.iron {
+        border: 1px #fe9000 solid;
+        border-radius: 4px;
+        position: relative;
+        background-color: #101000;
+    }
+
+    .iron .logo-element {
+        background: linear-gradient(to top right,#995500, #fe9000);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .iron .big-square {
+        border-color: #fe9000;
+        background-color: #101000;
+    }
+
+    .iron .bg-gradient {
+        background-color: linear-gradient(to top, rgba(255, 255, 0, 0.1), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0), rgba(255, 255, 0, 0.1));
+    }
+
+    /* WATER */
+
+    div.coop.water {
+        border: 1px #037afe solid;
+        border-radius: 4px;
+        position: relative;
+        background-color: #000010;
+    }
+
+    .water .logo-element {
+        background: linear-gradient(to top right,#005599, #037afe);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .water .big-square {
+        border-color: #037afe;
+        background-color: #000010;
+    }
+
+    .water .bg-gradient {
+        background-color: linear-gradient(to top, rgba(0, 0, 255, 0.1), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0), rgba(0, 0, 255, 0.1));
+    }
+
+    /* WIND */
+
+    div.coop.wind {
+        border: 1px #2ced73 solid;
+        border-radius: 4px;
+        position: relative;
+        background-color: #101000;
+    }
+
+    .wind .logo-element {
+        background: linear-gradient(to top right,#559900, #2ced73);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .wind .big-square {
+        border-color: #2ced73;
+        background-color: #101000;
+    }
+
+    .wind .bg-gradient {
+        background-color: linear-gradient(to top, rgba(255, 255, 0, 0.1), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0), rgba(255, 255, 0, 0.1));
+    }
+
+    @keyframes goright {
+        0% {
+            background-position-x: 0;
+        }
+
+        100% {
+            background-position-x: 64px;
+        }
+    }
+
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+</style>
