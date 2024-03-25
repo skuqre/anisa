@@ -1,19 +1,14 @@
-# Anisa (INDEV)
+# Anisa
 
-a soon-to-be awful site that collects nikke information from other sites
-
-as i start to take this game more seriously i have a tiresome experience looking at like 5+ sites
-
-"so make your own solution to this made up problem" i thought to myself
+A NIKKE information aggregator that (kinda) sucks.
 
 ---
 
-this site builds itself and deploys itself everyday, at 00:00 UTC time<br>
-there will be times where it fails so dont quote me on that, thanks
-
-that is in place to make sure that the info is up-to-date.<br>
-but then again the sites below could just block me /shrug
+The site collects information from other sites and presents them in a neat page for you.<br>
+Currently only gets information from [Prydwen.gg](https://prydwen.gg/nikke) and [NIKKE.gg](https://nikke.gg).
 
 ---
 
-[up-to-date site credits](https://skuqre.github.io/anisa/credits/)
+## TODO:
+- [ ] add random squad gen
+- [ ] add some other features lol
