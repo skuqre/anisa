@@ -343,15 +343,15 @@ import bgs from '../../../public/data/bgs.json';
 				// anyone from nikke.gg reading this may correct this however they want
 				// please increase the contrast of the rank colors!
 				var ratings = [
-					["SSS", num > 9.5, "#c12d5c"],
-					["SS", num > 9, "#c34545"],
-					["S+", num > 8.5, "#bf4f3b"], // u r a fucken doozy this rank
-					["S", num > 8, "#bc5d34"],
-					["A", num > 7, "#b0732c"],
-					["B", num > 6, "#a08633"],
-					["C", num > 4, "#8f9646"],
-					["D", num > 2, "#7da361"],
-					["F", num > 0, "#6eaf7f"]
+					["SSS", num > 9.5, "#992654"],
+					["SS", num > 9, "#99263d"],
+					["S", num > 8.5, "#992626"],
+					["A", num > 8, "#994d26"],
+					["B", num > 7, "#997326"],
+					["C", num > 6, "#999926"],
+					["D", num > 4, "#829926"],
+					["E", num > 2, "#6b9926"],
+					["F", num > 0, "#549926"]
 				];
 
 				for (let i = 0; i < ratings.length; i++) {
@@ -647,24 +647,21 @@ import bgs from '../../../public/data/bgs.json';
 			})
 
 			console.log(pry)
-			document.getElementById('pryd-bossadds').innerHTML = prydRates[parseInt(pry.ratings.bossAdds)][0];
-			document.getElementById('pryd-bossadds').style.backgroundColor = prydRates[parseInt(pry.ratings.bossAdds)][1];
+			document.getElementById('pryd-bossadds').innerHTML = prydRates[parseInt(pry.ratings.boss_adds)][0];
+			document.getElementById('pryd-bossadds').style.backgroundColor = prydRates[parseInt(pry.ratings.boss_adds)][1];
 
-			document.getElementById('pryd-bosssolo').innerHTML = prydRates[parseInt(pry.ratings.bossSolo)][0];
-			document.getElementById('pryd-bosssolo').style.backgroundColor = prydRates[parseInt(pry.ratings.bossSolo)][1];
+			document.getElementById('pryd-bosssolo').innerHTML = prydRates[parseInt(pry.ratings.boss_solo)][0];
+			document.getElementById('pryd-bosssolo').style.backgroundColor = prydRates[parseInt(pry.ratings.boss_solo)][1];
 
 			document.getElementById('pryd-pvp').innerHTML = prydRates[parseInt(pry.ratings.pvp)][0];
 			document.getElementById('pryd-pvp').style.backgroundColor = prydRates[parseInt(pry.ratings.pvp)][1];
 
 
-			document.getElementById('pryd-early').innerHTML = prydRates[parseInt(pry.ratings.storyEarly)][0];
-			document.getElementById('pryd-early').style.backgroundColor = prydRates[parseInt(pry.ratings.storyEarly)][1];
+			document.getElementById('pryd-ld').innerHTML = prydRates[parseInt(pry.ratings.story_ld)][0];
+			document.getElementById('pryd-ld').style.backgroundColor = prydRates[parseInt(pry.ratings.story_ld)][1];
 
-			document.getElementById('pryd-mid').innerHTML = prydRates[parseInt(pry.ratings.storyMid)][0];
-			document.getElementById('pryd-mid').style.backgroundColor = prydRates[parseInt(pry.ratings.storyMid)][1];
-
-			document.getElementById('pryd-late').innerHTML = prydRates[parseInt(pry.ratings.storyEnd)][0];
-			document.getElementById('pryd-late').style.backgroundColor = prydRates[parseInt(pry.ratings.storyEnd)][1];
+			document.getElementById('pryd-hd').innerHTML = prydRates[parseInt(pry.ratings.story_hd)][0];
+			document.getElementById('pryd-hd').style.backgroundColor = prydRates[parseInt(pry.ratings.story_hd)][1];
 
 			document.getElementById('normal-attack').innerHTML = `
 			<b>Damage</b>: ${d.damage} of ATK<br>

@@ -1,4 +1,5 @@
 ---
+import Hover from "../Hover.astro";
 ---
 <div class="rate-table-bg">
     <table class="rate-table">
@@ -12,15 +13,34 @@
             <td id="pryd-bosssolo"></td>
             <td id="pryd-pvp"></td>
         </tr>
-        <tr>
-            <th>Early Story</th>
-            <th>Mid Story</th>
-            <th>Late Story</th>
-        </tr>
-        <tr>
-            <td id="pryd-early"></td>
-            <td id="pryd-mid"></td>
-            <td id="pryd-late"></td>
-        </tr>
+        <table class="rate-table rowcombi">
+            <tr>
+                <th>
+                    Story (Low Deficit)
+                    <Hover content="*" hid="prydld">
+                        "Low Deficit" means a <b>low gap</b> between Stage Combat Power and Squad Combat Power.<br>
+                        This would be mostly judged based on when playing at Normal Story Mode instead of hard.
+                    </Hover>
+                </th>
+                <th>
+                    Story (High Deficit)
+                    <Hover content="*" hid="prydhd">
+                        "High Deficit" means a <b>high gap</b> between Stage Combat Power and Squad Combat Power.<br>
+                        This would be mostly judged based on when playing at Hard Story Mode.
+                    </Hover>
+                </th>
+            </tr>
+            <tr>
+                <td id="pryd-ld"></td>
+                <td id="pryd-hd"></td>
+            </tr>
+        </table>
     </table>
 </div>
+
+<style>
+    table.rowcombi {
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0);
+    }
+</style>

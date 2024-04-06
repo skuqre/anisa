@@ -338,14 +338,15 @@
         }
 
         let bosses = [
+            ['gravedigger', 'Gravedigger'],
             ['blacksmith', 'Blacksmith'],
             ['chatterbox', 'Chatterbox'],
             ['modernia', 'Modernia'],
             ['train', 'Alteisen MK. VI'],
-            ['gravedigger', 'Gravedigger'],
         ];
 
         const curBoss = bosses[dayOfYear(endUtcTime) % 5];
+        console.log(dayOfYear(endUtcTime) % 5)
 
         let towers = [
             [false, false, true, false],
