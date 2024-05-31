@@ -95,6 +95,10 @@ for (let i = 0; i < advisejson.length; i++) {
 	let shit = 0;
 	let context: any = contexts;
 
+	if (context[advisejson[i].nikke] === null || context[advisejson[i].nikke] === undefined) {
+		continue;
+	}
+
 	for (let k = 0; k < context[advisejson[i].nikke].length; k++) { // character list level
         var fuck = context[advisejson[i].nikke][k];
         if (fuck.includes(advisejson[i].question) && fuck.includes(advisejson[i].goodanswer) && fuck.includes(advisejson[i].badanswer)) {
