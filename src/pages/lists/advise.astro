@@ -24,13 +24,16 @@ for (let i = 0; i < advisejson.length; i++) {
     if (advisejson[i].goodanswer === undefined) continue;
     if (advisejson[i].badanswer === undefined) continue;
 
-	for (let k = 0; k < context[advisejson[i].nikke].length; k++) { // character list level
-        var fuck = context[advisejson[i].nikke][k];
-        if (fuck.includes(advisejson[i].question) && fuck.includes(advisejson[i].goodanswer) && fuck.includes(advisejson[i].badanswer)) {
-            shit = k;
-            break;
+    const contextExists = context[advisejson[i].nikke] !== undefined && context[advisejson[i].nikke] !== null;
+    if (contextExists) {
+        for (let k = 0; k < context[advisejson[i].nikke].length; k++) { // character list level
+            var fuck = context[advisejson[i].nikke][k];
+            if (fuck.includes(advisejson[i].question) && fuck.includes(advisejson[i].goodanswer) && fuck.includes(advisejson[i].badanswer)) {
+                shit = k;
+                break;
+            }
         }
-	}
+    }
     
 	adviseClean.push({
         "character": advisejson[i].nikke,
@@ -43,8 +46,8 @@ for (let i = 0; i < advisejson.length; i++) {
         "goodraw": advisejson[i].goodanswer,
         "badraw": advisejson[i].badanswer,
 
-        "script": context[advisejson[i].nikke][shit],
-		"scriptconc": context[advisejson[i].nikke][shit].join(" ")
+        "script": contextExists ? context[advisejson[i].nikke][shit] : null,
+		"scriptconc": contextExists ? context[advisejson[i].nikke][shit].join(" ") : null
 	});
 }
 ---
