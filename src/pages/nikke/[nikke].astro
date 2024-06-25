@@ -107,17 +107,21 @@ for (let i = 0; i < advisejson.length; i++) {
         }
 	}
 
-	adviseClean[advisejson[i].nikke].push({
-		"query": advisejson[i].question.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
-		"good": advisejson[i].goodanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
-		"bad": advisejson[i].badanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+	const checker = [advisejson[i].question, advisejson[i].goodanswer, advisejson[i].badanswer];
 
-		"queryraw": advisejson[i].question,
-        "goodraw": advisejson[i].goodanswer,
-        "badraw": advisejson[i].badanswer,
-		
-		"scriptNum": shit
-	});
+	if (!(checker.includes(undefined)) && !(checker.includes(null))) {
+		adviseClean[advisejson[i].nikke].push({
+			"query": advisejson[i].question.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+			"good": advisejson[i].goodanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+			"bad": advisejson[i].badanswer.replaceAll("{AccountData.NickName}", "<code>(you)</code>"),
+
+			"queryraw": advisejson[i].question,
+			"goodraw": advisejson[i].goodanswer,
+			"badraw": advisejson[i].badanswer,
+			
+			"scriptNum": shit
+		});
+	}
 }
 
 const mdTexts = await Astro.glob('../../../public/data/unit-specific-text/*.md');
