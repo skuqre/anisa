@@ -1,0 +1,1973 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_laplace_01_1",
+                "type": "Speech",
+                "text": "Birdie!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_01_2",
+                "type": "Speech",
+                "text": "What do you think is the most important when it comes to being a hero?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_01_3",
+                "type": "Choice",
+                "text": "Your mind, and your physical strength.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_01_5"
+            },
+            {
+                "id": "d_counseling_laplace_01_4",
+                "type": "Choice",
+                "text": "Your popularity.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_01_8"
+            },
+            {
+                "id": "d_counseling_laplace_01_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_01_6",
+                "type": "Speech",
+                "text": "I see you already understand what it takes to be a hero!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_01_7",
+                "type": "Speech",
+                "text": "Well done, Birdie.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_01_11"
+            },
+            {
+                "id": "d_counseling_laplace_01_8",
+                "type": "Speech",
+                "text": "No, no, no!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_01_9",
+                "type": "Speech",
+                "text": "A hero can't let themselves get caught up in trivial things like popularity.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_01_10",
+                "type": "Speech",
+                "text": "Besides, becoming a public sensation comes naturally when you vanquish enough villains.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_01_11",
+                "type": "Narration",
+                "text": "I listen to Laplace go into excruciating detail about what's important to becoming a hero.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_02_1",
+                "type": "Monologue",
+                "text": "I've been waiting for what seems like ages, and there's still no sign of Laplace.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_2",
+                "type": "Monologue",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_3",
+                "type": "Monologue",
+                "text": "Should I go back?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_4",
+                "type": "Narration",
+                "text": "*Creak*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_5",
+                "type": "Speech",
+                "text": "Tah-dah! Here I am!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_6",
+                "type": "Choice",
+                "text": "... Sit down.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_02_8"
+            },
+            {
+                "id": "d_counseling_laplace_02_7",
+                "type": "Choice",
+                "text": "You're late.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_02_10"
+            },
+            {
+                "id": "d_counseling_laplace_02_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_9",
+                "type": "Speech",
+                "text": "Sorry, I'm late.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_02_12"
+            },
+            {
+                "id": "d_counseling_laplace_02_10",
+                "type": "Speech",
+                "text": "Hahaha! Sorry I'm late, Birdie!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_11",
+                "type": "Speech",
+                "text": "I was out fighting crime. A hero's work is never done!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_02_12"
+            },
+            {
+                "id": "d_counseling_laplace_02_12",
+                "type": "Self",
+                "text": "Well, try and be on time in the future, hero.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_13",
+                "type": "Speech",
+                "text": "You got it!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_02_14",
+                "type": "Narration",
+                "text": "I tell Laplace about other heroes who are more punctual.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_03_1",
+                "type": "Speech",
+                "text": "If you're walking down the street,",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_2",
+                "type": "Speech",
+                "text": "and you hear someone yell, \"Help me! I need a hero!\"",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_3",
+                "type": "Speech",
+                "text": "What would you do?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_4",
+                "type": "Choice",
+                "text": "Since I'm not a hero, I'd continue along my merry way.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_03_6"
+            },
+            {
+                "id": "d_counseling_laplace_03_5",
+                "type": "Choice",
+                "text": "I'd call you immediately.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_03_10"
+            },
+            {
+                "id": "d_counseling_laplace_03_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_7",
+                "type": "Speech",
+                "text": "You'd ignore someone in distress?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_8",
+                "type": "Speech",
+                "text": "You can't do that!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_9",
+                "type": "Speech",
+                "text": "If you do that, you're straying from the righteous path.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_03_14"
+            },
+            {
+                "id": "d_counseling_laplace_03_10",
+                "type": "Speech",
+                "text": "Brilliant, Birdie!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_11",
+                "type": "Speech",
+                "text": "If you're not a hero yourself,",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_12",
+                "type": "Speech",
+                "text": "then call in someone who is.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_13",
+                "type": "Speech",
+                "text": "That's almost certainly the best course of action.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_03_14",
+                "type": "Narration",
+                "text": "Laplace and I pontificate about different ways to send a distress signal during an emergency.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_04_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_2",
+                "type": "Speech",
+                "text": ".........",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_3",
+                "type": "Choice",
+                "text": "Did you get in trouble with Maxwell?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_04_5"
+            },
+            {
+                "id": "d_counseling_laplace_04_4",
+                "type": "Choice",
+                "text": "Have you not eaten?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_04_10"
+            },
+            {
+                "id": "d_counseling_laplace_04_5",
+                "type": "Speech",
+                "text": "??",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_6",
+                "type": "Speech",
+                "text": "I refused to be lectured by Maxwell!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_7",
+                "type": "Speech",
+                "text": "Just some friendly advice...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_8",
+                "type": "Speech",
+                "text": "All right... I'll listen to some advice...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_9",
+                "type": "Speech",
+                "text": "Is it getting hot in here, or is it just me?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_04_15"
+            },
+            {
+                "id": "d_counseling_laplace_04_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_11",
+                "type": "Speech",
+                "text": "How did you know?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_12",
+                "type": "Speech",
+                "text": "I forgot to eat breakfast this morning.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_13",
+                "type": "Speech",
+                "text": "A hero should know better than this. I need to take care of myself.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_14",
+                "type": "Speech",
+                "text": "Time for some grub.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_04_15",
+                "type": "Narration",
+                "text": "I spend some time having a discussion with Laplace.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_05_1",
+                "type": "Speech",
+                "text": "Drake is really gung-ho about wanting to be a villain lately.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_05_2",
+                "type": "Speech",
+                "text": "Why do you think that is? We're heroes after all...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_05_3",
+                "type": "Choice",
+                "text": "She doesn't want to be an ordinary hero.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_05_5"
+            },
+            {
+                "id": "d_counseling_laplace_05_4",
+                "type": "Choice",
+                "text": "Being a villain is more interesting than being a hero.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_05_8"
+            },
+            {
+                "id": "d_counseling_laplace_05_5",
+                "type": "Speech",
+                "text": "Okay.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_05_6",
+                "type": "Speech",
+                "text": "I think I get it now.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_05_7",
+                "type": "Speech",
+                "text": "Thanks for clearing that up!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_05_11"
+            },
+            {
+                "id": "d_counseling_laplace_05_8",
+                "type": "Speech",
+                "text": "What?!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_05_9",
+                "type": "Speech",
+                "text": "No way! That doesn't make any sense!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_05_10",
+                "type": "Speech",
+                "text": "There must be another reason.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_05_11",
+                "type": "Narration",
+                "text": "I talk a little more about Drake with Laplace.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_06_1",
+                "type": "Speech",
+                "text": "Is there anything you think...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_2",
+                "type": "Speech",
+                "text": "a hero can't overcome?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_3",
+                "type": "Choice",
+                "text": "The Central Government?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_06_5"
+            },
+            {
+                "id": "d_counseling_laplace_06_4",
+                "type": "Choice",
+                "text": "Nothing whatsoever.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_06_10"
+            },
+            {
+                "id": "d_counseling_laplace_06_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_6",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_8",
+                "type": "Speech",
+                "text": "Wait a sec!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_9",
+                "type": "Speech",
+                "text": "The Central Government isn't evil, so it's okay if we can't defeat them.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_06_13"
+            },
+            {
+                "id": "d_counseling_laplace_06_10",
+                "type": "Speech",
+                "text": "Bingo!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_11",
+                "type": "Speech",
+                "text": "There's nothing that a hero can't overcome.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_12",
+                "type": "Speech",
+                "text": "That's why I need to spread the hero's gospel, right now!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_06_13",
+                "type": "Narration",
+                "text": "I calm Laplace down. She's chomping at the bit to run outside.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_07_1",
+                "type": "Speech",
+                "text": "I just don't know what to do.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_2",
+                "type": "Speech",
+                "text": "Maxwell says I should pipe down and try and be a hero without yelling.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_3",
+                "type": "Speech",
+                "text": "But if I don't yell, I can't unleash my full power...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_4",
+                "type": "Choice",
+                "text": "Use more body language and do all your yelling internally.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_07_6"
+            },
+            {
+                "id": "d_counseling_laplace_07_5",
+                "type": "Choice",
+                "text": "Don't let Maxwell browbeat you. Just keep shouting.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_07_10"
+            },
+            {
+                "id": "d_counseling_laplace_07_6",
+                "type": "Speech",
+                "text": "That's a solid idea!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_7",
+                "type": "Speech",
+                "text": "The real power comes from the heart anyway.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_8",
+                "type": "Speech",
+                "text": "Body language... I'm not exactly well-versed in that,",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_9",
+                "type": "Speech",
+                "text": "but I'll give it a try. Thanks for the advice!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_07_13"
+            },
+            {
+                "id": "d_counseling_laplace_07_10",
+                "type": "Speech",
+                "text": "I don't think so.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_11",
+                "type": "Speech",
+                "text": "I tried that a couple of times, and she said she wouldn't make me any more weapons.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_12",
+                "type": "Speech",
+                "text": "I've got to figure something else out.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_07_13",
+                "type": "Narration",
+                "text": "Laplace and I practice ways for her to unleash her heroic powers without making too much noise.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_08_1",
+                "type": "Speech",
+                "text": "If you could make one wish and have it come true,",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_08_2",
+                "type": "Speech",
+                "text": "what would it be?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_08_3",
+                "type": "Choice",
+                "text": "To be rich.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_08_5"
+            },
+            {
+                "id": "d_counseling_laplace_08_4",
+                "type": "Choice",
+                "text": "World peace.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_08_7"
+            },
+            {
+                "id": "d_counseling_laplace_08_5",
+                "type": "Speech",
+                "text": "So materialistic!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_08_6",
+                "type": "Speech",
+                "text": "You're officially disqualified as a hero.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_08_11"
+            },
+            {
+                "id": "d_counseling_laplace_08_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_08_8",
+                "type": "Speech",
+                "text": "... Incredible.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_08_9",
+                "type": "Speech",
+                "text": "A truly heroic wish if there ever was one.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_08_10",
+                "type": "Speech",
+                "text": "You've come a long way, Birdie. You're a bona fide hero!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_08_11",
+                "type": "Narration",
+                "text": "Laplace and I keep thinking about ways that we could make our wishes come true.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_09_1",
+                "type": "Speech",
+                "text": "Let me tell you something.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_09_2",
+                "type": "Speech",
+                "text": "The surface will be reclaimed one day, and we'll be the ones who do it.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_09_3",
+                "type": "Speech",
+                "text": "That's what Nikkes were made to do, and it's what heroes were meant to do.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_09_4",
+                "type": "Choice",
+                "text": "I'm with you all the way.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_09_6"
+            },
+            {
+                "id": "d_counseling_laplace_09_5",
+                "type": "Choice",
+                "text": "Don't overdo it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_09_8"
+            },
+            {
+                "id": "d_counseling_laplace_09_6",
+                "type": "Speech",
+                "text": "As long as we've got you in our corner,",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_09_7",
+                "type": "Speech",
+                "text": "that's the best encouragement we could ever hope for.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_09_11"
+            },
+            {
+                "id": "d_counseling_laplace_09_8",
+                "type": "Speech",
+                "text": "I'm not overdoing it.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_09_9",
+                "type": "Speech",
+                "text": "I just said I would do what I'm meant to do.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_09_10",
+                "type": "Speech",
+                "text": "Have a little more faith in me, Birdie.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_09_11",
+                "type": "Narration",
+                "text": "I speak with Laplace about reclaiming the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_10_1",
+                "type": "Speech",
+                "text": "Hero power, charging...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_10_2",
+                "type": "Choice",
+                "text": "Go.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_10_4"
+            },
+            {
+                "id": "d_counseling_laplace_10_3",
+                "type": "Choice",
+                "text": "GO!!!!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_10_8"
+            },
+            {
+                "id": "d_counseling_laplace_10_4",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_10_5",
+                "type": "Speech",
+                "text": "That's the right word, but it needs more punch.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_10_6",
+                "type": "Speech",
+                "text": "You can't unleash your full heroic power unless it's got some oomph to it.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_10_7",
+                "type": "Speech",
+                "text": "Put some effort into it!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_10_11"
+            },
+            {
+                "id": "d_counseling_laplace_10_8",
+                "type": "Speech",
+                "text": "Nicely done!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_10_9",
+                "type": "Speech",
+                "text": "It's got a real punch to it. That'll unleash your heroic power for sure.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_10_10",
+                "type": "Speech",
+                "text": "I'll shout like that each time I use my powers!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_10_11",
+                "type": "Narration",
+                "text": "Together with Laplace, I experiment with different sounds.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_11_1",
+                "type": "Speech",
+                "text": "Let's say there's a researcher trapped inside a burning power plant,",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_11_2",
+                "type": "Speech",
+                "text": "and there's a giant water tank adjacent to the building.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_11_3",
+                "type": "Speech",
+                "text": "What would you do?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_11_4",
+                "type": "Choice",
+                "text": "I'd get a drink of water to calm my nerves.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_11_6"
+            },
+            {
+                "id": "d_counseling_laplace_11_5",
+                "type": "Choice",
+                "text": "I'd soak myself in the water and charge into the blazing inferno like a hero should.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_11_9"
+            },
+            {
+                "id": "d_counseling_laplace_11_6",
+                "type": "Speech",
+                "text": "Well said.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_11_7",
+                "type": "Speech",
+                "text": "Buildings are unpredictable when they're on fire, particularly a power plant.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_11_8",
+                "type": "Speech",
+                "text": "Your best option is to keep calm and wait until the proper authorities arrive.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_11_12"
+            },
+            {
+                "id": "d_counseling_laplace_11_9",
+                "type": "Speech",
+                "text": "I'm afraid you're wrong, Birdie.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_11_10",
+                "type": "Speech",
+                "text": "You can't just go charging into any old building unless you're the right person for the job.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_11_11",
+                "type": "Speech",
+                "text": "Which, of course, would be me.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_11_12",
+                "type": "Narration",
+                "text": "Laplace teaches me how to drink water without choking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_12_1",
+                "type": "Speech",
+                "text": "Tell me, what do you think is a shortcoming of mine?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_12_2",
+                "type": "Speech",
+                "text": "Don't hold back. I won't get offended.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_12_3",
+                "type": "Choice",
+                "text": "You're a bit... stentorian.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_12_5"
+            },
+            {
+                "id": "d_counseling_laplace_12_4",
+                "type": "Choice",
+                "text": "The fact that you have no shortcomings is your shortcoming.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_12_8"
+            },
+            {
+                "id": "d_counseling_laplace_12_5",
+                "type": "Speech",
+                "text": "That's because I'm filled to the brim with power.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_12_6",
+                "type": "Speech",
+                "text": "That's hardly what I'd call a shortcoming.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_12_7",
+                "type": "Speech",
+                "text": "It's just a matter of preference.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_12_11"
+            },
+            {
+                "id": "d_counseling_laplace_12_8",
+                "type": "Speech",
+                "text": "Interesting...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_12_9",
+                "type": "Speech",
+                "text": "The fact I don't have any shortcomings almost makes me a supernatural force.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_12_10",
+                "type": "Speech",
+                "text": "... Oh well! Nothing I can do about that.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_12_11",
+                "type": "Narration",
+                "text": "I suggest ways Laplace can overcome her shortcomings while trying not to hurt her feelings.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_13_1",
+                "type": "Speech",
+                "text": "Once in a blue moon,",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_13_2",
+                "type": "Speech",
+                "text": "I think about those I couldn't save.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_13_3",
+                "type": "Speech",
+                "text": "I can't help feeling regretful... What if I had more power then?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_13_4",
+                "type": "Choice",
+                "text": "What difference would that make?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_13_6"
+            },
+            {
+                "id": "d_counseling_laplace_13_5",
+                "type": "Choice",
+                "text": "All you can do is keep moving forward.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_13_9"
+            },
+            {
+                "id": "d_counseling_laplace_13_6",
+                "type": "Speech",
+                "text": "... You're right.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_13_7",
+                "type": "Speech",
+                "text": "Feeling sorry for myself won't change anything.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_13_8",
+                "type": "Speech",
+                "text": "I won't make that mistake again.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_13_12"
+            },
+            {
+                "id": "d_counseling_laplace_13_9",
+                "type": "Speech",
+                "text": "I do.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_13_10",
+                "type": "Speech",
+                "text": "But nothing changes.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_13_11",
+                "type": "Speech",
+                "text": "I can't shake this feeling of regret.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_13_12",
+                "type": "Narration",
+                "text": "I spend time talking about the past with Laplace.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_14_1",
+                "type": "Speech",
+                "text": "I can't take any more of Maxwell's nagging!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_2",
+                "type": "Speech",
+                "text": "I used water to wash a battery, and she chewed me out",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_3",
+                "type": "Speech",
+                "text": "for an entire hour.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_4",
+                "type": "Choice",
+                "text": "That's a bit overkill.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_14_6"
+            },
+            {
+                "id": "d_counseling_laplace_14_5",
+                "type": "Choice",
+                "text": "Well, you did screw up.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_14_10"
+            },
+            {
+                "id": "d_counseling_laplace_14_6",
+                "type": "Speech",
+                "text": "Right?! It's too much!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_7",
+                "type": "Speech",
+                "text": "Sure, there was an iiiitty-bitty explosion, but it's not like anyone got hurt.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_8",
+                "type": "Speech",
+                "text": "Only one room was destroyed.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_9",
+                "type": "Self",
+                "text": "... Okay, Maxwell may be in the right.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_laplace_14_13"
+            },
+            {
+                "id": "d_counseling_laplace_14_10",
+                "type": "Speech",
+                "text": "I realize that!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_11",
+                "type": "Speech",
+                "text": "But a whole hour?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_12",
+                "type": "Speech",
+                "text": "It's too much... Too much...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_14_13",
+                "type": "Narration",
+                "text": "I teach Laplace ways to let nagging wash over her like water off a duck's back.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_15_1",
+                "type": "Speech",
+                "text": "A while ago, a package was delivered in front of our building.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_15_2",
+                "type": "Speech",
+                "text": "When I opened it, there was a knife, and a small note with the word \"Kill!\" on it.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_15_3",
+                "type": "Speech",
+                "text": "What do you think that's all about?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_15_4",
+                "type": "Choice",
+                "text": "It means someone is accusing you of being a killer.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_15_6"
+            },
+            {
+                "id": "d_counseling_laplace_15_5",
+                "type": "Choice",
+                "text": "I think it may be a threat.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_15_8"
+            },
+            {
+                "id": "d_counseling_laplace_15_6",
+                "type": "Speech",
+                "text": "Well, they're not wrong. I do kill.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_15_7",
+                "type": "Speech",
+                "text": "Killing it as a hero, that is!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_15_11"
+            },
+            {
+                "id": "d_counseling_laplace_15_8",
+                "type": "Speech",
+                "text": "But why? Was it something I did?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_15_9",
+                "type": "Speech",
+                "text": "No way. I haven't done anything wrong.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_15_10",
+                "type": "Speech",
+                "text": "Besides, threats don't scare me. I'm a hero! I'm invincible!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_15_11",
+                "type": "Narration",
+                "text": "Laplace teaches me how to properly gift-wrap a box.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_16_1",
+                "type": "Speech",
+                "text": "Do you prefer beam-based weapons or ones that use live ammunition?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_16_2",
+                "type": "Speech",
+                "text": "Personally, I'm partial to beam-based weapons.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_16_3",
+                "type": "Choice",
+                "text": "You can't beat live ammunition.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_16_5"
+            },
+            {
+                "id": "d_counseling_laplace_16_4",
+                "type": "Choice",
+                "text": "No contest. A beam weapon comes out on top.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_16_8"
+            },
+            {
+                "id": "d_counseling_laplace_16_5",
+                "type": "Speech",
+                "text": "Wha... how could you!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_16_6",
+                "type": "Speech",
+                "text": "I'm disappointed in you, Birdie.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_16_7",
+                "type": "Speech",
+                "text": "Everyone knows beam weapons are where it's at.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_16_11"
+            },
+            {
+                "id": "d_counseling_laplace_16_8",
+                "type": "Speech",
+                "text": "I knew you'd agree with me!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_16_9",
+                "type": "Speech",
+                "text": "There are plenty of reasons why they're the best, but the biggest of all",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_16_10",
+                "type": "Speech",
+                "text": "is that they're like a beam of light that repels evil.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_16_11",
+                "type": "Narration",
+                "text": "Laplace and I go over the latest trends and tropes in mecha anime.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_17_1",
+                "type": "Speech",
+                "text": "I'm sure you're already aware of this, but I transform when I go into battle mode.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_2",
+                "type": "Speech",
+                "text": "It's only for a moment, but I'm totally defenseless during this transformation.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_3",
+                "type": "Speech",
+                "text": "If you were my enemy, what would you do?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_4",
+                "type": "Choice",
+                "text": "I'd take advantage of the chink in your armor.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_17_6"
+            },
+            {
+                "id": "d_counseling_laplace_17_5",
+                "type": "Choice",
+                "text": "I'd want a fair fight. I'd wait until you had fully transformed before fighting.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_17_10"
+            },
+            {
+                "id": "d_counseling_laplace_17_6",
+                "type": "Speech",
+                "text": "But that's so cowardly!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_7",
+                "type": "Speech",
+                "text": "I understand you don't want to let such a great opportunity pass you by,",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_8",
+                "type": "Speech",
+                "text": "but... er...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_9",
+                "type": "Speech",
+                "text": "you still shouldn't do it!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_17_13"
+            },
+            {
+                "id": "d_counseling_laplace_17_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_11",
+                "type": "Speech",
+                "text": "I knew you wouldn't stoop so low as to attack a defenseless opponent.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_12",
+                "type": "Speech",
+                "text": "That's just the kind of person you are.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_17_13",
+                "type": "Narration",
+                "text": "Laplace and I watch videos of different heroes transforming.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_18_1",
+                "type": "Speech",
+                "text": "Today's topic is: can villains be forgiven?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_18_2",
+                "type": "Speech",
+                "text": "Birdie! Tell me what you think!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_18_3",
+                "type": "Choice",
+                "text": "Yes, they can.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_18_5"
+            },
+            {
+                "id": "d_counseling_laplace_18_4",
+                "type": "Choice",
+                "text": "No, they can't.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_18_8"
+            },
+            {
+                "id": "d_counseling_laplace_18_5",
+                "type": "Speech",
+                "text": "I can't say that I agree with you.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_18_6",
+                "type": "Speech",
+                "text": "Even if a villain changes their ways, they can never take back all the evil deeds they've committed.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_18_7",
+                "type": "Speech",
+                "text": "To me, that means they can never be forgiven.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_18_11"
+            },
+            {
+                "id": "d_counseling_laplace_18_8",
+                "type": "Speech",
+                "text": "So, we're on the same page.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_18_9",
+                "type": "Speech",
+                "text": "Broken glass can never be put back together again. Even if they repent, they can't undo the damage they've done.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_18_10",
+                "type": "Speech",
+                "text": "Evil acts have repercussions which last forever. They can never be erased.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_18_11",
+                "type": "Narration",
+                "text": "I spend time with Laplace looking at the encyclopedia of villains.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_19_1",
+                "type": "Speech",
+                "text": "I'm trying to brainstorm some new entrances.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_19_2",
+                "type": "Speech",
+                "text": "The super hero landing is tried and true, but I feel it's a bit commonplace.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_19_3",
+                "type": "Speech",
+                "text": "I need a unique entrance that's still a good fit for me.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_19_4",
+                "type": "Choice",
+                "text": "Transform as you walk slowly.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_19_6"
+            },
+            {
+                "id": "d_counseling_laplace_19_5",
+                "type": "Choice",
+                "text": "If you don't like landing, then soar up into the air.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_19_9"
+            },
+            {
+                "id": "d_counseling_laplace_19_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_19_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_19_8",
+                "type": "Speech",
+                "text": "That's... so cool!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_19_12"
+            },
+            {
+                "id": "d_counseling_laplace_19_9",
+                "type": "Speech",
+                "text": "So, the opposite of landing... interesting!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_19_10",
+                "type": "Speech",
+                "text": "But if I want to do that, I'd have to hide someplace below ahead of time.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_19_11",
+                "type": "Speech",
+                "text": "A hero never hides!",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_19_12",
+                "type": "Narration",
+                "text": "Laplace and I look at the top 10 entrances of the Ark Rangers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_laplace_20_1",
+                "type": "Speech",
+                "text": "Birdie.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_20_2",
+                "type": "Speech",
+                "text": "What do you think it means to be a hero?",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_20_3",
+                "type": "Choice",
+                "text": "Spending your life warding off evil and bringing light everywhere you go.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_laplace_20_5"
+            },
+            {
+                "id": "d_counseling_laplace_20_4",
+                "type": "Choice",
+                "text": "Running towards what everyone else runs away from.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_laplace_20_8"
+            },
+            {
+                "id": "d_counseling_laplace_20_5",
+                "type": "Speech",
+                "text": "Haha. That's correct.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_20_6",
+                "type": "Speech",
+                "text": "But it's not so simple as just fending off evil.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_20_7",
+                "type": "Speech",
+                "text": "You need to hold onto something more valuable.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": "d_counseling_laplace_20_11"
+            },
+            {
+                "id": "d_counseling_laplace_20_8",
+                "type": "Speech",
+                "text": "That's right.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_20_9",
+                "type": "Speech",
+                "text": "That perfectly encapsulates what a hero should be. Someone who strives to protect others, even if it means putting themselves in danger.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_20_10",
+                "type": "Speech",
+                "text": "True heroes are willing to give up their lives in defense of those who cannot protect themselves.",
+                "speaker": "Laplace",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_laplace_20_11",
+                "type": "Narration",
+                "text": "Laplace and I watch some classic superhero flicks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

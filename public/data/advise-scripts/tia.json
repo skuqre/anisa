@@ -1,0 +1,2253 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_tia_01_1",
+                "type": "Speech",
+                "text": "Teacher,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_2",
+                "type": "Speech",
+                "text": "when you were little, what did you want to be?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_3",
+                "type": "Choice",
+                "text": "A teacher, of course.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_01_5"
+            },
+            {
+                "id": "d_counseling_tia_01_4",
+                "type": "Choice",
+                "text": "Nothing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_01_9"
+            },
+            {
+                "id": "d_counseling_tia_01_5",
+                "type": "Speech",
+                "text": "I knew you'd say that.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_6",
+                "type": "Speech",
+                "text": "You're like a dependable tree that I can always lean on.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_7",
+                "type": "Speech",
+                "text": "Can I be a little chameleon clinging to your side?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_8",
+                "type": "Speech",
+                "text": "Hehe!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_01_14"
+            },
+            {
+                "id": "d_counseling_tia_01_9",
+                "type": "Speech",
+                "text": "Wow!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_10",
+                "type": "Speech",
+                "text": "I'm shocked to hear you say that.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_11",
+                "type": "Speech",
+                "text": "You just echoed my sentiments exactly.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_12",
+                "type": "Speech",
+                "text": "I am still not sure what I want to do going forward.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_01_13",
+                "type": "Speech",
+                "text": "It's tough trying to determine your future...",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_01_14"
+            },
+            {
+                "id": "d_counseling_tia_01_14",
+                "type": "Narration",
+                "text": "Tia and I both think about what we want our futures to be like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_02_1",
+                "type": "Speech",
+                "text": "I ran into Belorta in the cafe.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_2",
+                "type": "Speech",
+                "text": "She said that when it comes to food, the more the better. It doesn't matter what you're eating.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_3",
+                "type": "Speech",
+                "text": "What do you think, Teacher?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_4",
+                "type": "Choice",
+                "text": "I agree with her 100%.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_02_6"
+            },
+            {
+                "id": "d_counseling_tia_02_5",
+                "type": "Choice",
+                "text": "It's all about quality, not quantity. The taste is what's important.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_02_10"
+            },
+            {
+                "id": "d_counseling_tia_02_6",
+                "type": "Speech",
+                "text": "Hm...",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_7",
+                "type": "Speech",
+                "text": "I should have expected an answer like that from a big, healthy guy like yourself.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_8",
+                "type": "Speech",
+                "text": "As for me, I tend to focus more on the quality of what I'm eating, not the quantity.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_9",
+                "type": "Speech",
+                "text": "Although I have to say, your answers somehow always have a way of seeming valid...",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_02_16"
+            },
+            {
+                "id": "d_counseling_tia_02_10",
+                "type": "Speech",
+                "text": "This is fantastic.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_11",
+                "type": "Speech",
+                "text": "We both feel the same on this. It's like we were meant to be together.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_12",
+                "type": "Self",
+                "text": "!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_13",
+                "type": "Speech",
+                "text": "Whoops... sorry, hehe.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_14",
+                "type": "Speech",
+                "text": "I got a little excited.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_02_15",
+                "type": "Speech",
+                "text": "I'll try and be better at maintaining my composure in the future.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_02_16"
+            },
+            {
+                "id": "d_counseling_tia_02_16",
+                "type": "Narration",
+                "text": "Tia and I continue to discuss how much is too much when eating.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_03_1",
+                "type": "Speech",
+                "text": "Naga is in the same class as me,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_2",
+                "type": "Speech",
+                "text": "but she's so much more mature.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_3",
+                "type": "Speech",
+                "text": "I think that's why I depend on her so much.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_4",
+                "type": "Choice",
+                "text": "Shouldn't you try and be more independent?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_03_6"
+            },
+            {
+                "id": "d_counseling_tia_03_5",
+                "type": "Choice",
+                "text": "I think I know what you mean.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_03_11"
+            },
+            {
+                "id": "d_counseling_tia_03_6",
+                "type": "Speech",
+                "text": "Oof, you really exposed me...",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_7",
+                "type": "Speech",
+                "text": "I want to put off living on my own for as long as I can.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_8",
+                "type": "Speech",
+                "text": "It's lonely being all by yourself.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_9",
+                "type": "Speech",
+                "text": "Any chance I could live with you in the future?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_10",
+                "type": "Speech",
+                "text": "I'll consider being less dependent on Naga then.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_03_15"
+            },
+            {
+                "id": "d_counseling_tia_03_11",
+                "type": "Speech",
+                "text": "Hehe!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_12",
+                "type": "Speech",
+                "text": "Sometimes she's like a big sister, then other times she's like my mom.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_13",
+                "type": "Speech",
+                "text": "Her determination is infectious.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_03_14",
+                "type": "Speech",
+                "text": "Whenever I see her working hard on something, I feel so happy.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_03_15"
+            },
+            {
+                "id": "d_counseling_tia_03_15",
+                "type": "Narration",
+                "text": "Tia and I talk about Naga.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_04_1",
+                "type": "Speech",
+                "text": "Teacher.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_2",
+                "type": "Speech",
+                "text": "Are you busy right now?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_3",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_04_5"
+            },
+            {
+                "id": "d_counseling_tia_04_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_04_11"
+            },
+            {
+                "id": "d_counseling_tia_04_5",
+                "type": "Speech",
+                "text": "Aww, too bad.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_6",
+                "type": "Speech",
+                "text": "I'll try next time.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_7",
+                "type": "Speech",
+                "text": "Bye bye.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_8",
+                "type": "Self",
+                "text": "I'm joking. I'm not busy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_9",
+                "type": "Speech",
+                "text": "Ah! I'm glad. Can you go somewhere with me for a bit?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_10",
+                "type": "Speech",
+                "text": "I'll take you somewhere nice.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_04_17"
+            },
+            {
+                "id": "d_counseling_tia_04_11",
+                "type": "Speech",
+                "text": "Okay, great.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_12",
+                "type": "Speech",
+                "text": "There's this dessert event I'm going to, and I need a plus one.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_13",
+                "type": "Speech",
+                "text": "Naga says she has something to do after school.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_14",
+                "type": "Speech",
+                "text": "Would you like to join me?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_15",
+                "type": "Self",
+                "text": "Sure, let's go.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_04_16",
+                "type": "Speech",
+                "text": "Yahoo! Thanks, Teacher.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_04_17"
+            },
+            {
+                "id": "d_counseling_tia_04_17",
+                "type": "Narration",
+                "text": "I participate in the dessert event with Tia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_05_1",
+                "type": "Speech",
+                "text": "I haven't been too happy about my dessert photos lately.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_2",
+                "type": "Speech",
+                "text": "What do you think I'm doing wrong?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_3",
+                "type": "Choice",
+                "text": "I think it's a problem with the focus.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_05_5"
+            },
+            {
+                "id": "d_counseling_tia_05_4",
+                "type": "Choice",
+                "text": "I think it's a problem with the filter.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_05_15"
+            },
+            {
+                "id": "d_counseling_tia_05_5",
+                "type": "Speech",
+                "text": "You think? Let me see.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_6",
+                "type": "Narration",
+                "text": "*Click*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_7",
+                "type": "Speech",
+                "text": "Huh, you're right. It does seem a bit blurry.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_8",
+                "type": "Speech",
+                "text": "Ah!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_9",
+                "type": "Narration",
+                "text": "*Wipe wipe*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_10",
+                "type": "Narration",
+                "text": "*Click*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_11",
+                "type": "Speech",
+                "text": "Much better!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_12",
+                "type": "Speech",
+                "text": "Some whipped cream had gotten smeared on the lens.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_13",
+                "type": "Speech",
+                "text": "That must be why everything was coming out blurry.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_14",
+                "type": "Speech",
+                "text": "Thanks for the help, Teacher!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_05_22"
+            },
+            {
+                "id": "d_counseling_tia_05_15",
+                "type": "Speech",
+                "text": "You mean like a colored filter?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_16",
+                "type": "Speech",
+                "text": "I'd use a red one, but that seems a bit too fiery.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_17",
+                "type": "Speech",
+                "text": "The yellow one reminds me of oil.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_18",
+                "type": "Speech",
+                "text": "The blue one makes everything look like food from an alien planet.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_19",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_20",
+                "type": "Speech",
+                "text": "Well, thanks for the suggestion anyway, Teacher.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_05_21",
+                "type": "Speech",
+                "text": "I'll have to find another filter to use.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_05_22"
+            },
+            {
+                "id": "d_counseling_tia_05_22",
+                "type": "Narration",
+                "text": "Tia immerses herself in her photography until the photos come out to her satisfaction.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_06_1",
+                "type": "Speech",
+                "text": "You see the container I'm always carrying on my back?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_2",
+                "type": "Speech",
+                "text": "What animal do you think is in the pattern?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_3",
+                "type": "Choice",
+                "text": "A snake.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_06_5"
+            },
+            {
+                "id": "d_counseling_tia_06_4",
+                "type": "Choice",
+                "text": "A dragon.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_06_10"
+            },
+            {
+                "id": "d_counseling_tia_06_5",
+                "type": "Speech",
+                "text": "Snakes are cute too,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_6",
+                "type": "Speech",
+                "text": "but this is actually a dragon.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_7",
+                "type": "Speech",
+                "text": "It's named Epiq.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_8",
+                "type": "Self",
+                "text": "Epiq?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_9",
+                "type": "Speech",
+                "text": "Yep! It's a nickname I came up with myself.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_06_15"
+            },
+            {
+                "id": "d_counseling_tia_06_10",
+                "type": "Speech",
+                "text": "I knew you'd be able to tell what it was instantly.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_11",
+                "type": "Speech",
+                "text": "Say hello to Epiq!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_12",
+                "type": "Self",
+                "text": "Epiq?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_13",
+                "type": "Speech",
+                "text": "Yep! It's a nickname I came up with myself.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_06_14",
+                "type": "Speech",
+                "text": "From now on, whenever you see Epiq, be sure to give her a warm welcome.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_06_15"
+            },
+            {
+                "id": "d_counseling_tia_06_15",
+                "type": "Narration",
+                "text": "Tia continues to boast about Epiq for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_07_1",
+                "type": "Speech",
+                "text": "Whenever I go to the cafe, I order a coffee and some desserts.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_07_2",
+                "type": "Speech",
+                "text": "Although I have to admit, I usually don't end up drinking much of the coffee, 'cause it's too bitter.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_07_3",
+                "type": "Speech",
+                "text": "What about you, Teacher?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_07_4",
+                "type": "Choice",
+                "text": "I just drink coffee.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_07_6"
+            },
+            {
+                "id": "d_counseling_tia_07_5",
+                "type": "Choice",
+                "text": "I also eat a lot of desserts.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_07_10"
+            },
+            {
+                "id": "d_counseling_tia_07_6",
+                "type": "Speech",
+                "text": "Attractive men with a coffee scent... totally a dream of mine.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_07_7",
+                "type": "Speech",
+                "text": "I should invite you to come to the cafe with me.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_07_8",
+                "type": "Speech",
+                "text": "You can have a cup of coffee, and I'll have some desserts.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_07_9",
+                "type": "Speech",
+                "text": "It'd be a match made in heaven!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_07_13"
+            },
+            {
+                "id": "d_counseling_tia_07_10",
+                "type": "Speech",
+                "text": "You don't say!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_07_11",
+                "type": "Speech",
+                "text": "I never thought I'd have a rival dessert fanatic.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_07_12",
+                "type": "Speech",
+                "text": "I'll have to keep an eye out for you at the cafe and make sure we don't run into each other.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_07_13"
+            },
+            {
+                "id": "d_counseling_tia_07_13",
+                "type": "Narration",
+                "text": "I have a conversation with Tia about the cafe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_08_1",
+                "type": "Speech",
+                "text": "Teacher, check these animal pictures.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_2",
+                "type": "Speech",
+                "text": "Isn't it adorable?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_3",
+                "type": "Choice",
+                "text": "Which one? The puppy?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_08_5"
+            },
+            {
+                "id": "d_counseling_tia_08_4",
+                "type": "Choice",
+                "text": "Which one? The chameleon?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_08_9"
+            },
+            {
+                "id": "d_counseling_tia_08_5",
+                "type": "Speech",
+                "text": "No, not the puppy! This one!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_6",
+                "type": "Monologue",
+                "text": "Tia's finger moves towards the chameleon, which is the furthest thing from cute.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_7",
+                "type": "Speech",
+                "text": "Isn't it lovely?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_8",
+                "type": "Speech",
+                "text": "I just love chameleons!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_08_14"
+            },
+            {
+                "id": "d_counseling_tia_08_9",
+                "type": "Speech",
+                "text": "Yep!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_10",
+                "type": "Speech",
+                "text": "Such vibrant colors. Such a unique appearance.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_11",
+                "type": "Speech",
+                "text": "Those round and expressive eyes.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_12",
+                "type": "Speech",
+                "text": "Chameleons are just magical!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_08_13",
+                "type": "Monologue",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_tia_08_14"
+            },
+            {
+                "id": "d_counseling_tia_08_14",
+                "type": "Narration",
+                "text": "I decide to respect Tia's preference for certain animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_09_1",
+                "type": "Speech",
+                "text": "For some reason, my shoulders feel a bit stiff.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_09_2",
+                "type": "Speech",
+                "text": "Maybe I've been studying too hard?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_09_3",
+                "type": "Choice",
+                "text": "You've got to maintain good posture during class.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_09_5"
+            },
+            {
+                "id": "d_counseling_tia_09_4",
+                "type": "Choice",
+                "text": "Maybe it's because you've got such a big heart.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_09_8"
+            },
+            {
+                "id": "d_counseling_tia_09_5",
+                "type": "Speech",
+                "text": "Naga said the same thing.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_09_6",
+                "type": "Speech",
+                "text": "I was super tired today, so I was slouching over my desk.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_09_7",
+                "type": "Speech",
+                "text": "I'll try to sit up straight from now on.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_09_12"
+            },
+            {
+                "id": "d_counseling_tia_09_8",
+                "type": "Speech",
+                "text": "Ha! I don't know what I expected, but certainly not a compliment. You're gonna make me blush.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_09_9",
+                "type": "Speech",
+                "text": "So if you've got a big heart, it can actually make your shoulders stiffen up?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_09_10",
+                "type": "Speech",
+                "text": "I had no idea.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_09_11",
+                "type": "Speech",
+                "text": "I've got to tell Naga about this.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_09_12"
+            },
+            {
+                "id": "d_counseling_tia_09_12",
+                "type": "Narration",
+                "text": "I give Tia a light shoulder massage.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_10_1",
+                "type": "Speech",
+                "text": "A nice cake has to look good. It's even more important than the taste.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_10_2",
+                "type": "Speech",
+                "text": "Wouldn't you agree?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_10_3",
+                "type": "Choice",
+                "text": "I agree.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_10_5"
+            },
+            {
+                "id": "d_counseling_tia_10_4",
+                "type": "Choice",
+                "text": "I don't agree.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_10_8"
+            },
+            {
+                "id": "d_counseling_tia_10_5",
+                "type": "Speech",
+                "text": "I figured you would.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_10_6",
+                "type": "Speech",
+                "text": "If the outside is appealing enough, then you'll want to eat it up.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_10_7",
+                "type": "Speech",
+                "text": "Of course, what's even more important is that it'll come out looking good in photos.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_10_11"
+            },
+            {
+                "id": "d_counseling_tia_10_8",
+                "type": "Speech",
+                "text": "I suppose most people wouldn't care too much about appearance,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_10_9",
+                "type": "Speech",
+                "text": "but still, it's too bad you feel that way.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_10_10",
+                "type": "Speech",
+                "text": "I thought for sure we'd agree on this.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_10_11"
+            },
+            {
+                "id": "d_counseling_tia_10_11",
+                "type": "Narration",
+                "text": "Tia and I spend some time talking about our food preferences.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_11_1",
+                "type": "Speech",
+                "text": "I saw Miss Marciana",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_11_2",
+                "type": "Speech",
+                "text": "standing outside of the dessert store.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_11_3",
+                "type": "Speech",
+                "text": "What do you think she was doing there?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_11_4",
+                "type": "Choice",
+                "text": "She was probably there to buy some desserts.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_11_6"
+            },
+            {
+                "id": "d_counseling_tia_11_5",
+                "type": "Choice",
+                "text": "Maybe she heard some students were hanging out there late at night, and she wanted to check up on them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_11_10"
+            },
+            {
+                "id": "d_counseling_tia_11_6",
+                "type": "Speech",
+                "text": "Hehe, you're a real joker, Teacher.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_11_7",
+                "type": "Speech",
+                "text": "There's no way Miss Marciana would be caught dead buying desserts.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_11_8",
+                "type": "Speech",
+                "text": "I offered her some before, and she practically had a conniption.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_11_9",
+                "type": "Speech",
+                "text": "She hates all things sweet with a passion.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_11_13"
+            },
+            {
+                "id": "d_counseling_tia_11_10",
+                "type": "Speech",
+                "text": "I think that's the most likely explanation.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_11_11",
+                "type": "Speech",
+                "text": "In that case, I probably shouldn't go to the cafe when it's too late.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_11_12",
+                "type": "Speech",
+                "text": "Otherwise, Miss Marciana might worry about me.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_11_13"
+            },
+            {
+                "id": "d_counseling_tia_11_13",
+                "type": "Narration",
+                "text": "I have a conversation with Tia about why Marciana was in front of the dessert store.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_12_1",
+                "type": "Speech",
+                "text": "Hi, Teacher!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_2",
+                "type": "Speech",
+                "text": "It's good to see you.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_3",
+                "type": "Monologue",
+                "text": "Tia runs into my arms and gives me a big hug.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_4",
+                "type": "Choice",
+                "text": "Nice to see you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_12_6"
+            },
+            {
+                "id": "d_counseling_tia_12_5",
+                "type": "Choice",
+                "text": "You shouldn't act like this when we're in public.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_12_11"
+            },
+            {
+                "id": "d_counseling_tia_12_6",
+                "type": "Speech",
+                "text": "Hehe... hehehe...",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_7",
+                "type": "Speech",
+                "text": "Wheeee!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_8",
+                "type": "Self",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_9",
+                "type": "Speech",
+                "text": "Oh, whoops.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_10",
+                "type": "Speech",
+                "text": "Sorry, I forgot again.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_12_15"
+            },
+            {
+                "id": "d_counseling_tia_12_11",
+                "type": "Speech",
+                "text": "Oh, right.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_12",
+                "type": "Speech",
+                "text": "Sorry.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_13",
+                "type": "Speech",
+                "text": "I always forget when Naga isn't here.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_12_14",
+                "type": "Speech",
+                "text": "I won't do it again.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_12_15"
+            },
+            {
+                "id": "d_counseling_tia_12_15",
+                "type": "Narration",
+                "text": "I give Tia advice on how to be mindful of physical contact.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_13_1",
+                "type": "Speech",
+                "text": "If I met a dragon on the surface,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_13_2",
+                "type": "Speech",
+                "text": "what would I wish for?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_13_3",
+                "type": "Choice",
+                "text": "Free desserts for life.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_13_5"
+            },
+            {
+                "id": "d_counseling_tia_13_4",
+                "type": "Choice",
+                "text": "Dragons grant wishes?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_13_8"
+            },
+            {
+                "id": "d_counseling_tia_13_5",
+                "type": "Speech",
+                "text": "Whoa, that's a great idea!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_13_6",
+                "type": "Speech",
+                "text": "I'm glad I asked you.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_13_7",
+                "type": "Speech",
+                "text": "I've gotta write this down before I forget.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_13_11"
+            },
+            {
+                "id": "d_counseling_tia_13_8",
+                "type": "Speech",
+                "text": "Sure they do!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_13_9",
+                "type": "Speech",
+                "text": "I see it in a cartoon that airs every night.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_13_10",
+                "type": "Speech",
+                "text": "Aw man, just thinking about it makes my heart flutter.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_13_11"
+            },
+            {
+                "id": "d_counseling_tia_13_11",
+                "type": "Narration",
+                "text": "I have imaginations with Tia about making wishes to a dragon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_14_1",
+                "type": "Speech",
+                "text": "It's tough managing a social media account.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_2",
+                "type": "Speech",
+                "text": "People are always wanting me to collaborate with them for all sorts of ads.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_3",
+                "type": "Speech",
+                "text": "I get lots of people asking me how much I'd be willing to sell my account for.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_4",
+                "type": "Speech",
+                "text": "Some even ask for my personal information.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_5",
+                "type": "Choice",
+                "text": "That's because you're so pretty.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_14_7"
+            },
+            {
+                "id": "d_counseling_tia_14_6",
+                "type": "Choice",
+                "text": "That's because you take such stunning photos of desserts.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_14_12"
+            },
+            {
+                "id": "d_counseling_tia_14_7",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_8",
+                "type": "Speech",
+                "text": "This is a travesty!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_9",
+                "type": "Speech",
+                "text": "You clearly have never visited my account.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_10",
+                "type": "Speech",
+                "text": "It's called SWEET_Lover, and there aren't any pictures of my face on it.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_11",
+                "type": "Speech",
+                "text": "I only post photos of desserts on there. You should follow me.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_14_16"
+            },
+            {
+                "id": "d_counseling_tia_14_12",
+                "type": "Speech",
+                "text": "I'll take it!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_13",
+                "type": "Speech",
+                "text": "That's the best compliment you could have possibly given me.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_14",
+                "type": "Speech",
+                "text": "I was feeling down in the dumps, but not any more, thanks to you.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_14_15",
+                "type": "Speech",
+                "text": "Thanks a bunch, Teacher.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_14_16"
+            },
+            {
+                "id": "d_counseling_tia_14_16",
+                "type": "Narration",
+                "text": "Tia and I try to come up with hacks that would make running a social media account easier.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_15_1",
+                "type": "Speech",
+                "text": "I wolfed down 50 desserts at the cafe yesterday.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_15_2",
+                "type": "Speech",
+                "text": "You should have seen the owner. They were stunned.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_15_3",
+                "type": "Choice",
+                "text": "That's all you ate?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_15_5"
+            },
+            {
+                "id": "d_counseling_tia_15_4",
+                "type": "Choice",
+                "text": "You ate that much?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_15_7"
+            },
+            {
+                "id": "d_counseling_tia_15_5",
+                "type": "Speech",
+                "text": "Yeah, I had to stop before I scared the owner too much.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_15_6",
+                "type": "Speech",
+                "text": "It's a real shame, because I could have eaten way more.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_15_10"
+            },
+            {
+                "id": "d_counseling_tia_15_7",
+                "type": "Speech",
+                "text": "How come you're so surprised?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_15_8",
+                "type": "Speech",
+                "text": "You of all people should know that I usually eat way more than that.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_15_9",
+                "type": "Speech",
+                "text": "Looks like I'll have to take you along with me on these cafe excursions.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_15_10"
+            },
+            {
+                "id": "d_counseling_tia_15_10",
+                "type": "Narration",
+                "text": "Tia explains to me how there is a separate stomach for dessert, and another for regular food.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_16_1",
+                "type": "Speech",
+                "text": "I'm usually not like this with other desserts,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_2",
+                "type": "Speech",
+                "text": "but every time I see a chocolate fountain,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_3",
+                "type": "Speech",
+                "text": "this incredible feeling wells up inside me, and I can't control it.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_4",
+                "type": "Choice",
+                "text": "What kind of feeling, exactly?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_16_6"
+            },
+            {
+                "id": "d_counseling_tia_16_5",
+                "type": "Choice",
+                "text": "I think I might know that feeling you're describing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_16_10"
+            },
+            {
+                "id": "d_counseling_tia_16_6",
+                "type": "Speech",
+                "text": "Something like this.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_7",
+                "type": "Speech",
+                "text": "Hehe!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_8",
+                "type": "Narration",
+                "text": "*Hug*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_9",
+                "type": "Speech",
+                "text": "The feeling I get whenever I hug you nice and tight!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_16_14"
+            },
+            {
+                "id": "d_counseling_tia_16_10",
+                "type": "Speech",
+                "text": "Hehe!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_11",
+                "type": "Speech",
+                "text": "Whenever I set my eyes on a chocolate fountain,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_12",
+                "type": "Speech",
+                "text": "I wanna run over, dunk my head straight in and guzzle down everything in it!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_16_13",
+                "type": "Speech",
+                "text": "I can't help it...",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_16_14"
+            },
+            {
+                "id": "d_counseling_tia_16_14",
+                "type": "Narration",
+                "text": "Tia and I both have to keep ourselves from drooling as we envision chocolate fountains.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_17_1",
+                "type": "Speech",
+                "text": "Hey Teacher.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_17_2",
+                "type": "Speech",
+                "text": "Do you prefer soft or hard objects?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_17_3",
+                "type": "Choice",
+                "text": "Hard.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_17_5"
+            },
+            {
+                "id": "d_counseling_tia_17_4",
+                "type": "Choice",
+                "text": "Soft.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_17_9"
+            },
+            {
+                "id": "d_counseling_tia_17_5",
+                "type": "Speech",
+                "text": "Me too.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_17_6",
+                "type": "Speech",
+                "text": "They just feel more reliable in a way.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_17_7",
+                "type": "Speech",
+                "text": "I'm glad you feel the same way.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_17_8",
+                "type": "Speech",
+                "text": "Dragon scales must be super hard too, right?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_17_12"
+            },
+            {
+                "id": "d_counseling_tia_17_9",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_17_10",
+                "type": "Speech",
+                "text": "It's always nice touching something soft.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_17_11",
+                "type": "Speech",
+                "text": "Like whenever I hug Naga.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_17_12"
+            },
+            {
+                "id": "d_counseling_tia_17_12",
+                "type": "Narration",
+                "text": "Tia and I have a conversation about touch.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_18_1",
+                "type": "Speech",
+                "text": "Whenever I think about how my time here at the school is coming to an end,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_2",
+                "type": "Speech",
+                "text": "I get so sad.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_3",
+                "type": "Choice",
+                "text": "Is there any way you can delay it?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_18_5"
+            },
+            {
+                "id": "d_counseling_tia_18_4",
+                "type": "Choice",
+                "text": "Is it because you're worried about your future?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_18_10"
+            },
+            {
+                "id": "d_counseling_tia_18_5",
+                "type": "Speech",
+                "text": "That'd be great if I could,",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_6",
+                "type": "Speech",
+                "text": "but is that even possible?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_7",
+                "type": "Self",
+                "text": "I'm not entirely sure if it is...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_8",
+                "type": "Speech",
+                "text": "Darn.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_9",
+                "type": "Speech",
+                "text": "Too bad.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_18_14"
+            },
+            {
+                "id": "d_counseling_tia_18_10",
+                "type": "Speech",
+                "text": "Heh, you got me.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_11",
+                "type": "Speech",
+                "text": "I should have known I couldn't hide it from you.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_12",
+                "type": "Speech",
+                "text": "I have no idea what I'm going to do after graduation.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_18_13",
+                "type": "Speech",
+                "text": "Well, I'm sure things will work out in the end.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_18_14"
+            },
+            {
+                "id": "d_counseling_tia_18_14",
+                "type": "Narration",
+                "text": "I have a conversation with Tia about her happy school days.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_19_1",
+                "type": "Speech",
+                "text": "I'm jealous of people who get to live with a dog or cat.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_19_2",
+                "type": "Speech",
+                "text": "All I can do is stare at photos of the animals I want to have.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_19_3",
+                "type": "Speech",
+                "text": "It's so pathetic.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_19_4",
+                "type": "Choice",
+                "text": "Like that crocodile?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_19_6"
+            },
+            {
+                "id": "d_counseling_tia_19_5",
+                "type": "Choice",
+                "text": "Like that dragon?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_19_9"
+            },
+            {
+                "id": "d_counseling_tia_19_6",
+                "type": "Speech",
+                "text": "That's called a dwarf caiman, to be precise.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_19_7",
+                "type": "Speech",
+                "text": "Isn't it the cutest thing?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_19_8",
+                "type": "Speech",
+                "text": "What I'd give to be able to pat its scales with my hands.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_19_12"
+            },
+            {
+                "id": "d_counseling_tia_19_9",
+                "type": "Speech",
+                "text": "Don't be silly, Teacher.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_19_10",
+                "type": "Speech",
+                "text": "How could I possibly have a dragon as a pet?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_19_11",
+                "type": "Speech",
+                "text": "It'd be way too big to bring into the Ark.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_19_12"
+            },
+            {
+                "id": "d_counseling_tia_19_12",
+                "type": "Narration",
+                "text": "I spend time with Tia talking about pets.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tia_20_1",
+                "type": "Speech",
+                "text": "Doesn't Naga look pretty with her hair tied back?",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_20_2",
+                "type": "Speech",
+                "text": "I was thinking of tying my hair back to switch up my image. Hehe.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_20_3",
+                "type": "Choice",
+                "text": "You're perfect just the way you are.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tia_20_5"
+            },
+            {
+                "id": "d_counseling_tia_20_4",
+                "type": "Choice",
+                "text": "That'll make you two look like sisters. That oughta be fun.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tia_20_8"
+            },
+            {
+                "id": "d_counseling_tia_20_5",
+                "type": "Speech",
+                "text": "Hehe...",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_20_6",
+                "type": "Speech",
+                "text": "You're gonna make me blush.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_20_7",
+                "type": "Speech",
+                "text": "Thanks, Teacher.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_20_10"
+            },
+            {
+                "id": "d_counseling_tia_20_8",
+                "type": "Speech",
+                "text": "Whoa, that'd be great!",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tia_20_9",
+                "type": "Speech",
+                "text": "Now I'm definitely gonna do it for sure.",
+                "speaker": "Tia",
+                "points": null,
+                "jumpTo": "d_counseling_tia_20_10"
+            },
+            {
+                "id": "d_counseling_tia_20_10",
+                "type": "Narration",
+                "text": "I watch Tia try out all kinds of different hairstyles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

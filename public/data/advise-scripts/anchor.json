@@ -1,0 +1,1813 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_anchor_01_1",
+                "type": "Speech",
+                "text": "Fishing is a big hobby of mine.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_01_2",
+                "type": "Speech",
+                "text": "Are you good at fishing, Captain?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_01_3",
+                "type": "Choice",
+                "text": "I'm a master angler.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_01_5"
+            },
+            {
+                "id": "d_counseling_anchor_01_4",
+                "type": "Choice",
+                "text": "Catching people is my specialty.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_01_8"
+            },
+            {
+                "id": "d_counseling_anchor_01_5",
+                "type": "Speech",
+                "text": "Really? I'm pretty good myself.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_01_6",
+                "type": "Speech",
+                "text": "Waddya say we go fishing together sometime?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_01_7",
+                "type": "Speech",
+                "text": "We could end up catching a real whopper!",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_01_12"
+            },
+            {
+                "id": "d_counseling_anchor_01_8",
+                "type": "Speech",
+                "text": "... Huh?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_01_9",
+                "type": "Speech",
+                "text": "With a fishing rod?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_01_10",
+                "type": "Speech",
+                "text": "How is that even possible? Wouldn't a person be too heavy?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_01_11",
+                "type": "Speech",
+                "text": "And what kind of bait do you use?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_01_12",
+                "type": "Narration",
+                "text": "Anchor and I discuss the ins and outs of fishing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_02_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_2",
+                "type": "Monologue",
+                "text": "Anchor stares at the marine life in the box.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_3",
+                "type": "Speech",
+                "text": "Marine life have faces only a mother could love, don't you think?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_4",
+                "type": "Choice",
+                "text": "That's part of their charm.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_02_6"
+            },
+            {
+                "id": "d_counseling_anchor_02_5",
+                "type": "Choice",
+                "text": "They sure do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_02_10"
+            },
+            {
+                "id": "d_counseling_anchor_02_6",
+                "type": "Speech",
+                "text": "Well said!",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_7",
+                "type": "Speech",
+                "text": "Apparently once you get hooked on something ugly, there's no going back.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_8",
+                "type": "Speech",
+                "text": "I can personally attest to how accurate that is.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_9",
+                "type": "Speech",
+                "text": "They're positively repugnant, but I can't get enough of these little guys.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_02_13"
+            },
+            {
+                "id": "d_counseling_anchor_02_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_11",
+                "type": "Speech",
+                "text": "I doubt they'd appreciate hearing that, though.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_12",
+                "type": "Speech",
+                "text": "We better apologize to them.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_02_13",
+                "type": "Narration",
+                "text": "Anchor and I talk more about marine life.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_03_1",
+                "type": "Speech",
+                "text": "All these radar waves have been giving me a headache lately.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_03_2",
+                "type": "Speech",
+                "text": "What should I do when my head hurts?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_03_3",
+                "type": "Choice",
+                "text": "I'll take you to go see Mary.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_03_5"
+            },
+            {
+                "id": "d_counseling_anchor_03_4",
+                "type": "Choice",
+                "text": "Touch Anchor's forehead.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_03_8"
+            },
+            {
+                "id": "d_counseling_anchor_03_5",
+                "type": "Speech",
+                "text": "I despise going to the hospital,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_03_6",
+                "type": "Speech",
+                "text": "but if you're going with me, I'll... nah, I still won't go.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_03_7",
+                "type": "Speech",
+                "text": "I've got nothing but bad memories about the hospital.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_03_11"
+            },
+            {
+                "id": "d_counseling_anchor_03_8",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_03_9",
+                "type": "Speech",
+                "text": "Your hand is so cold. I think my headache isn't as intense anymore.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_03_10",
+                "type": "Speech",
+                "text": "Can you leave your hand on my forehead for a while?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_03_11",
+                "type": "Narration",
+                "text": "I talk with Anchor about headaches.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_04_1",
+                "type": "Speech",
+                "text": "I wonder...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_2",
+                "type": "Speech",
+                "text": "If I hadn't become a Nikke, what would I be doing?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_3",
+                "type": "Choice",
+                "text": "You'd be a starfish.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_04_5"
+            },
+            {
+                "id": "d_counseling_anchor_04_4",
+                "type": "Choice",
+                "text": "You'd be a member of the navy rescue team.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_04_9"
+            },
+            {
+                "id": "d_counseling_anchor_04_5",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_6",
+                "type": "Speech",
+                "text": "What do you mean?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_7",
+                "type": "Speech",
+                "text": "How on earth could I become a starfish?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_8",
+                "type": "Speech",
+                "text": "We're two totally different species.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_04_13"
+            },
+            {
+                "id": "d_counseling_anchor_04_9",
+                "type": "Speech",
+                "text": "Navy rescue team?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_10",
+                "type": "Speech",
+                "text": "That would be fantastic.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_11",
+                "type": "Speech",
+                "text": "I'm all about rescuing people,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_12",
+                "type": "Speech",
+                "text": "and I like being in the water, too.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_04_13",
+                "type": "Narration",
+                "text": "Anchor and I share our hopes and dreams with each other.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_05_1",
+                "type": "Speech",
+                "text": "Helm said she's gonna buy me a swimsuit.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_05_2",
+                "type": "Speech",
+                "text": "What kind of swimsuit should I choose?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_05_3",
+                "type": "Choice",
+                "text": "Something cute with frills.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_05_5"
+            },
+            {
+                "id": "d_counseling_anchor_05_4",
+                "type": "Choice",
+                "text": "A one-piece with starfish designs.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_05_8"
+            },
+            {
+                "id": "d_counseling_anchor_05_5",
+                "type": "Speech",
+                "text": "Frills...?\nCute...?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_05_6",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_05_7",
+                "type": "Speech",
+                "text": "It's hardly something I would have chosen, but if you think it'll suit me, I'll consider it.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_05_10"
+            },
+            {
+                "id": "d_counseling_anchor_05_8",
+                "type": "Speech",
+                "text": "We all know how much I like starfish,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_05_9",
+                "type": "Speech",
+                "text": "but that may look a bit strange.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_05_10",
+                "type": "Narration",
+                "text": "I talk with Anchor about swimsuits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_06_1",
+                "type": "Speech",
+                "text": "What else can I throw in people's faces?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_06_2",
+                "type": "Speech",
+                "text": "Starfish are getting a bit stale for me.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_06_3",
+                "type": "Choice",
+                "text": "Jellyfish?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_06_5"
+            },
+            {
+                "id": "d_counseling_anchor_06_4",
+                "type": "Choice",
+                "text": "Octopus?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_06_7"
+            },
+            {
+                "id": "d_counseling_anchor_06_5",
+                "type": "Speech",
+                "text": "Jellyfish can be poisonous, so that'd be dangerous.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_06_6",
+                "type": "Speech",
+                "text": "People could get stung if I'm not careful.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_06_10"
+            },
+            {
+                "id": "d_counseling_anchor_06_7",
+                "type": "Speech",
+                "text": "That's not a bad idea.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_06_8",
+                "type": "Speech",
+                "text": "It'd certainly stick to people's faces easily.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_06_9",
+                "type": "Speech",
+                "text": "I'll give it a try and throw one at Mast next time.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_06_10",
+                "type": "Narration",
+                "text": "I have an enjoyable session with Anchor.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_07_1",
+                "type": "Speech",
+                "text": "Captain,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_07_2",
+                "type": "Speech",
+                "text": "is there anyone else here aside from us?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_07_3",
+                "type": "Choice",
+                "text": "Yeah, there's someone... right beside you!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_07_5"
+            },
+            {
+                "id": "d_counseling_anchor_07_4",
+                "type": "Choice",
+                "text": "No, why?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_07_8"
+            },
+            {
+                "id": "d_counseling_anchor_07_5",
+                "type": "Speech",
+                "text": "Nice try.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_07_6",
+                "type": "Speech",
+                "text": "Actually...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_07_7",
+                "type": "Speech",
+                "text": "there are several people surrounding you, Captain.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_07_11"
+            },
+            {
+                "id": "d_counseling_anchor_07_8",
+                "type": "Speech",
+                "text": "Huh.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_07_9",
+                "type": "Speech",
+                "text": "My radar is picking up other bodies. Must be malfunctioning.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_07_10",
+                "type": "Speech",
+                "text": "You okay, Captain? You look awfully pale.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_07_11",
+                "type": "Narration",
+                "text": "I spend time with Anchor telling ghost stories.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_08_1",
+                "type": "Speech",
+                "text": "I'm too lazy to clean today.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_08_2",
+                "type": "Speech",
+                "text": "Helm will probably give me an earful if I ask the marine life to take over for me.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_08_3",
+                "type": "Choice",
+                "text": "How could they help you clean?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_08_5"
+            },
+            {
+                "id": "d_counseling_anchor_08_4",
+                "type": "Choice",
+                "text": "I can help you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_08_8"
+            },
+            {
+                "id": "d_counseling_anchor_08_5",
+                "type": "Speech",
+                "text": "It was a joke.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_08_6",
+                "type": "Speech",
+                "text": "Actually, although it'd take them a bit longer, I'm sure they could do it.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_08_7",
+                "type": "Speech",
+                "text": "There's a reason people say that marine creatures are practically the janitors of the ocean.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_08_11"
+            },
+            {
+                "id": "d_counseling_anchor_08_8",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_08_9",
+                "type": "Speech",
+                "text": "I honestly wasn't saying that to try and get you to help me,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_08_10",
+                "type": "Speech",
+                "text": "but since you're offering, who am I to refuse?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_08_11",
+                "type": "Narration",
+                "text": "I clean with Anchor for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_09_1",
+                "type": "Speech",
+                "text": "The bird Mast always brings around is named Morgan, right?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_09_2",
+                "type": "Speech",
+                "text": "I want to give the marine life names, too.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_09_3",
+                "type": "Speech",
+                "text": "Got any good suggestions?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_09_4",
+                "type": "Choice",
+                "text": "Sea Cucumbo, Spoony Worm, and Starry?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_09_6"
+            },
+            {
+                "id": "d_counseling_anchor_09_5",
+                "type": "Choice",
+                "text": "Let's put our brains together and think.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_09_9"
+            },
+            {
+                "id": "d_counseling_anchor_09_6",
+                "type": "Speech",
+                "text": "... Well, we finally discovered something you're terrible at, Captain. Thinking of names.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_09_7",
+                "type": "Self",
+                "text": "Sorry? I didn't catch that.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_09_8",
+                "type": "Speech",
+                "text": "Nothing.\nAny other suggestions? Let's think together.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_09_12"
+            },
+            {
+                "id": "d_counseling_anchor_09_9",
+                "type": "Speech",
+                "text": "Sure.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_09_10",
+                "type": "Speech",
+                "text": "I don't want ordinary names.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_09_11",
+                "type": "Speech",
+                "text": "I want names that really mean something, like...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_09_12",
+                "type": "Narration",
+                "text": "Anchor and I think up names for her sea creatures.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_10_1",
+                "type": "Speech",
+                "text": "I have to prepare food for the boat party.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_10_2",
+                "type": "Speech",
+                "text": "What should I prepare?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_10_3",
+                "type": "Choice",
+                "text": "Can't go wrong with seafood.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_10_5"
+            },
+            {
+                "id": "d_counseling_anchor_10_4",
+                "type": "Choice",
+                "text": "Nutrium would be a good choice for a party.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_10_7"
+            },
+            {
+                "id": "d_counseling_anchor_10_5",
+                "type": "Speech",
+                "text": "I don't think that will do, since Helm doesn't like seafood.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_10_6",
+                "type": "Speech",
+                "text": "After all, a party is where everyone has fun and enjoys food.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_10_10"
+            },
+            {
+                "id": "d_counseling_anchor_10_7",
+                "type": "Speech",
+                "text": "That might be the right call.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_10_8",
+                "type": "Speech",
+                "text": "There could be some people who don't like seafood,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_10_9",
+                "type": "Speech",
+                "text": "but virtually no one will dislike Nutrium.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_10_10",
+                "type": "Narration",
+                "text": "Anchor and I plan out the menu for the upcoming boat party.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_11_1",
+                "type": "Speech",
+                "text": "Sometimes when I look at the Admire, I can't help but feel it's lonely.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_2",
+                "type": "Speech",
+                "text": "What do you think I can do to make it not as lonely?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_3",
+                "type": "Choice",
+                "text": "Raise marine life on it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_11_5"
+            },
+            {
+                "id": "d_counseling_anchor_11_4",
+                "type": "Choice",
+                "text": "It looks happy to me, because the Aegis squad is around.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_11_10"
+            },
+            {
+                "id": "d_counseling_anchor_11_5",
+                "type": "Speech",
+                "text": "That'd definitely give it some company.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_6",
+                "type": "Self",
+                "text": "And it'd be like the sea was by its side.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_7",
+                "type": "Speech",
+                "text": "You're right!",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_8",
+                "type": "Speech",
+                "text": "But if Helm finds out, I'll never hear the end of it.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_9",
+                "type": "Speech",
+                "text": "I'll have to see how long I can raise them before she shows up.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_11_13"
+            },
+            {
+                "id": "d_counseling_anchor_11_10",
+                "type": "Speech",
+                "text": "That makes sense.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_11",
+                "type": "Speech",
+                "text": "But I don't think we alone can fill that void.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_12",
+                "type": "Speech",
+                "text": "Maybe it's because it's not able to sail the high seas...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_11_13",
+                "type": "Narration",
+                "text": "I talk with Anchor about the Admire.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_12_1",
+                "type": "Speech",
+                "text": "You know the white uniforms Helm and Mast wear?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_12_2",
+                "type": "Speech",
+                "text": "Do you think that kind of outfit would suit me?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_12_3",
+                "type": "Choice",
+                "text": "Your current outfit suits you perfectly.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_12_5"
+            },
+            {
+                "id": "d_counseling_anchor_12_4",
+                "type": "Choice",
+                "text": "I am a tad curious how you'd look in uniform.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_12_7"
+            },
+            {
+                "id": "d_counseling_anchor_12_5",
+                "type": "Speech",
+                "text": "I'm glad to hear that,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_12_6",
+                "type": "Speech",
+                "text": "but sometimes I want to wear something a bit more charismatic, like Helm or Mast.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_12_10"
+            },
+            {
+                "id": "d_counseling_anchor_12_7",
+                "type": "Speech",
+                "text": "So you're curious too.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_12_8",
+                "type": "Speech",
+                "text": "The next time I see Helm, I'll see if I can try on a uniform.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_12_9",
+                "type": "Speech",
+                "text": "I'm also curious myself.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_12_10",
+                "type": "Narration",
+                "text": "I talk with Anchor about uniforms.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_13_1",
+                "type": "Speech",
+                "text": "I heard there used to be an aquarium on the surface.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_13_2",
+                "type": "Speech",
+                "text": "Why doesn't the Ark have one?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_13_3",
+                "type": "Choice",
+                "text": "Should we build one in the Outpost?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_13_5"
+            },
+            {
+                "id": "d_counseling_anchor_13_4",
+                "type": "Choice",
+                "text": "We should hurry and reclaim the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_13_8"
+            },
+            {
+                "id": "d_counseling_anchor_13_5",
+                "type": "Speech",
+                "text": "Here?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_13_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_13_7",
+                "type": "Speech",
+                "text": "Even if we do, it'd probably only be full of water and no actual fish.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_13_11"
+            },
+            {
+                "id": "d_counseling_anchor_13_8",
+                "type": "Speech",
+                "text": "And when we do, we'll open our own sprawling aquarium!",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_13_9",
+                "type": "Speech",
+                "text": "Just thinking about it gets me pumped.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_13_10",
+                "type": "Speech",
+                "text": "I'd go there every day, and you could come with me, Captain.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_13_11",
+                "type": "Narration",
+                "text": "Anchor and I continue to imagine our future aquarium.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_14_1",
+                "type": "Speech",
+                "text": "Why can't marine life speak?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_14_2",
+                "type": "Speech",
+                "text": "I get kinda jealous whenever I see Morgan talking to Mast.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_14_3",
+                "type": "Choice",
+                "text": "Mimic marine life speaking.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_14_5"
+            },
+            {
+                "id": "d_counseling_anchor_14_4",
+                "type": "Choice",
+                "text": "You're connected to them on a spiritual level. They don't have to speak.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_14_9"
+            },
+            {
+                "id": "d_counseling_anchor_14_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_14_6",
+                "type": "Monologue",
+                "text": "Anchor takes out a starfish from her pocket.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_14_7",
+                "type": "Self",
+                "text": "Sorry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_14_8",
+                "type": "Monologue",
+                "text": "... Anchor puts the starfish back in her pocket.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_anchor_14_12"
+            },
+            {
+                "id": "d_counseling_anchor_14_9",
+                "type": "Speech",
+                "text": "Hey, you're right!",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_14_10",
+                "type": "Speech",
+                "text": "We can understand each other even without talking.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_14_11",
+                "type": "Speech",
+                "text": "How could I forget something so important?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_14_12",
+                "type": "Narration",
+                "text": "Anchor and I have a pleasant session together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_15_1",
+                "type": "Speech",
+                "text": "Mast has been making me watch pirate movies every day this week.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_15_2",
+                "type": "Speech",
+                "text": "I think I've got nearly every line memorized by now.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_15_3",
+                "type": "Choice",
+                "text": "I'll keep the pirate-related movies somewhere out of reach.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_15_5"
+            },
+            {
+                "id": "d_counseling_anchor_15_4",
+                "type": "Choice",
+                "text": "Just tell her you want to watch something else.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_15_7"
+            },
+            {
+                "id": "d_counseling_anchor_15_5",
+                "type": "Speech",
+                "text": "You would do that for me?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_15_6",
+                "type": "Speech",
+                "text": "I will never forget the kindness you've done me.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_15_10"
+            },
+            {
+                "id": "d_counseling_anchor_15_7",
+                "type": "Speech",
+                "text": "If I do that,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_15_8",
+                "type": "Speech",
+                "text": "Mast will only badger me about pirate novels or something else.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_15_9",
+                "type": "Speech",
+                "text": "Then she'll start going on about the history of pirates or other trivia. I'd rather watch the movie in peace.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_15_10",
+                "type": "Narration",
+                "text": "Anchor and I discuss how to deal with Mast.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_16_1",
+                "type": "Speech",
+                "text": "... Captain.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_16_2",
+                "type": "Speech",
+                "text": "I'm so sleepy.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_16_3",
+                "type": "Choice",
+                "text": "We can end our session early today.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_16_5"
+            },
+            {
+                "id": "d_counseling_anchor_16_4",
+                "type": "Choice",
+                "text": "You can take a nap on my bed if you want.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_16_7"
+            },
+            {
+                "id": "d_counseling_anchor_16_5",
+                "type": "Speech",
+                "text": "*Yawn* Thanks. So sleepy...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_16_6",
+                "type": "Speech",
+                "text": "I'm barely even registering what I'm saying right now.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_16_10"
+            },
+            {
+                "id": "d_counseling_anchor_16_7",
+                "type": "Speech",
+                "text": "Would that be okay?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_16_8",
+                "type": "Speech",
+                "text": "Thanks. I spent all day yesterday watching seaweed,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_16_9",
+                "type": "Speech",
+                "text": "and barely got any sleep.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_16_10",
+                "type": "Narration",
+                "text": "I lend Anchor my bed so she can catch up on some sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_17_1",
+                "type": "Speech",
+                "text": "Captain,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_17_2",
+                "type": "Speech",
+                "text": "how long can you stay underwater?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_17_3",
+                "type": "Choice",
+                "text": "Probably longer than you can.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_17_5"
+            },
+            {
+                "id": "d_counseling_anchor_17_4",
+                "type": "Choice",
+                "text": "32 seconds on the dot.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_17_8"
+            },
+            {
+                "id": "d_counseling_anchor_17_5",
+                "type": "Speech",
+                "text": "Are you sure? I can hold my breath for around 10 minutes.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_17_6",
+                "type": "Speech",
+                "text": "Let's have a contest.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_17_7",
+                "type": "Speech",
+                "text": "Loser gets a starfish to the face.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_17_10"
+            },
+            {
+                "id": "d_counseling_anchor_17_8",
+                "type": "Speech",
+                "text": "I appreciate the fact that you're always honest.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_17_9",
+                "type": "Speech",
+                "text": "I'll teach you how to stay underwater longer.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_17_10",
+                "type": "Narration",
+                "text": "I spend some time diving with Anchor.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_18_1",
+                "type": "Speech",
+                "text": "Helm seems to have something on her mind, but she won't tell me what it is.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_18_2",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_18_3",
+                "type": "Choice",
+                "text": "Wait for her to open up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_18_5"
+            },
+            {
+                "id": "d_counseling_anchor_18_4",
+                "type": "Choice",
+                "text": "Threaten her with a starfish.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_18_7"
+            },
+            {
+                "id": "d_counseling_anchor_18_5",
+                "type": "Speech",
+                "text": "You're probably right.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_18_6",
+                "type": "Speech",
+                "text": "Helm is the type to open up only after she's sorted everything out in her head.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_18_9"
+            },
+            {
+                "id": "d_counseling_anchor_18_7",
+                "type": "Speech",
+                "text": "Although plastering her with a starfish would definitely force her to fess up,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_18_8",
+                "type": "Speech",
+                "text": "my curiosity isn't strong enough to warrant such extreme methods.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_18_9",
+                "type": "Narration",
+                "text": "Anchor and I talk about Helm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_19_1",
+                "type": "Speech",
+                "text": "Captain,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_19_2",
+                "type": "Speech",
+                "text": "I've got a question for you, and you need to guess the answer.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_19_3",
+                "type": "Speech",
+                "text": "Are seahorses good or bad at swimming?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_19_4",
+                "type": "Choice",
+                "text": "They're good at it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_19_6"
+            },
+            {
+                "id": "d_counseling_anchor_19_5",
+                "type": "Choice",
+                "text": "They're bad at it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_19_8"
+            },
+            {
+                "id": "d_counseling_anchor_19_6",
+                "type": "Speech",
+                "text": "Nope.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_19_7",
+                "type": "Speech",
+                "text": "Seahorses can't swim very well at all.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_19_11"
+            },
+            {
+                "id": "d_counseling_anchor_19_8",
+                "type": "Speech",
+                "text": "How did you know?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_19_9",
+                "type": "Speech",
+                "text": "Seahorses are far from adept swimmers.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_19_10",
+                "type": "Speech",
+                "text": "I only found that out recently.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_19_11",
+                "type": "Narration",
+                "text": "Anchor and I continue to quiz each other on random trivia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anchor_20_1",
+                "type": "Speech",
+                "text": "I feel so happy whenever Mast and Helm are near me,",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_20_2",
+                "type": "Speech",
+                "text": "but I don't know how to express that and tell them how I feel.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_20_3",
+                "type": "Choice",
+                "text": "Imagine them as sea creatures.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anchor_20_5"
+            },
+            {
+                "id": "d_counseling_anchor_20_4",
+                "type": "Choice",
+                "text": "I don't think you have to tell them. I'm sure they already know.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anchor_20_8"
+            },
+            {
+                "id": "d_counseling_anchor_20_5",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_20_6",
+                "type": "Speech",
+                "text": "That may be a bit of a mental leap. They don't exactly look like marine life.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_20_7",
+                "type": "Speech",
+                "text": "Any other suggestions?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": "d_counseling_anchor_20_12"
+            },
+            {
+                "id": "d_counseling_anchor_20_8",
+                "type": "Speech",
+                "text": "But how would they know if I've never told them?",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_20_9",
+                "type": "Self",
+                "text": "You can always tell if you're special to someone by looking into their eyes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_20_10",
+                "type": "Speech",
+                "text": "Really? That's great.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_20_11",
+                "type": "Speech",
+                "text": "Honestly, Helm and Mast are right up there with sea creatures for me. You too, Captain.",
+                "speaker": "Anchor",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anchor_20_12",
+                "type": "Narration",
+                "text": "I listen to Anchor talk about Helm and Mast.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

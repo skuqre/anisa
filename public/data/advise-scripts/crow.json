@@ -1,0 +1,1725 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_crow_01_1",
+                "type": "Speech",
+                "text": "I need more weapons.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_01_2",
+                "type": "Speech",
+                "text": "Do you know any place that's worth spending my money on?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_01_3",
+                "type": "Choice",
+                "text": "What do you need them for, exactly?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_01_5"
+            },
+            {
+                "id": "d_counseling_crow_01_4",
+                "type": "Choice",
+                "text": "Dark Net?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_01_7"
+            },
+            {
+                "id": "d_counseling_crow_01_5",
+                "type": "Speech",
+                "text": "Did nobody ever tell you that curiosity killed the cat?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_01_6",
+                "type": "Speech",
+                "text": "Save yourself a world of trouble and stop asking.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_01_10"
+            },
+            {
+                "id": "d_counseling_crow_01_7",
+                "type": "Speech",
+                "text": "Huh. Never expected you to recommend that place.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_01_8",
+                "type": "Speech",
+                "text": "Even the most righteous hero will betray the law,",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_01_9",
+                "type": "Speech",
+                "text": "when it comes to weapon quality.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_01_10",
+                "type": "Narration",
+                "text": "I share a serious conversation with Crow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_02_1",
+                "type": "Speech",
+                "text": "Do you see the bomb attached to my neck?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_02_2",
+                "type": "Speech",
+                "text": "Do you have the authority to get it taken off?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_02_3",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_02_5"
+            },
+            {
+                "id": "d_counseling_crow_02_4",
+                "type": "Choice",
+                "text": "I will make the request to Syuen.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_02_7"
+            },
+            {
+                "id": "d_counseling_crow_02_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_02_6",
+                "type": "Speech",
+                "text": "Tsk. I knew you would react like that.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_02_10"
+            },
+            {
+                "id": "d_counseling_crow_02_7",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_02_8",
+                "type": "Speech",
+                "text": "Ha. Ha.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_02_9",
+                "type": "Speech",
+                "text": "Your joke was so funny I almost forgot to laugh.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_02_10",
+                "type": "Narration",
+                "text": "I get to understand Crow a little better.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_03_1",
+                "type": "Speech",
+                "text": "Viper is up to something.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_03_2",
+                "type": "Speech",
+                "text": "I just can't figure out what it is.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_03_3",
+                "type": "Choice",
+                "text": "I'll try to snoop around.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_03_5"
+            },
+            {
+                "id": "d_counseling_crow_03_4",
+                "type": "Choice",
+                "text": "Do you have any guesses?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_03_7"
+            },
+            {
+                "id": "d_counseling_crow_03_5",
+                "type": "Speech",
+                "text": "No. Just leave her be.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_03_6",
+                "type": "Speech",
+                "text": "It might be a lot more fun this way.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_03_10"
+            },
+            {
+                "id": "d_counseling_crow_03_7",
+                "type": "Speech",
+                "text": "No good leads yet.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_03_8",
+                "type": "Speech",
+                "text": "Either she's starting a riot, or about to jump into one.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_03_9",
+                "type": "Speech",
+                "text": "Heck. Maybe it's both.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_03_10",
+                "type": "Narration",
+                "text": "I get to understand Crow's interpersonal relationships.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_04_1",
+                "type": "Speech",
+                "text": "Jackal seems even more stupid these days.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_04_2",
+                "type": "Speech",
+                "text": "Any good tips for training a dog?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_04_3",
+                "type": "Choice",
+                "text": "Jackal is not a dog.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_04_5"
+            },
+            {
+                "id": "d_counseling_crow_04_4",
+                "type": "Choice",
+                "text": "I will ask a Nikke who owns a dog.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_04_8"
+            },
+            {
+                "id": "d_counseling_crow_04_5",
+                "type": "Speech",
+                "text": "What is that?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_04_6",
+                "type": "Speech",
+                "text": "Jackal is a dog.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_04_7",
+                "type": "Speech",
+                "text": "Once you get bitten, you'll know.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_04_11"
+            },
+            {
+                "id": "d_counseling_crow_04_8",
+                "type": "Speech",
+                "text": "Hey, that'd be a great help.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_04_9",
+                "type": "Speech",
+                "text": "Since the wealthy old people of the Royal Road are the only ones allowed to keep dogs,",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_04_10",
+                "type": "Speech",
+                "text": "I have no idea who else to ask.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_04_11",
+                "type": "Narration",
+                "text": "I have a friendly conversation with Crow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_05_1",
+                "type": "Speech",
+                "text": "What's the difference between humans and Nikkes?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_05_2",
+                "type": "Choice",
+                "text": "Just the mechanical aspects of the body.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_05_4"
+            },
+            {
+                "id": "d_counseling_crow_05_3",
+                "type": "Choice",
+                "text": "The possibility of duplication.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_05_6"
+            },
+            {
+                "id": "d_counseling_crow_05_4",
+                "type": "Speech",
+                "text": "Huh. I see...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_05_5",
+                "type": "Speech",
+                "text": "Nikkes' bodies are mostly mechanical, after all.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_05_8"
+            },
+            {
+                "id": "d_counseling_crow_05_6",
+                "type": "Speech",
+                "text": "Huh. I see.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_05_7",
+                "type": "Speech",
+                "text": "You can always just make more Nikkes.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_05_8"
+            },
+            {
+                "id": "d_counseling_crow_05_8",
+                "type": "Speech",
+                "text": "That makes it hard to think of them as human, right?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_05_9",
+                "type": "Speech",
+                "text": "Interesting. Is that what most people think?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_05_10",
+                "type": "Narration",
+                "text": "I share a deep conversation with Crow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_06_1",
+                "type": "Speech",
+                "text": "{AccountData.NickName}, let me ask you one thing.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_2",
+                "type": "Speech",
+                "text": "Say you have a bottle filled with disgusting little maggots.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_3",
+                "type": "Speech",
+                "text": "Would you use wash and reuse that bottle?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_4",
+                "type": "Speech",
+                "text": "Or would you just burn it?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_5",
+                "type": "Choice",
+                "text": "I would wash it and reuse it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_06_7"
+            },
+            {
+                "id": "d_counseling_crow_06_6",
+                "type": "Choice",
+                "text": "I would burn it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_06_10"
+            },
+            {
+                "id": "d_counseling_crow_06_7",
+                "type": "Speech",
+                "text": "... Hey, Pal?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_8",
+                "type": "Speech",
+                "text": "You really don't know when to give up.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_9",
+                "type": "Speech",
+                "text": "That's why I always want to test your limits...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_06_13"
+            },
+            {
+                "id": "d_counseling_crow_06_10",
+                "type": "Speech",
+                "text": "Right?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_11",
+                "type": "Speech",
+                "text": "It's no different in the Ark.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_12",
+                "type": "Speech",
+                "text": "Burning something is faster than cleaning.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_06_13",
+                "type": "Narration",
+                "text": "I share a deep conversation with Crow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_07_1",
+                "type": "Speech",
+                "text": "Hey, {AccountData.NickName}.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_07_2",
+                "type": "Speech",
+                "text": "You ever been to the Outer Rim?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_07_3",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_07_5"
+            },
+            {
+                "id": "d_counseling_crow_07_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_07_9"
+            },
+            {
+                "id": "d_counseling_crow_07_5",
+                "type": "Speech",
+                "text": "Oh. Really?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_07_6",
+                "type": "Speech",
+                "text": "It's a nasty place.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_07_7",
+                "type": "Speech",
+                "text": "It's also what the real Ark looks like, without any modification.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_07_8",
+                "type": "Speech",
+                "text": "That's why I like it.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_07_11"
+            },
+            {
+                "id": "d_counseling_crow_07_9",
+                "type": "Speech",
+                "text": "... Hey, Pal?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_07_10",
+                "type": "Speech",
+                "text": "You really know nothing about the Ark.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_07_11",
+                "type": "Narration",
+                "text": "I share a deep conversation with Crow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_08_1",
+                "type": "Speech",
+                "text": "Yesterday, a Nikke said I was a psychopath.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_08_2",
+                "type": "Speech",
+                "text": "She said I was promoting rebellion.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_08_3",
+                "type": "Speech",
+                "text": "What do you think?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_08_4",
+                "type": "Choice",
+                "text": "I think she's right.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_08_6"
+            },
+            {
+                "id": "d_counseling_crow_08_5",
+                "type": "Choice",
+                "text": "No, of course not.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_08_8"
+            },
+            {
+                "id": "d_counseling_crow_08_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_08_7",
+                "type": "Speech",
+                "text": "Hm. It's refreshing to hear someone to just say what they think.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_08_10"
+            },
+            {
+                "id": "d_counseling_crow_08_8",
+                "type": "Speech",
+                "text": "Yeah, right?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_08_9",
+                "type": "Speech",
+                "text": "I'm not a psychopath. I'm probably more of a sociopath.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_08_10",
+                "type": "Narration",
+                "text": "I get to understand Crow a little better.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_09_1",
+                "type": "Speech",
+                "text": "I want to go to Royal Road...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_09_2",
+                "type": "Speech",
+                "text": "But, it's hard for outlaws like me to set foot there.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_09_3",
+                "type": "Speech",
+                "text": "Any ideas?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_09_4",
+                "type": "Choice",
+                "text": "I'll take you there.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_09_6"
+            },
+            {
+                "id": "d_counseling_crow_09_5",
+                "type": "Choice",
+                "text": "Why do you want to go there?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_09_8"
+            },
+            {
+                "id": "d_counseling_crow_09_6",
+                "type": "Speech",
+                "text": "I was hoping you'd say that.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_09_7",
+                "type": "Speech",
+                "text": "Then two of us will create very exciting news on the Tetra Net.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_09_11"
+            },
+            {
+                "id": "d_counseling_crow_09_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_09_9",
+                "type": "Speech",
+                "text": "Can't a girl just try to relax every once in a while?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_09_10",
+                "type": "Speech",
+                "text": "Blowing up the same numbskulls every day gets pretty boring, you know.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_09_11",
+                "type": "Narration",
+                "text": "I share a serious conversation with Crow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_10_1",
+                "type": "Speech",
+                "text": "You know, it might be hard to believe, but actually I love idealists like you.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_10_2",
+                "type": "Speech",
+                "text": "Can you guess why?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_10_3",
+                "type": "Choice",
+                "text": "Because you enjoy breaking their ideals.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_10_5"
+            },
+            {
+                "id": "d_counseling_crow_10_4",
+                "type": "Choice",
+                "text": "Because, deep down, you're an idealist, too.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_10_8"
+            },
+            {
+                "id": "d_counseling_crow_10_5",
+                "type": "Speech",
+                "text": "Ha! You must be a mind reader.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_10_6",
+                "type": "Speech",
+                "text": "There is nothing more beautiful than a pompous idealist's frustration.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_10_7",
+                "type": "Speech",
+                "text": "Fireworks are most beautiful when they explode. It's kind of like that.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_10_11"
+            },
+            {
+                "id": "d_counseling_crow_10_8",
+                "type": "Speech",
+                "text": "Why would you say something like that about me?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_10_9",
+                "type": "Speech",
+                "text": "Don't project your childish wishes on me.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_10_10",
+                "type": "Speech",
+                "text": "I never think so because I'm a sociopath. I just pretend to be the same kind when they benefit me.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_10_11",
+                "type": "Narration",
+                "text": "I get to understand Crow a little better.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_11_1",
+                "type": "Speech",
+                "text": "If you've been waiting on a message from someone for a long time,",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_11_2",
+                "type": "Speech",
+                "text": "how do you keep yourself from getting too anxious?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_11_3",
+                "type": "Choice",
+                "text": "Concentrate on something else.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_11_5"
+            },
+            {
+                "id": "d_counseling_crow_11_4",
+                "type": "Choice",
+                "text": "Tell them to hurry it up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_11_7"
+            },
+            {
+                "id": "d_counseling_crow_11_5",
+                "type": "Speech",
+                "text": "... Hmm.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_11_6",
+                "type": "Speech",
+                "text": "It's a good suggestion, but not for me. I like things done in a hurry.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_11_10"
+            },
+            {
+                "id": "d_counseling_crow_11_7",
+                "type": "Speech",
+                "text": "Yeah, maybe I should give them a call.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_11_8",
+                "type": "Monologue",
+                "text": "Crow picked up the cellphone.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_11_9",
+                "type": "Speech",
+                "text": "...Hey, Viper. I told you to detonate it ages ago, how come you're still setting up?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_11_10",
+                "type": "Narration",
+                "text": "I got to understand Crow a little better.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_12_1",
+                "type": "Speech",
+                "text": "Since you're a Commander, you probably run into all sorts of different Nikkes.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_12_2",
+                "type": "Speech",
+                "text": "Is there anyone you could never be close to?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_12_3",
+                "type": "Choice",
+                "text": "Well... you, for one.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_12_5"
+            },
+            {
+                "id": "d_counseling_crow_12_4",
+                "type": "Choice",
+                "text": "Such a thing would never happen.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_12_8"
+            },
+            {
+                "id": "d_counseling_crow_12_5",
+                "type": "Speech",
+                "text": "... I'm sorry to hear that.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_12_6",
+                "type": "Speech",
+                "text": "But, as the saying goes, opposites attract.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_12_7",
+                "type": "Speech",
+                "text": "I'm sure you'll warm up to me in time.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_12_11"
+            },
+            {
+                "id": "d_counseling_crow_12_8",
+                "type": "Speech",
+                "text": "You may be right.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_12_9",
+                "type": "Speech",
+                "text": "Where there's a will, there's a way.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_12_10",
+                "type": "Speech",
+                "text": "If it's a Nikke we're talking about, then you could, say... input a code into her brain.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_12_11",
+                "type": "Narration",
+                "text": "I got to understand Crow a little better.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_13_1",
+                "type": "Speech",
+                "text": "I don't like the way the riff-raff have been acting lately.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_13_2",
+                "type": "Speech",
+                "text": "How can I set them straight?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_13_3",
+                "type": "Choice",
+                "text": "Just trust them and give them time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_13_5"
+            },
+            {
+                "id": "d_counseling_crow_13_4",
+                "type": "Choice",
+                "text": "Tell them specifically what they're doing wrong.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_13_8"
+            },
+            {
+                "id": "d_counseling_crow_13_5",
+                "type": "Speech",
+                "text": "I'm not sure about that. They've let me down too many times at this point.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_13_6",
+                "type": "Speech",
+                "text": "If those morons had their heads on straight,",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_13_7",
+                "type": "Speech",
+                "text": "then the Ark and the Outer Rim would be equal in terms of policing by now.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_13_11"
+            },
+            {
+                "id": "d_counseling_crow_13_8",
+                "type": "Speech",
+                "text": "In theory, that's what should be done.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_13_9",
+                "type": "Speech",
+                "text": "But I'm not so confident I'll be able to resist the urge to murder them in the process.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_13_10",
+                "type": "Speech",
+                "text": "Should I get Viper to do it for me?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_13_11",
+                "type": "Narration",
+                "text": "I speak with Crow about educating subordinates.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_14_1",
+                "type": "Speech",
+                "text": "What do you think of Syuen and Missilis?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_14_2",
+                "type": "Choice",
+                "text": "She's a boon to mankind.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_14_4"
+            },
+            {
+                "id": "d_counseling_crow_14_3",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_14_6"
+            },
+            {
+                "id": "d_counseling_crow_14_4",
+                "type": "Speech",
+                "text": "A fairly standard opinion...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_14_5",
+                "type": "Speech",
+                "text": "Well, I don't see any reason why someone of your stature would think otherwise.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_14_9"
+            },
+            {
+                "id": "d_counseling_crow_14_6",
+                "type": "Speech",
+                "text": "I can tell by your face there's a lot remaining unsaid here.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_14_7",
+                "type": "Speech",
+                "text": "After all, you and Syuen are always at each other's throats.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_14_8",
+                "type": "Speech",
+                "text": "It's nice to know we have a mutual enemy.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_14_9",
+                "type": "Narration",
+                "text": "Crow and I discuss our feelings about The Big Three.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_15_1",
+                "type": "Speech",
+                "text": "Someone told me today that",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_15_2",
+                "type": "Speech",
+                "text": "I'm technically the leader of Heavenly Ascension.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_15_3",
+                "type": "Choice",
+                "text": "I'm sure you're not.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_15_5"
+            },
+            {
+                "id": "d_counseling_crow_15_4",
+                "type": "Choice",
+                "text": "Is that not correct?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_15_7"
+            },
+            {
+                "id": "d_counseling_crow_15_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_15_6",
+                "type": "Speech",
+                "text": "Are you stupid?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_15_10"
+            },
+            {
+                "id": "d_counseling_crow_15_7",
+                "type": "Speech",
+                "text": "What are you talking about? Heavenly Ascension has its own separate leader.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_15_8",
+                "type": "Speech",
+                "text": "She is a bit dense, so I have to interject sometimes...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_15_9",
+                "type": "Speech",
+                "text": "Now that I think about it... I suppose it's pretty much the same thing.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_15_10",
+                "type": "Narration",
+                "text": "I talk with Crow about her relationship with Heavenly Ascension.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_16_1",
+                "type": "Speech",
+                "text": "Hey {AccountData.NickName}, what do you admire most in a person?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_16_2",
+                "type": "Choice",
+                "text": "Firm beliefs.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_16_4"
+            },
+            {
+                "id": "d_counseling_crow_16_3",
+                "type": "Choice",
+                "text": "Know-how.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_16_7"
+            },
+            {
+                "id": "d_counseling_crow_16_4",
+                "type": "Speech",
+                "text": "Oh yes, very true indeed.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_16_5",
+                "type": "Speech",
+                "text": "Let me tell you, the sense of pleasure when you break down",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_16_6",
+                "type": "Speech",
+                "text": "someone with firmly held beliefs... nothing compares.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_16_10"
+            },
+            {
+                "id": "d_counseling_crow_16_7",
+                "type": "Speech",
+                "text": "You don't say...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_16_8",
+                "type": "Speech",
+                "text": "Very well.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_16_9",
+                "type": "Speech",
+                "text": "I hope you get along with whomever you're referring to.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_16_10",
+                "type": "Narration",
+                "text": "I got to understand Crow a little better.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_17_1",
+                "type": "Speech",
+                "text": "Outer Rim is a place filled with outlaws and undesirables.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_17_2",
+                "type": "Speech",
+                "text": "If you had the power to break down the partition",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_17_3",
+                "type": "Speech",
+                "text": "that separated the Outer Rim and the Ark,",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_17_4",
+                "type": "Speech",
+                "text": "would you do it?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_17_5",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_17_7"
+            },
+            {
+                "id": "d_counseling_crow_17_6",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_17_10"
+            },
+            {
+                "id": "d_counseling_crow_17_7",
+                "type": "Speech",
+                "text": "An admirable answer.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_17_8",
+                "type": "Speech",
+                "text": "You'd stubbornly insist on adhering to your beliefs",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_17_9",
+                "type": "Speech",
+                "text": "even if it meant the deaths of innocent civilians. Wonderful.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_17_12"
+            },
+            {
+                "id": "d_counseling_crow_17_10",
+                "type": "Speech",
+                "text": "What a boring answer.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_17_11",
+                "type": "Speech",
+                "text": "Since when were you such a realist?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_17_12",
+                "type": "Narration",
+                "text": "Crow and I have a lively discussion about politics.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_18_1",
+                "type": "Speech",
+                "text": "I wanted to give Jackal a gift.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_18_2",
+                "type": "Speech",
+                "text": "Any recommendations?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_18_3",
+                "type": "Choice",
+                "text": "A cute hair scrunchie.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_18_5"
+            },
+            {
+                "id": "d_counseling_crow_18_4",
+                "type": "Choice",
+                "text": "A dog toy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_18_8"
+            },
+            {
+                "id": "d_counseling_crow_18_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_18_6",
+                "type": "Speech",
+                "text": "You know she doesn't wear that sort of thing.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_18_7",
+                "type": "Speech",
+                "text": "Now, do you intend on actually giving me a proper recommendation?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_18_11"
+            },
+            {
+                "id": "d_counseling_crow_18_8",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_18_9",
+                "type": "Speech",
+                "text": "What a unique idea!",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_18_10",
+                "type": "Speech",
+                "text": "A few traitors would make for wonderful playthings.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_18_11",
+                "type": "Narration",
+                "text": "Crow and I talk about the art of giving gifts to colleagues.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_19_1",
+                "type": "Speech",
+                "text": "Reclaiming the surface, reclaiming the surface...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_19_2",
+                "type": "Speech",
+                "text": "It's always bandied about like it's a given, but is it actually possible?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_19_3",
+                "type": "Choice",
+                "text": "As long as you don't give up, there is always hope.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_19_5"
+            },
+            {
+                "id": "d_counseling_crow_19_4",
+                "type": "Choice",
+                "text": "I doubt it will happen in my lifetime.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_19_7"
+            },
+            {
+                "id": "d_counseling_crow_19_5",
+                "type": "Speech",
+                "text": "... That's true.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_19_6",
+                "type": "Speech",
+                "text": "Then again, those fools who go bankrupt playing the lottery have the same mindset.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_19_10"
+            },
+            {
+                "id": "d_counseling_crow_19_7",
+                "type": "Speech",
+                "text": "But the fact that you still fight",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_19_8",
+                "type": "Speech",
+                "text": "must mean you're willing to make personal sacrifices for a future generation you'll never know.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_19_9",
+                "type": "Speech",
+                "text": "I can't say I understand it, but it is very intriguing.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_19_10",
+                "type": "Narration",
+                "text": "I converse with Crow about the feasibility of reclaiming the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crow_20_1",
+                "type": "Speech",
+                "text": "Have you ever wanted something so badly, that you were willing to die for it?",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_20_2",
+                "type": "Choice",
+                "text": "No, never.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crow_20_4"
+            },
+            {
+                "id": "d_counseling_crow_20_3",
+                "type": "Choice",
+                "text": "Yes, the safety of the people.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crow_20_6"
+            },
+            {
+                "id": "d_counseling_crow_20_4",
+                "type": "Speech",
+                "text": "... How disappointing.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_20_5",
+                "type": "Speech",
+                "text": "I thought for sure you would come up with something.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": "d_counseling_crow_20_9"
+            },
+            {
+                "id": "d_counseling_crow_20_6",
+                "type": "Speech",
+                "text": "Interesting...",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_20_7",
+                "type": "Speech",
+                "text": "I wish for destruction.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_20_8",
+                "type": "Speech",
+                "text": "That way, you and I can wreak havoc together.",
+                "speaker": "Crow",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crow_20_9",
+                "type": "Narration",
+                "text": "Crow and I have an in-depth conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,2133 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_viper_01_1",
+                "type": "Speech",
+                "text": "Honey!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_01_2",
+                "type": "Speech",
+                "text": "If you had to choose between simple and fancy, what would it be?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_01_3",
+                "type": "Choice",
+                "text": "Simple.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_01_5"
+            },
+            {
+                "id": "d_counseling_viper_01_4",
+                "type": "Choice",
+                "text": "Fancy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_01_7"
+            },
+            {
+                "id": "d_counseling_viper_01_5",
+                "type": "Speech",
+                "text": "I knew I could count on you!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_01_6",
+                "type": "Speech",
+                "text": "I wanted to do a little something different with my nails this time around. You must have sensed it!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_01_9"
+            },
+            {
+                "id": "d_counseling_viper_01_7",
+                "type": "Speech",
+                "text": "Hmm, I was thinking of doing something a little different with my nails this time around...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_01_8",
+                "type": "Speech",
+                "text": "but if you prefer a fancy look, then I'll go with that.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_01_9",
+                "type": "Narration",
+                "text": "I spend time watching Viper paint her nails.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_02_1",
+                "type": "Speech",
+                "text": "A or B? Choose one.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_2",
+                "type": "Speech",
+                "text": "No questions.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_3",
+                "type": "Choice",
+                "text": "A.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_02_5"
+            },
+            {
+                "id": "d_counseling_viper_02_4",
+                "type": "Choice",
+                "text": "B.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_02_9"
+            },
+            {
+                "id": "d_counseling_viper_02_5",
+                "type": "Speech",
+                "text": "Darn.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_6",
+                "type": "Monologue",
+                "text": "Viper grabs my hand and lifts it up to her mouth.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_7",
+                "type": "Narration",
+                "text": "*Smooch*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_8",
+                "type": "Speech",
+                "text": "If you get it right next time, I'll kiss you somewhere else!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_02_15"
+            },
+            {
+                "id": "d_counseling_viper_02_9",
+                "type": "Speech",
+                "text": "Wow, really?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_10",
+                "type": "Monologue",
+                "text": "Viper grabs my shoulder and pulls me close.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_11",
+                "type": "Narration",
+                "text": "*Smooch*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_12",
+                "type": "Speech",
+                "text": "Well? Happy with your choice?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_13",
+                "type": "Speech",
+                "text": "Hmm... you don't seem too happy...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_14",
+                "type": "Speech",
+                "text": "Should I have prepared something more substantial?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_02_15",
+                "type": "Narration",
+                "text": "Viper smiles mischievously.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_03_1",
+                "type": "Speech",
+                "text": "When you're drinking a milkshake,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_03_2",
+                "type": "Speech",
+                "text": "do you eat the cherry right away, or save it for last?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_03_3",
+                "type": "Choice",
+                "text": "I usually eat it first.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_03_5"
+            },
+            {
+                "id": "d_counseling_viper_03_4",
+                "type": "Choice",
+                "text": "I save it for last.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_03_8"
+            },
+            {
+                "id": "d_counseling_viper_03_5",
+                "type": "Speech",
+                "text": "Same here.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_03_6",
+                "type": "Speech",
+                "text": "That way no one else can eat it before you do.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_03_7",
+                "type": "Speech",
+                "text": "Hehe!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_03_11"
+            },
+            {
+                "id": "d_counseling_viper_03_8",
+                "type": "Speech",
+                "text": "Really? I like to eat it straight away.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_03_9",
+                "type": "Speech",
+                "text": "If you try and save it for later,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_03_10",
+                "type": "Speech",
+                "text": "someone greedy like me could come along and snatch it up!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_03_11",
+                "type": "Narration",
+                "text": "I go with Viper to get a milkshake.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_04_1",
+                "type": "Speech",
+                "text": "Tell me, Honey.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_04_2",
+                "type": "Speech",
+                "text": "Do you prefer the Ark, or the surface?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_04_3",
+                "type": "Choice",
+                "text": "The surface.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_04_5"
+            },
+            {
+                "id": "d_counseling_viper_04_4",
+                "type": "Choice",
+                "text": "The Ark.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_04_8"
+            },
+            {
+                "id": "d_counseling_viper_04_5",
+                "type": "Speech",
+                "text": "There aren't enough people up there for me.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_04_6",
+                "type": "Speech",
+                "text": "I need to be somewhere where there are a lot of people, and lots of fun things to do.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_04_7",
+                "type": "Speech",
+                "text": "You can't do that up on the surface.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_04_12"
+            },
+            {
+                "id": "d_counseling_viper_04_8",
+                "type": "Speech",
+                "text": "Haha!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_04_9",
+                "type": "Speech",
+                "text": "Me too!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_04_10",
+                "type": "Speech",
+                "text": "Since the Ark has a lot of people,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_04_11",
+                "type": "Speech",
+                "text": "you can do all sorts of fun things!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_04_12",
+                "type": "Narration",
+                "text": "Viper and I talk more about how fun it is living in the Ark.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_05_1",
+                "type": "Speech",
+                "text": "Ahem...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_2",
+                "type": "Monologue",
+                "text": "Viper taps my toes lightly with hers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_3",
+                "type": "Speech",
+                "text": "Ahem...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_4",
+                "type": "Monologue",
+                "text": "Her toes creep up past my foot and towards my ankle.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_5",
+                "type": "Speech",
+                "text": "Ahem!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_6",
+                "type": "Monologue",
+                "text": "Her toes move up towards the inside of my calf.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_7",
+                "type": "Choice",
+                "text": "Grab Viper by the ankle.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_05_9"
+            },
+            {
+                "id": "d_counseling_viper_05_8",
+                "type": "Choice",
+                "text": "Run away from Viper.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_05_13"
+            },
+            {
+                "id": "d_counseling_viper_05_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_10",
+                "type": "Speech",
+                "text": "Ow, not so rough!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_11",
+                "type": "Speech",
+                "text": "That hurts, you know!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_12",
+                "type": "Speech",
+                "text": "Rather than manhandle me, you could just run away...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_05_16"
+            },
+            {
+                "id": "d_counseling_viper_05_13",
+                "type": "Speech",
+                "text": "Hehe, sorry Honey.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_14",
+                "type": "Speech",
+                "text": "Did I surprise you?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_15",
+                "type": "Speech",
+                "text": "Aren't you just the cutest thing?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_05_16",
+                "type": "Narration",
+                "text": "I spend time flirting with Viper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_06_1",
+                "type": "Speech",
+                "text": "Do you prefer crows or snakes?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_06_2",
+                "type": "Choice",
+                "text": "Crows.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_06_4"
+            },
+            {
+                "id": "d_counseling_viper_06_3",
+                "type": "Choice",
+                "text": "Snakes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_06_7"
+            },
+            {
+                "id": "d_counseling_viper_06_4",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_06_5",
+                "type": "Speech",
+                "text": "But crows are so dark and forbidding...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_06_6",
+                "type": "Speech",
+                "text": "I didn't expect you to be into that kind of thing.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_06_10"
+            },
+            {
+                "id": "d_counseling_viper_06_7",
+                "type": "Speech",
+                "text": "I knew we'd agree.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_06_8",
+                "type": "Speech",
+                "text": "Snakes are way better than crows.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_06_9",
+                "type": "Speech",
+                "text": "They're so cute and cuddly!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_06_10",
+                "type": "Narration",
+                "text": "Viper and I talk more about our favorite animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_07_1",
+                "type": "Speech",
+                "text": "I wonder,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_2",
+                "type": "Speech",
+                "text": "should I tell you about a secret I've been hiding?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_3",
+                "type": "Choice",
+                "text": "If you tell me, what will you want in return?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_07_5"
+            },
+            {
+                "id": "d_counseling_viper_07_4",
+                "type": "Choice",
+                "text": "You don't need to tell me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_07_10"
+            },
+            {
+                "id": "d_counseling_viper_07_5",
+                "type": "Speech",
+                "text": "My Honey is one step ahead, as always.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_6",
+                "type": "Speech",
+                "text": "Don't think of it as me wanting something in return.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_7",
+                "type": "Speech",
+                "text": "It's just that if we exchange our deepest and darkest secrets, you and I...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_8",
+                "type": "Speech",
+                "text": "Might become closer than we were before.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_9",
+                "type": "Speech",
+                "text": "Would you like that?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_07_13"
+            },
+            {
+                "id": "d_counseling_viper_07_10",
+                "type": "Speech",
+                "text": "You don't have to be so standoffish...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_11",
+                "type": "Speech",
+                "text": "I was trying to get a little closer to you.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_12",
+                "type": "Speech",
+                "text": "Don't you want that?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_07_13",
+                "type": "Narration",
+                "text": "Viper and I share some of our secrets with one another.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_08_1",
+                "type": "Speech",
+                "text": "The weather is so nice today!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_08_2",
+                "type": "Speech",
+                "text": "I want to go somewhere.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_08_3",
+                "type": "Choice",
+                "text": "Want to go shopping?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_08_5"
+            },
+            {
+                "id": "d_counseling_viper_08_4",
+                "type": "Choice",
+                "text": "Want to go on a date?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_08_8"
+            },
+            {
+                "id": "d_counseling_viper_08_5",
+                "type": "Speech",
+                "text": "I like shopping as much as the next person, but don't you have any other ideas?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_08_6",
+                "type": "Speech",
+                "text": "I feel like with shopping, we'd just stare at some items for a while before saying goodbye, and that's it.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_08_7",
+                "type": "Speech",
+                "text": "I want to do a lot of other things with you,\nnot just shopping...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_08_11"
+            },
+            {
+                "id": "d_counseling_viper_08_8",
+                "type": "Speech",
+                "text": "I'd love that!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_08_9",
+                "type": "Speech",
+                "text": "What should we do? We could go for a walk in the park...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_08_10",
+                "type": "Speech",
+                "text": "That way we could be alone...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_08_11",
+                "type": "Narration",
+                "text": "I talk with Viper about what we would do when we go to the Ark.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_09_1",
+                "type": "Speech",
+                "text": "Jackal is such a brown-noser.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_2",
+                "type": "Speech",
+                "text": "It's like she can't even think for herself.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_3",
+                "type": "Speech",
+                "text": "If Crow told her to jump off a bridge, she'd probably do it.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_4",
+                "type": "Speech",
+                "text": "Do you think that's why Crow likes Jackal more than me?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_5",
+                "type": "Choice",
+                "text": "Are you jealous of Jackal?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_09_7"
+            },
+            {
+                "id": "d_counseling_viper_09_6",
+                "type": "Choice",
+                "text": "You have plenty of your own positive qualities.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_09_9"
+            },
+            {
+                "id": "d_counseling_viper_09_7",
+                "type": "Speech",
+                "text": "Absolutely not!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_8",
+                "type": "Speech",
+                "text": "How could anyone be jealous of a mindless sycophant?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_09_12"
+            },
+            {
+                "id": "d_counseling_viper_09_9",
+                "type": "Speech",
+                "text": "Hey, you're right!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_10",
+                "type": "Speech",
+                "text": "I'm me, and no one else. I don't have to be like Jackal.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_11",
+                "type": "Speech",
+                "text": "I'd hate spending my life as a brainless lackey. How could I ever be jealous of Jackal?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_09_12"
+            },
+            {
+                "id": "d_counseling_viper_09_12",
+                "type": "Speech",
+                "text": "Besides, if there's anyone whose affection I'm after,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_13",
+                "type": "Speech",
+                "text": "it's you, not Crow.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_14",
+                "type": "Speech",
+                "text": "So I was hoping... you could show me some affection...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_09_15",
+                "type": "Narration",
+                "text": "I take my hand and caress Viper's face.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_10_1",
+                "type": "Speech",
+                "text": "What's the best thing about living in the Outer Rim?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_10_2",
+                "type": "Choice",
+                "text": "I don't know.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_10_4"
+            },
+            {
+                "id": "d_counseling_viper_10_3",
+                "type": "Choice",
+                "text": "I get to see you often.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_10_7"
+            },
+            {
+                "id": "d_counseling_viper_10_4",
+                "type": "Speech",
+                "text": "While I appreciate your honesty,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_10_5",
+                "type": "Speech",
+                "text": "you should try a little harder to come up with something.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_10_6",
+                "type": "Speech",
+                "text": "If someone from the Outer Rim heard you say that, they might feel hurt.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_10_11"
+            },
+            {
+                "id": "d_counseling_viper_10_7",
+                "type": "Speech",
+                "text": "Pssh, you're really laying it on thick.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_10_8",
+                "type": "Speech",
+                "text": "You're only saying that because you couldn't come up with an actual answer.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_10_9",
+                "type": "Narration",
+                "text": "Nevertheless... it does make me feel good hearing that.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_10_10",
+                "type": "Speech",
+                "text": "*Smooch*",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_10_11",
+                "type": "Narration",
+                "text": "I talk a little more about the Outer Rim with Viper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_11_1",
+                "type": "Speech",
+                "text": "Honey! One of our squadmates sold out to the Ark in exchange for a place to live there.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_2",
+                "type": "Speech",
+                "text": "They've been feeding them information on what the Boss, Jackal, and I have been up to the past few days.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_3",
+                "type": "Speech",
+                "text": "They've been on us like white on rice, asking us all sorts of questions.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_4",
+                "type": "Speech",
+                "text": "It's enough to make your blood boil.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_5",
+                "type": "Speech",
+                "text": "I managed to catch them in the act yesterday.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_6",
+                "type": "Speech",
+                "text": "What do you think I should do with them?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_7",
+                "type": "Choice",
+                "text": "Just don't kill them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_11_9"
+            },
+            {
+                "id": "d_counseling_viper_11_8",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_11_11"
+            },
+            {
+                "id": "d_counseling_viper_11_9",
+                "type": "Speech",
+                "text": "Come on, don't you trust me?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_10",
+                "type": "Speech",
+                "text": "Nobody's going to kill anybody.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_11_14"
+            },
+            {
+                "id": "d_counseling_viper_11_11",
+                "type": "Speech",
+                "text": "Why aren't you saying anything?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_12",
+                "type": "Speech",
+                "text": "Are you nervous?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_13",
+                "type": "Speech",
+                "text": "Wait, do you think I'm planning on killing them?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_11_14"
+            },
+            {
+                "id": "d_counseling_viper_11_14",
+                "type": "Speech",
+                "text": "Give me some credit.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_15",
+                "type": "Speech",
+                "text": "Who am I going to kill when I've got this around my neck?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_16",
+                "type": "Speech",
+                "text": "Besides, I believe in having \"an eye for an eye, a tooth for a tooth\". I won't go overboard.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_17",
+                "type": "Speech",
+                "text": "I never do anything more than it.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_18",
+                "type": "Speech",
+                "text": "That's just kindness for you.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_11_19",
+                "type": "Narration",
+                "text": "I have a sweet but dangerous session with Viper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_12_1",
+                "type": "Speech",
+                "text": "When you're eating candy,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_12_2",
+                "type": "Speech",
+                "text": "do you like eating it in one bite, or letting it melt slowly in your mouth?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_12_3",
+                "type": "Choice",
+                "text": "Eating it all in one bite.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_12_5"
+            },
+            {
+                "id": "d_counseling_viper_12_4",
+                "type": "Choice",
+                "text": "Letting it melt slowly in my mouth.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_12_8"
+            },
+            {
+                "id": "d_counseling_viper_12_5",
+                "type": "Speech",
+                "text": "No way! Eating it that way is no fun.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_12_6",
+                "type": "Speech",
+                "text": "If you eat it all in one bite,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_12_7",
+                "type": "Speech",
+                "text": "you don't even get to taste it.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_12_12"
+            },
+            {
+                "id": "d_counseling_viper_12_8",
+                "type": "Speech",
+                "text": "Nice! Isn't it the best?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_12_9",
+                "type": "Speech",
+                "text": "It's no fun eating it all in one bite.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_12_10",
+                "type": "Speech",
+                "text": "If you let it melt slowly,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_12_11",
+                "type": "Speech",
+                "text": "you can really appreciate the flavor.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_12_12",
+                "type": "Narration",
+                "text": "I share a candy with Viper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_13_1",
+                "type": "Speech",
+                "text": "Honey, who do you think is in a worse position?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_2",
+                "type": "Speech",
+                "text": "Someone who steals, or someone who gets stolen from?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_3",
+                "type": "Choice",
+                "text": "Someone who steals.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_13_5"
+            },
+            {
+                "id": "d_counseling_viper_13_4",
+                "type": "Choice",
+                "text": "Being stolen from.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_13_10"
+            },
+            {
+                "id": "d_counseling_viper_13_5",
+                "type": "Speech",
+                "text": "Hmm, I think the opposite.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_6",
+                "type": "Speech",
+                "text": "If something is precious to you, then you should be able to keep it safe.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_7",
+                "type": "Speech",
+                "text": "If you can't do that, then you're better off letting someone else have it.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_8",
+                "type": "Speech",
+                "text": "How am I the bad guy,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_9",
+                "type": "Speech",
+                "text": "when nobody can look after their valuables properly?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_13_14"
+            },
+            {
+                "id": "d_counseling_viper_13_10",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_11",
+                "type": "Speech",
+                "text": "Everyone else seems to think the person who steals is in the wrong, so I'm always painted as the bad guy.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_12",
+                "type": "Speech",
+                "text": "But I always say that if someone really values something, they'd do a better job of protecting it!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_13",
+                "type": "Speech",
+                "text": "If you can't keep something safe, then you're better off letting someone else have it.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_13_14",
+                "type": "Narration",
+                "text": "I discuss with Viper how best to protect things precious to us.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_14_1",
+                "type": "Speech",
+                "text": "If I didn't have this choker on my neck,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_2",
+                "type": "Speech",
+                "text": "what do you think would be the first thing I'd do?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_3",
+                "type": "Choice",
+                "text": "... Kill me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_14_5"
+            },
+            {
+                "id": "d_counseling_viper_14_4",
+                "type": "Choice",
+                "text": "... Terrorize the Ark?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_14_10"
+            },
+            {
+                "id": "d_counseling_viper_14_5",
+                "type": "Speech",
+                "text": "What? How can you say that?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_6",
+                "type": "Speech",
+                "text": "I'd never kill you! You've been so nice to me. I'm not totally heartless, you know.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_7",
+                "type": "Speech",
+                "text": "Why would I waste my newfound freedom on killing you?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_8",
+                "type": "Speech",
+                "text": "If anything, I guess I'd give you a choker.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_9",
+                "type": "Speech",
+                "text": "One the same as mine, so you could wear it around your neck.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_14_15"
+            },
+            {
+                "id": "d_counseling_viper_14_10",
+                "type": "Speech",
+                "text": "Huh? That sounds more like something Crow would do.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_11",
+                "type": "Speech",
+                "text": "I'm a bit more low-key.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_12",
+                "type": "Speech",
+                "text": "Seeing people run about in a panic doesn't do much for me.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_13",
+                "type": "Speech",
+                "text": "I much prefer latching onto a single person and giving them my undivided attention.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_14",
+                "type": "Speech",
+                "text": "That's what gives me the most joy.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_14_15",
+                "type": "Narration",
+                "text": "I have a somewhat unnerving conversation with Viper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_15_1",
+                "type": "Speech",
+                "text": "I am in a fantastic mood today!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_2",
+                "type": "Speech",
+                "text": "Wanna guess why?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_3",
+                "type": "Choice",
+                "text": "Because the weather is nice?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_15_5"
+            },
+            {
+                "id": "d_counseling_viper_15_4",
+                "type": "Choice",
+                "text": "Because today is our scheduled counseling day?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_15_10"
+            },
+            {
+                "id": "d_counseling_viper_15_5",
+                "type": "Speech",
+                "text": "Nope!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_6",
+                "type": "Speech",
+                "text": "I just had a killer deal go through without a hitch.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_7",
+                "type": "Speech",
+                "text": "I sold some bombs to these little kids, and they didn't know any better, so I was able to pull a fast one on 'em!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_8",
+                "type": "Speech",
+                "text": "Oh, right! It'd be nice if we kept this whole arms deal thing on the down-low.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_9",
+                "type": "Speech",
+                "text": "You won't tell anyone, will you?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_15_15"
+            },
+            {
+                "id": "d_counseling_viper_15_10",
+                "type": "Speech",
+                "text": "Wow, I hadn't even thought about that.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_11",
+                "type": "Speech",
+                "text": "I was feeling good because these young kids I sold some bombs to didn't know their butts from a hole in the ground, and I made a killing.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_12",
+                "type": "Speech",
+                "text": "But now that I think about it, I guess I am happy that I get to talk to you.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_13",
+                "type": "Speech",
+                "text": "Oh, right! It'd be nice if we kept this whole arms deal thing on the down-low.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_14",
+                "type": "Speech",
+                "text": "You won't tell anyone, will you?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_15_15",
+                "type": "Narration",
+                "text": "I have a conversation with Viper about the things that make us happy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_16_1",
+                "type": "Speech",
+                "text": "Do you believe that the feelings you have for other people",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_2",
+                "type": "Speech",
+                "text": "are always reciprocated?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_3",
+                "type": "Choice",
+                "text": "I do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_16_5"
+            },
+            {
+                "id": "d_counseling_viper_16_4",
+                "type": "Choice",
+                "text": "What do you think?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_16_10"
+            },
+            {
+                "id": "d_counseling_viper_16_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_6",
+                "type": "Speech",
+                "text": "Is that why you're so fond of other Nikkes?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_7",
+                "type": "Self",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_8",
+                "type": "Speech",
+                "text": "Oh, I didn't startle you, did I?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_9",
+                "type": "Speech",
+                "text": "Don't worry, I don't really care all that much.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_16_15"
+            },
+            {
+                "id": "d_counseling_viper_16_10",
+                "type": "Speech",
+                "text": "Hey, are you answering my question with another question?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_11",
+                "type": "Speech",
+                "text": "Well... I suppose I don't mind it too much.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_12",
+                "type": "Monologue",
+                "text": "Viper throws her arms around my neck.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_13",
+                "type": "Speech",
+                "text": "To answer your question, I'm not sure. So...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_14",
+                "type": "Speech",
+                "text": "How about you and I look into it, just the two of us?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_16_15",
+                "type": "Narration",
+                "text": "I spend time with Viper finding out about love.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_17_1",
+                "type": "Speech",
+                "text": "Any chance you can end our session a little early today?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_17_2",
+                "type": "Speech",
+                "text": "I've got something to do.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_17_3",
+                "type": "Choice",
+                "text": "Okay.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_17_5"
+            },
+            {
+                "id": "d_counseling_viper_17_4",
+                "type": "Choice",
+                "text": "What is it?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_17_8"
+            },
+            {
+                "id": "d_counseling_viper_17_5",
+                "type": "Speech",
+                "text": "You're not even going to ask me what it is?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_17_6",
+                "type": "Speech",
+                "text": "Thanks for trusting me.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_17_7",
+                "type": "Speech",
+                "text": "In that case, since our time together is short today, let's get a little closer.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_17_10"
+            },
+            {
+                "id": "d_counseling_viper_17_8",
+                "type": "Speech",
+                "text": "If I told you, you'd stop me from doing it.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_17_9",
+                "type": "Speech",
+                "text": "This is not a personal matter, so don't go all jealous on me.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_17_10",
+                "type": "Narration",
+                "text": "I have a short but rewarding session with Viper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_18_1",
+                "type": "Speech",
+                "text": "Have I ever told you",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_18_2",
+                "type": "Speech",
+                "text": "how innocent you are?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_18_3",
+                "type": "Choice",
+                "text": "... Is that a compliment?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_18_5"
+            },
+            {
+                "id": "d_counseling_viper_18_4",
+                "type": "Choice",
+                "text": "I'm not as innocent as you think I am.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_18_8"
+            },
+            {
+                "id": "d_counseling_viper_18_5",
+                "type": "Speech",
+                "text": "Of course it's a compliment!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_18_6",
+                "type": "Speech",
+                "text": "I love people who are nice and innocent like you.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_18_7",
+                "type": "Speech",
+                "text": "Don't ever change.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_18_12"
+            },
+            {
+                "id": "d_counseling_viper_18_8",
+                "type": "Speech",
+                "text": "Haha, that's a good one!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_18_9",
+                "type": "Speech",
+                "text": "If you were a bad apple, then the Captain would really have egg on her face.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_18_10",
+                "type": "Speech",
+                "text": "Having said that, if you ever want to take a walk on the wild side,",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_18_11",
+                "type": "Speech",
+                "text": "feel free to get in touch with me, hehe!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_18_12",
+                "type": "Narration",
+                "text": "I have a conversation with Viper about what makes a partner charming.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_19_1",
+                "type": "Speech",
+                "text": "Honey, do you like alcohol?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_2",
+                "type": "Choice",
+                "text": "I do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_19_4"
+            },
+            {
+                "id": "d_counseling_viper_19_3",
+                "type": "Choice",
+                "text": "I don't.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_19_10"
+            },
+            {
+                "id": "d_counseling_viper_19_4",
+                "type": "Speech",
+                "text": "Cool.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_5",
+                "type": "Self",
+                "text": "What about you?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_6",
+                "type": "Speech",
+                "text": "It's not so much that I like alcohol itself. It's just that...",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_7",
+                "type": "Speech",
+                "text": "If you drink with someone, you speak more freely and say what's on your mind.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_8",
+                "type": "Monologue",
+                "text": "Viper grabs a bottle of alcohol from the refrigerator.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_9",
+                "type": "Speech",
+                "text": "How about we have a drink together?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_19_15"
+            },
+            {
+                "id": "d_counseling_viper_19_10",
+                "type": "Speech",
+                "text": "Not even a little bit?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_11",
+                "type": "Self",
+                "text": "I'm not a teetotaler.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_12",
+                "type": "Speech",
+                "text": "Whew, that's a relief!",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_13",
+                "type": "Monologue",
+                "text": "Viper grabs a bottle of alcohol from the refrigerator.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_14",
+                "type": "Speech",
+                "text": "In that case, how about we have a drink together?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_19_15",
+                "type": "Narration",
+                "text": "I have an honest conversation with Viper while drinking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_viper_20_1",
+                "type": "Speech",
+                "text": "I'm not really in a good mood today.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_20_2",
+                "type": "Speech",
+                "text": "My makeup didn't come out right, and my hair is a mess.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_20_3",
+                "type": "Choice",
+                "text": "I didn't expect you to care about stuff like that.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_viper_20_5"
+            },
+            {
+                "id": "d_counseling_viper_20_4",
+                "type": "Choice",
+                "text": "We can always reschedule our session for another time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_viper_20_8"
+            },
+            {
+                "id": "d_counseling_viper_20_5",
+                "type": "Speech",
+                "text": "Of course. Physical attributes are useful in many ways.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_20_6",
+                "type": "Speech",
+                "text": "Everyone's a sucker for a pretty lady. I have an easier time persuading people.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_20_7",
+                "type": "Speech",
+                "text": "I wonder if that applies to you as well?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": "d_counseling_viper_20_11"
+            },
+            {
+                "id": "d_counseling_viper_20_8",
+                "type": "Speech",
+                "text": "You really don't know how to take a hint, do you?",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_20_9",
+                "type": "Speech",
+                "text": "If I didn't want to talk to you, then I wouldn't have come.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_20_10",
+                "type": "Speech",
+                "text": "I always feel a little better when I see you.",
+                "speaker": "Viper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_viper_20_11",
+                "type": "Narration",
+                "text": "I have a conversation with Viper about the powers of physical attributes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

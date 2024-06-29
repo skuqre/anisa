@@ -1,0 +1,2117 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_d_01_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_01_2",
+                "type": "Monologue",
+                "text": "D is not saying anything.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_01_3",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_01_4",
+                "type": "Choice",
+                "text": "What are you doing?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_01_6"
+            },
+            {
+                "id": "d_counseling_d_01_5",
+                "type": "Choice",
+                "text": "Leave her alone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_01_9"
+            },
+            {
+                "id": "d_counseling_d_01_6",
+                "type": "Speech",
+                "text": "You're the one who asked for this session.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_01_7",
+                "type": "Speech",
+                "text": "I was waiting for you to ask a question.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_01_8",
+                "type": "Speech",
+                "text": "If you don't have anything to say, then I'll leave.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_01_12"
+            },
+            {
+                "id": "d_counseling_d_01_9",
+                "type": "Speech",
+                "text": "Are you not going to ask me anything?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_01_10",
+                "type": "Speech",
+                "text": "I thought you would start the conversation.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_01_11",
+                "type": "Speech",
+                "text": "If you don't have anything to say, then I'll leave.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_01_12",
+                "type": "Narration",
+                "text": "D turns to leave, but I stop her and proceed to have a real conversation with her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_02_1",
+                "type": "Speech",
+                "text": "Before you reach a decision on something,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_2",
+                "type": "Speech",
+                "text": "are there any other factors that you consider?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_3",
+                "type": "Choice",
+                "text": "What impact my decision will have on the world.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_02_5"
+            },
+            {
+                "id": "d_counseling_d_02_4",
+                "type": "Choice",
+                "text": "Not really. I just make my decision and go for it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_02_9"
+            },
+            {
+                "id": "d_counseling_d_02_5",
+                "type": "Speech",
+                "text": "It might sound somewhat arrogant, but it's true.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_6",
+                "type": "Speech",
+                "text": "Some decisions can have a significant impact on the world.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_7",
+                "type": "Speech",
+                "text": "Therefore, you must deliberate on every decision you make, big or small.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_8",
+                "type": "Speech",
+                "text": "Once you decide, there's no going back.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_02_14"
+            },
+            {
+                "id": "d_counseling_d_02_9",
+                "type": "Speech",
+                "text": "Interesting.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_10",
+                "type": "Speech",
+                "text": "That is indeed one way of going about it.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_11",
+                "type": "Speech",
+                "text": "However, you cannot always live your life this way.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_12",
+                "type": "Speech",
+                "text": "There will come a time in your life",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_13",
+                "type": "Speech",
+                "text": "when you need to deliberate and weigh important factors into a decision-making process.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_02_14",
+                "type": "Narration",
+                "text": "I have a conversation with D about the consequences of our actions.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_03_1",
+                "type": "Speech",
+                "text": "What do you live for?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_03_2",
+                "type": "Speech",
+                "text": "Money? Respect?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_03_3",
+                "type": "Choice",
+                "text": "Both are important.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_03_5"
+            },
+            {
+                "id": "d_counseling_d_03_4",
+                "type": "Choice",
+                "text": "Neither.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_03_8"
+            },
+            {
+                "id": "d_counseling_d_03_5",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_03_6",
+                "type": "Speech",
+                "text": "You're the same as everyone else.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_03_7",
+                "type": "Speech",
+                "text": "I don't believe I need to ask any further questions.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_03_12"
+            },
+            {
+                "id": "d_counseling_d_03_8",
+                "type": "Speech",
+                "text": "What then?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_03_9",
+                "type": "Speech",
+                "text": "No, don't answer.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_03_10",
+                "type": "Speech",
+                "text": "I'll see for myself",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_03_11",
+                "type": "Speech",
+                "text": "whether your words have truth to them or not.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_03_12",
+                "type": "Narration",
+                "text": "I have a conversation with D about what we base our lives on.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_04_1",
+                "type": "Speech",
+                "text": "Let me ask you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_04_2",
+                "type": "Speech",
+                "text": "Do you consider yourself a good person?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_04_3",
+                "type": "Choice",
+                "text": "I try to walk the straight and narrow.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_04_5"
+            },
+            {
+                "id": "d_counseling_d_04_4",
+                "type": "Choice",
+                "text": "Yes, I consider myself a good person.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_04_9"
+            },
+            {
+                "id": "d_counseling_d_04_5",
+                "type": "Speech",
+                "text": "Good answer. There is no such thing as a person who is 100% good through and through.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_04_6",
+                "type": "Speech",
+                "text": "There are only those who try their best to do the right thing.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_04_7",
+                "type": "Speech",
+                "text": "That is why I must rid this world of all evil.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_04_8",
+                "type": "Speech",
+                "text": "So that they do not exert their sinister influence over people like you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_04_12"
+            },
+            {
+                "id": "d_counseling_d_04_9",
+                "type": "Speech",
+                "text": "You speak with such confidence.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_04_10",
+                "type": "Speech",
+                "text": "When the time comes,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_04_11",
+                "type": "Speech",
+                "text": "I will see whether there is truth to your words.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_04_12",
+                "type": "Narration",
+                "text": "I have a conversation with D about being a good person.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_05_1",
+                "type": "Speech",
+                "text": "It's a heavy load to bear...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_05_2",
+                "type": "Choice",
+                "text": "Your body?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_05_4"
+            },
+            {
+                "id": "d_counseling_d_05_3",
+                "type": "Choice",
+                "text": "The life you lead?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_05_7"
+            },
+            {
+                "id": "d_counseling_d_05_4",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_05_5",
+                "type": "Speech",
+                "text": "I was rather referring to the weight of my mission in life.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_05_6",
+                "type": "Speech",
+                "text": "At any rate, I feel a bit better now.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_05_11"
+            },
+            {
+                "id": "d_counseling_d_05_7",
+                "type": "Speech",
+                "text": "... Yes.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_05_8",
+                "type": "Speech",
+                "text": "The eternal struggle between good and evil,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_05_9",
+                "type": "Speech",
+                "text": "and how that pertains not only to my life, but to the lives of others.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_05_10",
+                "type": "Speech",
+                "text": "You can say the weight of this crown is definitely the weight of life.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_05_11",
+                "type": "Narration",
+                "text": "I have a serious counseling session with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_06_1",
+                "type": "Speech",
+                "text": "How would you",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_06_2",
+                "type": "Speech",
+                "text": "make this world a cleaner place?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_06_3",
+                "type": "Choice",
+                "text": "Get rid of all the garbage.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_06_5"
+            },
+            {
+                "id": "d_counseling_d_06_4",
+                "type": "Choice",
+                "text": "Reduce waste production to nothing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_06_9"
+            },
+            {
+                "id": "d_counseling_d_06_5",
+                "type": "Speech",
+                "text": "Correct.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_06_6",
+                "type": "Speech",
+                "text": "We can't stop garbage from being created so",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_06_7",
+                "type": "Speech",
+                "text": "cleaning up as much of it as possible once it's disposed of",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_06_8",
+                "type": "Speech",
+                "text": "is the only way to ensure the world remains uncluttered.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_06_12"
+            },
+            {
+                "id": "d_counseling_d_06_9",
+                "type": "Speech",
+                "text": "Do you think that is possible?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_06_10",
+                "type": "Speech",
+                "text": "Humans create untold amounts of waste merely by living.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_06_11",
+                "type": "Speech",
+                "text": "It's impossible to reduce that figure to zero.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_06_12",
+                "type": "Narration",
+                "text": "I have a conversation with D about cleaning habits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_07_1",
+                "type": "Narration",
+                "text": "*Wiggle* *Wiggle*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_2",
+                "type": "Monologue",
+                "text": "D's bag is moving on its own...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_3",
+                "type": "Speech",
+                "text": "What's wrong?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_4",
+                "type": "Choice",
+                "text": "What is in that bag?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_07_6"
+            },
+            {
+                "id": "d_counseling_d_07_5",
+                "type": "Choice",
+                "text": "... Nothing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_07_8"
+            },
+            {
+                "id": "d_counseling_d_07_6",
+                "type": "Speech",
+                "text": "I was wondering what you were staring at.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_7",
+                "type": "Speech",
+                "text": "I assume you're wondering what's inside?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_07_10"
+            },
+            {
+                "id": "d_counseling_d_07_8",
+                "type": "Speech",
+                "text": "You've been staring at my bag this entire time.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_9",
+                "type": "Speech",
+                "text": "Are you curious about what's in it?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_10",
+                "type": "Monologue",
+                "text": "I nod.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_11",
+                "type": "Speech",
+                "text": "Let's just say it has something to do with one of my assignments.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_12",
+                "type": "Speech",
+                "text": "I can't tell you any more than that.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_13",
+                "type": "Speech",
+                "text": "For your own well-being, I suggest you don't probe any further.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_07_14",
+                "type": "Narration",
+                "text": "I try my best not to focus on D's bag...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_08_1",
+                "type": "Speech",
+                "text": "If you wanted to kill someone without leaving any trace,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_2",
+                "type": "Speech",
+                "text": "what kind of tool do you think you'd need?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_3",
+                "type": "Choice",
+                "text": "One that got rid of blood splatters.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_08_5"
+            },
+            {
+                "id": "d_counseling_d_08_4",
+                "type": "Choice",
+                "text": "I'm not too sure.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_08_12"
+            },
+            {
+                "id": "d_counseling_d_08_5",
+                "type": "Speech",
+                "text": "Hm.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_6",
+                "type": "Speech",
+                "text": "You talk as if you have experience with this kind of thing.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_7",
+                "type": "Monologue",
+                "text": "D puts her hand on her hatchet.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_8",
+                "type": "Self",
+                "text": "... It's just something I overheard the Nikkes saying one time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_9",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_10",
+                "type": "Monologue",
+                "text": "D removes her hand from the hatchet.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_11",
+                "type": "Speech",
+                "text": "... I'll keep that in mind, then.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_08_16"
+            },
+            {
+                "id": "d_counseling_d_08_12",
+                "type": "Speech",
+                "text": "I figured as much.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_13",
+                "type": "Speech",
+                "text": "How could you know something like that?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_14",
+                "type": "Speech",
+                "text": "You've never found yourself in a situation where you'd need something like that.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_15",
+                "type": "Speech",
+                "text": "... Right?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_08_16",
+                "type": "Narration",
+                "text": "I spend a somewhat nerve-wracking session with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_09_1",
+                "type": "Speech",
+                "text": "Do you prefer the head,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_2",
+                "type": "Speech",
+                "text": "or the body?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_3",
+                "type": "Choice",
+                "text": "Both are fine with me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_09_5"
+            },
+            {
+                "id": "d_counseling_d_09_4",
+                "type": "Choice",
+                "text": "I can't really decide on that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_09_11"
+            },
+            {
+                "id": "d_counseling_d_09_5",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_6",
+                "type": "Speech",
+                "text": "In that case, I'll cut it straight down the middle.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_7",
+                "type": "Monologue",
+                "text": "D takes out a bear-shaped cake.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_8",
+                "type": "Self",
+                "text": "What's the cake for?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_9",
+                "type": "Speech",
+                "text": "I found it during a mission, but it's far too large for me to eat by myself.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_10",
+                "type": "Speech",
+                "text": "I'll cut it in half and we can share it.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_09_17"
+            },
+            {
+                "id": "d_counseling_d_09_11",
+                "type": "Speech",
+                "text": "Why not?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_12",
+                "type": "Speech",
+                "text": "Are you saying you don't want to eat any of it?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_13",
+                "type": "Self",
+                "text": "Eat? What are you talking about?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_14",
+                "type": "Monologue",
+                "text": "D takes out a bear-shaped cake.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_15",
+                "type": "Speech",
+                "text": "I found it during a mission, but it's far too large for me to eat by myself.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_16",
+                "type": "Speech",
+                "text": "If you don't want any, that's your loss.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_09_17",
+                "type": "Narration",
+                "text": "D shares the cake with me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_10_1",
+                "type": "Speech",
+                "text": "If at some point in time,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_2",
+                "type": "Speech",
+                "text": "there is a day I choose to go to the dark side...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_3",
+                "type": "Choice",
+                "text": "That day will never come.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_10_5"
+            },
+            {
+                "id": "d_counseling_d_10_4",
+                "type": "Choice",
+                "text": "I will do what has to be done and take you down.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_10_10"
+            },
+            {
+                "id": "d_counseling_d_10_5",
+                "type": "Speech",
+                "text": "I wouldn't be so sure. This world we live in is a capricious one.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_6",
+                "type": "Speech",
+                "text": "Meaning even I can change.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_7",
+                "type": "Speech",
+                "text": "If that does come to pass...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_8",
+                "type": "Speech",
+                "text": "do whatever you must to put a stop to me. Evil must not be allowed to spread.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_9",
+                "type": "Speech",
+                "text": "Understand?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_10_13"
+            },
+            {
+                "id": "d_counseling_d_10_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_11",
+                "type": "Speech",
+                "text": "... Yes.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_12",
+                "type": "Speech",
+                "text": "I trust you to do the right thing.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_10_13",
+                "type": "Narration",
+                "text": "D and I ponder about what might potentially happen in the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_11_1",
+                "type": "Speech",
+                "text": "Say there is something you need to do today, but you are very tired.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_2",
+                "type": "Speech",
+                "text": "To the point you can barely keep your eyes open.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_3",
+                "type": "Speech",
+                "text": "What would you do then?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_4",
+                "type": "Choice",
+                "text": "I wouldn't procrastinate and finish what I intended to do that day.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_11_6"
+            },
+            {
+                "id": "d_counseling_d_11_5",
+                "type": "Choice",
+                "text": "I'd save it for another day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_11_9"
+            },
+            {
+                "id": "d_counseling_d_11_6",
+                "type": "Speech",
+                "text": "You and I think alike.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_7",
+                "type": "Speech",
+                "text": "One's obligations should be taken seriously.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_8",
+                "type": "Speech",
+                "text": "That way, things won't pile up and overwhelm you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_11_13"
+            },
+            {
+                "id": "d_counseling_d_11_9",
+                "type": "Speech",
+                "text": "If you continually put things off,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_10",
+                "type": "Speech",
+                "text": "they'll pile up and eventually overwhelm you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_11",
+                "type": "Speech",
+                "text": "When that happens, your judgment is liable to be impaired.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_12",
+                "type": "Speech",
+                "text": "This is something that must never be allowed to happen.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_11_13",
+                "type": "Narration",
+                "text": "I have a conversation with D about various tasks that needed to be done today.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_12_1",
+                "type": "Monologue",
+                "text": "It's time for our session, but D is nowhere to be seen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_2",
+                "type": "Narration",
+                "text": "*Zing*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_3",
+                "type": "Speech",
+                "text": "Sorry, I'm late.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_4",
+                "type": "Speech",
+                "text": "My name's Daisy, and I'll be your counselor today.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_5",
+                "type": "Choice",
+                "text": "Some counselor you are, being late to an appointment. You're fired!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_12_7"
+            },
+            {
+                "id": "d_counseling_d_12_6",
+                "type": "Choice",
+                "text": "Who are you...?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_12_10"
+            },
+            {
+                "id": "d_counseling_d_12_7",
+                "type": "Speech",
+                "text": "Very good.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_8",
+                "type": "Speech",
+                "text": "I see you're quite proficient at improv.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_9",
+                "type": "Speech",
+                "text": "That could come in handy for future missions.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_12_13"
+            },
+            {
+                "id": "d_counseling_d_12_10",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_11",
+                "type": "Speech",
+                "text": "It seems that you're not the most adept at playing along with improv.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_12",
+                "type": "Speech",
+                "text": "I'll have to keep that in mind for our future missions.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_12_13",
+                "type": "Narration",
+                "text": "I practice acting with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_13_1",
+                "type": "Monologue",
+                "text": "It's time for our session, but D is not here.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_2",
+                "type": "Narration",
+                "text": "*Zing*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_3",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_4",
+                "type": "Self",
+                "text": "!!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_5",
+                "type": "Monologue",
+                "text": "I can pick up the faint smell of blood on D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_6",
+                "type": "Choice",
+                "text": "Did you just get back from... work?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_13_8"
+            },
+            {
+                "id": "d_counseling_d_13_7",
+                "type": "Choice",
+                "text": "Do you want to go wash up first?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_13_11"
+            },
+            {
+                "id": "d_counseling_d_13_8",
+                "type": "Speech",
+                "text": "Yes.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_9",
+                "type": "Speech",
+                "text": "Perhaps we should reschedule.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_10",
+                "type": "Speech",
+                "text": "Don't wait up for me. Go and do whatever else you have to do.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_13_14"
+            },
+            {
+                "id": "d_counseling_d_13_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_12",
+                "type": "Speech",
+                "text": "Fine. I'll go take a shower and be right back.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_13",
+                "type": "Speech",
+                "text": "If there's anything else you need to do, feel free to take care of that first.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_13_14",
+                "type": "Narration",
+                "text": "D heads towards the shower.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_14_1",
+                "type": "Speech",
+                "text": "Tell me.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_2",
+                "type": "Speech",
+                "text": "Aren't you scared of me?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_3",
+                "type": "Choice",
+                "text": "I haven't done anything wrong. Why should I be scared?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_14_5"
+            },
+            {
+                "id": "d_counseling_d_14_4",
+                "type": "Choice",
+                "text": "A little.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_14_10"
+            },
+            {
+                "id": "d_counseling_d_14_5",
+                "type": "Speech",
+                "text": "... I see.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_6",
+                "type": "Monologue",
+                "text": "D gives me a slight grin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_7",
+                "type": "Speech",
+                "text": "You're right.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_8",
+                "type": "Speech",
+                "text": "So long as you never do anything immoral, I'll never turn on you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_9",
+                "type": "Speech",
+                "text": "I promise.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_14_13"
+            },
+            {
+                "id": "d_counseling_d_14_10",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_11",
+                "type": "Speech",
+                "text": "Understandable.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_12",
+                "type": "Speech",
+                "text": "I can see how what I do would inspire fear in others.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_14_13",
+                "type": "Narration",
+                "text": "I have a conversation with D about jobs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_15_1",
+                "type": "Speech",
+                "text": "What is atonement to you?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_2",
+                "type": "Choice",
+                "text": "Doing whatever it takes to be forgiven.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_15_4"
+            },
+            {
+                "id": "d_counseling_d_15_3",
+                "type": "Choice",
+                "text": "Taking full responsibility for your actions.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_15_8"
+            },
+            {
+                "id": "d_counseling_d_15_4",
+                "type": "Speech",
+                "text": "Forgiveness?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_5",
+                "type": "Speech",
+                "text": "If you murdered someone, who would forgive you?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_6",
+                "type": "Speech",
+                "text": "The one you killed? Their friends and loved ones?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_7",
+                "type": "Speech",
+                "text": "No. There is no such thing as forgiveness in that instance.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_15_11"
+            },
+            {
+                "id": "d_counseling_d_15_8",
+                "type": "Speech",
+                "text": "Well said.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_9",
+                "type": "Speech",
+                "text": "If you have committed a transgression,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_10",
+                "type": "Speech",
+                "text": "you must face the consequences.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_11",
+                "type": "Speech",
+                "text": "Once you have sinned, that is a cross that you must bear for the rest of your life.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_12",
+                "type": "Speech",
+                "text": "That to me, is what atonement is.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_13",
+                "type": "Speech",
+                "text": "I, too, have my own cross to bear.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_14",
+                "type": "Speech",
+                "text": "And it will be with me for all my days.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_15_15",
+                "type": "Narration",
+                "text": "I have a conversation with D about the repercussions of sin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_16_1",
+                "type": "Speech",
+                "text": "Let's say you're out for a stroll, and you suddenly see your target.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_16_2",
+                "type": "Speech",
+                "text": "What do you do?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_16_3",
+                "type": "Choice",
+                "text": "I act casually and continue along my merry way.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_16_5"
+            },
+            {
+                "id": "d_counseling_d_16_4",
+                "type": "Choice",
+                "text": "I try to follow them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_16_9"
+            },
+            {
+                "id": "d_counseling_d_16_5",
+                "type": "Speech",
+                "text": "Correct.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_16_6",
+                "type": "Speech",
+                "text": "When you are not ready,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_16_7",
+                "type": "Speech",
+                "text": "it is best to not act recklessly.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_16_8",
+                "type": "Speech",
+                "text": "Otherwise, your target might catch on to you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_16_12"
+            },
+            {
+                "id": "d_counseling_d_16_9",
+                "type": "Speech",
+                "text": "You would follow them even though you were not prepared?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_16_10",
+                "type": "Speech",
+                "text": "Do not act recklessly.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_16_11",
+                "type": "Speech",
+                "text": "You might give yourself away.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_16_12",
+                "type": "Narration",
+                "text": "I have a conversation with D about dealing with different situations.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_17_1",
+                "type": "Speech",
+                "text": "What's your favorite kind of weather?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_17_2",
+                "type": "Choice",
+                "text": "Rainy days.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_17_4"
+            },
+            {
+                "id": "d_counseling_d_17_3",
+                "type": "Choice",
+                "text": "Sunny days.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_17_8"
+            },
+            {
+                "id": "d_counseling_d_17_4",
+                "type": "Speech",
+                "text": "I enjoy rainy days as well,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_17_5",
+                "type": "Speech",
+                "text": "but for a different reason than you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_17_6",
+                "type": "Speech",
+                "text": "I'd say that if you want your assassination to remain unperceived,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_17_7",
+                "type": "Speech",
+                "text": "don't miss out on rainy days.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_17_11"
+            },
+            {
+                "id": "d_counseling_d_17_8",
+                "type": "Speech",
+                "text": "I prefer rainy days.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_17_9",
+                "type": "Speech",
+                "text": "Unlike a flurry of rain,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_17_10",
+                "type": "Speech",
+                "text": "sunshine doesn't help you with washing away the smell of death. Not at all.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_17_11",
+                "type": "Narration",
+                "text": "I check tomorrow's weather with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_18_1",
+                "type": "Speech",
+                "text": "What do you like to do on your days off?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_18_2",
+                "type": "Choice",
+                "text": "I don't take days off.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_18_4"
+            },
+            {
+                "id": "d_counseling_d_18_3",
+                "type": "Choice",
+                "text": "I sleep.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_18_7"
+            },
+            {
+                "id": "d_counseling_d_18_4",
+                "type": "Speech",
+                "text": "Don't overdo it.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_18_5",
+                "type": "Speech",
+                "text": "You are a human, so getting rest is imperative.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_18_6",
+                "type": "Speech",
+                "text": "Otherwise, lack of sleep might cloud your judgment.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_18_10"
+            },
+            {
+                "id": "d_counseling_d_18_7",
+                "type": "Speech",
+                "text": "Smart. It's imperative that humans get adequate rest.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_18_8",
+                "type": "Speech",
+                "text": "To maintain good judgment, it's important to keep yourself in tip-top shape.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_18_9",
+                "type": "Speech",
+                "text": "Don't ever forget that.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_18_10",
+                "type": "Narration",
+                "text": "I have a conversation with D about ways of resting.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_19_1",
+                "type": "Speech",
+                "text": "One day you receive a gift from a stranger.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_2",
+                "type": "Speech",
+                "text": "What do you do?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_3",
+                "type": "Choice",
+                "text": "I check whether the gift contains anything dangerous.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_19_5"
+            },
+            {
+                "id": "d_counseling_d_19_4",
+                "type": "Choice",
+                "text": "I celebrate the fact I've gotten a gift.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_19_9"
+            },
+            {
+                "id": "d_counseling_d_19_5",
+                "type": "Speech",
+                "text": "Very good. You must be cautious at all times.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_6",
+                "type": "Speech",
+                "text": "There is no way of knowing what kind of method will be used to assassinate you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_7",
+                "type": "Speech",
+                "text": "Don't let yourself get complacent and careless.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_8",
+                "type": "Speech",
+                "text": "The slightest lapse in vigilance creates a window of opportunity for an assassin like me.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_19_14"
+            },
+            {
+                "id": "d_counseling_d_19_9",
+                "type": "Speech",
+                "text": "... Sloppy.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_10",
+                "type": "Speech",
+                "text": "Why would you be that careless? You never know what could happen or how things might unfold when you're being targeted.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_11",
+                "type": "Speech",
+                "text": "Don't ever forget that.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_12",
+                "type": "Speech",
+                "text": "The slightest lapse in vigilance creates a window of opportunity for an assassin like me.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_13",
+                "type": "Speech",
+                "text": "Always be on your guard.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_19_14",
+                "type": "Narration",
+                "text": "I have a conversation with D about having a healthy wariness of strangers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_20_1",
+                "type": "Speech",
+                "text": "What do you find most admirable in a person?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_20_2",
+                "type": "Choice",
+                "text": "The ability to clearly distinguish right from wrong.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_20_4"
+            },
+            {
+                "id": "d_counseling_d_20_3",
+                "type": "Choice",
+                "text": "The ability to come off as cold, but in reality be quite gregarious.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_20_7"
+            },
+            {
+                "id": "d_counseling_d_20_4",
+                "type": "Speech",
+                "text": "Incredible.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_20_5",
+                "type": "Speech",
+                "text": "It's as if you read my mind.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_20_6",
+                "type": "Speech",
+                "text": "I'll have to use that line on my next mission.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_20_11"
+            },
+            {
+                "id": "d_counseling_d_20_7",
+                "type": "Speech",
+                "text": "...??",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_20_8",
+                "type": "Speech",
+                "text": "That's a rather... unique response.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_20_9",
+                "type": "Speech",
+                "text": "I'm not sure if I could use any of that in a future mission, but",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_20_10",
+                "type": "Speech",
+                "text": "I'll keep it in mind, I suppose.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_20_11",
+                "type": "Narration",
+                "text": "D and I converse about the traits we find admirable in others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

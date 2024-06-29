@@ -1,0 +1,2381 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_trony_01_1",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_2",
+                "type": "Speech",
+                "text": "have you ever heard of Combat Ace?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_3",
+                "type": "Self",
+                "text": "Combat Ace?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_4",
+                "type": "Speech",
+                "text": "Ah...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_5",
+                "type": "Speech",
+                "text": "I-I was just wondering if you knew...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_6",
+                "type": "Monologue",
+                "text": "Trony hides two gamepads behind her back.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_7",
+                "type": "Choice",
+                "text": "Hey, are you still there?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_01_9"
+            },
+            {
+                "id": "d_counseling_trony_01_8",
+                "type": "Choice",
+                "text": "It's a flight shooting game, right?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_01_13"
+            },
+            {
+                "id": "d_counseling_trony_01_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_10",
+                "type": "Self",
+                "text": "Any Commander worth their salt ought to know Combat Ace's lines.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_11",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_12",
+                "type": "Speech",
+                "text": "... T-that's cool.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_01_16"
+            },
+            {
+                "id": "d_counseling_trony_01_13",
+                "type": "Speech",
+                "text": "That's right!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_14",
+                "type": "Speech",
+                "text": "I thought you would know.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_15",
+                "type": "Speech",
+                "text": "That's good.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_01_16"
+            },
+            {
+                "id": "d_counseling_trony_01_16",
+                "type": "Speech",
+                "text": "Then...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_17",
+                "type": "Speech",
+                "text": "If it's okay with you, would you mind playing a game with me?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_01_18",
+                "type": "Narration",
+                "text": "I have fun playing Combat Ace with Trony.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_02_1",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_2",
+                "type": "Narration",
+                "text": "*Pitter-patter*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_3",
+                "type": "Speech",
+                "text": "It's raining...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_4",
+                "type": "Speech",
+                "text": "Do you like days like this, Commander?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_5",
+                "type": "Choice",
+                "text": "No, I prefer sunny days.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_02_7"
+            },
+            {
+                "id": "d_counseling_trony_02_6",
+                "type": "Choice",
+                "text": "Yeah, I do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_02_9"
+            },
+            {
+                "id": "d_counseling_trony_02_7",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_8",
+                "type": "Speech",
+                "text": "That's just so you.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_02_11"
+            },
+            {
+                "id": "d_counseling_trony_02_9",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_10",
+                "type": "Speech",
+                "text": "Note to self: Commander likes rainy days too.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_02_11"
+            },
+            {
+                "id": "d_counseling_trony_02_11",
+                "type": "Speech",
+                "text": "I...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_12",
+                "type": "Speech",
+                "text": "like rainy days like today...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_13",
+                "type": "Speech",
+                "text": "because only when it rains does Elegg not want to go out and play.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_02_14",
+                "type": "Narration",
+                "text": "Trony and I lock ourselves in the room and watch the rain.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_03_1",
+                "type": "Speech",
+                "text": "Hey, Commander...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_2",
+                "type": "Speech",
+                "text": "What's your dream?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_3",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_4",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_5",
+                "type": "Speech",
+                "text": "W-was that too personal?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_6",
+                "type": "Speech",
+                "text": "You can just pretend you didn't hear that...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_7",
+                "type": "Choice",
+                "text": "Enjoying peaceful days like this.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_03_9"
+            },
+            {
+                "id": "d_counseling_trony_03_8",
+                "type": "Choice",
+                "text": "Reclaim the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_03_12"
+            },
+            {
+                "id": "d_counseling_trony_03_9",
+                "type": "Speech",
+                "text": "Peaceful days...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_10",
+                "type": "Speech",
+                "text": "Are we having a peaceful day...?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_11",
+                "type": "Speech",
+                "text": "I'm not too sure...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_03_16"
+            },
+            {
+                "id": "d_counseling_trony_03_12",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_13",
+                "type": "Speech",
+                "text": "That's a great dream.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_14",
+                "type": "Speech",
+                "text": "Yes, I hope it'll come true.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_03_15",
+                "type": "Speech",
+                "text": "I'll also do my best to help.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_03_16"
+            },
+            {
+                "id": "d_counseling_trony_03_16",
+                "type": "Narration",
+                "text": "I have a serious counseling session with Trony.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_04_1",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_2",
+                "type": "Speech",
+                "text": "Elegg said I drink too much energy drink...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_3",
+                "type": "Speech",
+                "text": "and confiscated all of it...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_4",
+                "type": "Speech",
+                "text": "Ugh... Isn't that too much...?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_5",
+                "type": "Choice",
+                "text": "How about hiding it secretly from now on?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_04_7"
+            },
+            {
+                "id": "d_counseling_trony_04_6",
+                "type": "Choice",
+                "text": "How about setting a daily limit?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_04_11"
+            },
+            {
+                "id": "d_counseling_trony_04_7",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_8",
+                "type": "Speech",
+                "text": "I think that's a great idea.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_9",
+                "type": "Speech",
+                "text": "Well, then...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_10",
+                "type": "Speech",
+                "text": "Can I hide them here?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_04_17"
+            },
+            {
+                "id": "d_counseling_trony_04_11",
+                "type": "Speech",
+                "text": "But...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_12",
+                "type": "Speech",
+                "text": "There's nothing in this world",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_13",
+                "type": "Speech",
+                "text": "that's as perfect,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_14",
+                "type": "Speech",
+                "text": "perfect,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_15",
+                "type": "Speech",
+                "text": "and perfect as an energy drink...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_04_16",
+                "type": "Speech",
+                "text": "Don't you agree, Commander?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_04_17"
+            },
+            {
+                "id": "d_counseling_trony_04_17",
+                "type": "Narration",
+                "text": "I have a discussion about energy drinks with Trony.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_05_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_3",
+                "type": "Monologue",
+                "text": "Trony glances at me silently.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_4",
+                "type": "Choice",
+                "text": "Trony, what's going on?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_05_6"
+            },
+            {
+                "id": "d_counseling_trony_05_5",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_05_8"
+            },
+            {
+                "id": "d_counseling_trony_05_6",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_7",
+                "type": "Speech",
+                "text": "Commander... thank you for talking to me first...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_05_12"
+            },
+            {
+                "id": "d_counseling_trony_05_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_9",
+                "type": "Self",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_11",
+                "type": "Self",
+                "text": "What's wrong?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_trony_05_12"
+            },
+            {
+                "id": "d_counseling_trony_05_12",
+                "type": "Speech",
+                "text": "I've been thinking about what to talk about during the counseling sessions since last week...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_13",
+                "type": "Speech",
+                "text": "In the end, I can't think of anything,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_14",
+                "type": "Speech",
+                "text": "so I've been waiting for you to talk to me first...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_05_15",
+                "type": "Narration",
+                "text": "I ask Trony various questions.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_06_1",
+                "type": "Speech",
+                "text": "Commander...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_2",
+                "type": "Speech",
+                "text": "Do you think...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_3",
+                "type": "Speech",
+                "text": "our squad name sounds weird?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_4",
+                "type": "Choice",
+                "text": "Electric Shock sounds cool.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_06_6"
+            },
+            {
+                "id": "d_counseling_trony_06_5",
+                "type": "Choice",
+                "text": "I think it's a bit rough around the edges...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_06_11"
+            },
+            {
+                "id": "d_counseling_trony_06_6",
+                "type": "Speech",
+                "text": "That's right.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_7",
+                "type": "Speech",
+                "text": "Our squad name sounds exciting and cool.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_8",
+                "type": "Speech",
+                "text": "Electric Shock.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_9",
+                "type": "Speech",
+                "text": "I've no idea who came up with it,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_10",
+                "type": "Speech",
+                "text": "but I think it's fab. Hehe.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_06_17"
+            },
+            {
+                "id": "d_counseling_trony_06_11",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_12",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_13",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_14",
+                "type": "Self",
+                "text": "... I'm sure others would think the same too.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_15",
+                "type": "Speech",
+                "text": "Thank goodness.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_06_16",
+                "type": "Speech",
+                "text": "I was worried that you might think it's strange.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_06_17"
+            },
+            {
+                "id": "d_counseling_trony_06_17",
+                "type": "Narration",
+                "text": "Trony and I converse about squad names.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_07_1",
+                "type": "Speech",
+                "text": "Commander, I have a question for you.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_2",
+                "type": "Speech",
+                "text": "You have to think carefully before you answer.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_3",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_4",
+                "type": "Speech",
+                "text": "Is walking considered an exercise?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_5",
+                "type": "Choice",
+                "text": "Of course not.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_07_7"
+            },
+            {
+                "id": "d_counseling_trony_07_6",
+                "type": "Choice",
+                "text": "Of course it is.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_07_10"
+            },
+            {
+                "id": "d_counseling_trony_07_7",
+                "type": "Speech",
+                "text": "*Gasp*",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_8",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_9",
+                "type": "Speech",
+                "text": "I never thought I'd hear you say something like that.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_07_15"
+            },
+            {
+                "id": "d_counseling_trony_07_10",
+                "type": "Speech",
+                "text": "Yes!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_11",
+                "type": "Speech",
+                "text": "You can get enough exercise in a day just by walking.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_12",
+                "type": "Speech",
+                "text": "Hehe. I have to tell Elegg.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_13",
+                "type": "Monologue",
+                "text": "I notice the mobile table Trony is riding on.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_07_14",
+                "type": "Monologue",
+                "text": "Just when I want to ask if she doesn't usually walk much, I swallow my words.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_trony_07_15"
+            },
+            {
+                "id": "d_counseling_trony_07_15",
+                "type": "Narration",
+                "text": "I have a discussion with Trony about the unnecessary nature of exercise.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_08_1",
+                "type": "Speech",
+                "text": "Commander, I want to ask you something.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_08_2",
+                "type": "Speech",
+                "text": "What do you think of Elegg?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_08_3",
+                "type": "Choice",
+                "text": "She is competent and takes good care of those around her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_08_5"
+            },
+            {
+                "id": "d_counseling_trony_08_4",
+                "type": "Choice",
+                "text": "She loves BOOM and is cheerful.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_08_9"
+            },
+            {
+                "id": "d_counseling_trony_08_5",
+                "type": "Speech",
+                "text": "That's right.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_08_6",
+                "type": "Speech",
+                "text": "Elegg does take good care of those around her",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_08_7",
+                "type": "Speech",
+                "text": "and does all that is required of her.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_08_8",
+                "type": "Speech",
+                "text": "Yeah, I'm glad that Elegg is the leader of our squad.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_08_13"
+            },
+            {
+                "id": "d_counseling_trony_08_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_08_10",
+                "type": "Speech",
+                "text": "You're right.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_08_11",
+                "type": "Speech",
+                "text": "That's not the only side of her.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_08_12",
+                "type": "Speech",
+                "text": "She's also a great leader you can always count on.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_08_13"
+            },
+            {
+                "id": "d_counseling_trony_08_13",
+                "type": "Narration",
+                "text": "I talk to Trony about Elegg.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_09_1",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_3",
+                "type": "Monologue",
+                "text": "Trony puffs up her cheeks and contemplates seriously.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_4",
+                "type": "Speech",
+                "text": "Commander, do you think the noodles or soup seasoning should be added first",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_5",
+                "type": "Speech",
+                "text": "when making instant noodles?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_6",
+                "type": "Choice",
+                "text": "Of course, the water should be added first.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_09_8"
+            },
+            {
+                "id": "d_counseling_trony_09_7",
+                "type": "Choice",
+                "text": "Isn't it best to follow the instructions on the packaging?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_09_12"
+            },
+            {
+                "id": "d_counseling_trony_09_8",
+                "type": "Speech",
+                "text": "Commander...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_9",
+                "type": "Speech",
+                "text": "I didn't expect you to flee like this when things get hard...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_10",
+                "type": "Speech",
+                "text": "To add noodles or soup seasoning first,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_11",
+                "type": "Speech",
+                "text": "that's the question...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_09_17"
+            },
+            {
+                "id": "d_counseling_trony_09_12",
+                "type": "Speech",
+                "text": "... What a straightforward answer.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_13",
+                "type": "Speech",
+                "text": "I've been thinking about it for a week, and thanks to you, it's been resolved...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_14",
+                "type": "Self",
+                "text": "But don't you just eat cup noodles, Trony?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_15",
+                "type": "Speech",
+                "text": "... Yeah, but I don't like spicy food.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_09_16",
+                "type": "Self",
+                "text": "Then why'd you spend a whole week thinking about it?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_trony_09_17"
+            },
+            {
+                "id": "d_counseling_trony_09_17",
+                "type": "Narration",
+                "text": "Trony and I talk about how to cook delicious instant noodles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_10_1",
+                "type": "Speech",
+                "text": "Commander, about the electricity at the Outpost...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_10_2",
+                "type": "Speech",
+                "text": "Do you, um, know how it's generated?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_10_3",
+                "type": "Choice",
+                "text": "Isn't Matis working hard, pedaling bikes to generate electricity?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_10_5"
+            },
+            {
+                "id": "d_counseling_trony_10_4",
+                "type": "Choice",
+                "text": "Isn't it made by running a generator?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_10_9"
+            },
+            {
+                "id": "d_counseling_trony_10_5",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_10_6",
+                "type": "Speech",
+                "text": "I-is that so?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_10_7",
+                "type": "Speech",
+                "text": "If it's Matis...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_10_8",
+                "type": "Speech",
+                "text": "Yeah, that makes sense.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_10_13"
+            },
+            {
+                "id": "d_counseling_trony_10_9",
+                "type": "Speech",
+                "text": "That's right.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_10_10",
+                "type": "Speech",
+                "text": "Electricity is typically generated by boiling water to turn turbines.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_10_11",
+                "type": "Speech",
+                "text": "This method has been used by humankind since before the Ark came along...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_10_12",
+                "type": "Monologue",
+                "text": "Trony begins to explain the greatness of turbines excitedly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_trony_10_13"
+            },
+            {
+                "id": "d_counseling_trony_10_13",
+                "type": "Narration",
+                "text": "I have a conversation with Trony about electricity generation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_11_1",
+                "type": "Speech",
+                "text": "Hmm.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_2",
+                "type": "Speech",
+                "text": "Hmmmm...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_3",
+                "type": "Monologue",
+                "text": "Trony puffs up her cheeks and contemplates seriously.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_4",
+                "type": "Speech",
+                "text": "Commander, when it comes to naming game characters,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_5",
+                "type": "Speech",
+                "text": "do you tend to use the same one?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_6",
+                "type": "Choice",
+                "text": "Yeah, it's too much hassle to come up with new ones.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_11_8"
+            },
+            {
+                "id": "d_counseling_trony_11_7",
+                "type": "Choice",
+                "text": "No, I prefer giving each character a nickname that suits them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_11_13"
+            },
+            {
+                "id": "d_counseling_trony_11_8",
+                "type": "Speech",
+                "text": "You're right, it's too much of a hassle.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_9",
+                "type": "Speech",
+                "text": "All right, I'll just use my old nickname.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_10",
+                "type": "Speech",
+                "text": "T.Rony, it is. Hehe.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_11",
+                "type": "Speech",
+                "text": "Commander, this is a newly released game...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_12",
+                "type": "Speech",
+                "text": "W-would you like to play it together?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_11_17"
+            },
+            {
+                "id": "d_counseling_trony_11_13",
+                "type": "Speech",
+                "text": "I-I see.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_14",
+                "type": "Speech",
+                "text": "Hm... Then what should I use?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_15",
+                "type": "Speech",
+                "text": "There's this new game, and I'm trying to create a character...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_11_16",
+                "type": "Speech",
+                "text": "Yet, I've hit a snag right from the start...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_11_17"
+            },
+            {
+                "id": "d_counseling_trony_11_17",
+                "type": "Narration",
+                "text": "I help Trony come up with a nickname for her character.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_12_1",
+                "type": "Speech",
+                "text": "Commander, I've got this thing bothering me...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_2",
+                "type": "Speech",
+                "text": "Oh, it's not about me,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_3",
+                "type": "Speech",
+                "text": "but rather a Nikke I know...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_4",
+                "type": "Speech",
+                "text": "Thing is... after watching the Ark Ranger,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_5",
+                "type": "Speech",
+                "text": "she would sometimes... imitate the Ark Rangers...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_6",
+                "type": "Speech",
+                "text": "And then other Nikkes just happened to see that... Ugh...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_7",
+                "type": "Speech",
+                "text": "Commander... what should I do now...?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_8",
+                "type": "Choice",
+                "text": "Let's take this opportunity to promote the Ark Ranger.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_12_10"
+            },
+            {
+                "id": "d_counseling_trony_12_9",
+                "type": "Choice",
+                "text": "Things will work themselves out with time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_12_15"
+            },
+            {
+                "id": "d_counseling_trony_12_10",
+                "type": "Speech",
+                "text": "Promote...?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_11",
+                "type": "Self",
+                "text": "Trony, do you find the Ark Ranger embarrassing?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_12",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_13",
+                "type": "Speech",
+                "text": "No, I don't.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_14",
+                "type": "Speech",
+                "text": "Got it. I'll give it a try.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_12_20"
+            },
+            {
+                "id": "d_counseling_trony_12_15",
+                "type": "Speech",
+                "text": "Is that so?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_16",
+                "type": "Speech",
+                "text": "No, it won't be long before word spreads that I'd been imitating the Ark Ranger...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_17",
+                "type": "Speech",
+                "text": "Tetra will surely sue me for defamation...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_18",
+                "type": "Speech",
+                "text": "Commander, it's been an honor to be with you...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_12_19",
+                "type": "Speech",
+                "text": "Be sure to visit me often in the Rehabilitation Center...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_12_20"
+            },
+            {
+                "id": "d_counseling_trony_12_20",
+                "type": "Narration",
+                "text": "I offer Trony words of comfort.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_13_1",
+                "type": "Speech",
+                "text": "Do you like puzzle games, Commander?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_13_2",
+                "type": "Choice",
+                "text": "Yeah, I like them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_13_4"
+            },
+            {
+                "id": "d_counseling_trony_13_3",
+                "type": "Choice",
+                "text": "No, I don't like them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_13_9"
+            },
+            {
+                "id": "d_counseling_trony_13_4",
+                "type": "Speech",
+                "text": "Hehe, me too.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_13_5",
+                "type": "Speech",
+                "text": "Just like when designing a circuit,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_13_6",
+                "type": "Speech",
+                "text": "it feels incredibly satisfying when the puzzle pieces fit perfectly together.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_13_7",
+                "type": "Speech",
+                "text": "I definitely recommend Arkscape and Dragons and Puzzles.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_13_8",
+                "type": "Speech",
+                "text": "Would you like to try?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_13_13"
+            },
+            {
+                "id": "d_counseling_trony_13_9",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_13_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_13_11",
+                "type": "Speech",
+                "text": "... Y-you might change your mind once you give it a try.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_13_12",
+                "type": "Speech",
+                "text": "Let's play a round... No, how about playing for an hour?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_13_13"
+            },
+            {
+                "id": "d_counseling_trony_13_13",
+                "type": "Narration",
+                "text": "I play a puzzle game with Trony.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_14_1",
+                "type": "Speech",
+                "text": "What's the surface like for you, Commander?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_14_2",
+                "type": "Choice",
+                "text": "A dangerous place.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_14_4"
+            },
+            {
+                "id": "d_counseling_trony_14_3",
+                "type": "Choice",
+                "text": "A beautiful place.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_14_5"
+            },
+            {
+                "id": "d_counseling_trony_14_4",
+                "type": "Speech",
+                "text": "So that's how you think of it...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_14_6"
+            },
+            {
+                "id": "d_counseling_trony_14_5",
+                "type": "Speech",
+                "text": "Yeah, it's a beautiful place.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_14_6"
+            },
+            {
+                "id": "d_counseling_trony_14_6",
+                "type": "Speech",
+                "text": "I...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_14_7",
+                "type": "Speech",
+                "text": "I'll never forget the first time I was on the surface.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_14_8",
+                "type": "Speech",
+                "text": "The sky that I saw with Elegg back then was incredibly beautiful.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_14_9",
+                "type": "Speech",
+                "text": "That's why I'm fighting to reclaim that spectacle.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_14_10",
+                "type": "Narration",
+                "text": "I can discern Trony's determination from her words.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_15_1",
+                "type": "Speech",
+                "text": "Who's your favorite Ark Ranger, Commander?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_15_2",
+                "type": "Choice",
+                "text": "Passionate Red Ranger.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_15_4"
+            },
+            {
+                "id": "d_counseling_trony_15_3",
+                "type": "Choice",
+                "text": "Romantic Black Ranger.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_15_7"
+            },
+            {
+                "id": "d_counseling_trony_15_4",
+                "type": "Speech",
+                "text": "Note to self: Commander's pick is the Red Ranger.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_15_5",
+                "type": "Speech",
+                "text": "Elegg said she loves the yellow one the most",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_15_6",
+                "type": "Speech",
+                "text": "because the color resembles Electric Shock.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_15_12"
+            },
+            {
+                "id": "d_counseling_trony_15_7",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_15_8",
+                "type": "Speech",
+                "text": "Y-yes, it's only natural for romantics to pick black.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_15_9",
+                "type": "Speech",
+                "text": "That's why I like the black one the most.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_15_10",
+                "type": "Speech",
+                "text": "Oh! I've got loads of Black Ranger merch in my room...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_15_11",
+                "type": "Speech",
+                "text": "F-feel free to come over and check them out, hehe.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_15_12"
+            },
+            {
+                "id": "d_counseling_trony_15_12",
+                "type": "Monologue",
+                "text": "A smile spreads across Trony's lips as she talks about Ark Ranger.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_15_13",
+                "type": "Narration",
+                "text": "Sure enough, you can't go wrong with Ark Ranger.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_16_1",
+                "type": "Speech",
+                "text": "I'm told that I have to clean my room today...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_16_2",
+                "type": "Speech",
+                "text": "How do I even do that?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_16_3",
+                "type": "Choice",
+                "text": "Why don't you start by organizing the room?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_16_5"
+            },
+            {
+                "id": "d_counseling_trony_16_4",
+                "type": "Choice",
+                "text": "Just hold the trash can and put everything you pick up inside.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_16_7"
+            },
+            {
+                "id": "d_counseling_trony_16_5",
+                "type": "Speech",
+                "text": "B-but I've already organized everything by my standards...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_16_6",
+                "type": "Speech",
+                "text": "So, I know where everything is placed.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_16_12"
+            },
+            {
+                "id": "d_counseling_trony_16_7",
+                "type": "Speech",
+                "text": "Oh...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_16_8",
+                "type": "Speech",
+                "text": "As expected of Commander...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_16_9",
+                "type": "Speech",
+                "text": "I'll give it a try right away!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_16_10",
+                "type": "Self",
+                "text": "By the way, who told you to clean your room?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_16_11",
+                "type": "Speech",
+                "text": "Syuen.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_16_12"
+            },
+            {
+                "id": "d_counseling_trony_16_12",
+                "type": "Narration",
+                "text": "I teach Trony the right way to clean up her room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_17_1",
+                "type": "Speech",
+                "text": "Hmm.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_17_2",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_17_3",
+                "type": "Monologue",
+                "text": "Trony puffs up her cheeks and contemplates seriously.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_17_4",
+                "type": "Speech",
+                "text": "Commander, why do we have to write reports every day?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_17_5",
+                "type": "Choice",
+                "text": "I'd like to know that, too.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_17_7"
+            },
+            {
+                "id": "d_counseling_trony_17_6",
+                "type": "Choice",
+                "text": "It's what needs to be done.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_17_10"
+            },
+            {
+                "id": "d_counseling_trony_17_7",
+                "type": "Speech",
+                "text": "No one reads it, anyway.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_17_8",
+                "type": "Speech",
+                "text": "I don't see why I have to write it every day.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_17_9",
+                "type": "Speech",
+                "text": "... But keep this from Syuen.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_17_13"
+            },
+            {
+                "id": "d_counseling_trony_17_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_17_11",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_17_12",
+                "type": "Speech",
+                "text": "I never thought I'd hear you say something like that.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_17_13"
+            },
+            {
+                "id": "d_counseling_trony_17_13",
+                "type": "Narration",
+                "text": "I listen to Trony's complaints.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_18_1",
+                "type": "Speech",
+                "text": "Commander, what if...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_18_2",
+                "type": "Speech",
+                "text": "I found a bug in a game...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_18_3",
+                "type": "Speech",
+                "text": "that all players are using?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_18_4",
+                "type": "Speech",
+                "text": "Should the bug be fixed?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_18_5",
+                "type": "Choice",
+                "text": "Still, it should be fixed.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_18_7"
+            },
+            {
+                "id": "d_counseling_trony_18_6",
+                "type": "Choice",
+                "text": "Wouldn't it be better to leave it as it is?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_18_10"
+            },
+            {
+                "id": "d_counseling_trony_18_7",
+                "type": "Speech",
+                "text": "As expected... I suppose that's the case.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_18_8",
+                "type": "Speech",
+                "text": "After all, bugs are bugs...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_18_9",
+                "type": "Speech",
+                "text": "Yeah, I guess it should be fixed.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_18_13"
+            },
+            {
+                "id": "d_counseling_trony_18_10",
+                "type": "Speech",
+                "text": "Is that so?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_18_11",
+                "type": "Speech",
+                "text": "... But what if that bug messes up other code and goes beyond control?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_18_12",
+                "type": "Speech",
+                "text": "Wouldn't it be too late to fix it by then?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_18_13"
+            },
+            {
+                "id": "d_counseling_trony_18_13",
+                "type": "Narration",
+                "text": "I have a serious conversation with Trony.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_19_1",
+                "type": "Speech",
+                "text": "Hmm.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_2",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_3",
+                "type": "Monologue",
+                "text": "Trony puffs up her cheeks and contemplates seriously.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_4",
+                "type": "Speech",
+                "text": "Where do you like to go to on your day off, Commander?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_5",
+                "type": "Choice",
+                "text": "Arcade at the Shopping Center.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_19_7"
+            },
+            {
+                "id": "d_counseling_trony_19_6",
+                "type": "Choice",
+                "text": "My room.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_19_10"
+            },
+            {
+                "id": "d_counseling_trony_19_7",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_8",
+                "type": "Speech",
+                "text": "S-Shopping Center...?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_9",
+                "type": "Speech",
+                "text": "E-even on your off days?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_19_14"
+            },
+            {
+                "id": "d_counseling_trony_19_10",
+                "type": "Speech",
+                "text": "Note to self: Even Commander likes to stay in his room.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_11",
+                "type": "Speech",
+                "text": "I'll have to tell Elegg that.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_12",
+                "type": "Speech",
+                "text": "The reason I stay only in my room when I have the day off is",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_19_13",
+                "type": "Speech",
+                "text": "to become like you.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_19_14"
+            },
+            {
+                "id": "d_counseling_trony_19_14",
+                "type": "Narration",
+                "text": "Trony and I talk about our days off.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_trony_20_1",
+                "type": "Speech",
+                "text": "What's your favorite food, Commander?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_20_2",
+                "type": "Choice",
+                "text": "Instant food that can be easily consumed.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_trony_20_4"
+            },
+            {
+                "id": "d_counseling_trony_20_3",
+                "type": "Choice",
+                "text": "Any food that's made with care.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_trony_20_9"
+            },
+            {
+                "id": "d_counseling_trony_20_4",
+                "type": "Speech",
+                "text": "Hehe, me too.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_20_5",
+                "type": "Speech",
+                "text": "It can be made easily",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_20_6",
+                "type": "Speech",
+                "text": "and tastes delicious too.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_20_7",
+                "type": "Speech",
+                "text": "Speaking of which, can I have some cup noodles before I go?",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_20_8",
+                "type": "Speech",
+                "text": "Elegg will chew me out if I have them at my dorm...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_20_12"
+            },
+            {
+                "id": "d_counseling_trony_20_9",
+                "type": "Speech",
+                "text": "B-but...",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_20_10",
+                "type": "Speech",
+                "text": "quick and easy meals are not bad.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_trony_20_11",
+                "type": "Speech",
+                "text": "I'm sure you'll change your mind after having some cup noodles.",
+                "speaker": "Trony",
+                "points": null,
+                "jumpTo": "d_counseling_trony_20_12"
+            },
+            {
+                "id": "d_counseling_trony_20_12",
+                "type": "Narration",
+                "text": "I have some cup noodles with Trony.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

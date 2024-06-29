@@ -1,0 +1,1989 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_ether_01_1",
+                "type": "Speech",
+                "text": "No. 7, which flavor do you prefer: strawberry or orange?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_01_2",
+                "type": "Choice",
+                "text": "Strawberry.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_01_4"
+            },
+            {
+                "id": "d_counseling_ether_01_3",
+                "type": "Choice",
+                "text": "Orange.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_01_7"
+            },
+            {
+                "id": "d_counseling_ether_01_4",
+                "type": "Speech",
+                "text": "Hm, is that so?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_01_5",
+                "type": "Speech",
+                "text": "Strawberry it is, then.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_01_6",
+                "type": "Speech",
+                "text": "I hope you don't live to regret it.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_01_12"
+            },
+            {
+                "id": "d_counseling_ether_01_7",
+                "type": "Speech",
+                "text": "Orange?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_01_8",
+                "type": "Speech",
+                "text": "Hmm... Okay.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_01_9",
+                "type": "Speech",
+                "text": "Turns out No. 7 really is a lucky guy.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_01_10",
+                "type": "Speech",
+                "text": "One orange flavor, coming right up.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_01_11",
+                "type": "Speech",
+                "text": "Much better than strawberry.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_01_12",
+                "type": "Narration",
+                "text": "I talk with Ether about medicines and their tastes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_02_1",
+                "type": "Speech",
+                "text": "I figured I'd better ask you...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_02_2",
+                "type": "Speech",
+                "text": "Do you like me calling you No. 7?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_02_3",
+                "type": "Choice",
+                "text": "I like it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_02_5"
+            },
+            {
+                "id": "d_counseling_ether_02_4",
+                "type": "Choice",
+                "text": "I don't like it. Make up something else.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_02_7"
+            },
+            {
+                "id": "d_counseling_ether_02_5",
+                "type": "Speech",
+                "text": "Good.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_02_6",
+                "type": "Speech",
+                "text": "Not that it matters, though. I wouldn't change your nickname just because you didn't like it.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_02_11"
+            },
+            {
+                "id": "d_counseling_ether_02_7",
+                "type": "Speech",
+                "text": "No can do.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_02_8",
+                "type": "Speech",
+                "text": "I asked if you liked it. I didn't say anything about changing it.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_02_9",
+                "type": "Speech",
+                "text": "You're No. 7 to me, and that's that.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_02_10",
+                "type": "Speech",
+                "text": "I'm sure you'll warm up to your number in time.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_02_11",
+                "type": "Narration",
+                "text": "I talk with Ether about her fondness for numbers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_03_1",
+                "type": "Speech",
+                "text": "\"Science is for the betterment of humankind.\"",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_03_2",
+                "type": "Speech",
+                "text": "Do you know that phrase?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_03_3",
+                "type": "Choice",
+                "text": "Yes, I do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_03_5"
+            },
+            {
+                "id": "d_counseling_ether_03_4",
+                "type": "Choice",
+                "text": "Never heard it before.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_03_9"
+            },
+            {
+                "id": "d_counseling_ether_03_5",
+                "type": "Speech",
+                "text": "I'm glad.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_03_6",
+                "type": "Speech",
+                "text": "As long as each experiment that I conduct",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_03_7",
+                "type": "Speech",
+                "text": "is for the sake of humankind,",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_03_8",
+                "type": "Speech",
+                "text": "you'll be willing to look the other way, right?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_03_12"
+            },
+            {
+                "id": "d_counseling_ether_03_9",
+                "type": "Speech",
+                "text": "That's fine.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_03_10",
+                "type": "Speech",
+                "text": "Don't worry about it. Forget I brought it up.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_03_11",
+                "type": "Speech",
+                "text": "You're kinda cute sometimes, you know that?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_03_12",
+                "type": "Narration",
+                "text": "I talk with Ether about science.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_04_1",
+                "type": "Speech",
+                "text": "Hey, No.7.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_04_2",
+                "type": "Speech",
+                "text": "How would you feel if I used you as a test subject for some dangerous experiments?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_04_3",
+                "type": "Choice",
+                "text": "Just give me a heads-up beforehand.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_04_5"
+            },
+            {
+                "id": "d_counseling_ether_04_4",
+                "type": "Choice",
+                "text": "I don't believe you'd do something like that.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_04_8"
+            },
+            {
+                "id": "d_counseling_ether_04_5",
+                "type": "Speech",
+                "text": "You actually think I'd do that to you?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_04_6",
+                "type": "Speech",
+                "text": "That makes me a little sad.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_04_7",
+                "type": "Speech",
+                "text": "I always think I take pretty good care of you, in my own special way.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_04_11"
+            },
+            {
+                "id": "d_counseling_ether_04_8",
+                "type": "Speech",
+                "text": "Precisely! How could I ever subject my precious No. 7 to experiments like that?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_04_9",
+                "type": "Speech",
+                "text": "I'm glad you have so much faith in me. Don't let that change.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_04_10",
+                "type": "Speech",
+                "text": "No matter what I tell you to do, you have to do it, because you trust me. Right?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_04_11",
+                "type": "Narration",
+                "text": "I tell Ether not to carry out any more dangerous experiments.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_05_1",
+                "type": "Speech",
+                "text": "Have you ever heard the scary story about the library?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_2",
+                "type": "Speech",
+                "text": "Every night, way back at the faaar end of the bookshelves,",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_3",
+                "type": "Speech",
+                "text": "you can hear someone wailing.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_4",
+                "type": "Speech",
+                "text": "Does that kind of story... interest you?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_5",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_05_7"
+            },
+            {
+                "id": "d_counseling_ether_05_6",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_05_10"
+            },
+            {
+                "id": "d_counseling_ether_05_7",
+                "type": "Speech",
+                "text": "Oh? Then allow me to remind you:",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_8",
+                "type": "Speech",
+                "text": "Curiosity killed the cat.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_9",
+                "type": "Speech",
+                "text": "So let's make sure kitty no. 7 doesn't get too curious, OK?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_05_14"
+            },
+            {
+                "id": "d_counseling_ether_05_10",
+                "type": "Speech",
+                "text": "No? Really?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_11",
+                "type": "Speech",
+                "text": "No. 7 is a brave guy, isn't he?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_12",
+                "type": "Speech",
+                "text": "Or maybe he's just more cautious than most people.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_13",
+                "type": "Speech",
+                "text": "Whatever it is, I'm sure you'll be able to avoid all kinds of untimely deaths.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_05_14",
+                "type": "Narration",
+                "text": "I talk about creepy ghost stories with Ether.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_06_1",
+                "type": "Speech",
+                "text": "How does Syuen always stay so alert?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_2",
+                "type": "Speech",
+                "text": "It's fascinating.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_3",
+                "type": "Speech",
+                "text": "I'd like to give Syuen her own subject number,",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_4",
+                "type": "Speech",
+                "text": "but I figured you wouldn't want me to. Unless...?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_5",
+                "type": "Choice",
+                "text": "Not happening.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_06_7"
+            },
+            {
+                "id": "d_counseling_ether_06_6",
+                "type": "Choice",
+                "text": "I think it's a great idea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_06_10"
+            },
+            {
+                "id": "d_counseling_ether_06_7",
+                "type": "Speech",
+                "text": "Meh. What a bummer.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_8",
+                "type": "Speech",
+                "text": "I'm positive Syuen would produce a plethora of intriguing results.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_9",
+                "type": "Speech",
+                "text": "Oh well. C'est la vie.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_06_14"
+            },
+            {
+                "id": "d_counseling_ether_06_10",
+                "type": "Speech",
+                "text": "You agree with me?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_11",
+                "type": "Speech",
+                "text": "How come? Are you excited to be around another fellow test subject?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_12",
+                "type": "Speech",
+                "text": "This is all so exciting!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_13",
+                "type": "Speech",
+                "text": "I promise I'll try my very best.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_06_14",
+                "type": "Narration",
+                "text": "Ether and I talk about Syuen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_07_1",
+                "type": "Speech",
+                "text": "Most people freak out when they see an operating room or a lab table.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_07_2",
+                "type": "Speech",
+                "text": "Do you think there's any way to make them less intimidating?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_07_3",
+                "type": "Choice",
+                "text": "Play some exciting music.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_07_5"
+            },
+            {
+                "id": "d_counseling_ether_07_4",
+                "type": "Choice",
+                "text": "Tranquilize people before bringing them in.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_07_7"
+            },
+            {
+                "id": "d_counseling_ether_07_5",
+                "type": "Speech",
+                "text": "No.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_07_6",
+                "type": "Speech",
+                "text": "I don't like that. Bad idea.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_07_9"
+            },
+            {
+                "id": "d_counseling_ether_07_7",
+                "type": "Speech",
+                "text": "Tranquilize them?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_07_8",
+                "type": "Speech",
+                "text": "Nice. I'll keep that in mind.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_07_9",
+                "type": "Narration",
+                "text": "I spend time with Ether talking about the operating room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_08_1",
+                "type": "Speech",
+                "text": "No. 7, you know that I think about you a lot, don't you?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_08_2",
+                "type": "Choice",
+                "text": "It's only natural to look after your test subjects and make sure they're healthy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_08_4"
+            },
+            {
+                "id": "d_counseling_ether_08_3",
+                "type": "Choice",
+                "text": "No, I didn't know that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_08_7"
+            },
+            {
+                "id": "d_counseling_ether_08_4",
+                "type": "Speech",
+                "text": "Yes, but that's not the only reason.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_08_5",
+                "type": "Speech",
+                "text": "I have a real affection for you.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_08_6",
+                "type": "Speech",
+                "text": "I'm not as scary as the others make me out to be.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_08_9"
+            },
+            {
+                "id": "d_counseling_ether_08_7",
+                "type": "Speech",
+                "text": "You don't? But I've done so much for you!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_08_8",
+                "type": "Speech",
+                "text": "Well, it can't be helped. I'll just have to provide you with a bit more care.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_08_9",
+                "type": "Narration",
+                "text": "I talk more with Ether about how she shows affection.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_09_1",
+                "type": "Speech",
+                "text": "I've heard that one of your Nikkes",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_2",
+                "type": "Speech",
+                "text": "may have had their DNA mixed with that of a dog?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_3",
+                "type": "Speech",
+                "text": "Is that true?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_4",
+                "type": "Choice",
+                "text": "No. She's just as adorable as a puppy dog, that's all.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_09_6"
+            },
+            {
+                "id": "d_counseling_ether_09_5",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_09_9"
+            },
+            {
+                "id": "d_counseling_ether_09_6",
+                "type": "Speech",
+                "text": "Is that so?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_7",
+                "type": "Speech",
+                "text": "That's a shame.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_8",
+                "type": "Speech",
+                "text": "She could have made for a very intriguing test subject.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_09_13"
+            },
+            {
+                "id": "d_counseling_ether_09_9",
+                "type": "Speech",
+                "text": "Why are you being so quiet?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_10",
+                "type": "Speech",
+                "text": "Oh, so that kind of Nikke really does exist?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_11",
+                "type": "Speech",
+                "text": "Don't worry. I won't ask you her name.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_12",
+                "type": "Speech",
+                "text": "I can find that out myself.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_09_13",
+                "type": "Narration",
+                "text": "I try very hard to pull Ether's attention away from Poli.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_10_1",
+                "type": "Speech",
+                "text": "No.7, have you ever been to the Outer Rim?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_10_2",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_10_4"
+            },
+            {
+                "id": "d_counseling_ether_10_3",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_10_8"
+            },
+            {
+                "id": "d_counseling_ether_10_4",
+                "type": "Speech",
+                "text": "How was it?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_10_5",
+                "type": "Speech",
+                "text": "It's incredible, right?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_10_6",
+                "type": "Speech",
+                "text": "So many new subjects for my experiments...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_10_7",
+                "type": "Speech",
+                "text": "The next time you go, can you bring me with you?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_10_11"
+            },
+            {
+                "id": "d_counseling_ether_10_8",
+                "type": "Speech",
+                "text": "No?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_10_9",
+                "type": "Speech",
+                "text": "You really should check it out sometime.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_10_10",
+                "type": "Speech",
+                "text": "You can find all sorts of useful things over there.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_10_11",
+                "type": "Narration",
+                "text": "I talk with Ether about the Outer Rim.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_11_1",
+                "type": "Speech",
+                "text": "*Yawn* I'm pooped.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_2",
+                "type": "Speech",
+                "text": "I've been pulling some all-nighters for the past few days,",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_3",
+                "type": "Speech",
+                "text": "and now I don't feel like doing much of anything.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_4",
+                "type": "Choice",
+                "text": "Then don't do anything.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_11_6"
+            },
+            {
+                "id": "d_counseling_ether_11_5",
+                "type": "Choice",
+                "text": "Develop a medication that will give you some energy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_11_10"
+            },
+            {
+                "id": "d_counseling_ether_11_6",
+                "type": "Speech",
+                "text": "But there's still so much left to do.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_7",
+                "type": "Speech",
+                "text": "I need to buy new stockings, and",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_8",
+                "type": "Speech",
+                "text": "I have to send the research data to Mana...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_9",
+                "type": "Speech",
+                "text": "Ugh... I'm just not feeling it.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_11_16"
+            },
+            {
+                "id": "d_counseling_ether_11_10",
+                "type": "Speech",
+                "text": "That's...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_11",
+                "type": "Speech",
+                "text": "not a bad idea!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_12",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_13",
+                "type": "Speech",
+                "text": "I can formulate something exclusively for Nikkes to use.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_14",
+                "type": "Speech",
+                "text": "I can have it send a signal to the...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_15",
+                "type": "Speech",
+                "text": "Anyway, I'll think about this more after I have a nice lie down.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_11_16",
+                "type": "Narration",
+                "text": "I take care of the tasks Ether doesn't have the energy to finish.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_12_1",
+                "type": "Speech",
+                "text": "You know how people say the more bitter medicine tastes, the better it is for you?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_12_2",
+                "type": "Speech",
+                "text": "Do you think there's any truth to that?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_12_3",
+                "type": "Choice",
+                "text": "I think so.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_12_5"
+            },
+            {
+                "id": "d_counseling_ether_12_4",
+                "type": "Choice",
+                "text": "That's just an old wives' tale.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_12_8"
+            },
+            {
+                "id": "d_counseling_ether_12_5",
+                "type": "Speech",
+                "text": "You really think so?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_12_6",
+                "type": "Speech",
+                "text": "Seriously?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_12_7",
+                "type": "Speech",
+                "text": "I'll make this medicine as bitter as possible for you then.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_12_11"
+            },
+            {
+                "id": "d_counseling_ether_12_8",
+                "type": "Speech",
+                "text": "Hmm... If you thought there was an element of truth to it,",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_12_9",
+                "type": "Speech",
+                "text": "I was going to put it to the test and have you take some of this bitter medicine.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_12_10",
+                "type": "Speech",
+                "text": "You talked your way out of this one!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_12_11",
+                "type": "Narration",
+                "text": "Ether and I talk about medication and whether its taste has any effect on the body.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_13_1",
+                "type": "Speech",
+                "text": "What's a food you're craving?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_13_2",
+                "type": "Speech",
+                "text": "I'll make it for you.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_13_3",
+                "type": "Choice",
+                "text": "If you want to give me some medicine, just say so.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_13_5"
+            },
+            {
+                "id": "d_counseling_ether_13_4",
+                "type": "Choice",
+                "text": "I'm willing to eat anything.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_13_9"
+            },
+            {
+                "id": "d_counseling_ether_13_5",
+                "type": "Speech",
+                "text": "Perceptive, as always!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_13_6",
+                "type": "Speech",
+                "text": "I've just got some supplements I wanted you to try out.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_13_7",
+                "type": "Speech",
+                "text": "I'm glad you're willing to try them,",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_13_8",
+                "type": "Speech",
+                "text": "because I didn't feel like cooking anything.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_13_12"
+            },
+            {
+                "id": "d_counseling_ether_13_9",
+                "type": "Speech",
+                "text": "Really? Whatever I make?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_13_10",
+                "type": "Speech",
+                "text": "All right, I don't want to hear any bellyaching when I feed you!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_13_11",
+                "type": "Speech",
+                "text": "You got that?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_13_12",
+                "type": "Narration",
+                "text": "Ether and I debate over whether the flavor of food is important.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_14_1",
+                "type": "Speech",
+                "text": "This is so frustrating!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_2",
+                "type": "Speech",
+                "text": "Why isn't my research proceeding smoothly?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_3",
+                "type": "Speech",
+                "text": "Have I been overthinking it?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_4",
+                "type": "Choice",
+                "text": "Go and get some sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_14_6"
+            },
+            {
+                "id": "d_counseling_ether_14_5",
+                "type": "Choice",
+                "text": "Just keep at it, you're bound to come up with a solution sooner or later.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_14_10"
+            },
+            {
+                "id": "d_counseling_ether_14_6",
+                "type": "Speech",
+                "text": "I can't do that!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_7",
+                "type": "Speech",
+                "text": "Our research deadline is just around the corner.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_8",
+                "type": "Speech",
+                "text": "I can't waste any time catching 40 winks.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_9",
+                "type": "Speech",
+                "text": "I need to rack my brain to come up with a solution, even if it drives me up a wall.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_14_14"
+            },
+            {
+                "id": "d_counseling_ether_14_10",
+                "type": "Speech",
+                "text": "I see you're not one the most sympathetic person around...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_11",
+                "type": "Speech",
+                "text": "But... you're right.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_12",
+                "type": "Speech",
+                "text": "If my research has hit a snag, I need to rack my brain until I come up with a solution.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_13",
+                "type": "Speech",
+                "text": "You really know your stuff, No. 7!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_14_14",
+                "type": "Narration",
+                "text": "I listened a little longer to Ether as she vented.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_15_1",
+                "type": "Speech",
+                "text": "I've been pondering if there is any way of overcoming one's deficiencies.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_15_2",
+                "type": "Speech",
+                "text": "What are your thoughts on this issue, No. 7?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_15_3",
+                "type": "Choice",
+                "text": "If you put your mind to it, you can overcome any deficiency you have.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_15_5"
+            },
+            {
+                "id": "d_counseling_ether_15_4",
+                "type": "Choice",
+                "text": "Science can help you overcome any deficiency.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_15_8"
+            },
+            {
+                "id": "d_counseling_ether_15_5",
+                "type": "Speech",
+                "text": "Effort?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_15_6",
+                "type": "Speech",
+                "text": "You mean like willpower? I'm surprised to hear you believe in such an unscientific concept.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_15_7",
+                "type": "Speech",
+                "text": "I don't believe in anything unscientific so I can't stand hearing people go on about willpower.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_15_12"
+            },
+            {
+                "id": "d_counseling_ether_15_8",
+                "type": "Speech",
+                "text": "You're right about that.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_15_9",
+                "type": "Speech",
+                "text": "Science can overcome anything.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_15_10",
+                "type": "Speech",
+                "text": "It's all thanks to science that we were able to take normal girls",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_15_11",
+                "type": "Speech",
+                "text": "with no previous combat experience and turn them into killing machines.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_15_12",
+                "type": "Narration",
+                "text": "Ether and I debate more on science versus willpower.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_16_1",
+                "type": "Speech",
+                "text": "Sigh... Look how nice it is outside...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_16_2",
+                "type": "Speech",
+                "text": "Days like this make me want to turn in my two weeks notice.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_16_3",
+                "type": "Choice",
+                "text": "If you quit, what will you do about money?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_16_5"
+            },
+            {
+                "id": "d_counseling_ether_16_4",
+                "type": "Choice",
+                "text": "If you quit, think about all the research that will go unfunded.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_16_8"
+            },
+            {
+                "id": "d_counseling_ether_16_5",
+                "type": "Speech",
+                "text": "Right, I won't be getting a paycheck anymore...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_16_6",
+                "type": "Speech",
+                "text": "Fine, you have a point. Money is important.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_16_7",
+                "type": "Speech",
+                "text": "That's not why I'm deciding to stay though.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_16_12"
+            },
+            {
+                "id": "d_counseling_ether_16_8",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_16_9",
+                "type": "Speech",
+                "text": "What is going on here?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_16_10",
+                "type": "Speech",
+                "text": "How do you know so much about me?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_16_11",
+                "type": "Speech",
+                "text": "That's exactly why I could never leave this job.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_16_12",
+                "type": "Narration",
+                "text": "Ether once again gave up her thoughts of turning in her resignation letter.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_17_1",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_17_2",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_17_3",
+                "type": "Choice",
+                "text": "Do you have something to say to me?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_17_5"
+            },
+            {
+                "id": "d_counseling_ether_17_4",
+                "type": "Choice",
+                "text": "I don't want to get on the lab table just yet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_17_8"
+            },
+            {
+                "id": "d_counseling_ether_17_5",
+                "type": "Speech",
+                "text": "What? It's nothing.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_17_6",
+                "type": "Speech",
+                "text": "I've grown fonder of you, so I was just staring.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_17_7",
+                "type": "Speech",
+                "text": "Nothing to be nervous about.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_17_11"
+            },
+            {
+                "id": "d_counseling_ether_17_8",
+                "type": "Speech",
+                "text": "You catch on fast!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_17_9",
+                "type": "Speech",
+                "text": "You could be right. Perhaps putting you on the lab table right now",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_17_10",
+                "type": "Speech",
+                "text": "would be a little premature.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_17_11",
+                "type": "Narration",
+                "text": "I tried to dissuade Ether from conducting experiments on me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_18_1",
+                "type": "Narration",
+                "text": "Rip... rip!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_2",
+                "type": "Speech",
+                "text": "Aw man! My stockings ripped again.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_3",
+                "type": "Speech",
+                "text": "Sigh...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_4",
+                "type": "Choice",
+                "text": "Let me guess... You don't feel like buying new ones.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_18_6"
+            },
+            {
+                "id": "d_counseling_ether_18_5",
+                "type": "Choice",
+                "text": "You must be really irritated.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_18_10"
+            },
+            {
+                "id": "d_counseling_ether_18_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_7",
+                "type": "Speech",
+                "text": "Bingo!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_8",
+                "type": "Speech",
+                "text": "Soooo... could you go buy me some new stockings?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_9",
+                "type": "Speech",
+                "text": "I really don't want to go...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_18_14"
+            },
+            {
+                "id": "d_counseling_ether_18_10",
+                "type": "Speech",
+                "text": "Not necessarily.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_11",
+                "type": "Speech",
+                "text": "I just don't feel like going out to buy new ones.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_12",
+                "type": "Speech",
+                "text": "Since you didn't get it right,",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_13",
+                "type": "Speech",
+                "text": "can you go buy me some new stockings?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_18_14",
+                "type": "Narration",
+                "text": "I went to buy some stockings for Ether since she didn't feel like doing it herself.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_19_1",
+                "type": "Speech",
+                "text": "NO.7, have you been taking good care of yourself?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_19_2",
+                "type": "Speech",
+                "text": "Let me know if you're not feeling well. I'll prescribe you some medicine.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_19_3",
+                "type": "Choice",
+                "text": "... That won't be necessary.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_19_5"
+            },
+            {
+                "id": "d_counseling_ether_19_4",
+                "type": "Choice",
+                "text": "Um... sure. Got it. Don't worry about me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_19_8"
+            },
+            {
+                "id": "d_counseling_ether_19_5",
+                "type": "Speech",
+                "text": "Why do you look so weirded out?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_19_6",
+                "type": "Speech",
+                "text": "I'm going out of my way to be nice to you!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_19_7",
+                "type": "Speech",
+                "text": "If that's how you show gratitude, maybe I'll send you the wrong medicine to teach you a lesson.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_19_12"
+            },
+            {
+                "id": "d_counseling_ether_19_8",
+                "type": "Speech",
+                "text": "What is it? Why are you so nervous?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_19_9",
+                "type": "Speech",
+                "text": "At least you didn't turn me down.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_19_10",
+                "type": "Speech",
+                "text": "If you had, I might have ended up using it against you.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_19_11",
+                "type": "Speech",
+                "text": "You're as sharp as a tack!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_19_12",
+                "type": "Narration",
+                "text": "Ether and I talk about how we look after our health.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ether_20_1",
+                "type": "Speech",
+                "text": "They have no basis in science, but do you believe in ghosts?",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_2",
+                "type": "Choice",
+                "text": "I believe ghosts exist.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ether_20_4"
+            },
+            {
+                "id": "d_counseling_ether_20_3",
+                "type": "Choice",
+                "text": "Of course there's no such thing as ghosts.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ether_20_10"
+            },
+            {
+                "id": "d_counseling_ether_20_4",
+                "type": "Speech",
+                "text": "Really? Hmmm...",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_5",
+                "type": "Speech",
+                "text": "I'd like to think there are ghosts out there.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_6",
+                "type": "Speech",
+                "text": "After all, if that was the case,",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_7",
+                "type": "Speech",
+                "text": "I'd be surrounded by ghosts all the time.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_8",
+                "type": "Speech",
+                "text": "Then I could catch them and conduct all sorts of experiments on them!",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_9",
+                "type": "Speech",
+                "text": "Do you know how much fun that would be? Sigh...too bad they're not real.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": "d_counseling_ether_20_13"
+            },
+            {
+                "id": "d_counseling_ether_20_10",
+                "type": "Speech",
+                "text": "Obviously. It's ridiculous to think something like ghosts could actually exist.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_11",
+                "type": "Speech",
+                "text": "I just thought it was an interesting question to ask.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_12",
+                "type": "Speech",
+                "text": "Don't read too much into it.",
+                "speaker": "Ether",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ether_20_13",
+                "type": "Narration",
+                "text": "Ether and I end up swapping ghost stories.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

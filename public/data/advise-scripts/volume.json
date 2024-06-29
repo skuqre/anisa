@@ -1,0 +1,1701 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_volume_01_1",
+                "type": "Narration",
+                "text": "I can hear music blaring from inside the room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_01_2",
+                "type": "Speech",
+                "text": "Hey,",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_01_3",
+                "type": "Speech",
+                "text": "should I turn it up or down?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_01_4",
+                "type": "Choice",
+                "text": "Up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_01_6"
+            },
+            {
+                "id": "d_counseling_volume_01_5",
+                "type": "Choice",
+                "text": "Down.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_01_9"
+            },
+            {
+                "id": "d_counseling_volume_01_6",
+                "type": "Speech",
+                "text": "I knew you'd say that!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_01_7",
+                "type": "Speech",
+                "text": "Let's crank this baby to 11.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_01_8",
+                "type": "Speech",
+                "text": "MAKE SOME NOISE!!!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_01_12"
+            },
+            {
+                "id": "d_counseling_volume_01_9",
+                "type": "Speech",
+                "text": "Wait, you want to turn it down?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_01_10",
+                "type": "Speech",
+                "text": "Tha...that's sacrilege!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_01_11",
+                "type": "Speech",
+                "text": "What's gotten into you?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_01_12",
+                "type": "Narration",
+                "text": "Volume and I listened to some music at full blast for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_02_1",
+                "type": "Speech",
+                "text": "Manager,",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_02_2",
+                "type": "Speech",
+                "text": "Do You Love Me?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_02_3",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_02_5"
+            },
+            {
+                "id": "d_counseling_volume_02_4",
+                "type": "Choice",
+                "text": "Is this the title of your new song?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_02_8"
+            },
+            {
+                "id": "d_counseling_volume_02_5",
+                "type": "Speech",
+                "text": "Whoa, you do?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_02_6",
+                "type": "Speech",
+                "text": "I appreciate that, but I'm afraid it's just the title of my new song.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_02_7",
+                "type": "Speech",
+                "text": "Try and keep those hormones in check, all right?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_02_11"
+            },
+            {
+                "id": "d_counseling_volume_02_8",
+                "type": "Speech",
+                "text": "How did you know?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_02_9",
+                "type": "Speech",
+                "text": "You're not one of my staff, so I thought you wouldn't know.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_02_10",
+                "type": "Speech",
+                "text": "Well, since you guessed correctly, you can be the first to hear it.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_02_11",
+                "type": "Narration",
+                "text": "I listened to Volume's new song.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_03_1",
+                "type": "Speech",
+                "text": "Sometimes I feel like the Ark is a kind of gilded cage.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_03_2",
+                "type": "Speech",
+                "text": "Freedom is a foreign concept here.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_03_3",
+                "type": "Speech",
+                "text": "When I look up, all I see is a ceiling instead of the actual sky.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_03_4",
+                "type": "Choice",
+                "text": "Let's drill a hole through it!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_03_6"
+            },
+            {
+                "id": "d_counseling_volume_03_5",
+                "type": "Choice",
+                "text": "Let's use music to blast a hole through it!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_03_9"
+            },
+            {
+                "id": "d_counseling_volume_03_6",
+                "type": "Speech",
+                "text": "Have you lost your mind?!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_03_7",
+                "type": "Speech",
+                "text": "A drill? That's absurd.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_03_8",
+                "type": "Speech",
+                "text": "If the Curtain falls, that's a wrap for every last one of us.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_03_12"
+            },
+            {
+                "id": "d_counseling_volume_03_9",
+                "type": "Speech",
+                "text": "All right, that's enough daydreaming for now.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_03_10",
+                "type": "Speech",
+                "text": "Although... that does sound kinda fun.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_03_11",
+                "type": "Speech",
+                "text": "Should we give it a go?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_03_12",
+                "type": "Narration",
+                "text": "Volume and I discuss how to feel freer inside the Ark.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_04_1",
+                "type": "Speech",
+                "text": "I'm about to leave for the show, can you bring me some food?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_04_2",
+                "type": "Speech",
+                "text": "I'm famished.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_04_3",
+                "type": "Choice",
+                "text": "Bring her some Splendamin.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_04_5"
+            },
+            {
+                "id": "d_counseling_volume_04_4",
+                "type": "Choice",
+                "text": "Bring her some water.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_04_7"
+            },
+            {
+                "id": "d_counseling_volume_04_5",
+                "type": "Speech",
+                "text": "No, no, no! I never eat Splendamin before a show.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_04_6",
+                "type": "Speech",
+                "text": "Fetch me some water.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_04_10"
+            },
+            {
+                "id": "d_counseling_volume_04_7",
+                "type": "Speech",
+                "text": "You expect water to fill me up?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_04_8",
+                "type": "Speech",
+                "text": "Actually, it's pretty much the perfect choice.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_04_9",
+                "type": "Speech",
+                "text": "It's good to wet my whistle before going on stage.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_04_10",
+                "type": "Narration",
+                "text": "I got Volume some more water.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_05_1",
+                "type": "Speech",
+                "text": "I don't remember who said it.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_05_2",
+                "type": "Speech",
+                "text": "But there's a saying that stars should always be ready to be photographed.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_05_3",
+                "type": "Choice",
+                "text": "If you went through life like that, you'd constantly be on pins and needles.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_05_5"
+            },
+            {
+                "id": "d_counseling_volume_05_4",
+                "type": "Choice",
+                "text": "You mean you have to be ready at all times?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_05_8"
+            },
+            {
+                "id": "d_counseling_volume_05_5",
+                "type": "Speech",
+                "text": "Don't get me wrong, of course it makes me nervous.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_05_6",
+                "type": "Speech",
+                "text": "But the public doesn't want to see that side of me.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_05_7",
+                "type": "Speech",
+                "text": "So I need to put on a brave face and give the people what they want.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_05_11"
+            },
+            {
+                "id": "d_counseling_volume_05_8",
+                "type": "Speech",
+                "text": "Precisely.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_05_9",
+                "type": "Speech",
+                "text": "24 hours a day, 7 days a week.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_05_10",
+                "type": "Speech",
+                "text": "I know a thing or two about being photographed.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_05_11",
+                "type": "Narration",
+                "text": "Volume told me some stories about the paparazzi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_06_1",
+                "type": "Speech",
+                "text": "I have a sore throat today.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_06_2",
+                "type": "Speech",
+                "text": "My body is in bad shape, too.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_06_3",
+                "type": "Choice",
+                "text": "Why don't you take the day off?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_06_5"
+            },
+            {
+                "id": "d_counseling_volume_06_4",
+                "type": "Choice",
+                "text": "Your voice does seem out of tune today.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_06_7"
+            },
+            {
+                "id": "d_counseling_volume_06_5",
+                "type": "Speech",
+                "text": "Aw, are you looking after me? How considerate of you.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_06_6",
+                "type": "Speech",
+                "text": "Okay, I'll take a day off. It's not good to be fatigued all the time.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_06_9"
+            },
+            {
+                "id": "d_counseling_volume_06_7",
+                "type": "Speech",
+                "text": "... What?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_06_8",
+                "type": "Speech",
+                "text": "You've got some nerve saying that to me!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_06_9",
+                "type": "Narration",
+                "text": "Volume and I have a heated discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_07_1",
+                "type": "Speech",
+                "text": "Manager?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_07_2",
+                "type": "Speech",
+                "text": "I'm not in the mood to talk. Please leave.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_07_3",
+                "type": "Choice",
+                "text": "Play some peaceful music.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_07_5"
+            },
+            {
+                "id": "d_counseling_volume_07_4",
+                "type": "Choice",
+                "text": "Ask her if she wants anything.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_07_8"
+            },
+            {
+                "id": "d_counseling_volume_07_5",
+                "type": "Speech",
+                "text": "Hey, is this the new song from VV7?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_07_6",
+                "type": "Speech",
+                "text": "She's got good vocal control.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_07_7",
+                "type": "Speech",
+                "text": "Nothing compared to mine, of course.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_07_11"
+            },
+            {
+                "id": "d_counseling_volume_07_8",
+                "type": "Speech",
+                "text": "Do you have to ask?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_07_9",
+                "type": "Speech",
+                "text": "Just do whatever a manager is supposed to do.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_07_10",
+                "type": "Speech",
+                "text": "If you don't have anything to do, play some music.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_07_11",
+                "type": "Narration",
+                "text": "I listened to some music with Volume for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_08_1",
+                "type": "Speech",
+                "text": "If I ever held a concert up on the surface,",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_08_2",
+                "type": "Speech",
+                "text": "what do you think it would be like?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_08_3",
+                "type": "Choice",
+                "text": "A hot and heavy hip-hop blowout with fun under the sun.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_08_5"
+            },
+            {
+                "id": "d_counseling_volume_08_4",
+                "type": "Choice",
+                "text": "A raging hip-hop party under the heavy rain.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_08_8"
+            },
+            {
+                "id": "d_counseling_volume_08_5",
+                "type": "Speech",
+                "text": "Hmm, doesn't seem very different from the concerts I'm doing now.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_08_6",
+                "type": "Speech",
+                "text": "Booooring!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_08_7",
+                "type": "Speech",
+                "text": "Can't you come up with something original?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_08_11"
+            },
+            {
+                "id": "d_counseling_volume_08_8",
+                "type": "Speech",
+                "text": "Yes! That's it!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_08_9",
+                "type": "Speech",
+                "text": "Throw a real rager up on the surface during a downpour and get turnt.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_08_10",
+                "type": "Speech",
+                "text": "I'm getting pumped just thinking about it.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_08_11",
+                "type": "Narration",
+                "text": "Volume and I speculate what a concert up on the surface would look like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_09_1",
+                "type": "Speech",
+                "text": "You've been working hard, Manager.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_09_2",
+                "type": "Speech",
+                "text": "Is there anything you want? Name it, and it's yours.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_09_3",
+                "type": "Choice",
+                "text": "A Romdady S supercar.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_09_5"
+            },
+            {
+                "id": "d_counseling_volume_09_4",
+                "type": "Choice",
+                "text": "Buy me dinner sometime.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_09_8"
+            },
+            {
+                "id": "d_counseling_volume_09_5",
+                "type": "Speech",
+                "text": "Wow, I didn't have you pegged for a speed freak.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_09_6",
+                "type": "Speech",
+                "text": "Is that all?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_09_7",
+                "type": "Speech",
+                "text": "Money's no object.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_09_10"
+            },
+            {
+                "id": "d_counseling_volume_09_8",
+                "type": "Speech",
+                "text": "Just dinner? That's so boring.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_09_9",
+                "type": "Speech",
+                "text": "How about we buy a car and take it for a spin?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_09_10",
+                "type": "Narration",
+                "text": "Volume and I had a nice conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_10_1",
+                "type": "Speech",
+                "text": "I have a question for you.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_10_2",
+                "type": "Speech",
+                "text": "Between Noise and I, who do you think is stronger?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_10_3",
+                "type": "Speech",
+                "text": "Aria and I are radically different in style, so she's out of the equation.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_10_4",
+                "type": "Choice",
+                "text": "You, of course.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_10_6"
+            },
+            {
+                "id": "d_counseling_volume_10_5",
+                "type": "Choice",
+                "text": "Noise.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_10_8"
+            },
+            {
+                "id": "d_counseling_volume_10_6",
+                "type": "Speech",
+                "text": "I knew it. It's a pointless question, isn't it?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_10_7",
+                "type": "Speech",
+                "text": "Noise is good, but I'm better.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_10_12"
+            },
+            {
+                "id": "d_counseling_volume_10_8",
+                "type": "Narration",
+                "text": "*Boom*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_10_9",
+                "type": "Monologue",
+                "text": "Volume smashes the table with her fist.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_10_10",
+                "type": "Speech",
+                "text": "Say that again, I dare you!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_10_11",
+                "type": "Speech",
+                "text": "Don't forget whose manager you are!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_10_12",
+                "type": "Narration",
+                "text": "Volume and I had a nice conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_11_1",
+                "type": "Speech",
+                "text": "My new song needs a guest star.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_11_2",
+                "type": "Speech",
+                "text": "Do you have anyone in mind?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_11_3",
+                "type": "Choice",
+                "text": "I could do it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_11_5"
+            },
+            {
+                "id": "d_counseling_volume_11_4",
+                "type": "Choice",
+                "text": "I'll find someone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_11_8"
+            },
+            {
+                "id": "d_counseling_volume_11_5",
+                "type": "Speech",
+                "text": "Huh? You? You can sing?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_11_6",
+                "type": "Speech",
+                "text": "You must be pretty confident.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_11_7",
+                "type": "Speech",
+                "text": "All right, let's hear it.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_11_11"
+            },
+            {
+                "id": "d_counseling_volume_11_8",
+                "type": "Speech",
+                "text": "All right, hopefully you can turn someone up.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_11_9",
+                "type": "Speech",
+                "text": "I'd like a husky voice that's not too high or too low.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_11_10",
+                "type": "Speech",
+                "text": "Oh right, and also...",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_11_11",
+                "type": "Narration",
+                "text": "Volume and I started searching for suitable candidates.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_12_1",
+                "type": "Speech",
+                "text": "What do you think I would be doing if I hadn't become a rapper?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_12_2",
+                "type": "Speech",
+                "text": "I ask myself that question sometimes.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_12_3",
+                "type": "Choice",
+                "text": "Probably some menial job at the police station.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_12_5"
+            },
+            {
+                "id": "d_counseling_volume_12_4",
+                "type": "Choice",
+                "text": "I can't imagine you doing anything but rapping.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_12_8"
+            },
+            {
+                "id": "d_counseling_volume_12_5",
+                "type": "Speech",
+                "text": "What? The Police Station?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_12_6",
+                "type": "Speech",
+                "text": "You think I'd make a decent police officer?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_12_7",
+                "type": "Speech",
+                "text": "Or do you mean I'd just be some desk jockey pushing pencils? If that's what you're saying...then you're fired.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_12_10"
+            },
+            {
+                "id": "d_counseling_volume_12_8",
+                "type": "Speech",
+                "text": "I agree. I can't imagine doing anything else.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_12_9",
+                "type": "Speech",
+                "text": "Perhaps I was born to be a rapper.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_12_10",
+                "type": "Narration",
+                "text": "Volume and I discussed different career paths for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_13_1",
+                "type": "Speech",
+                "text": "What do you think is the most important thing for a rapper to have?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_13_2",
+                "type": "Choice",
+                "text": "Superb rapping skills.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_13_4"
+            },
+            {
+                "id": "d_counseling_volume_13_3",
+                "type": "Choice",
+                "text": "Swag",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_13_7"
+            },
+            {
+                "id": "d_counseling_volume_13_4",
+                "type": "Speech",
+                "text": "That's important, no doubt.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_13_5",
+                "type": "Speech",
+                "text": "However, there's something that matters even more.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_13_6",
+                "type": "Speech",
+                "text": "Swag. With enough swag, anything can be cool.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_13_10"
+            },
+            {
+                "id": "d_counseling_volume_13_7",
+                "type": "Speech",
+                "text": "That's right, swag is paramount.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_13_8",
+                "type": "Speech",
+                "text": "Without it, hip-hop would lose a lot of its flavor.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_13_9",
+                "type": "Speech",
+                "text": "You hit the nail on the head.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_13_10",
+                "type": "Narration",
+                "text": "Volume and I discuss swag for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_14_1",
+                "type": "Speech",
+                "text": "Yesterday, a staff member accidentally spilled water on me.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_14_2",
+                "type": "Speech",
+                "text": "That guy getting the boot.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_14_3",
+                "type": "Choice",
+                "text": "It was a one-time thing. Go easy on him.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_14_5"
+            },
+            {
+                "id": "d_counseling_volume_14_4",
+                "type": "Choice",
+                "text": "Everyone makes mistakes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_14_7"
+            },
+            {
+                "id": "d_counseling_volume_14_5",
+                "type": "Speech",
+                "text": "Why should I?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_14_6",
+                "type": "Speech",
+                "text": "He shouldn't have spilled the water in the first place!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_14_9"
+            },
+            {
+                "id": "d_counseling_volume_14_7",
+                "type": "Speech",
+                "text": "Making mistakes may be a common occurrence for humans,",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_14_8",
+                "type": "Speech",
+                "text": "but not for me. I don't make mistakes.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_14_9",
+                "type": "Narration",
+                "text": "Volume and I talked more about mistakes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_15_1",
+                "type": "Speech",
+                "text": "Do you prefer",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_15_2",
+                "type": "Speech",
+                "text": "hip-hop or pop music?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_15_3",
+                "type": "Choice",
+                "text": "Hip-hop.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_15_5"
+            },
+            {
+                "id": "d_counseling_volume_15_4",
+                "type": "Choice",
+                "text": "Pop.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_15_8"
+            },
+            {
+                "id": "d_counseling_volume_15_5",
+                "type": "Speech",
+                "text": "I see you have a good taste.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_15_6",
+                "type": "Speech",
+                "text": "Pop melodies are so obvious.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_15_7",
+                "type": "Speech",
+                "text": "Meanwhile, hip-hop beats pierce your very soul!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_15_10"
+            },
+            {
+                "id": "d_counseling_volume_15_8",
+                "type": "Speech",
+                "text": "What? Pop?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_15_9",
+                "type": "Speech",
+                "text": "Maybe you should be Noise's manager, not mine.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_15_10",
+                "type": "Narration",
+                "text": "Volume and I talked about our musical preferences.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_16_1",
+                "type": "Speech",
+                "text": "If some dimwit challenges me to a rap battle,",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_16_2",
+                "type": "Speech",
+                "text": "what should I do?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_16_3",
+                "type": "Choice",
+                "text": "Take 'em to school so they know not to mess with you again.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_16_5"
+            },
+            {
+                "id": "d_counseling_volume_16_4",
+                "type": "Choice",
+                "text": "Just ignore them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_16_8"
+            },
+            {
+                "id": "d_counseling_volume_16_5",
+                "type": "Speech",
+                "text": "Okay, so you agree with me.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_16_6",
+                "type": "Speech",
+                "text": "How dare they challenge me to a rap battle?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_16_7",
+                "type": "Speech",
+                "text": "I'll clown them so hard, that they won't show their face in the hip-hop community again",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_16_10"
+            },
+            {
+                "id": "d_counseling_volume_16_8",
+                "type": "Speech",
+                "text": "Ignore? There's no such word in my dictionary.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_16_9",
+                "type": "Speech",
+                "text": "I'm gonna take them to school.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_16_10",
+                "type": "Narration",
+                "text": "Volume and I talked more about rap battles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_17_1",
+                "type": "Speech",
+                "text": "What do you think of people who make their love life public?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_17_2",
+                "type": "Choice",
+                "text": "I think it'll be good.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_17_4"
+            },
+            {
+                "id": "d_counseling_volume_17_3",
+                "type": "Choice",
+                "text": "I think they'll end up regretting the attention they'll get from the public.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_17_7"
+            },
+            {
+                "id": "d_counseling_volume_17_4",
+                "type": "Speech",
+                "text": "Really? I think loud and proud is the way to go.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_17_5",
+                "type": "Speech",
+                "text": "Certainly better than trying to hide from the public eye.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_17_6",
+                "type": "Speech",
+                "text": "Besides, being in a relationship isn't a bad thing.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_17_10"
+            },
+            {
+                "id": "d_counseling_volume_17_7",
+                "type": "Speech",
+                "text": "I don't think that kind of attention will do any harm.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_17_8",
+                "type": "Speech",
+                "text": "Everyone looks at me no matter where I go anyway.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_17_9",
+                "type": "Speech",
+                "text": "I think it's exciting!",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_17_10",
+                "type": "Narration",
+                "text": "Volume and I discussed the pros and cons of celebrity dating.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_18_1",
+                "type": "Speech",
+                "text": "I am planning to make a custom mic. Which color should I pick?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_18_2",
+                "type": "Choice",
+                "text": "Yellow.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_18_4"
+            },
+            {
+                "id": "d_counseling_volume_18_3",
+                "type": "Choice",
+                "text": "Black.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_18_6"
+            },
+            {
+                "id": "d_counseling_volume_18_4",
+                "type": "Speech",
+                "text": "You don't think yellow is too childish?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_18_5",
+                "type": "Speech",
+                "text": "Also, it's way too bright. No, no way.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_18_8"
+            },
+            {
+                "id": "d_counseling_volume_18_6",
+                "type": "Speech",
+                "text": "Black? Okay.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_18_7",
+                "type": "Speech",
+                "text": "That suits my temperament.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_18_8",
+                "type": "Narration",
+                "text": "Volume and I talked more about custom mics.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_19_1",
+                "type": "Speech",
+                "text": "There's something I've always wondered about Aria.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_19_2",
+                "type": "Speech",
+                "text": "Her operas are so crushingly dull, how can she play them so well without being bored to tears?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_19_3",
+                "type": "Choice",
+                "text": "Everyone has their own specialties.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_19_5"
+            },
+            {
+                "id": "d_counseling_volume_19_4",
+                "type": "Choice",
+                "text": "I think you could pull it off as well.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_19_7"
+            },
+            {
+                "id": "d_counseling_volume_19_5",
+                "type": "Speech",
+                "text": "I guess you're right.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_19_6",
+                "type": "Speech",
+                "text": "But you couldn't pay me enough to sing that stuff.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_19_10"
+            },
+            {
+                "id": "d_counseling_volume_19_7",
+                "type": "Speech",
+                "text": "Huh? Are you being serious?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_19_8",
+                "type": "Speech",
+                "text": "Makes me bored just thinking about it.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_19_9",
+                "type": "Speech",
+                "text": "Then again, maybe I could do it if I really put my mind to it. Still seems a little farfetched to me.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_19_10",
+                "type": "Narration",
+                "text": "Volume and I talk more about opera.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_volume_20_1",
+                "type": "Speech",
+                "text": "I want to switch things up with my schedule.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_20_2",
+                "type": "Speech",
+                "text": "What would you recommend?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_20_3",
+                "type": "Choice",
+                "text": "Film some ads.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_volume_20_5"
+            },
+            {
+                "id": "d_counseling_volume_20_4",
+                "type": "Choice",
+                "text": "Go on a TV show.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_volume_20_8"
+            },
+            {
+                "id": "d_counseling_volume_20_5",
+                "type": "Speech",
+                "text": "Ads? That could be interesting.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_20_6",
+                "type": "Speech",
+                "text": "I'm sure anything I endorsed would sell out almost instantly.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_20_7",
+                "type": "Speech",
+                "text": "Okay, arrange an ad shoot for me in the schedule.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": "d_counseling_volume_20_10"
+            },
+            {
+                "id": "d_counseling_volume_20_8",
+                "type": "Speech",
+                "text": "You can't be serious.",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_20_9",
+                "type": "Speech",
+                "text": "What else?",
+                "speaker": "Volume",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_volume_20_10",
+                "type": "Narration",
+                "text": "Volume and I discuss her schedule for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

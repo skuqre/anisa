@@ -1,0 +1,2109 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_neon_blueocean_01_1",
+                "type": "Speech",
+                "text": "Waterpower.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_2",
+                "type": "Speech",
+                "text": "Waterpower, waterpower!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_3",
+                "type": "Speech",
+                "text": "Waterpower, waterpower!\nWaterpower!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_4",
+                "type": "Choice",
+                "text": "Waterpower!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_01_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_5",
+                "type": "Choice",
+                "text": "Firepower!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_01_8"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_6",
+                "type": "Speech",
+                "text": "Waterpower, waterpower!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_7",
+                "type": "Speech",
+                "text": "Waterpower! Waterpower!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_01_10"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_9",
+                "type": "Speech",
+                "text": "Wanterpower...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_01_10",
+                "type": "Narration",
+                "text": "Neon and I 'waterpower' together for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_02_1",
+                "type": "Speech",
+                "text": "Master.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_2",
+                "type": "Speech",
+                "text": "I think I can finally be reborn as a hybrid.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_3",
+                "type": "Speech",
+                "text": "From now on, you're gonna be on easy street.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_4",
+                "type": "Choice",
+                "text": "Can a hybrid solve the Ark's energy crisis?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_02_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_5",
+                "type": "Choice",
+                "text": "So, in other words, you're an opportunist.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_02_9"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_6",
+                "type": "Speech",
+                "text": "Uh...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_7",
+                "type": "Speech",
+                "text": "Um...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_8",
+                "type": "Speech",
+                "text": "I think I've got to train more for that.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_02_12"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_9",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_10",
+                "type": "Speech",
+                "text": "If you mean I'm someone who grabs an opportunity the moment I see it...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_11",
+                "type": "Speech",
+                "text": "... Then that's exactly what I am!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_02_12",
+                "type": "Narration",
+                "text": "Neon and I pontificate on the profundity of hybrids.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_03_1",
+                "type": "Speech",
+                "text": "Huff... Huff... Master!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_2",
+                "type": "Speech",
+                "text": "I almost fell for Yan's promotional tactics again!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_3",
+                "type": "Choice",
+                "text": "I'm impressed that you stood your ground.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_03_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_4",
+                "type": "Choice",
+                "text": "What did you buy this time?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_03_11"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_5",
+                "type": "Speech",
+                "text": "I know!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_6",
+                "type": "Speech",
+                "text": "I dropped by Yan's shop earlier to buy some watermelon juice.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_7",
+                "type": "Speech",
+                "text": "But she told me there was a 10-drink minimum for each order.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_8",
+                "type": "Speech",
+                "text": "When I refused, she changed her tune and said I only had to buy three,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_9",
+                "type": "Speech",
+                "text": "and that she'd then give me a conch necklace for free.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_10",
+                "type": "Self",
+                "text": "And what did you do?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_03_15"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_11",
+                "type": "Speech",
+                "text": "She said I'd get a free necklace if I bought three cups of juice, so I did.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_12",
+                "type": "Self",
+                "text": "In other words, you fell for it.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_13",
+                "type": "Speech",
+                "text": "Nuh-uh!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_14",
+                "type": "Speech",
+                "text": "I didn't pay for the conch necklace.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_15",
+                "type": "Narration",
+                "text": "*Honk*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_16",
+                "type": "Monologue",
+                "text": "When Neon blows the conch, a resounding echo booms.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_17",
+                "type": "Self",
+                "text": "... Well, as long as you're happy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_03_18",
+                "type": "Monologue",
+                "text": "I watch Neon blow the conch to her heart's content.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_04_1",
+                "type": "Speech",
+                "text": "I've been wondering...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_2",
+                "type": "Speech",
+                "text": "Why is sea water so salty? It tastes awful.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_3",
+                "type": "Choice",
+                "text": "Why are you so hell-bent on drinking it?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_04_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_4",
+                "type": "Choice",
+                "text": "Because there are seamounts erupting deep in the ocean depths.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_04_7"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_5",
+                "type": "Speech",
+                "text": "Oh. I don't drink it because I want to.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_6",
+                "type": "Speech",
+                "text": "It's just that I always end up accidentally swallowing some when I'm swimming in the ocean.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_04_11"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_8",
+                "type": "Self",
+                "text": "The salt in the rocks melts into the sea, and...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_10",
+                "type": "Speech",
+                "text": "... Fine.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_04_11",
+                "type": "Narration",
+                "text": "I talk about some scientific topics with Neon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_05_1",
+                "type": "Speech",
+                "text": "I took a catnap on the hammock for a while earlier because I was pooped.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_2",
+                "type": "Speech",
+                "text": "Frima got really upset with me though,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_3",
+                "type": "Speech",
+                "text": "and demanded to know why I was sleeping on her bed.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_4",
+                "type": "Speech",
+                "text": "Aren't hammocks meant to be used by everyone?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_5",
+                "type": "Choice",
+                "text": "I'll talk to her about it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_05_7"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_6",
+                "type": "Choice",
+                "text": "But Frima set that up herself, didn't she? And you were off to the side napping.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_05_11"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_7",
+                "type": "Speech",
+                "text": "Ah, well...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_8",
+                "type": "Speech",
+                "text": "Actually, I didn't help much when the hammock was being set up.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_9",
+                "type": "Self",
+                "text": "Then why are you mad?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_10",
+                "type": "Speech",
+                "text": "I figured since I didn't have the facts on my side, I had to try and appeal to your sympathy.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_05_15"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_11",
+                "type": "Speech",
+                "text": "Yeah, so?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_12",
+                "type": "Speech",
+                "text": "That doesn't mean she can't share it!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_13",
+                "type": "Self",
+                "text": "People like you are the reason we can't have nice things.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_14",
+                "type": "Speech",
+                "text": "Hmph!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_05_15",
+                "type": "Monologue",
+                "text": "Neon is agitated about her nap being interrupted, and I let her sleep on my lap.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_06_1",
+                "type": "Speech",
+                "text": "There's something I've noticed during our vacation here.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_2",
+                "type": "Speech",
+                "text": "I'm very talented at goofing off.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_3",
+                "type": "Choice",
+                "text": "Anyone can do that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_06_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_4",
+                "type": "Choice",
+                "text": "All right, show me what you've got.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_06_8"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_5",
+                "type": "Speech",
+                "text": "Nuh-uh!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_6",
+                "type": "Speech",
+                "text": "Goofing around requires a huge amount of energy and creativity.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_7",
+                "type": "Speech",
+                "text": "This is a unique skill set that not just anyone can master!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_06_11"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_9",
+                "type": "Speech",
+                "text": "Hyah!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_10",
+                "type": "Speech",
+                "text": "Pfffwaaah! Hyah!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_06_11",
+                "type": "Narration",
+                "text": "I pick up a few pointers on how to goof around from Neon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_07_1",
+                "type": "Speech",
+                "text": "Master.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_2",
+                "type": "Speech",
+                "text": "What do you think of my swimsuit? Be honest.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_3",
+                "type": "Choice",
+                "text": "It's cute.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_07_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_4",
+                "type": "Choice",
+                "text": "Very aquatic, and perfectly symmetrical.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_07_8"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_6",
+                "type": "Speech",
+                "text": "Um... Thank you.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_7",
+                "type": "Speech",
+                "text": "I'm glad you like it.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_07_12"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_8",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_9",
+                "type": "Speech",
+                "text": "How can you tell it's got perfect symmetry if you've only",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_10",
+                "type": "Speech",
+                "text": "seen me from one side?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_11",
+                "type": "Speech",
+                "text": "That's a very thoughtful answer though, and I appreciate that.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_07_12",
+                "type": "Narration",
+                "text": "I continue to praise Neon's swimsuit for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_08_1",
+                "type": "Speech",
+                "text": "Master!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_2",
+                "type": "Speech",
+                "text": "When you think of fun activities to do by the seaside, what comes to mind first?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_3",
+                "type": "Choice",
+                "text": "Great big fireworks that light up the sky.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_08_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_4",
+                "type": "Choice",
+                "text": "Adrenaline-pumping water sports where you zoom across the sea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_08_9"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_5",
+                "type": "Speech",
+                "text": "Master, I've already told you.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_6",
+                "type": "Speech",
+                "text": "I've temporarily cast aside my desire for all things pyrotechnic.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_7",
+                "type": "Speech",
+                "text": "Not even the word \"fireworks\" will make me waver.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_8",
+                "type": "Speech",
+                "text": "Not... one... bit...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_08_17"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_9",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_10",
+                "type": "Speech",
+                "text": "So you like water sports, do you?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_11",
+                "type": "Narration",
+                "text": "*Splash*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_12",
+                "type": "Narration",
+                "text": "... Drip.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_13",
+                "type": "Narration",
+                "text": "... Drop.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_14",
+                "type": "Self",
+                "text": "What in the world are you doing?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_15",
+                "type": "Speech",
+                "text": "You said you like water sports, so I thought I'd splash you with some water.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_16",
+                "type": "Speech",
+                "text": "You don't seem too pleased though... I think I should go.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_08_17",
+                "type": "Narration",
+                "text": "Neon beats a swift retreat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_09_1",
+                "type": "Speech",
+                "text": "Master,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_2",
+                "type": "Speech",
+                "text": "I've been pondering something lately.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_3",
+                "type": "Speech",
+                "text": "If a shark and whale fought, who would win?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_4",
+                "type": "Choice",
+                "text": "The shark, of course.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_09_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_5",
+                "type": "Choice",
+                "text": "The whale, of course.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_09_9"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_6",
+                "type": "Speech",
+                "text": "Right.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_7",
+                "type": "Speech",
+                "text": "Sharks are agile, and they have sharp teeth.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_8",
+                "type": "Speech",
+                "text": "But what if it were against a killer whale?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_09_15"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_9",
+                "type": "Speech",
+                "text": "Right.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_10",
+                "type": "Speech",
+                "text": "The sheer enormity of a whale is a big advantage, and they're smart.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_11",
+                "type": "Speech",
+                "text": "... But what if it were against a great white shark?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_12",
+                "type": "Self",
+                "text": "It still couldn't beat a killer whale.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_13",
+                "type": "Speech",
+                "text": "I should have known you'd put the question of",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_14",
+                "type": "Speech",
+                "text": "this royal rumble to rest, Master.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_09_15",
+                "type": "Narration",
+                "text": "Neon and I continue to imagine other battles between marine powerhouses.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_10_1",
+                "type": "Speech",
+                "text": "You know that beach chair in the coastal clinic?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_2",
+                "type": "Speech",
+                "text": "You think it'd feel cozy if you were to lie there for a long time?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_3",
+                "type": "Speech",
+                "text": "That spot is shaded from the sun, and there's a nice breeze.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_4",
+                "type": "Choice",
+                "text": "Are you planning on malingering?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_10_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_5",
+                "type": "Choice",
+                "text": "If you stay there for too long, they'll give you a shot.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_10_10"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_6",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_7",
+                "type": "Speech",
+                "text": "What an accusation!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_8",
+                "type": "Speech",
+                "text": "I may be pretending to be a patient when I'm not,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_9",
+                "type": "Speech",
+                "text": "but I'm not faking an illness, necessarily.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_10_13"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_10",
+                "type": "Speech",
+                "text": "Ah...!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_11",
+                "type": "Speech",
+                "text": "I didn't even think about that.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_12",
+                "type": "Speech",
+                "text": "In that case, I'll keep my eyes peeled and slink off when it's my turn.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_10_13",
+                "type": "Narration",
+                "text": "I tell Neon of other nice places where she can avoid the heat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_11_1",
+                "type": "Speech",
+                "text": "Could you give me some recommendations",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_2",
+                "type": "Speech",
+                "text": "for some summer activities I can do with Mary?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_3",
+                "type": "Choice",
+                "text": "Catch a cold and get a shot for it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_11_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_4",
+                "type": "Choice",
+                "text": "Play games that test your courage in the dead of the night.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_11_7"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_5",
+                "type": "Speech",
+                "text": "But Master, it's summer! Not even Volt could catch a cold this time of year.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_6",
+                "type": "Speech",
+                "text": "Besides, you know how much I hate needles.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_11_10"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_7",
+                "type": "Speech",
+                "text": "Hmm... there are a lot of ancient structures on this island. You don't think it'd be too scary playing at night?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_8",
+                "type": "Speech",
+                "text": "Then again, it might be fun if Mary's there with me.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_9",
+                "type": "Speech",
+                "text": "Even a ghost would run away at the sight of Mary holding a syringe.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_11_10",
+                "type": "Narration",
+                "text": "Neon and I plan how we'll be spending summer vacation with Mary.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_12_1",
+                "type": "Speech",
+                "text": "Volt and I have gotten closer recently, and it made me think...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_2",
+                "type": "Speech",
+                "text": "I'd like to raise a dog of my own.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_3",
+                "type": "Choice",
+                "text": "Are you sure that you can handle that responsibility?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_12_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_4",
+                "type": "Choice",
+                "text": "Dogs are always the cutest when you don't have to take care of them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_12_9"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_5",
+                "type": "Speech",
+                "text": "Of course!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_6",
+                "type": "Self",
+                "text": "Even when you have to go into isolation to hone your waterpower?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_7",
+                "type": "Speech",
+                "text": "Oh. I didn't think of that.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_8",
+                "type": "Speech",
+                "text": "Thanks for pointing that out, Master!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_12_12"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_9",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_10",
+                "type": "Speech",
+                "text": "I still want to raise one myself.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_11",
+                "type": "Speech",
+                "text": "Whenever Volt sees Liter while I'm playing with him, he ditches me straight away and runs to her.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_12_12",
+                "type": "Narration",
+                "text": "Neon and I show each other photos we took of Volt while conversing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_13_1",
+                "type": "Speech",
+                "text": "I collected way too many shells from the beach.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_2",
+                "type": "Speech",
+                "text": "I'm having a tough time figuring out which ones I like.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_3",
+                "type": "Choice",
+                "text": "How about diving into the sea to look for some?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_13_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_4",
+                "type": "Choice",
+                "text": "Oh, there's one by your feet...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_13_7"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_5",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_6",
+                "type": "Speech",
+                "text": "Then I would be a shell without a soul.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_13_10"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_7",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_9",
+                "type": "Speech",
+                "text": "Whoa! This one's shaped like a train! I've never seen anything like that before!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_13_10",
+                "type": "Monologue",
+                "text": "Neon gives me a crash course on seashell collection.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_14_1",
+                "type": "Speech",
+                "text": "Master,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_2",
+                "type": "Speech",
+                "text": "I think my waterpower and firepower can work in harmony now.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_3",
+                "type": "Speech",
+                "text": "That means I'll be the big cheese amongst the hybrids.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_4",
+                "type": "Choice",
+                "text": "I suppose so.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_14_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_5",
+                "type": "Choice",
+                "text": "Everyone knows Brid is the big cheese amongst the hybrids.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_14_8"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_6",
+                "type": "Speech",
+                "text": "Woohoo! Master finally acknowledged me!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_7",
+                "type": "Speech",
+                "text": "I'm gonna go around and tell everyone about this!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_14_11"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_8",
+                "type": "Speech",
+                "text": "Oh, right! Hybrid does sound like \"High Brid\".",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_9",
+                "type": "Speech",
+                "text": "When you consider that, Brid's the natural choice to be the head honcho.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_10",
+                "type": "Speech",
+                "text": "I guess I'm doomed to only ascend so high...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_14_11",
+                "type": "Narration",
+                "text": "I study the fundamentals of the world of hybrids with Neon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_15_1",
+                "type": "Speech",
+                "text": "I recently discovered a real conundrum.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_2",
+                "type": "Speech",
+                "text": "If I go into the sea wearing glasses and I get slammed by a rogue wave,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_3",
+                "type": "Speech",
+                "text": "my glasses will go flying and be swept away. What should I do?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_4",
+                "type": "Choice",
+                "text": "Throw your glasses into the water before the wave gets you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_15_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_5",
+                "type": "Choice",
+                "text": "How about wearing goggles instead of glasses?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_15_13"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_6",
+                "type": "Speech",
+                "text": "Nice!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_7",
+                "type": "Monologue",
+                "text": "Neon takes off her glasses and tosses them into the ocean.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_8",
+                "type": "Narration",
+                "text": "*Plop*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_10",
+                "type": "Speech",
+                "text": "Agh! I can't see!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_11",
+                "type": "Speech",
+                "text": "How am I going to live now?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_12",
+                "type": "Self",
+                "text": "... Let's go. I'll help you find your glasses.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_15_16"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_13",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_14",
+                "type": "Speech",
+                "text": "Goggles would definitely be more secure than glasses.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_15",
+                "type": "Speech",
+                "text": "I'll try to ask Liter to make me a pair.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_15_16",
+                "type": "Narration",
+                "text": "I study ways to avoid losing things with Neon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_16_1",
+                "type": "Speech",
+                "text": "Master, there's this Nikke.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_2",
+                "type": "Speech",
+                "text": "She comes across a faucet while walking on the street.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_3",
+                "type": "Speech",
+                "text": "What does she do?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_4",
+                "type": "Choice",
+                "text": "Turn it on.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_16_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_5",
+                "type": "Choice",
+                "text": "Walk by it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_16_9"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_6",
+                "type": "Speech",
+                "text": "That's right.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_7",
+                "type": "Speech",
+                "text": "If you see a faucet, you crank that baby to the max! It's the most logical course of action.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_8",
+                "type": "Speech",
+                "text": "Faucet, activate! Splash!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_16_12"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_9",
+                "type": "Speech",
+                "text": "... Master.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_10",
+                "type": "Speech",
+                "text": "Are you trying to upset me?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_11",
+                "type": "Speech",
+                "text": "I thought the answer would be painfully obvious to you.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_16_12",
+                "type": "Monologue",
+                "text": "Together, Neon and I make up a fable about the water nation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_17_1",
+                "type": "Speech",
+                "text": "Whenever I'm hanging out at the beach,  I sometimes look up at the clinic,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_2",
+                "type": "Speech",
+                "text": "and I can't help but notice that the doctors are always staring at you.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_3",
+                "type": "Speech",
+                "text": "What could that mean?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_4",
+                "type": "Choice",
+                "text": "They're spies from Tetra. We should keep our eyes peeled.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_17_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_5",
+                "type": "Choice",
+                "text": "... No comment.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_17_9"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_7",
+                "type": "Speech",
+                "text": "You're right. Elysion can't be the only one of the Big Three to plant spies in our midst.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_8",
+                "type": "Speech",
+                "text": "I'll be extra vigilant from now on.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_17_14"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_9",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_10",
+                "type": "Speech",
+                "text": "You know something, don't you?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_11",
+                "type": "Speech",
+                "text": "What is it? What are you keeping from me?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_12",
+                "type": "Self",
+                "text": "I'm not keeping anything from you.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_13",
+                "type": "Speech",
+                "text": "You say that, but that smile of yours is awfully ambiguous...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_17_14",
+                "type": "Narration",
+                "text": "We talk about secret stories related to the doctors in Seraphim.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_18_1",
+                "type": "Speech",
+                "text": "Master,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_2",
+                "type": "Speech",
+                "text": "have you got any in-depth knowledge to impart to me today?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_3",
+                "type": "Choice",
+                "text": "No. It's time that you strike out on your own.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_18_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_4",
+                "type": "Choice",
+                "text": "Sure, let's take a dip in the ocean.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_18_8"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_5",
+                "type": "Speech",
+                "text": "What? But I only just started learning waterpower from you.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_6",
+                "type": "Speech",
+                "text": "Are you sure I'm ready to be on my own?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_7",
+                "type": "Speech",
+                "text": "It sounds to me more like you're trying to shirk responsibility.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_18_11"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_8",
+                "type": "Speech",
+                "text": "... Hehe, all right.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_9",
+                "type": "Speech",
+                "text": "I'm hoping to extend my water gun's range today.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_10",
+                "type": "Speech",
+                "text": "If I can pull that off, I'll consider today's training a success.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_18_11",
+                "type": "Narration",
+                "text": "I spend some time with Neon as her mentor.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_19_1",
+                "type": "Speech",
+                "text": "The path of waterpower is such a profound discipline.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_2",
+                "type": "Speech",
+                "text": "I wonder, what is its essence?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_3",
+                "type": "Choice",
+                "text": "... Water.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_19_5"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_4",
+                "type": "Choice",
+                "text": "I am waterpower, therefore waterpower is.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_19_8"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_5",
+                "type": "Speech",
+                "text": "I think you may be taking this too literally.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_6",
+                "type": "Self",
+                "text": "Or am I? Fear not, young grasshopper, you are still new to this world.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_19_11"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_8",
+                "type": "Speech",
+                "text": "Whoa!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_9",
+                "type": "Speech",
+                "text": "That's like... super-duper profound! And confusing as heck, too!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_10",
+                "type": "Speech",
+                "text": "The next time someone asks me, that's what I'm gonna tell them.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_19_11",
+                "type": "Narration",
+                "text": "I talk to Neon about the essence of waterpower.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_blueocean_20_1",
+                "type": "Speech",
+                "text": "Yan and I had some wonderfully refreshing fruit today.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_2",
+                "type": "Speech",
+                "text": "Want to taste some?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_3",
+                "type": "Speech",
+                "text": "We got two kinds. Pick whichever one you want!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_4",
+                "type": "Choice",
+                "text": "I'll take the one that's a bit hairy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_blueocean_20_6"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_5",
+                "type": "Choice",
+                "text": "I want the pink mushroom.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_blueocean_20_11"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_6",
+                "type": "Speech",
+                "text": "Hmm, this one's looking a bit weird, don't you think?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_7",
+                "type": "Monologue",
+                "text": "Neon and I peel the fruit and taste it.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_9",
+                "type": "Speech",
+                "text": "Whoa... whoa! This is delicious!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_10",
+                "type": "Speech",
+                "text": "Let's have some more! No, a lot more!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_blueocean_20_17"
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_11",
+                "type": "Speech",
+                "text": "I've got some reservations about this one.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_12",
+                "type": "Speech",
+                "text": "But, the Ark is low on resources, so we should do our part and give it a taste.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_13",
+                "type": "Monologue",
+                "text": "We roast the mushrooms and take a few tentative nibbles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_14",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_15",
+                "type": "Speech",
+                "text": "Barf...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_16",
+                "type": "Self",
+                "text": "Blurgh...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_blueocean_20_17",
+                "type": "Narration",
+                "text": "We end up having to visit the clinic for our upset stomachs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

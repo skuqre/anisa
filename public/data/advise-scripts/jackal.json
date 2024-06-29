@@ -1,0 +1,1901 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_jackal_01_1",
+                "type": "Speech",
+                "text": "Heya!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_2",
+                "type": "Speech",
+                "text": "What do you want for lunch today?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_3",
+                "type": "Speech",
+                "text": "I'm in the mood for meat.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_4",
+                "type": "Choice",
+                "text": "Let's have beef-flavored Nutrium.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_01_6"
+            },
+            {
+                "id": "d_counseling_jackal_01_5",
+                "type": "Choice",
+                "text": "Let's have lamb-flavored Nutrium.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_01_9"
+            },
+            {
+                "id": "d_counseling_jackal_01_6",
+                "type": "Speech",
+                "text": "Be-beef flavored?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_7",
+                "type": "Speech",
+                "text": "You know I'm a fiend for beef,",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_8",
+                "type": "Speech",
+                "text": "but I had that for dinner last night.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_01_13"
+            },
+            {
+                "id": "d_counseling_jackal_01_9",
+                "type": "Speech",
+                "text": "Lamb-flavored?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_10",
+                "type": "Speech",
+                "text": "I've never tried it.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_11",
+                "type": "Speech",
+                "text": "As long as it's meat, I'm sure it'll be good.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_12",
+                "type": "Speech",
+                "text": "Let's get a move on, I'm starving!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_01_13",
+                "type": "Narration",
+                "text": "Jackal and I talk about the current meat flavors that are available.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_02_1",
+                "type": "Speech",
+                "text": "Shooting guns is a blast!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_02_2",
+                "type": "Speech",
+                "text": "When you pull that trigger and then... kablam!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_02_3",
+                "type": "Speech",
+                "text": "Everything shatters into a million pieces! It's the coolest.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_02_4",
+                "type": "Choice",
+                "text": "Just make sure you don't shoot at people.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_02_6"
+            },
+            {
+                "id": "d_counseling_jackal_02_5",
+                "type": "Choice",
+                "text": "It's rather reckless of you to fire so indiscriminately.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_02_9"
+            },
+            {
+                "id": "d_counseling_jackal_02_6",
+                "type": "Speech",
+                "text": "Yeah, yeah, I know. The Captain already told me not to.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_02_7",
+                "type": "Speech",
+                "text": "She explicitly forbade it.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_02_8",
+                "type": "Speech",
+                "text": "Unless she gives me a signal, that is.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_02_11"
+            },
+            {
+                "id": "d_counseling_jackal_02_9",
+                "type": "Speech",
+                "text": "Aw c'mon, it's fun.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_02_10",
+                "type": "Speech",
+                "text": "You don't want me to have fun?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_02_11",
+                "type": "Narration",
+                "text": "I spend time with Jackal perusing through the latest gun catalogue.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_03_1",
+                "type": "Speech",
+                "text": "Commander? My tooth hurts.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_03_2",
+                "type": "Speech",
+                "text": "This has never happened before, it's weird.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_03_3",
+                "type": "Choice",
+                "text": "What? We better get you to the hospital right away.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_03_5"
+            },
+            {
+                "id": "d_counseling_jackal_03_4",
+                "type": "Choice",
+                "text": "You didn't bite down on a stone by any chance, did you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_03_8"
+            },
+            {
+                "id": "d_counseling_jackal_03_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_03_6",
+                "type": "Speech",
+                "text": "Absolutely not. I detest hospitals.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_03_7",
+                "type": "Speech",
+                "text": "It's haunted by some ghost that walks around with its eyes closed. It freaks me out!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_03_11"
+            },
+            {
+                "id": "d_counseling_jackal_03_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_03_9",
+                "type": "Speech",
+                "text": "How did you know?! I was munching on some stones this morning, but it backfired on me.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_03_10",
+                "type": "Speech",
+                "text": "You must be clairvoyant or something!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_03_11",
+                "type": "Narration",
+                "text": "I lecture Jackal about the importance of proper dental hygiene.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_04_1",
+                "type": "Speech",
+                "text": "A couple of days ago at the store, I saw a necklace I really liked.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_04_2",
+                "type": "Speech",
+                "text": "I decided to take it with me, but the A.C.P.U. followed me.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_04_3",
+                "type": "Speech",
+                "text": "What's the big deal? I was so scared I ended up having to run away.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_04_4",
+                "type": "Choice",
+                "text": "They went after you because stealing is illegal.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_04_6"
+            },
+            {
+                "id": "d_counseling_jackal_04_5",
+                "type": "Choice",
+                "text": "They just wanted to give you a hard time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_04_9"
+            },
+            {
+                "id": "d_counseling_jackal_04_6",
+                "type": "Speech",
+                "text": "Stealing? What's that?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_04_7",
+                "type": "Speech",
+                "text": "... Oh, right.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_04_8",
+                "type": "Speech",
+                "text": "I do seem to remember the Captain telling me not to take things I want from the store.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_04_12"
+            },
+            {
+                "id": "d_counseling_jackal_04_9",
+                "type": "Speech",
+                "text": "Ugh!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_04_10",
+                "type": "Speech",
+                "text": "Why must those morons always pester me?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_04_11",
+                "type": "Speech",
+                "text": "They're always busting my hump and trying to capture me!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_04_12",
+                "type": "Narration",
+                "text": "I talk with Jackal about necklaces she likes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_05_1",
+                "type": "Speech",
+                "text": "The A.C.P.U. is the absolute worst!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_05_2",
+                "type": "Speech",
+                "text": "Whenever I run into them, they always give me a hard time.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_05_3",
+                "type": "Speech",
+                "text": "What did I ever do to them?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_05_4",
+                "type": "Choice",
+                "text": "It's impossible to be liked by everyone.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_05_6"
+            },
+            {
+                "id": "d_counseling_jackal_05_5",
+                "type": "Choice",
+                "text": "It's not entirely unreasonable for the police to feel the way they do about you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_05_9"
+            },
+            {
+                "id": "d_counseling_jackal_05_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_05_7",
+                "type": "Speech",
+                "text": "Yeah, you're right. Besides, I don't like them either!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_05_8",
+                "type": "Speech",
+                "text": "Fine by me. We can just go on hating each other.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_05_11"
+            },
+            {
+                "id": "d_counseling_jackal_05_9",
+                "type": "Speech",
+                "text": "??",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_05_10",
+                "type": "Speech",
+                "text": "What does their being the police have to do with me?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_05_11",
+                "type": "Narration",
+                "text": "I spend time listening to Jackal talk behind A.C.P.U's back.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_06_1",
+                "type": "Speech",
+                "text": "Get this. I gave some dude a thrashing a while back.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_06_2",
+                "type": "Speech",
+                "text": "Today, I'm relaxing, minding my own business, and suddenly his brother comes up to me all in a huff.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_06_3",
+                "type": "Speech",
+                "text": "Why's he so mad at me?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_06_4",
+                "type": "Choice",
+                "text": "Imagine if Viper got beat up by someone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_06_6"
+            },
+            {
+                "id": "d_counseling_jackal_06_5",
+                "type": "Choice",
+                "text": "Imagine if Crow got beat up by someone.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_06_9"
+            },
+            {
+                "id": "d_counseling_jackal_06_6",
+                "type": "Speech",
+                "text": "If Viper got beat up...",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_06_7",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_06_8",
+                "type": "Speech",
+                "text": "Then that's just how it is. Why would I get upset over that?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_06_12"
+            },
+            {
+                "id": "d_counseling_jackal_06_9",
+                "type": "Speech",
+                "text": "If the Captain got beat up...",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_06_10",
+                "type": "Speech",
+                "text": "I'd want to know who did it! Then I'd find them and...",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_06_11",
+                "type": "Speech",
+                "text": "... Oh, so that's how that guy felt today.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_06_12",
+                "type": "Narration",
+                "text": "I begin to explain to Jackal how to enact revenge, then decide against it.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_07_1",
+                "type": "Speech",
+                "text": "The Captain is so amazing. She knows everything.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_07_2",
+                "type": "Speech",
+                "text": "That's why she commands respect from everyone, including me.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_07_3",
+                "type": "Choice",
+                "text": "What about me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_07_5"
+            },
+            {
+                "id": "d_counseling_jackal_07_4",
+                "type": "Choice",
+                "text": "You're pretty amazing yourself, Jackal.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_07_8"
+            },
+            {
+                "id": "d_counseling_jackal_07_5",
+                "type": "Speech",
+                "text": "You're amazing too, Commander!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_07_6",
+                "type": "Speech",
+                "text": "But between the two of you, I'd say the winner is...",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_07_7",
+                "type": "Speech",
+                "text": "... aw heck, I can't decide! Either way, you're both winners in my book.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_07_11"
+            },
+            {
+                "id": "d_counseling_jackal_07_8",
+                "type": "Speech",
+                "text": "As if!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_07_9",
+                "type": "Speech",
+                "text": "People always say that I'm useless.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_07_10",
+                "type": "Speech",
+                "text": "Except Captain and Viper, of course, but everyone else says so.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_07_11",
+                "type": "Narration",
+                "text": "I listen to Jackal as she showers compliments on Crow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_08_1",
+                "type": "Speech",
+                "text": "*chomp* *chomp*",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_08_2",
+                "type": "Speech",
+                "text": "Hey, you want some of this?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_08_3",
+                "type": "Speech",
+                "text": "I came by this yesterday, and it's not half bad.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_08_4",
+                "type": "Choice",
+                "text": "Sorry, I don't think my teeth are up to the task.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_08_6"
+            },
+            {
+                "id": "d_counseling_jackal_08_5",
+                "type": "Choice",
+                "text": "Sure, but I'll melt it down first.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_08_9"
+            },
+            {
+                "id": "d_counseling_jackal_08_6",
+                "type": "Speech",
+                "text": "You sure?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_08_7",
+                "type": "Speech",
+                "text": "If so, then more for me!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_08_8",
+                "type": "Speech",
+                "text": "... You're really not eating?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_08_12"
+            },
+            {
+                "id": "d_counseling_jackal_08_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_08_10",
+                "type": "Speech",
+                "text": "I wonder what it tastes like when it's melted...",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_08_11",
+                "type": "Speech",
+                "text": "I wanna try that too!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_08_12",
+                "type": "Narration",
+                "text": "Jackal gives me more pointers on how to choose delicious dishes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_09_1",
+                "type": "Speech",
+                "text": "There's this giant wall that separates my neighborhood from the Ark.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_09_2",
+                "type": "Speech",
+                "text": "It's a real pain in the butt to move around, and it's next to impossible to jump over.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_09_3",
+                "type": "Speech",
+                "text": "Got any bright ideas on how I can get around it?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_09_4",
+                "type": "Choice",
+                "text": "Let's practice jumping over it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_09_6"
+            },
+            {
+                "id": "d_counseling_jackal_09_5",
+                "type": "Choice",
+                "text": "I'll tear that wall down.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_09_9"
+            },
+            {
+                "id": "d_counseling_jackal_09_6",
+                "type": "Speech",
+                "text": "Good idea!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_09_7",
+                "type": "Speech",
+                "text": "Since we won't be able to get rid of the wall, I might as well try and learn to jump higher.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_09_8",
+                "type": "Speech",
+                "text": "Hehe! I'm gonna start practicing straight away!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_09_11"
+            },
+            {
+                "id": "d_counseling_jackal_09_9",
+                "type": "Speech",
+                "text": "Ha, you can't be serious!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_09_10",
+                "type": "Speech",
+                "text": "Not even the Captain could tear down such an imposing wall.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_09_11",
+                "type": "Narration",
+                "text": "Jackal and I practice how to add some height to our jumps.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_10_1",
+                "type": "Speech",
+                "text": "Nothing beats running around!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_10_2",
+                "type": "Speech",
+                "text": "But Captain never lets me run around in the hideout.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_10_3",
+                "type": "Speech",
+                "text": "Why doesn't she let me do what I want?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_10_4",
+                "type": "Choice",
+                "text": "Probably because it makes a lot of noise.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_10_6"
+            },
+            {
+                "id": "d_counseling_jackal_10_5",
+                "type": "Choice",
+                "text": "The hideout is much too small for you to run around in.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_10_9"
+            },
+            {
+                "id": "d_counseling_jackal_10_6",
+                "type": "Speech",
+                "text": "Noise? What's wrong with noise?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_10_7",
+                "type": "Speech",
+                "text": "I like noise!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_10_8",
+                "type": "Speech",
+                "text": "That's why I run around in the first place!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_10_12"
+            },
+            {
+                "id": "d_counseling_jackal_10_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_10_10",
+                "type": "Speech",
+                "text": "I guess you're right... our hideout isn't exactly a sprawling estate.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_10_11",
+                "type": "Speech",
+                "text": "The Captain is so thoughtful! She always has my best interests in mind.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_10_12",
+                "type": "Narration",
+                "text": "I run around with Jackal.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_11_1",
+                "type": "Speech",
+                "text": "Cmndr. Lik cmdfn.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_2",
+                "type": "Narration",
+                "text": "I can't understand a word she's saying when she's gnawing on something.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_3",
+                "type": "Speech",
+                "text": "Cmndr?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_4",
+                "type": "Choice",
+                "text": "Still can't make out what you're saying, but... thanks?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_11_6"
+            },
+            {
+                "id": "d_counseling_jackal_11_5",
+                "type": "Choice",
+                "text": "Think you could drop what you're holding in your mouth first?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_11_9"
+            },
+            {
+                "id": "d_counseling_jackal_11_6",
+                "type": "Speech",
+                "text": "Hehe! Hehehe!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_7",
+                "type": "Speech",
+                "text": "IUf Cmnder is hppy, I'm happy!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_8",
+                "type": "Speech",
+                "text": "Hehe! Hehehe!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_11_14"
+            },
+            {
+                "id": "d_counseling_jackal_11_9",
+                "type": "Speech",
+                "text": "*spit*",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_10",
+                "type": "Narration",
+                "text": "*thud*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_11",
+                "type": "Narration",
+                "text": "It's a grenade!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_12",
+                "type": "Speech",
+                "text": "The Captain told me to give this to you.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_13",
+                "type": "Speech",
+                "text": "Don't worry, the pin's still in it.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_11_14",
+                "type": "Narration",
+                "text": "I teach Jackal how to use the message system.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_12_1",
+                "type": "Speech",
+                "text": "Commander!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_12_2",
+                "type": "Speech",
+                "text": "Pat me on the head!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_12_3",
+                "type": "Speech",
+                "text": "10 times. No! 100 times!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_12_4",
+                "type": "Choice",
+                "text": "You sure you won't get tired of it?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_12_6"
+            },
+            {
+                "id": "d_counseling_jackal_12_5",
+                "type": "Choice",
+                "text": "How does 1,000 times sound?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_12_8"
+            },
+            {
+                "id": "d_counseling_jackal_12_6",
+                "type": "Speech",
+                "text": "Trust me, I'll be fine.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_12_7",
+                "type": "Speech",
+                "text": "So pat away!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_12_10"
+            },
+            {
+                "id": "d_counseling_jackal_12_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_12_9",
+                "type": "Speech",
+                "text": "I love it!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_12_10",
+                "type": "Narration",
+                "text": "I spend time patting Jackal's head.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_13_1",
+                "type": "Speech",
+                "text": "Apparently a jackal is a type of animal?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_13_2",
+                "type": "Speech",
+                "text": "Why would they name me after an animal?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_13_3",
+                "type": "Choice",
+                "text": "Because you like meat?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_13_5"
+            },
+            {
+                "id": "d_counseling_jackal_13_4",
+                "type": "Choice",
+                "text": "Because you're cute and cuddly?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_13_8"
+            },
+            {
+                "id": "d_counseling_jackal_13_5",
+                "type": "Speech",
+                "text": "I am a dyed-in-the-wool carnivore, no doubt about that.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_13_6",
+                "type": "Speech",
+                "text": "And animals like meat too...",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_13_7",
+                "type": "Speech",
+                "text": "So that's why I'm called Jackal! It all makes sense now!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_13_11"
+            },
+            {
+                "id": "d_counseling_jackal_13_8",
+                "type": "Speech",
+                "text": "Cute... and cuddly?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_13_9",
+                "type": "Speech",
+                "text": "Is that supposed to be some kind of insult?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_13_10",
+                "type": "Speech",
+                "text": "You better watch yourself, or else I'm going to get mad.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_13_11",
+                "type": "Narration",
+                "text": "Jackal and I watch a nature documentary about animal life.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_14_1",
+                "type": "Speech",
+                "text": "I wanna pull a prank on the A.C.P.U.!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_14_2",
+                "type": "Speech",
+                "text": "They're always on my case, so it's time I gave them a taste of their own medicine.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_14_3",
+                "type": "Speech",
+                "text": "Got any good prank ideas?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_14_4",
+                "type": "Choice",
+                "text": "Get on their nerves, then run away.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_14_6"
+            },
+            {
+                "id": "d_counseling_jackal_14_5",
+                "type": "Choice",
+                "text": "Just lay low and keep quiet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_14_8"
+            },
+            {
+                "id": "d_counseling_jackal_14_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_14_7",
+                "type": "Speech",
+                "text": "You call that a prank? Sounds to me like that's just being immature.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_14_11"
+            },
+            {
+                "id": "d_counseling_jackal_14_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_14_9",
+                "type": "Speech",
+                "text": "That way, the A.C.P.U. won't have any reason to bother me!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_14_10",
+                "type": "Speech",
+                "text": "They won't even know what hit 'em!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_14_11",
+                "type": "Narration",
+                "text": "I look up additional ideas for pranks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_15_1",
+                "type": "Speech",
+                "text": "Viper often goes to get her nails done.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_15_2",
+                "type": "Speech",
+                "text": "They're always so shiny and pretty.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_15_3",
+                "type": "Speech",
+                "text": "I want to try it too!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_15_4",
+                "type": "Choice",
+                "text": "How about getting your teeth treated?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_15_6"
+            },
+            {
+                "id": "d_counseling_jackal_15_5",
+                "type": "Choice",
+                "text": "You want to get your nails done?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_15_9"
+            },
+            {
+                "id": "d_counseling_jackal_15_6",
+                "type": "Speech",
+                "text": "My teeth?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_15_7",
+                "type": "Speech",
+                "text": "Ooooh, then they'd be super shiny!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_15_8",
+                "type": "Speech",
+                "text": "That'd be awesome! I love it!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_15_12"
+            },
+            {
+                "id": "d_counseling_jackal_15_9",
+                "type": "Speech",
+                "text": "Sure, why not?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_15_10",
+                "type": "Speech",
+                "text": "But wait a minute... that'd mean I'd have to walk around with my gloves off.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_15_11",
+                "type": "Speech",
+                "text": "On second thought, I don't want to.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_15_12",
+                "type": "Narration",
+                "text": "I tell Jackal the importance of pampering oneself occasionally.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_16_1",
+                "type": "Speech",
+                "text": "I caught the guy who caused that commotion a couple days ago, but he keeps denying everything.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_16_2",
+                "type": "Speech",
+                "text": "All he does is keep repeating \"I don't know\" ad nauseum.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_16_3",
+                "type": "Speech",
+                "text": "What should I do to make him fess up?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_16_4",
+                "type": "Choice",
+                "text": "Ask him politely.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_16_6"
+            },
+            {
+                "id": "d_counseling_jackal_16_5",
+                "type": "Choice",
+                "text": "Maybe he really doesn't know anything.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_16_9"
+            },
+            {
+                "id": "d_counseling_jackal_16_6",
+                "type": "Speech",
+                "text": "Ask politely?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_16_7",
+                "type": "Speech",
+                "text": "Why would I do that?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_16_8",
+                "type": "Speech",
+                "text": "Wouldn't it be faster to just smack him around a bit?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_16_12"
+            },
+            {
+                "id": "d_counseling_jackal_16_9",
+                "type": "Speech",
+                "text": "Maybe.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_16_10",
+                "type": "Speech",
+                "text": "Actually, now that I think about it, he may not have as much to do with this as I originally thought.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_16_11",
+                "type": "Speech",
+                "text": "I guess I'll release him. I'm sure he'd appreciate it.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_16_12",
+                "type": "Narration",
+                "text": "Jackal and I read up on how to properly address a line of questioning.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_17_1",
+                "type": "Speech",
+                "text": "Commander.\nIs money important?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_2",
+                "type": "Speech",
+                "text": "Whenever I question anyone who's committed a crime,",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_3",
+                "type": "Speech",
+                "text": "they say they did it because they needed money.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_4",
+                "type": "Speech",
+                "text": "So I'm curious: is money really that important?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_5",
+                "type": "Choice",
+                "text": "It's not that important.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_17_7"
+            },
+            {
+                "id": "d_counseling_jackal_17_6",
+                "type": "Choice",
+                "text": "It's incredibly important.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_17_10"
+            },
+            {
+                "id": "d_counseling_jackal_17_7",
+                "type": "Speech",
+                "text": "That's what I figured.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_8",
+                "type": "Speech",
+                "text": "I know you use it to buy food and stuff like that.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_9",
+                "type": "Speech",
+                "text": "But I don't see what the big deal about money is when you can just steal what you want.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_17_13"
+            },
+            {
+                "id": "d_counseling_jackal_17_10",
+                "type": "Speech",
+                "text": "So you agree with them?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_11",
+                "type": "Speech",
+                "text": "In that case, what's to stop you from stabbing us in the back and pawning off all our belongings?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_12",
+                "type": "Speech",
+                "text": "That's something a person who was mad about money would do.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_17_13",
+                "type": "Narration",
+                "text": "I teach Jackal how to count money.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_18_1",
+                "type": "Speech",
+                "text": "This necklace is digging into my neck.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_18_2",
+                "type": "Speech",
+                "text": "I'm gonna take it off.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_18_3",
+                "type": "Choice",
+                "text": "Won't that upset Crow?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_18_5"
+            },
+            {
+                "id": "d_counseling_jackal_18_4",
+                "type": "Choice",
+                "text": "Don't take it off. It looks good on you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_18_8"
+            },
+            {
+                "id": "d_counseling_jackal_18_5",
+                "type": "Speech",
+                "text": "The Captain?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_18_6",
+                "type": "Speech",
+                "text": "She's never gotten sore at me for something like that.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_18_7",
+                "type": "Speech",
+                "text": "Just to be safe though, I'll run it by her first.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_18_11"
+            },
+            {
+                "id": "d_counseling_jackal_18_8",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_18_9",
+                "type": "Speech",
+                "text": "Hehehe!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_18_10",
+                "type": "Speech",
+                "text": "I'll leave it on then.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_18_11",
+                "type": "Narration",
+                "text": "Jackal and I look at more necklaces online for her to buy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_19_1",
+                "type": "Speech",
+                "text": "I dig our little neighborhood.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_19_2",
+                "type": "Speech",
+                "text": "I like it because there are a lot of places to run around, and a ton of things to break!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_19_3",
+                "type": "Speech",
+                "text": "I don't know why everyone else is so down on it.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_19_4",
+                "type": "Choice",
+                "text": "They're just jealous.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_19_6"
+            },
+            {
+                "id": "d_counseling_jackal_19_5",
+                "type": "Choice",
+                "text": "Because this place is dangerous for ordinary people.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_19_9"
+            },
+            {
+                "id": "d_counseling_jackal_19_6",
+                "type": "Speech",
+                "text": "Jealous?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_19_7",
+                "type": "Speech",
+                "text": "I suppose you've got a point. The Ark is so small, and the A.C.P.U. is always on your case if you break anything.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_19_8",
+                "type": "Speech",
+                "text": "I feel bad for people living in the Ark.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_19_12"
+            },
+            {
+                "id": "d_counseling_jackal_19_9",
+                "type": "Speech",
+                "text": "??",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_19_10",
+                "type": "Speech",
+                "text": "What are you talking about?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_19_11",
+                "type": "Speech",
+                "text": "There's nothing dangerous at all about our neighborhood.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_19_12",
+                "type": "Narration",
+                "text": "I listen to Jackal go on bragging about the Outer Rim.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_jackal_20_1",
+                "type": "Speech",
+                "text": "The Captain is always reading a book or watching a movie.",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_20_2",
+                "type": "Speech",
+                "text": "I don't get it. Books or movies don't fill your stomach, so what's the point?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_20_3",
+                "type": "Choice",
+                "text": "They may not fill your stomach, but they can enrich your mind.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_jackal_20_5"
+            },
+            {
+                "id": "d_counseling_jackal_20_4",
+                "type": "Choice",
+                "text": "She probably thinks it makes her look cool.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_jackal_20_8"
+            },
+            {
+                "id": "d_counseling_jackal_20_5",
+                "type": "Speech",
+                "text": "It does what to your mind?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_20_6",
+                "type": "Speech",
+                "text": "Enrich? What's that?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_20_7",
+                "type": "Speech",
+                "text": "Are you saying the Captain actually eats those books and movies?",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": "d_counseling_jackal_20_10"
+            },
+            {
+                "id": "d_counseling_jackal_20_8",
+                "type": "Speech",
+                "text": "Well, if you ask me,",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_20_9",
+                "type": "Speech",
+                "text": "I'd say she's succeeded!",
+                "speaker": "Jackal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_jackal_20_10",
+                "type": "Narration",
+                "text": "I try to recommend books and movies to Jackal, but give up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,1805 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_centi_01_1",
+                "type": "Speech",
+                "text": "Boss!\nFolks at the Outpost are always complaining about the construction noise!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_01_2",
+                "type": "Speech",
+                "text": "But... it's construction! It's gonna be loud no matter what!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_01_3",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_01_4",
+                "type": "Choice",
+                "text": "Give them ear plugs.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_01_6"
+            },
+            {
+                "id": "d_counseling_centi_01_5",
+                "type": "Choice",
+                "text": "Make it louder!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_01_9"
+            },
+            {
+                "id": "d_counseling_centi_01_6",
+                "type": "Speech",
+                "text": "No!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_01_7",
+                "type": "Speech",
+                "text": "If they can't hear what's going on, it'd be even more dangerous!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_01_8",
+                "type": "Speech",
+                "text": "Anyway, thanks for your advice!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_01_11"
+            },
+            {
+                "id": "d_counseling_centi_01_9",
+                "type": "Speech",
+                "text": "Oh! You mean we should speed up the construction, right?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_01_10",
+                "type": "Speech",
+                "text": "Got it!\nI'll try my best!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_01_11",
+                "type": "Narration",
+                "text": "I have a conversation with Centi about construction noise.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_02_1",
+                "type": "Speech",
+                "text": "I have a question!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_02_2",
+                "type": "Speech",
+                "text": "Does all my noise make you uncomfortable?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_02_3",
+                "type": "Choice",
+                "text": "Actually, it energizes me!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_02_5"
+            },
+            {
+                "id": "d_counseling_centi_02_4",
+                "type": "Choice",
+                "text": "It is like a lullaby to me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_02_8"
+            },
+            {
+                "id": "d_counseling_centi_02_5",
+                "type": "Speech",
+                "text": "Really?!\nWell, I know I really make a lot of noise.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_02_6",
+                "type": "Speech",
+                "text": "So, I'm glad it gives you energy!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_02_7",
+                "type": "Speech",
+                "text": "Maybe I should talk this loud all the time!!!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_02_10"
+            },
+            {
+                "id": "d_counseling_centi_02_8",
+                "type": "Speech",
+                "text": "Seriously?!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_02_9",
+                "type": "Speech",
+                "text": "I'm afraid you might need to see a doctor!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_02_10",
+                "type": "Narration",
+                "text": "I have a conversation with Centi about appropriate chatting volume.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_03_1",
+                "type": "Speech",
+                "text": "I'm trying to come up with a new architectural design!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_03_2",
+                "type": "Speech",
+                "text": "What do you think? Should design be practical and plain...",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_03_3",
+                "type": "Speech",
+                "text": "Or fancy, if a little inconvenient?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_03_4",
+                "type": "Speech",
+                "text": "I just can't make up my mind!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_03_5",
+                "type": "Choice",
+                "text": "Why not practical AND fancy?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_03_7"
+            },
+            {
+                "id": "d_counseling_centi_03_6",
+                "type": "Choice",
+                "text": "If you can't decide, just build two buildings!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_03_9"
+            },
+            {
+                "id": "d_counseling_centi_03_7",
+                "type": "Speech",
+                "text": "No way!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_03_8",
+                "type": "Speech",
+                "text": "If that was a possibility, I wouldn't be in this pickle in the first place!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_03_12"
+            },
+            {
+                "id": "d_counseling_centi_03_9",
+                "type": "Speech",
+                "text": "Yeah! You're right!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_03_10",
+                "type": "Speech",
+                "text": "I've got the time! I've got the materials!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_03_11",
+                "type": "Speech",
+                "text": "I'll just build two!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_03_12",
+                "type": "Narration",
+                "text": "I look over some designs with Centi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_04_1",
+                "type": "Speech",
+                "text": "I love building!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_04_2",
+                "type": "Speech",
+                "text": "But, space here is so limited!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_04_3",
+                "type": "Speech",
+                "text": "I'm terrified I'll run out of spots to build on before long!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_04_4",
+                "type": "Choice",
+                "text": "We'll take back the surface soon!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_04_6"
+            },
+            {
+                "id": "d_counseling_centi_04_5",
+                "type": "Choice",
+                "text": "If that happens, just tear it all down and start over!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_04_9"
+            },
+            {
+                "id": "d_counseling_centi_04_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_04_7",
+                "type": "Speech",
+                "text": "That's the coolest thing you've ever said, Boss!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_04_8",
+                "type": "Speech",
+                "text": "It may just be big talk, but it still sounds so cool!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_04_12"
+            },
+            {
+                "id": "d_counseling_centi_04_9",
+                "type": "Speech",
+                "text": "I would never tear down something I built myself!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_04_10",
+                "type": "Speech",
+                "text": "My buildings are like my children!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_04_11",
+                "type": "Speech",
+                "text": "I could never do that to them!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_04_12",
+                "type": "Narration",
+                "text": "I learn a lot about the building zones from Centi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_05_1",
+                "type": "Speech",
+                "text": "One time, my hammer broke and we had to stop working for a while!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_05_2",
+                "type": "Speech",
+                "text": "Because of that delay, we couldn't finish the building according to schedule!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_05_3",
+                "type": "Speech",
+                "text": "A building schedule is like a promise!\nI can't go around breaking my promises!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_05_4",
+                "type": "Choice",
+                "text": "Bad things happen from time to time!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_05_6"
+            },
+            {
+                "id": "d_counseling_centi_05_5",
+                "type": "Choice",
+                "text": "A good builder does not blame their tools!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_05_9"
+            },
+            {
+                "id": "d_counseling_centi_05_6",
+                "type": "Speech",
+                "text": "I didn't come to you for comforting words, Boss!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_05_7",
+                "type": "Speech",
+                "text": "I'm gonna keep working hard and do my best!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_05_8",
+                "type": "Speech",
+                "text": "Boss! Are you telling me I'm not good enough?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_05_12"
+            },
+            {
+                "id": "d_counseling_centi_05_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_05_10",
+                "type": "Speech",
+                "text": "Oh, I got it!\nWhat you meant was: where there's a will, there's a way!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_05_11",
+                "type": "Speech",
+                "text": "Ok! Next time my hammer breaks, I'll keep hammering with my fists!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_05_12",
+                "type": "Narration",
+                "text": "I discuss the importance of tools with Centi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_06_1",
+                "type": "Speech",
+                "text": "If I don't eat regularly, I will have no strength to work!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_06_2",
+                "type": "Speech",
+                "text": "But to eat three meals a day, I have to stop working three times a day!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_06_3",
+                "type": "Speech",
+                "text": "This really bothers me!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_06_4",
+                "type": "Choice",
+                "text": "Just eat a day's worth of food at once!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_06_6"
+            },
+            {
+                "id": "d_counseling_centi_06_5",
+                "type": "Choice",
+                "text": "Just eat and work at the same time!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_06_9"
+            },
+            {
+                "id": "d_counseling_centi_06_6",
+                "type": "Speech",
+                "text": "Whoa! Good idea!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_06_7",
+                "type": "Speech",
+                "text": "I'll try it tomorrow!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_06_8",
+                "type": "Speech",
+                "text": "Better yet, I could eat a whole month's worth of food at once!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_06_12"
+            },
+            {
+                "id": "d_counseling_centi_06_9",
+                "type": "Speech",
+                "text": "No! That's dangerous!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_06_10",
+                "type": "Speech",
+                "text": "You can't get distracted when you work!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_06_11",
+                "type": "Speech",
+                "text": "One wrong step and you'd be in a heap of trouble!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_06_12",
+                "type": "Narration",
+                "text": "I have a conversation with Centi about the importance of eating.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_07_1",
+                "type": "Speech",
+                "text": "Liter is so small!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_07_2",
+                "type": "Speech",
+                "text": "I just want to pat her on her little head!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_07_3",
+                "type": "Speech",
+                "text": "But she would kill me if I did!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_07_4",
+                "type": "Choice",
+                "text": "Are you afraid of death!?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_07_6"
+            },
+            {
+                "id": "d_counseling_centi_07_5",
+                "type": "Choice",
+                "text": "Don't worry! She wears a helmet!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_07_8"
+            },
+            {
+                "id": "d_counseling_centi_07_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_07_7",
+                "type": "Speech",
+                "text": "Life is the most important thing in the world.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_07_11"
+            },
+            {
+                "id": "d_counseling_centi_07_8",
+                "type": "Speech",
+                "text": "Huh! You're right!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_07_9",
+                "type": "Speech",
+                "text": "I'll give it a try!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_07_10",
+                "type": "Speech",
+                "text": "Before long, I'm gonna wear a hole in her little helmet!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_07_11",
+                "type": "Narration",
+                "text": "I have a conversation about Liter with Centi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_08_1",
+                "type": "Speech",
+                "text": "I freaking love vehicles!\n I wanna get one!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_08_2",
+                "type": "Speech",
+                "text": "I just can't decide between a motorcycle or a truck!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_08_3",
+                "type": "Speech",
+                "text": "Can you pick one for me?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_08_4",
+                "type": "Choice",
+                "text": "A truck!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_08_6"
+            },
+            {
+                "id": "d_counseling_centi_08_5",
+                "type": "Choice",
+                "text": "A motorcycle!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_08_9"
+            },
+            {
+                "id": "d_counseling_centi_08_6",
+                "type": "Speech",
+                "text": "Yeah, Boss! I think you've got the right idea!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_08_7",
+                "type": "Speech",
+                "text": "Just think of all the stuff I could fit in there!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_08_8",
+                "type": "Speech",
+                "text": "I wonder why some people just don't seem to appreciate trucks!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_08_12"
+            },
+            {
+                "id": "d_counseling_centi_08_9",
+                "type": "Speech",
+                "text": "Really? Come to think of it, motorcycles can't carry very many tools!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_08_10",
+                "type": "Speech",
+                "text": "I couldn't take Liter with me, either!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_08_11",
+                "type": "Speech",
+                "text": "So, no motorcycles for me!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_08_12",
+                "type": "Narration",
+                "text": "I talk about driving routes with Centi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_09_1",
+                "type": "Speech",
+                "text": "Safety is important!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_09_2",
+                "type": "Speech",
+                "text": "But, putting safety first means I have to work slower!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_09_3",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_09_4",
+                "type": "Choice",
+                "text": "Adjust the project schedule!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_09_6"
+            },
+            {
+                "id": "d_counseling_centi_09_5",
+                "type": "Choice",
+                "text": "No matter what, safety always comes first!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_09_8"
+            },
+            {
+                "id": "d_counseling_centi_09_6",
+                "type": "Speech",
+                "text": "I'll stick to the schedule even if it kills me!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_09_7",
+                "type": "Speech",
+                "text": "I will follow it no matter what!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_09_11"
+            },
+            {
+                "id": "d_counseling_centi_09_8",
+                "type": "Speech",
+                "text": "You're right!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_09_9",
+                "type": "Speech",
+                "text": "It may take longer, but it's the right thing to do!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_09_10",
+                "type": "Speech",
+                "text": "Safety first! Right?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_09_11",
+                "type": "Narration",
+                "text": "I have a conversation with Centi about the importance of the project schedule.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_10_1",
+                "type": "Speech",
+                "text": "I've been to the Outer Rim!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_10_2",
+                "type": "Speech",
+                "text": "It's no wonderland, let me tell you! The environment is terrible!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_10_3",
+                "type": "Speech",
+                "text": "I want to help them, but I don't know what to do!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_10_4",
+                "type": "Choice",
+                "text": "Give them moral support!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_10_6"
+            },
+            {
+                "id": "d_counseling_centi_10_5",
+                "type": "Choice",
+                "text": "Rebuild the whole Outer Rim!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_10_8"
+            },
+            {
+                "id": "d_counseling_centi_10_6",
+                "type": "Speech",
+                "text": "But that won't improve the environment at all!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_10_7",
+                "type": "Speech",
+                "text": "They need houses and utilities, not encouragement!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_10_11"
+            },
+            {
+                "id": "d_counseling_centi_10_8",
+                "type": "Speech",
+                "text": "Copy that!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_10_9",
+                "type": "Speech",
+                "text": "It'll take a long time and a whole lot of money!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_10_10",
+                "type": "Speech",
+                "text": "But, I'll get it done someday!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_10_11",
+                "type": "Narration",
+                "text": "Centi tells me more about the Outer Rim.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_11_1",
+                "type": "Speech",
+                "text": "I still feel really awkward with Volt!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_11_2",
+                "type": "Speech",
+                "text": "I'm struggling to find ways to get close to him!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_11_3",
+                "type": "Choice",
+                "text": "Give him lots of treats!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_11_5"
+            },
+            {
+                "id": "d_counseling_centi_11_4",
+                "type": "Choice",
+                "text": "Take him out for walks every day!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_11_7"
+            },
+            {
+                "id": "d_counseling_centi_11_5",
+                "type": "Speech",
+                "text": "If I give him too many treats, I'll be in hot water with Liter!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_11_6",
+                "type": "Speech",
+                "text": "And Volt doesn't eat the treats I give him...",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_11_11"
+            },
+            {
+                "id": "d_counseling_centi_11_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_11_8",
+                "type": "Speech",
+                "text": "That's a good idea!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_11_9",
+                "type": "Speech",
+                "text": "I'm going to take him out for a walk tomorrow on Liter's behalf!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_11_10",
+                "type": "Speech",
+                "text": "I'll also bring his favorite toys!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_11_11",
+                "type": "Narration",
+                "text": "Centi and I look into ways of how she can get closer to Volt.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_12_1",
+                "type": "Speech",
+                "text": "I'm planning on buying a new toolbox,",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_12_2",
+                "type": "Speech",
+                "text": "but I'm not sure what color I want to get.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_12_3",
+                "type": "Choice",
+                "text": "Orange.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_12_5"
+            },
+            {
+                "id": "d_counseling_centi_12_4",
+                "type": "Choice",
+                "text": "Grey.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_12_7"
+            },
+            {
+                "id": "d_counseling_centi_12_5",
+                "type": "Speech",
+                "text": "I don't know, that might be a bit too garish...",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_12_6",
+                "type": "Speech",
+                "text": "I want to try my best to avoid bright colors.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_12_10"
+            },
+            {
+                "id": "d_counseling_centi_12_7",
+                "type": "Speech",
+                "text": "Nice! That'll complement my clothes perfectly.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_12_8",
+                "type": "Speech",
+                "text": "It'll also be harder to see any scuff marks on it.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_12_9",
+                "type": "Speech",
+                "text": "It's settled then! Grey it is!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_12_10",
+                "type": "Narration",
+                "text": "Centi and I searched for the ideal toolbox.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_13_1",
+                "type": "Speech",
+                "text": "I dreamt that Mighty Tools won this year's architectural award.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_13_2",
+                "type": "Speech",
+                "text": "The dream was so vivid, I'm still replaying it in my mind!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_13_3",
+                "type": "Choice",
+                "text": "That was no dream, that was a vision!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_13_5"
+            },
+            {
+                "id": "d_counseling_centi_13_4",
+                "type": "Choice",
+                "text": "Congratulations!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_13_8"
+            },
+            {
+                "id": "d_counseling_centi_13_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_13_6",
+                "type": "Speech",
+                "text": "No kidding! I hope it comes true.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_13_7",
+                "type": "Speech",
+                "text": "If Liter and I won an award, I'd be over the moon!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_13_10"
+            },
+            {
+                "id": "d_counseling_centi_13_8",
+                "type": "Speech",
+                "text": "It was only a dream, but thanks regardless.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_13_9",
+                "type": "Speech",
+                "text": "I just hope it comes true in real life.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_13_10",
+                "type": "Narration",
+                "text": "I help Centi prepare an acceptance speech for the awards ceremony.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_14_1",
+                "type": "Speech",
+                "text": "It's such a pain working in the rain!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_14_2",
+                "type": "Speech",
+                "text": "I only have two hands, so I can't hold an umbrella.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_14_3",
+                "type": "Choice",
+                "text": "Wear a raincoat while you're working.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_14_5"
+            },
+            {
+                "id": "d_counseling_centi_14_4",
+                "type": "Choice",
+                "text": "Take a break whenever it starts raining.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_14_8"
+            },
+            {
+                "id": "d_counseling_centi_14_5",
+                "type": "Speech",
+                "text": "That's genius!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_14_6",
+                "type": "Speech",
+                "text": "Why didn't I think of that?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_14_7",
+                "type": "Speech",
+                "text": "I'll just slip on a raincoat whenever it rains.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_14_10"
+            },
+            {
+                "id": "d_counseling_centi_14_8",
+                "type": "Speech",
+                "text": "Absolutely not!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_14_9",
+                "type": "Speech",
+                "text": "If I rested every time it rained, I'd be way behind schedule!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_14_10",
+                "type": "Narration",
+                "text": "Centi and I vent about what a hindrance rain can be.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_15_1",
+                "type": "Speech",
+                "text": "Say, do you ever listen to music when you're working?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_15_2",
+                "type": "Speech",
+                "text": "Apparently it's supposed to make you more productive.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_15_3",
+                "type": "Speech",
+                "text": "Soooo, I'm wondering what kind of music I should listen to while I work.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_15_4",
+                "type": "Choice",
+                "text": "Crank some hip-hop and hammer along to the beat.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_15_6"
+            },
+            {
+                "id": "d_counseling_centi_15_5",
+                "type": "Choice",
+                "text": "Blast some rock music to raise the tempo.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_15_8"
+            },
+            {
+                "id": "d_counseling_centi_15_6",
+                "type": "Speech",
+                "text": "Oooh, that sounds exciting!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_15_7",
+                "type": "Speech",
+                "text": "Just me, my body, and the rhythm!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_15_10"
+            },
+            {
+                "id": "d_counseling_centi_15_8",
+                "type": "Speech",
+                "text": "When it comes to construction, it's dangerous to rush things!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_15_9",
+                "type": "Speech",
+                "text": "I'll have to listen to something else.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_15_10",
+                "type": "Narration",
+                "text": "Centi and I think about what kind of music she should listen to while working.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_16_1",
+                "type": "Speech",
+                "text": "I can't imagine life without Liter.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_16_2",
+                "type": "Speech",
+                "text": "I'm worried I'll be useless without her.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_16_3",
+                "type": "Choice",
+                "text": "You're perfectly capable of solving problems on your own.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_16_5"
+            },
+            {
+                "id": "d_counseling_centi_16_4",
+                "type": "Choice",
+                "text": "Don't worry too much about things that haven't even happened yet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_16_8"
+            },
+            {
+                "id": "d_counseling_centi_16_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_16_6",
+                "type": "Speech",
+                "text": "It's a relief to hear you say that.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_16_7",
+                "type": "Speech",
+                "text": "I'll try to improve myself more in the meantime!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_16_11"
+            },
+            {
+                "id": "d_counseling_centi_16_8",
+                "type": "Speech",
+                "text": "You're right!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_16_9",
+                "type": "Speech",
+                "text": "Liter isn't going anywhere, not for now at least!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_16_10",
+                "type": "Speech",
+                "text": "I just get in my own head too much when I'm alone.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_16_11",
+                "type": "Narration",
+                "text": "I have a conversation with Centi about Liter.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_17_1",
+                "type": "Speech",
+                "text": "Boss, what do you normally do during your free time?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_17_2",
+                "type": "Choice",
+                "text": "Anything to improve me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_17_4"
+            },
+            {
+                "id": "d_counseling_centi_17_3",
+                "type": "Choice",
+                "text": "Read.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_17_7"
+            },
+            {
+                "id": "d_counseling_centi_17_4",
+                "type": "Speech",
+                "text": "You too?!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_17_5",
+                "type": "Speech",
+                "text": "That's really impressive!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_17_6",
+                "type": "Speech",
+                "text": "I study architecture whenever I've got a spare minute.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_17_11"
+            },
+            {
+                "id": "d_counseling_centi_17_7",
+                "type": "Speech",
+                "text": "Oh, cool!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_17_8",
+                "type": "Speech",
+                "text": "I zonk out as soon as I open a book, so I'm no bookworm.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_17_9",
+                "type": "Speech",
+                "text": "How do you do it?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_17_10",
+                "type": "Speech",
+                "text": "Just the idea of going through an entire book makes me drowsy.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_17_11",
+                "type": "Narration",
+                "text": "Centi and I talk about what we do in our spare time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_18_1",
+                "type": "Speech",
+                "text": "Boss, do you like crowded places?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_18_2",
+                "type": "Speech",
+                "text": "Or do you prefer places with fewer people around?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_18_3",
+                "type": "Choice",
+                "text": "Crowded places.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_18_5"
+            },
+            {
+                "id": "d_counseling_centi_18_4",
+                "type": "Choice",
+                "text": "Empty places.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_18_8"
+            },
+            {
+                "id": "d_counseling_centi_18_5",
+                "type": "Speech",
+                "text": "You like crowded places too?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_18_6",
+                "type": "Speech",
+                "text": "You're the same as me!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_18_7",
+                "type": "Speech",
+                "text": "Whenever I see crowds of people visiting the buildings I've constructed, I feel a sense of pride.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_18_11"
+            },
+            {
+                "id": "d_counseling_centi_18_8",
+                "type": "Speech",
+                "text": "So you prefer silence over the hustle and bustle?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_18_9",
+                "type": "Speech",
+                "text": "I'd be bored out of my gourd if there was no one else around.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_18_10",
+                "type": "Speech",
+                "text": "Not to mention that I'd be out of a job!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_18_11",
+                "type": "Narration",
+                "text": "Centi and I have a nice heart-to-heart.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_19_1",
+                "type": "Speech",
+                "text": "Lifetime job security is a thing of the past.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_19_2",
+                "type": "Speech",
+                "text": "The idea that my job might disappear one day really bums me out.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_19_3",
+                "type": "Choice",
+                "text": "I'm pretty sure our jobs are safe.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_19_5"
+            },
+            {
+                "id": "d_counseling_centi_19_4",
+                "type": "Choice",
+                "text": "I'm doing some job hunting on the side myself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_19_8"
+            },
+            {
+                "id": "d_counseling_centi_19_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_19_6",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_19_7",
+                "type": "Speech",
+                "text": "That's a relief! I like this job!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_19_11"
+            },
+            {
+                "id": "d_counseling_centi_19_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_19_9",
+                "type": "Speech",
+                "text": "What?! Why would you do that?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_19_10",
+                "type": "Speech",
+                "text": "This is the perfect job for you already!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_19_11",
+                "type": "Narration",
+                "text": "Centi and I have a conversation about jobs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_centi_20_1",
+                "type": "Speech",
+                "text": "Boss, do you believe in superstition?",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_20_2",
+                "type": "Speech",
+                "text": "For me, if my shoelaces are untied before I head out, the rest of the day is all downhill from there.",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_20_3",
+                "type": "Speech",
+                "text": "There's got to be some way around this...",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_20_4",
+                "type": "Choice",
+                "text": "Just don't overthink things and keep working.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_centi_20_6"
+            },
+            {
+                "id": "d_counseling_centi_20_5",
+                "type": "Choice",
+                "text": "Wear shoes without laces.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_centi_20_8"
+            },
+            {
+                "id": "d_counseling_centi_20_6",
+                "type": "Speech",
+                "text": "I try not to think about it, but it keeps popping up in my head!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_20_7",
+                "type": "Speech",
+                "text": "I've got to think of a way to get rid of this bad luck!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": "d_counseling_centi_20_11"
+            },
+            {
+                "id": "d_counseling_centi_20_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_20_9",
+                "type": "Speech",
+                "text": "Shoes without laces!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_20_10",
+                "type": "Speech",
+                "text": "That's genius! I'll go buy some right now!",
+                "speaker": "Centi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_centi_20_11",
+                "type": "Narration",
+                "text": "Centi and I talk more about various superstitions.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

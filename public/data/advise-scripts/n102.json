@@ -1,0 +1,1925 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_n102_01_1",
+                "type": "Speech",
+                "text": "Teacher! Let's eat together!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_01_2",
+                "type": "Speech",
+                "text": "What are you in the mood for?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_01_3",
+                "type": "Choice",
+                "text": "Mild croquettes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_01_5"
+            },
+            {
+                "id": "d_counseling_n102_01_4",
+                "type": "Choice",
+                "text": "Spicy croquettes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_01_7"
+            },
+            {
+                "id": "d_counseling_n102_01_5",
+                "type": "Speech",
+                "text": "I love those!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_01_6",
+                "type": "Speech",
+                "text": "I could eat them every day.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_01_9"
+            },
+            {
+                "id": "d_counseling_n102_01_7",
+                "type": "Speech",
+                "text": "Um... I can't really eat spicy food.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_01_8",
+                "type": "Speech",
+                "text": "But, if you're there with me, it should be okay.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_01_9",
+                "type": "Narration",
+                "text": "I eat croquettes with N102.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_02_1",
+                "type": "Speech",
+                "text": "Teacher, my head is killing me.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_02_2",
+                "type": "Speech",
+                "text": "It's throbbing...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_02_3",
+                "type": "Speech",
+                "text": "D-do you think there's something wrong with me?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_02_4",
+                "type": "Choice",
+                "text": "Let me take you to the hospital.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_02_6"
+            },
+            {
+                "id": "d_counseling_n102_02_5",
+                "type": "Choice",
+                "text": "Let me feel your forehead.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_02_9"
+            },
+            {
+                "id": "d_counseling_n102_02_6",
+                "type": "Speech",
+                "text": "H-hospital?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_02_7",
+                "type": "Speech",
+                "text": "I-I'm okay. I feel a lot better now.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_02_8",
+                "type": "Speech",
+                "text": "Hee hee...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_02_12"
+            },
+            {
+                "id": "d_counseling_n102_02_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_02_10",
+                "type": "Speech",
+                "text": "It feels really nice when you touch my forehead. I feel better already.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_02_11",
+                "type": "Speech",
+                "text": "Thanks!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_02_12",
+                "type": "Narration",
+                "text": "I observe N102's condition for a while longer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_03_1",
+                "type": "Speech",
+                "text": "While I was on my way here, someone seemed to recognize me.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_03_2",
+                "type": "Speech",
+                "text": "But, I'd never met them before! I have no memory of them.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_03_3",
+                "type": "Speech",
+                "text": "Do... do you think I did something wrong?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_03_4",
+                "type": "Choice",
+                "text": "No. I'm sure they were just mistaken.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_03_6"
+            },
+            {
+                "id": "d_counseling_n102_03_5",
+                "type": "Choice",
+                "text": "If you see that person later, you should apologize.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_03_9"
+            },
+            {
+                "id": "d_counseling_n102_03_6",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_03_7",
+                "type": "Speech",
+                "text": "They seemed so happy to see me.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_03_8",
+                "type": "Speech",
+                "text": "Well... if you say so, then I'm sure that's the case.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_03_12"
+            },
+            {
+                "id": "d_counseling_n102_03_9",
+                "type": "Speech",
+                "text": "Yes, I will.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_03_10",
+                "type": "Speech",
+                "text": "But...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_03_11",
+                "type": "Speech",
+                "text": "I've already forgotten what they look like.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_03_12",
+                "type": "Narration",
+                "text": "I spend some quiet time together with N102.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_04_1",
+                "type": "Speech",
+                "text": "Teacher, they've come out with jalape\u00f1o croquettes!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_2",
+                "type": "Speech",
+                "text": "I thought it was too spicy before, but I'm going to give it another try!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_3",
+                "type": "Speech",
+                "text": "...?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_4",
+                "type": "Speech",
+                "text": "Wait, have I ever tried jalape\u00f1o croquettes before?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_5",
+                "type": "Choice",
+                "text": "We've had them together before.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_04_7"
+            },
+            {
+                "id": "d_counseling_n102_04_6",
+                "type": "Choice",
+                "text": "How could you have? They were only added to the menu today.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_04_10"
+            },
+            {
+                "id": "d_counseling_n102_04_7",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_8",
+                "type": "Speech",
+                "text": "I'm sorry. I can't seem to remember anything.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_9",
+                "type": "Speech",
+                "text": "N-next time I won't forget!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_04_13"
+            },
+            {
+                "id": "d_counseling_n102_04_10",
+                "type": "Speech",
+                "text": "I guess that makes sense...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_11",
+                "type": "Speech",
+                "text": "Ha ha, maybe I dreamt about it because I was so excited!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_12",
+                "type": "Speech",
+                "text": "Let's go!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_04_13",
+                "type": "Narration",
+                "text": "I spend time eating croquettes with N102.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_05_1",
+                "type": "Speech",
+                "text": "I want to go up to the surface as well.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_05_2",
+                "type": "Speech",
+                "text": "All of that wide-open space, and the sky doesn't even crackle.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_05_3",
+                "type": "Speech",
+                "text": "And I want to see the ocean!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_05_4",
+                "type": "Choice",
+                "text": "Okay. Let's go together sometime soon.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_05_6"
+            },
+            {
+                "id": "d_counseling_n102_05_5",
+                "type": "Choice",
+                "text": "You went there yesterday.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_05_9"
+            },
+            {
+                "id": "d_counseling_n102_05_6",
+                "type": "Speech",
+                "text": "Okie-dokie!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_05_7",
+                "type": "Speech",
+                "text": "But, I'll need a swimsuit to go into the ocean, won't I?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_05_8",
+                "type": "Speech",
+                "text": "What kind of swimsuit do you think I should get?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_05_12"
+            },
+            {
+                "id": "d_counseling_n102_05_9",
+                "type": "Speech",
+                "text": "What?!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_05_10",
+                "type": "Speech",
+                "text": "No way!\nI've been underground ever since I was born!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_05_11",
+                "type": "Speech",
+                "text": "... Oh! Teacher!\nYou're just teasing me, aren't you?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_05_12",
+                "type": "Narration",
+                "text": "I have a conversation with N102 about the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_06_1",
+                "type": "Speech",
+                "text": "It's going to rain tomorrow!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_06_2",
+                "type": "Speech",
+                "text": "Don't forget your umbrella!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_06_3",
+                "type": "Speech",
+                "text": "As for me, I'm gonna let myself get caught in the rain.\nI've never been drenched by the rain before!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_06_4",
+                "type": "Choice",
+                "text": "Getting wet is not a good feeling.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_06_6"
+            },
+            {
+                "id": "d_counseling_n102_06_5",
+                "type": "Choice",
+                "text": "You'll catch a cold.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_06_8"
+            },
+            {
+                "id": "d_counseling_n102_06_6",
+                "type": "Speech",
+                "text": "Well, that's what you say.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_06_7",
+                "type": "Speech",
+                "text": "But I still want to see how it feels for myself.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_06_11"
+            },
+            {
+                "id": "d_counseling_n102_06_8",
+                "type": "Speech",
+                "text": "Ha ha! I'll be fine.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_06_9",
+                "type": "Speech",
+                "text": "Can I tell you a secret? I've never caught a cold before.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_06_10",
+                "type": "Speech",
+                "text": "Come to think of it, I've never been sick, period! So, it'll be fine.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_06_11",
+                "type": "Narration",
+                "text": "I have a conversation with N102 about the weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_07_1",
+                "type": "Speech",
+                "text": "Teacher, do I look like a celebrity or something?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_07_2",
+                "type": "Speech",
+                "text": "All of these people seem to recognize me.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_07_3",
+                "type": "Speech",
+                "text": "But, I've never seen them before in my life!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_07_4",
+                "type": "Choice",
+                "text": "Maybe you've got an irresistible star quality to you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_07_6"
+            },
+            {
+                "id": "d_counseling_n102_07_5",
+                "type": "Choice",
+                "text": "Actually, you do resemble this one celebrity...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_07_9"
+            },
+            {
+                "id": "d_counseling_n102_07_6",
+                "type": "Speech",
+                "text": "Um... Teacher... you shouldn't say stuff like that...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_07_7",
+                "type": "Speech",
+                "text": "It's a little... embarrassing.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_07_8",
+                "type": "Speech",
+                "text": "But... it makes me feel good at the same time! Hee hee.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_07_12"
+            },
+            {
+                "id": "d_counseling_n102_07_9",
+                "type": "Speech",
+                "text": "I do?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_07_10",
+                "type": "Speech",
+                "text": "Wow! I hope I get to meet them!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_07_11",
+                "type": "Speech",
+                "text": "I bet we'd surprise the heck out of each other!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_07_12",
+                "type": "Narration",
+                "text": "I have a conversation with N102 about TV shows.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_08_1",
+                "type": "Speech",
+                "text": "Um...\nUmmm...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_2",
+                "type": "Speech",
+                "text": "This show I'm watching has a male protagonist with amnesia, and he was getting mad at the female protagonist.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_3",
+                "type": "Speech",
+                "text": "I felt so bad for them both.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_4",
+                "type": "Choice",
+                "text": "That's a very sad story.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_08_6"
+            },
+            {
+                "id": "d_counseling_n102_08_5",
+                "type": "Choice",
+                "text": "What's so sad about it?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_08_9"
+            },
+            {
+                "id": "d_counseling_n102_08_6",
+                "type": "Speech",
+                "text": "That's how I felt.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_7",
+                "type": "Speech",
+                "text": "If I ever got amnesia,",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_8",
+                "type": "Speech",
+                "text": "I don't know what I'd do.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_08_13"
+            },
+            {
+                "id": "d_counseling_n102_08_9",
+                "type": "Speech",
+                "text": "You really don't think it's sad?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_10",
+                "type": "Self",
+                "text": "No, because they're working together to rebuild what they lost.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_11",
+                "type": "Speech",
+                "text": "... Really?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_12",
+                "type": "Speech",
+                "text": "I'm not sure why, but I think I get it. Kind of.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_08_13",
+                "type": "Narration",
+                "text": "I have a conversation with N102 about her favorite shows.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_09_1",
+                "type": "Speech",
+                "text": "Teacher, have you ever been to Royal Road?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_09_2",
+                "type": "Speech",
+                "text": "I heard everything there is so shiny, and there's people all around.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_09_3",
+                "type": "Speech",
+                "text": "And they also have a croquette store!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_09_4",
+                "type": "Choice",
+                "text": "Do you want to go together?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_09_6"
+            },
+            {
+                "id": "d_counseling_n102_09_5",
+                "type": "Choice",
+                "text": "We go to that croquette store all the time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_09_9"
+            },
+            {
+                "id": "d_counseling_n102_09_6",
+                "type": "Speech",
+                "text": "Sure!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_09_7",
+                "type": "Speech",
+                "text": "I love croquettes!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_09_8",
+                "type": "Speech",
+                "text": "I'm curious what flavors they have!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_09_12"
+            },
+            {
+                "id": "d_counseling_n102_09_9",
+                "type": "Speech",
+                "text": "Huh? What?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_09_10",
+                "type": "Speech",
+                "text": "Teacher, you're not making any sense.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_09_11",
+                "type": "Speech",
+                "text": "I've never been to a croquette store with you.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_09_12",
+                "type": "Narration",
+                "text": "I go to the croquette store with N102.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_10_1",
+                "type": "Speech",
+                "text": "Teacher, I just found out what a squad is.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_10_2",
+                "type": "Speech",
+                "text": "It's a group of teammates who work together on missions.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_10_3",
+                "type": "Speech",
+                "text": "Do you think I'll ever be part of a squad like that one day?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_10_4",
+                "type": "Choice",
+                "text": "It will happen someday.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_10_6"
+            },
+            {
+                "id": "d_counseling_n102_10_5",
+                "type": "Choice",
+                "text": "We already are a squad.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_10_9"
+            },
+            {
+                "id": "d_counseling_n102_10_6",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_10_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_10_8",
+                "type": "Speech",
+                "text": "Teammates... I'd like that.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_10_12"
+            },
+            {
+                "id": "d_counseling_n102_10_9",
+                "type": "Speech",
+                "text": "Hey, you're right!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_10_10",
+                "type": "Speech",
+                "text": "We're a squad, too!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_10_11",
+                "type": "Speech",
+                "text": "Hee hee. So, I already have teammates of my very own!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_10_12",
+                "type": "Narration",
+                "text": "I explain our squad to N102 in detail.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_11_1",
+                "type": "Speech",
+                "text": "Can I ask you, what kind of music do you like?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_2",
+                "type": "Speech",
+                "text": "I'm utterly clueless when it comes to music.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_3",
+                "type": "Speech",
+                "text": "I'd love to hear your recommendations.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_4",
+                "type": "Choice",
+                "text": "Hum the tune for her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_11_6"
+            },
+            {
+                "id": "d_counseling_n102_11_5",
+                "type": "Choice",
+                "text": "Simply say the title of the song.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_11_10"
+            },
+            {
+                "id": "d_counseling_n102_11_6",
+                "type": "Speech",
+                "text": "Wow...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_7",
+                "type": "Speech",
+                "text": "It's a beautiful song.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_8",
+                "type": "Speech",
+                "text": "You have a lovely singing voice as well.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_9",
+                "type": "Speech",
+                "text": "This is my new favorite song!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_11_13"
+            },
+            {
+                "id": "d_counseling_n102_11_10",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_11",
+                "type": "Speech",
+                "text": "The title alone doesn't give me much to go on...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_12",
+                "type": "Speech",
+                "text": "Either way, I'll give it a listen later!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_11_13",
+                "type": "Narration",
+                "text": "N102 and I talk about our favorite songs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_12_1",
+                "type": "Speech",
+                "text": "This is the first time we're really spoken one-on-one!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_12_2",
+                "type": "Speech",
+                "text": "So, what are we supposed to talk about?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_12_3",
+                "type": "Choice",
+                "text": "Anything you want.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_12_5"
+            },
+            {
+                "id": "d_counseling_n102_12_4",
+                "type": "Choice",
+                "text": "If you're comfortable with it, you can share any concerns you have with me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_12_8"
+            },
+            {
+                "id": "d_counseling_n102_12_5",
+                "type": "Speech",
+                "text": "Let me think...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_12_6",
+                "type": "Speech",
+                "text": "Anything at all?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_12_7",
+                "type": "Speech",
+                "text": "All right, I'll tell you how my day went!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_12_10"
+            },
+            {
+                "id": "d_counseling_n102_12_8",
+                "type": "Speech",
+                "text": "Hmm... Nothing's really on my mind right now...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_12_9",
+                "type": "Speech",
+                "text": "Should I be concerned about something?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_12_10",
+                "type": "Narration",
+                "text": "N102 and I have a wonderful time getting to know each other better.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_13_1",
+                "type": "Speech",
+                "text": "I'm dying to go play the claw machines.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_13_2",
+                "type": "Speech",
+                "text": "Can I, teacher? Can I?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_13_3",
+                "type": "Choice",
+                "text": "We'll go after we're done talking.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_13_5"
+            },
+            {
+                "id": "d_counseling_n102_13_4",
+                "type": "Choice",
+                "text": "Let's finish talking first, then we'll see.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_13_8"
+            },
+            {
+                "id": "d_counseling_n102_13_5",
+                "type": "Speech",
+                "text": "Wow!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_13_6",
+                "type": "Speech",
+                "text": "You'll come with me?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_13_7",
+                "type": "Speech",
+                "text": "All right then, let's hurry and get this over with!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_13_11"
+            },
+            {
+                "id": "d_counseling_n102_13_8",
+                "type": "Speech",
+                "text": "Aw man... I can't afford to be late...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_13_9",
+                "type": "Speech",
+                "text": "Let's hurry and get this over with then!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_13_11",
+                "type": "Narration",
+                "text": "N102 and I have another meaningful conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_14_1",
+                "type": "Speech",
+                "text": "I went to the library for the first time today.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_14_2",
+                "type": "Speech",
+                "text": "They said there was a book that was borrowed under my name!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_14_3",
+                "type": "Speech",
+                "text": "What could have happened?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_14_4",
+                "type": "Choice",
+                "text": "You must have borrowed a book once before.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_14_6"
+            },
+            {
+                "id": "d_counseling_n102_14_5",
+                "type": "Choice",
+                "text": "There's someone out there with the same name as you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_14_9"
+            },
+            {
+                "id": "d_counseling_n102_14_6",
+                "type": "Speech",
+                "text": "Huh? Really?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_14_7",
+                "type": "Speech",
+                "text": "But today was my first time going to the library.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_14_8",
+                "type": "Speech",
+                "text": "There must have been some kind of mistake.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_14_12"
+            },
+            {
+                "id": "d_counseling_n102_14_9",
+                "type": "Speech",
+                "text": "Whoa!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_14_10",
+                "type": "Speech",
+                "text": "Someone with the same name as me!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_14_11",
+                "type": "Speech",
+                "text": "I'd like to meet them someday.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_14_12",
+                "type": "Narration",
+                "text": "N102 and I have a conversation about the library.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_15_1",
+                "type": "Speech",
+                "text": "Teacher, I made a friend!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_15_2",
+                "type": "Speech",
+                "text": "We agreed to have some ice cream together next time we meet.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_15_3",
+                "type": "Speech",
+                "text": "I can't wait!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_15_4",
+                "type": "Choice",
+                "text": "Which shop are you meeting at?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_15_6"
+            },
+            {
+                "id": "d_counseling_n102_15_5",
+                "type": "Choice",
+                "text": "Can I tag along?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_15_9"
+            },
+            {
+                "id": "d_counseling_n102_15_6",
+                "type": "Speech",
+                "text": "Hehe. It's a secret.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_15_7",
+                "type": "Speech",
+                "text": "My friend said it's a popular restaurant that's not easy to find.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_15_8",
+                "type": "Speech",
+                "text": "I'll go scope it out and if it's delicious, I'll let you know.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_15_12"
+            },
+            {
+                "id": "d_counseling_n102_15_9",
+                "type": "Speech",
+                "text": "Oh wow, I'd love it if you came with us!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_15_10",
+                "type": "Speech",
+                "text": "I'm sure you'll get along with my friend as well.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_15_11",
+                "type": "Speech",
+                "text": "Just don't be late!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_15_12",
+                "type": "Narration",
+                "text": "I talk with N102 about our future plans.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_16_1",
+                "type": "Speech",
+                "text": "Hi, nice to meet you!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_16_2",
+                "type": "Speech",
+                "text": "Wait...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_16_3",
+                "type": "Speech",
+                "text": "This is strange.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_16_4",
+                "type": "Speech",
+                "text": "I'm positive this is the first time we've met, but I feel like I've seen you somewhere before.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_16_5",
+                "type": "Speech",
+                "text": "Are you a celebrity or something?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_16_6",
+                "type": "Choice",
+                "text": "A-lister. I've even been on TV a few times.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_16_8"
+            },
+            {
+                "id": "d_counseling_n102_16_7",
+                "type": "Choice",
+                "text": "I'm afraid not.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_16_10"
+            },
+            {
+                "id": "d_counseling_n102_16_8",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_16_9",
+                "type": "Speech",
+                "text": "Wow, that's so cool! I've never met someone who was on TV before.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_16_12"
+            },
+            {
+                "id": "d_counseling_n102_16_10",
+                "type": "Speech",
+                "text": "You're not famous?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_16_11",
+                "type": "Speech",
+                "text": "Hmm... Then where have I seen you before?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_16_12",
+                "type": "Narration",
+                "text": "N102 and I reminisced about the times we had met in the past.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_17_1",
+                "type": "Speech",
+                "text": "I saw a photo today of someone hanging out in the park, and they looked just like me!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_2",
+                "type": "Speech",
+                "text": "Which is crazy, because I've never been to the park before.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_3",
+                "type": "Speech",
+                "text": "They really were like a carbon copy of me.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_4",
+                "type": "Choice",
+                "text": "Didn't you go to the park with me before?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_17_6"
+            },
+            {
+                "id": "d_counseling_n102_17_5",
+                "type": "Choice",
+                "text": "That's very interesting.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_17_10"
+            },
+            {
+                "id": "d_counseling_n102_17_6",
+                "type": "Speech",
+                "text": "Are you sure? I'm almost positive I've never been...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_7",
+                "type": "Speech",
+                "text": "Wait, that's it! Maybe you went with the person in that photo.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_8",
+                "type": "Speech",
+                "text": "We look so similar, it's no surprise that you were fooled.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_9",
+                "type": "Speech",
+                "text": "I want to meet that person!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_17_13"
+            },
+            {
+                "id": "d_counseling_n102_17_10",
+                "type": "Speech",
+                "text": "I know, right? Very interesting...",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_11",
+                "type": "Speech",
+                "text": "Anyway, I'd really like to meet that person someday.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_12",
+                "type": "Speech",
+                "text": "How cool would it be to meet your doppelganger?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_17_13",
+                "type": "Narration",
+                "text": "I have a conversation with N102 about the mystery doppelganger.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_18_1",
+                "type": "Speech",
+                "text": "Teacher! People say that sometimes it's good to spend time reminiscing about past memories.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_18_2",
+                "type": "Speech",
+                "text": "But I... I don't have any to look back on.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_18_3",
+                "type": "Speech",
+                "text": "How can I build up more memories?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_18_4",
+                "type": "Choice",
+                "text": "Even now you're making future memories.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_18_6"
+            },
+            {
+                "id": "d_counseling_n102_18_5",
+                "type": "Choice",
+                "text": "Well...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_18_9"
+            },
+            {
+                "id": "d_counseling_n102_18_6",
+                "type": "Speech",
+                "text": "Even now?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_18_7",
+                "type": "Speech",
+                "text": "That's great!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_18_8",
+                "type": "Speech",
+                "text": "I've got memories now!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_18_12"
+            },
+            {
+                "id": "d_counseling_n102_18_9",
+                "type": "Speech",
+                "text": "Teacher, why do you look so sad?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_18_10",
+                "type": "Speech",
+                "text": "I don't need memories.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_18_11",
+                "type": "Speech",
+                "text": "So don't be sad.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_18_12",
+                "type": "Narration",
+                "text": "I made some new memories with N102.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_19_1",
+                "type": "Speech",
+                "text": "Say, do you have any secrets?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_19_2",
+                "type": "Speech",
+                "text": "If you do, can you tell me about it and no one else?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_19_3",
+                "type": "Choice",
+                "text": "Actually, I forget old memories every day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_19_5"
+            },
+            {
+                "id": "d_counseling_n102_19_4",
+                "type": "Choice",
+                "text": "Actually, I can't eat hot croquettes because they're too spicy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_19_8"
+            },
+            {
+                "id": "d_counseling_n102_19_5",
+                "type": "Speech",
+                "text": "Huh? What are you saying?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_19_6",
+                "type": "Speech",
+                "text": "That's not a secret, that's just a big ol' fib!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_19_7",
+                "type": "Speech",
+                "text": "Tell me a real secret.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_19_11"
+            },
+            {
+                "id": "d_counseling_n102_19_8",
+                "type": "Speech",
+                "text": "You mean you can't eat anything spicy either?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_19_9",
+                "type": "Speech",
+                "text": "Neither can I!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_19_10",
+                "type": "Speech",
+                "text": "All right, your secret is safe with me!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_19_11",
+                "type": "Narration",
+                "text": "N102 and I share some of our secrets with one another.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_n102_20_1",
+                "type": "Speech",
+                "text": "Teacher! I woke up and I had chocolates in my pocket!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_20_2",
+                "type": "Speech",
+                "text": "But I never brought any chocolates.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_20_3",
+                "type": "Speech",
+                "text": "Who do you think gave them to me?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_20_4",
+                "type": "Choice",
+                "text": "Maybe you slept in someone else's clothing?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_n102_20_6"
+            },
+            {
+                "id": "d_counseling_n102_20_5",
+                "type": "Choice",
+                "text": "Aren't those the chocolates I gave you yesterday?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_n102_20_9"
+            },
+            {
+                "id": "d_counseling_n102_20_6",
+                "type": "Speech",
+                "text": "Someone else's clothes?",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_20_7",
+                "type": "Speech",
+                "text": "Hey, you may be onto something! I think this is the first time I've worn these clothes.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_20_8",
+                "type": "Speech",
+                "text": "I must have slept in someone else's clothes by mistake.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": "d_counseling_n102_20_12"
+            },
+            {
+                "id": "d_counseling_n102_20_9",
+                "type": "Speech",
+                "text": "Ha, nice try!",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_20_10",
+                "type": "Speech",
+                "text": "I'm not falling for that one.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_20_11",
+                "type": "Speech",
+                "text": "Today is the first day we've met.",
+                "speaker": "N102",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_n102_20_12",
+                "type": "Narration",
+                "text": "I share the chocolate with N102.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

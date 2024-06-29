@@ -1,0 +1,1877 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_sin_01_1",
+                "type": "Speech",
+                "text": "\u25a3\u25a1Is this really\u203bnecessary, Coun\u25a1selor?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_01_2",
+                "type": "Speech",
+                "text": "I'm just\u25a1\u25a3an ordinary\u203bcitizen\u203bwho has been rehabilitated.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_01_3",
+                "type": "Speech",
+                "text": "Why do you\u25a3\u25a3 insist on putting\u25a3\u25a3 this converter on me?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_01_4",
+                "type": "Choice",
+                "text": "Because you are still on probation.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_01_6"
+            },
+            {
+                "id": "d_counseling_sin_01_5",
+                "type": "Choice",
+                "text": "Because I'm not confident that I can restrain you if I have to.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_01_8"
+            },
+            {
+                "id": "d_counseling_sin_01_6",
+                "type": "Speech",
+                "text": "Be that as it \u25a3\u203bmay, am I not\n\u25a1\u25a1entitled to my rights?\u203b\u25a1 You can let me free and see how I do.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_01_7",
+                "type": "Speech",
+                "text": "\u25a1\u25a3\u25a3This is\u203b\u25a3absurd. I'm deducting you 10 points.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_01_10"
+            },
+            {
+                "id": "d_counseling_sin_01_8",
+                "type": "Speech",
+                "text": "\u203b\u25a3\u25a1Why would you ever need to\u203b\u25a3\u25a1restrain me?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_01_9",
+                "type": "Speech",
+                "text": "Are you sure this isn't\u25a3\u25a1some sick fantasy\u203bof yours?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_01_10",
+                "type": "Narration",
+                "text": "Sin and I fight about whether or not she should take off her converter.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_02_1",
+                "type": "Speech",
+                "text": "\u203b\u25a1\u25a1Counselor! I think I'm starting to\u25a3\u203bget used\u203b\u25a1 to this place.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_02_2",
+                "type": "Speech",
+                "text": "\u25a3I had so much fun cutting\u25a1\u25a1 it up with the Nikkes here yesterday, I had\u203b\u25a3tears coming down my face.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_02_3",
+                "type": "Choice",
+                "text": "So that kerfuffle last night was your doing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_02_5"
+            },
+            {
+                "id": "d_counseling_sin_02_4",
+                "type": "Choice",
+                "text": "I'm glad to hear that you've managed to adjust.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_02_7"
+            },
+            {
+                "id": "d_counseling_sin_02_5",
+                "type": "Speech",
+                "text": "What do you mean\u203b\u25a1\u203bkerfuffle?\nDon't you think you're being a tad bit\u203b\u25a3negative?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_02_6",
+                "type": "Speech",
+                "text": "Personally, I'd call it \u203b\u25a1more of a team-building experience, or a work\u25a1\u25a3shop.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_02_10"
+            },
+            {
+                "id": "d_counseling_sin_02_7",
+                "type": "Speech",
+                "text": "Yeah, everyone here is\u203b\u25a3so nice.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_02_8",
+                "type": "Speech",
+                "text": "There's always a few rotten eggs who\u25a3\u203b\u203b act like bullies,\n\u25a1\u25a3but other than that, this place\u203b\u25a1\u203bfeels like home now.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_02_9",
+                "type": "Speech",
+                "text": "I think \u203b\u203bbullying should\u25a1\u25a3be outlawed!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_02_10",
+                "type": "Narration",
+                "text": "Sin and I talk about what it's like to cohabitate with others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_03_1",
+                "type": "Speech",
+                "text": "Coun\u25a3\u25a1selor.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_2",
+                "type": "Speech",
+                "text": "If you rescued a \u203b\u203bkid who was about to drown\n\u25a3\u25a3\u203band they said afterwards that they wanted some Nutrium\u25a1, what would you do?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_3",
+                "type": "Choice",
+                "text": "I'd probably buy them some.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_03_5"
+            },
+            {
+                "id": "d_counseling_sin_03_4",
+                "type": "Choice",
+                "text": "What makes you ask such a random question?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_03_6"
+            },
+            {
+                "id": "d_counseling_sin_03_5",
+                "type": "Speech",
+                "text": "You're a good person,\u203b\u25a3 so I'm not surprised\u25a3\u25a1to hear you\u203bsay that.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_03_10"
+            },
+            {
+                "id": "d_counseling_sin_03_6",
+                "type": "Speech",
+                "text": "\u25a1\u25a1I'm just\u25a3\u203bcurious about your personality.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_7",
+                "type": "Speech",
+                "text": "No\u203b\u25a3other reason.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_8",
+                "type": "Self",
+                "text": "Personally, I'd buy the kid whatever they wanted.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_9",
+                "type": "Speech",
+                "text": "I\u25a1\u203b\u203bsee.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_10",
+                "type": "Speech",
+                "text": "\u25a3\u203bThen how about\u203b\u203ba Nikke who almost drowned?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_11",
+                "type": "Speech",
+                "text": "\u203b\u203b\u25a1And\u25a3what if it wasn't drowning, \u25a1\u203bbut being locked up in the rehabilitation center?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_12",
+                "type": "Speech",
+                "text": "If you ask me,\u25a3\u25a3\u203bI feel worse for those Nikkes.\n\u25a1\u25a1They're the ones who are most put upon by\u203bsociety.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_03_13",
+                "type": "Narration",
+                "text": "I promise Sin that I'll buy her some Nutrium soon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_04_1",
+                "type": "Speech",
+                "text": "\u203b\u203bLet's\u25a3see...",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_04_2",
+                "type": "Speech",
+                "text": "\u25a1\u203bS is standing pretty at 30 points, R is at minus 6\u25a1\u25a3points, E is....",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_04_3",
+                "type": "Choice",
+                "text": "Are you calculating points?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_04_5"
+            },
+            {
+                "id": "d_counseling_sin_04_4",
+                "type": "Choice",
+                "text": "What does S and R stand for?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_04_8"
+            },
+            {
+                "id": "d_counseling_sin_04_5",
+                "type": "Speech",
+                "text": "\u203b\u25a1Yup.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_04_6",
+                "type": "Speech",
+                "text": "\u25a1\u203bThese are points all earned by risking their\u25a3\u25a3\u25a1lives.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_04_7",
+                "type": "Speech",
+                "text": "If I don't\u203b\u25a3\u203brecord it in detail, \nthere might be\u25a1\u25a1a riot....",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_04_10"
+            },
+            {
+                "id": "d_counseling_sin_04_8",
+                "type": "Speech",
+                "text": "They're the names of some\u25a3\u203b\u25a1Nikkes here.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_04_9",
+                "type": "Speech",
+                "text": "The inmates here\u203b\u25a3aren't assigned numbers\u25a1\u203b, so\nI'm using initials\u203b\u25a3\u25a1 instead.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_04_10",
+                "type": "Narration",
+                "text": "I watch Sin allotting points to various Nikkes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_05_1",
+                "type": "Speech",
+                "text": "\u25a1\u203b\u25a3Counselor, you get along with \u25a1the other Nikkes\u203blike a house on fire.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_05_2",
+                "type": "Speech",
+                "text": "Everyone\u25a3can't stop\u25a1\u25a1complimenting you.\u203b\u25a3\u203b",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_05_3",
+                "type": "Choice",
+                "text": "How does that make you feel?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_05_5"
+            },
+            {
+                "id": "d_counseling_sin_05_4",
+                "type": "Choice",
+                "text": "Trust me, I'm far from perfect.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_05_8"
+            },
+            {
+                "id": "d_counseling_sin_05_5",
+                "type": "Speech",
+                "text": "...\u203bMe\u203b?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_05_6",
+                "type": "Speech",
+                "text": "As if you had to \u25a1\u25a3ask.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_05_7",
+                "type": "Speech",
+                "text": "\u203b\u25a3I came here with my bags packed\u203bbecause I was\u25a1 looking for you.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_05_10"
+            },
+            {
+                "id": "d_counseling_sin_05_8",
+                "type": "Speech",
+                "text": "Oh come now\u25a1\u203b\u25a1, there's no need to\u25a3 be humble.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_05_9",
+                "type": "Speech",
+                "text": "\u25a3\u25a3It doesn't leave any room for a Nikke \u203bto\u25a1take care of you...",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_05_10",
+                "type": "Narration",
+                "text": "Sin, who seems to be in a good mood, awards me points.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_06_1",
+                "type": "Speech",
+                "text": "\u203b\u25a1What would\u203b you think of me doing some\u25a3\u203bcommunity service?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_06_2",
+                "type": "Speech",
+                "text": "Ever since I was released\u25a1\u203bfrom the rehabilitation center \u25a3\u203b, I've been wanting to do something that has meaning.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_06_3",
+                "type": "Choice",
+                "text": "Okay, let's go together during the weekend.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_06_5"
+            },
+            {
+                "id": "d_counseling_sin_06_4",
+                "type": "Choice",
+                "text": "...You're not up to anything, are you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_06_8"
+            },
+            {
+                "id": "d_counseling_sin_06_5",
+                "type": "Speech",
+                "text": "Woohoo\u25a1\u203b\u25a1! Thanks!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_06_6",
+                "type": "Speech",
+                "text": "This way\u203bI can connect with \u203b\u25a3people who are\u203bgoing through\u25a3a rough patch.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_06_7",
+                "type": "Speech",
+                "text": "I'm sure it'll be fun and\u25a3\u203b\u203bfulfilling in equal measure.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_06_11"
+            },
+            {
+                "id": "d_counseling_sin_06_8",
+                "type": "Speech",
+                "text": "\u203b\u25a3\u25a3What? Not\u203b\u25a1 at all!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_06_9",
+                "type": "Speech",
+                "text": "Just because you have a criminal history doesn't\u25a1\u203bmean you can't change...\u203b\u203b",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_06_10",
+                "type": "Speech",
+                "text": "What kind of monster\u25a3\u25a3would abuse community service\u25a1for their own nefarious means?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_06_11",
+                "type": "Narration",
+                "text": "Sin and I look more into what community service we can do.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_07_1",
+                "type": "Speech",
+                "text": "\u203b\u25a3\u25a1Wasn't last week fun\u203b\u203b, Counselor?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_2",
+                "type": "Speech",
+                "text": "\u25a1\u203bEvery time I think back on \u25a3\u203b\u25a1what you did, \nI bust out\u203b\u25a1laughing.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_3",
+                "type": "Choice",
+                "text": "I don't remember.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_07_5"
+            },
+            {
+                "id": "d_counseling_sin_07_4",
+                "type": "Choice",
+                "text": "Last week? Wait, you mean when I...?!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_07_11"
+            },
+            {
+                "id": "d_counseling_sin_07_5",
+                "type": "Speech",
+                "text": "You're pulling my leg, \u25a3aren't\u203byou?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_6",
+                "type": "Speech",
+                "text": "\u25a3\u25a1\u25a3You said you thought\u25a3it was unfair that I\u203b was the only one wearing a converter.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_7",
+                "type": "Speech",
+                "text": "So you paraded around\u203bthe Outpost\u25a1\u203bwith a garbage bag over your head \u25a3\u203b.\nDon't tell me you\u203b\u203bdon't remember!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_8",
+                "type": "Self",
+                "text": "... I don't. Really.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_9",
+                "type": "Speech",
+                "text": "Well, in that case, there's only one thing we can do.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_10",
+                "type": "Speech",
+                "text": "\u25a1Gather everyone\u25a1\u203b\u25a3together and do it one more time!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_07_13"
+            },
+            {
+                "id": "d_counseling_sin_07_11",
+                "type": "Speech",
+                "text": "\u25a3\u25a1\u25a3You said you thought\u25a3it was unfair that I\u203b was the only one wearing a converter.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_12",
+                "type": "Speech",
+                "text": "So you paraded around\u203bthe Outpost\u25a1\u203bwith a phone case taped to your mouth \u25a3\u203b\nDon't tell you\u203b\u203bdon't remember!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_07_13",
+                "type": "Narration",
+                "text": "I talk about my embarrassing actions a few days prior.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_08_1",
+                "type": "Speech",
+                "text": "\u25a1\u203b\u25a3Quency has been\u203b\u203bcoming here often.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_08_2",
+                "type": "Speech",
+                "text": "\u203b\u203bI don't mind\u25a1it, but security\u25a3here is\u25a1 so lax.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_08_3",
+                "type": "Choice",
+                "text": "Quency never was one to follow the rules.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_08_5"
+            },
+            {
+                "id": "d_counseling_sin_08_4",
+                "type": "Choice",
+                "text": "Let me know the next time you see Quency.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_08_7"
+            },
+            {
+                "id": "d_counseling_sin_08_5",
+                "type": "Speech",
+                "text": "That's\u25a3\u203b\u25a1true.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_08_6",
+                "type": "Speech",
+                "text": "\u25a3\u203b\u203bThanks to her\u25a1\u203b,I can ask about how everyone is doing in the center\u25a1.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_08_10"
+            },
+            {
+                "id": "d_counseling_sin_08_7",
+                "type": "Speech",
+                "text": "Huh\u203b\u25a1? Why would I do that?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_08_8",
+                "type": "Speech",
+                "text": "\u25a3\u25a3\u203bWe inmates need to have each other's back,\u25a1\u203bwhether we're in or outside of the center.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_08_9",
+                "type": "Speech",
+                "text": "If I ratted out\u203b\u25a1 every person\u25a1I encountered that annoyed me,\nwho'd want to live\u25a1\u25a3 in a world filled with such pettiness?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_08_10",
+                "type": "Narration",
+                "text": "I listen to Sin as she tells me about a fellow patient during her time at the center.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_09_1",
+                "type": "Speech",
+                "text": "\u25a1\u203b\u203bIs this whole counseling thing really necessary \u25a1\u25a3?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_09_2",
+                "type": "Speech",
+                "text": "I've already been\u25a1\u25a1rehabilitated.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_09_3",
+                "type": "Choice",
+                "text": "For your own mental health, it's absolutely necessary.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_09_5"
+            },
+            {
+                "id": "d_counseling_sin_09_4",
+                "type": "Choice",
+                "text": "Should we do something else then?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_09_7"
+            },
+            {
+                "id": "d_counseling_sin_09_5",
+                "type": "Speech",
+                "text": "\u203b\u25a1Jeez, I didn't think you were such a\u203b\u25a1square.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_09_6",
+                "type": "Speech",
+                "text": "\u25a3Hardly what I'd\u25a3\u203bcall hip and happenin'\u203b\u25a1.\n15 points penalty!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_09_12"
+            },
+            {
+                "id": "d_counseling_sin_09_7",
+                "type": "Speech",
+                "text": "\u25a1\u25a3Like what\u203b?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_09_8",
+                "type": "Self",
+                "text": "Anything you want.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_09_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_09_10",
+                "type": "Speech",
+                "text": "\u25a1\u25a1Hmm... how about you take this converter off\u203b\u25a1and we do a little tongue wrestling?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_09_11",
+                "type": "Self",
+                "text": "Sorry, no dice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_09_12",
+                "type": "Narration",
+                "text": "Sin and I spend the rest of our session in silence.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_10_1",
+                "type": "Speech",
+                "text": "\u25a1\u203b\u25a3I think everyone \u203b\u203bneeds to take a walk on the wild side\u203bat least once in their life\u25a3.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_10_2",
+                "type": "Speech",
+                "text": "\u25a1\u25a3If you could commit one sin,\u25a3\u203bwhat would it be?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_10_3",
+                "type": "Choice",
+                "text": "Whichever is the least severe.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_10_5"
+            },
+            {
+                "id": "d_counseling_sin_10_4",
+                "type": "Choice",
+                "text": "Offer a live sacrifice to appease the gods.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_10_8"
+            },
+            {
+                "id": "d_counseling_sin_10_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_10_6",
+                "type": "Speech",
+                "text": "You're\u25a1\u203b more of a wuss than I thought\u25a3\u203b\u25a1.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_10_7",
+                "type": "Speech",
+                "text": "\u25a3\u203b\u203bSomeone like you who wants to achieve  \u25a3\u25a1great things should be willing to\u203b\u25a1 dabble in the sinful side of life.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_10_11"
+            },
+            {
+                "id": "d_counseling_sin_10_8",
+                "type": "Speech",
+                "text": "\u25a1\u25a3Wow!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_10_9",
+                "type": "Speech",
+                "text": "\u203b\u25a1I admire your\u203bbrutality.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_10_10",
+                "type": "Speech",
+                "text": "I feel like\u203b\u25a3\u25a1we're kindred spirits. \u25a3\u203b 50 points for you!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_10_11",
+                "type": "Narration",
+                "text": "I speak with Sin about the ethics of sin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_11_1",
+                "type": "Speech",
+                "text": "\u25a3Counselor\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_11_2",
+                "type": "Speech",
+                "text": "\u203b\u25a3Would you prefer to be given a \u25a3\u203b bar of Splendamin, or a \u25a3\u203b\u25a1light croquette?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_11_3",
+                "type": "Choice",
+                "text": "Splendamin.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_11_5"
+            },
+            {
+                "id": "d_counseling_sin_11_4",
+                "type": "Choice",
+                "text": "Croquette.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_11_8"
+            },
+            {
+                "id": "d_counseling_sin_11_5",
+                "type": "Speech",
+                "text": "Good choice. Isn't Splendamin the best?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_11_6",
+                "type": "Speech",
+                "text": "Especially \u25a3\u203bthe chocolate-flavored ones.\u25a3\u203b They're the tastiest, \u203band\u25a1 the hardest to\u25a1 find\u25a3\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_11_7",
+                "type": "Speech",
+                "text": "\u25a1\u203b\u203bIf I want to become close\u25a3to someone\u25a1, I should give them a bar of Splendamin\u25a3\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_11_11"
+            },
+            {
+                "id": "d_counseling_sin_11_8",
+                "type": "Speech",
+                "text": "Cro\u203bquette?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_11_9",
+                "type": "Speech",
+                "text": "Quency\u203b\u203bsaid\u203bshe prefers\u203b croquette to\u203b\u25a3\u25a1Splendamin as well...",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_11_10",
+                "type": "Speech",
+                "text": "\u25a3\u25a3\u203bIs this some kind of croquette\u25a3\u203bconspiracy\u25a1?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_11_11",
+                "type": "Narration",
+                "text": "Sin and I continue to discuss all things food-related.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_12_1",
+                "type": "Speech",
+                "text": "It's not\u25a1\u203b\u203bthat\u25a3today's session isn't enjoyable\u25a3\u25a1, but",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_12_2",
+                "type": "Speech",
+                "text": "\u203bI'm\u25a3\u25a1\u25a3bored out of my gourd.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_12_3",
+                "type": "Choice",
+                "text": "Is there something else you'd rather be doing?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_12_5"
+            },
+            {
+                "id": "d_counseling_sin_12_4",
+                "type": "Choice",
+                "text": "Should I give you a piggyback ride?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_12_8"
+            },
+            {
+                "id": "d_counseling_sin_12_5",
+                "type": "Speech",
+                "text": "\u203b\u25a1Nothing in\u203bparticular.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_12_6",
+                "type": "Speech",
+                "text": "\u25a3\u25a1\u25a3\u25a1It feels like something's... \u25a1\u203bmissing.\u203b\u25a3\u203b\u25a3I just feel bored, that's all.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_12_7",
+                "type": "Speech",
+                "text": "\u25a3\u25a3You don't\u25a3need to worry\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_12_11"
+            },
+            {
+                "id": "d_counseling_sin_12_8",
+                "type": "Speech",
+                "text": "You'd\u203breally\u25a1do that?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_12_9",
+                "type": "Speech",
+                "text": "\u25a3\u25a1\u25a3I knew\u25a1\u25a1you're\u25a1\u203b\u25a1\u25a3a good\u25a1person!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_12_10",
+                "type": "Speech",
+                "text": "You \u25a1\u203bsure you'll be okay? I'm awfully heavy.\u25a1\u25a3\u203b",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_12_11",
+                "type": "Narration",
+                "text": "I make an effort to make sure Sin was not bored during our session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_13_1",
+                "type": "Speech",
+                "text": "\u203b\u25a3There's a\u25a1\u25a3\u25a1saying that people take\u203b\u25a3advantage of those who are too nice.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_2",
+                "type": "Speech",
+                "text": "\u203bDo you\u203b\u25a3think\u25a3\u203b\u25a1that's true?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_3",
+                "type": "Choice",
+                "text": "There's also a saying that luck will find those who live kindly.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_13_5"
+            },
+            {
+                "id": "d_counseling_sin_13_4",
+                "type": "Choice",
+                "text": "I agree somewhat.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_13_8"
+            },
+            {
+                "id": "d_counseling_sin_13_5",
+                "type": "Speech",
+                "text": "\u203b\u25a3Do you\u203b\u25a1really\u25a3believe\u25a3that?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_6",
+                "type": "Speech",
+                "text": "\u25a3\u25a1I can't agree. \u203b\u25a1Once I left the\u25a3\u25a3rehabilitation center,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_7",
+                "type": "Speech",
+                "text": "\u203b\u25a3\u25a1more than a few people\u25a3tried to take advantage of my\u25a3kindness.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_13_13"
+            },
+            {
+                "id": "d_counseling_sin_13_8",
+                "type": "Speech",
+                "text": "\u25a3\u203b\u25a1I feel\u25a3the same way\u25a1\u25a1.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_9",
+                "type": "Speech",
+                "text": "\u203bNo\u203bbody\u25a1ever takes me seriously\u25a1\u203bbecause I'm\u25a3\u25a1\u25a3too nice!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_10",
+                "type": "Speech",
+                "text": "\u203bPeople who live well\u203btend to be\u25a3\u25a1on the nicer side.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_11",
+                "type": "Speech",
+                "text": "\u203b\u25a3But\u25a3\u25a1even they will\u203bhave\u203ba bad side to them.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_12",
+                "type": "Speech",
+                "text": "\u25a3So it's okay\u203b\u25a3to be a bit bad,\u25a1\u203b\u25a1 don't you think\u25a3?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_13_13",
+                "type": "Narration",
+                "text": "I talk about good and evil with Sin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_14_1",
+                "type": "Speech",
+                "text": "\u25a3\u203bCounselor,\u25a3\u25a1\u25a3who\u25a1is the Nikke you're closest to?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_14_2",
+                "type": "Speech",
+                "text": "\u203b\u25a3From what I\u25a1hear\u203b\u25a3you're close to\u25a1everyone.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_14_3",
+                "type": "Choice",
+                "text": "... You?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_14_5"
+            },
+            {
+                "id": "d_counseling_sin_14_4",
+                "type": "Choice",
+                "text": "I get along with everyone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_14_8"
+            },
+            {
+                "id": "d_counseling_sin_14_5",
+                "type": "Speech",
+                "text": "Re\u203b\u25a3ally?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_14_6",
+                "type": "Speech",
+                "text": "\u203bI'd say you're my closest friend as well, \u203b\u25a3right after\u25a1Guilty\u25a1and Quency\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_14_7",
+                "type": "Speech",
+                "text": "Does\u25a1\u203bthat make\u203bus\u25a1\u203bbest\u25a3\u25a1friends?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_14_11"
+            },
+            {
+                "id": "d_counseling_sin_14_8",
+                "type": "Speech",
+                "text": "\u25a3I figured\u25a3\u203b\u25a1as much\u25a1.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_14_9",
+                "type": "Speech",
+                "text": "\u25a3So\u203b\u25a3there's no\u25a1\u25a3Nikke\u25a1you'd say you're closest to?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_14_10",
+                "type": "Speech",
+                "text": "Th\u203b\u25a3\u203ben we should\u25a1\u25a3become\u203b\u25a3 closer.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_14_11",
+                "type": "Narration",
+                "text": "My friendship with Sin deepens.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_15_1",
+                "type": "Speech",
+                "text": "\u25a1It would be\u25a3\u203b\u203b\u203bgreat if we could have\u25a1counseling sessions via text.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_15_2",
+                "type": "Speech",
+                "text": "\u25a1\u25a3Then\u25a3\u203bI wouldn't feel\u25a1misunderstood\u25a3\u203b\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_15_3",
+                "type": "Choice",
+                "text": "I like it when I can see your face.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_15_5"
+            },
+            {
+                "id": "d_counseling_sin_15_4",
+                "type": "Choice",
+                "text": "Would you like to have our next session over text?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_15_9"
+            },
+            {
+                "id": "d_counseling_sin_15_5",
+                "type": "Speech",
+                "text": "Ye\u25a1\u25a3ah?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_15_6",
+                "type": "Speech",
+                "text": "\u25a3\u25a3\u25a3...",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_15_7",
+                "type": "Speech",
+                "text": "Then \u25a3let's just\u203b\u25a1keep things as they are\u25a1\u25a3.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_15_8",
+                "type": "Speech",
+                "text": "\u25a1\u203b\u25a1\u25a1Now that \u203b\u25a1I've given it some more thought,\u25a3\u25a3I guess this is fine.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_15_12"
+            },
+            {
+                "id": "d_counseling_sin_15_9",
+                "type": "Speech",
+                "text": "Hmm...\u25a3\u25a3 Nah,\u25a3\u203bnever mind.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_15_10",
+                "type": "Speech",
+                "text": "\u203b\u203bWith text\u25a1\u25a3\u203byou can't really tell how the\u25a1other person is feeling.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_15_11",
+                "type": "Speech",
+                "text": "I think\u25a1\u203b\u25a3that would lead to just as\u203b\u203bmuch miscommunication, if not more!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_15_12",
+                "type": "Narration",
+                "text": "Sin and I discuss different potential counseling methods.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_16_1",
+                "type": "Speech",
+                "text": "Counselor\u25a1\u203b\u25a3,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_2",
+                "type": "Speech",
+                "text": "\u203b\u25a1do you prefer having a\u25a3\u25a3few close friends,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_3",
+                "type": "Speech",
+                "text": "Or a wide circle\u203b\u25a1of acquaintances\u25a3\u25a3?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_4",
+                "type": "Choice",
+                "text": "A few close friends.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_16_6"
+            },
+            {
+                "id": "d_counseling_sin_16_5",
+                "type": "Choice",
+                "text": "A wide circle of acquaintances.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_16_10"
+            },
+            {
+                "id": "d_counseling_sin_16_6",
+                "type": "Speech",
+                "text": "\u25a1\u25a1Closer relationships\u25a3\u25a3can be much more\u25a1\u25a1rewarding,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_7",
+                "type": "Speech",
+                "text": "\u25a3but if they fall apart,\u203bit's hard\u203bto put them back\u203btogether again.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_8",
+                "type": "Speech",
+                "text": "The more you trust someone, the\u25a1\u25a1 more you feel\u203b\u25a1betrayed\u203bif the relationship goes south.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_9",
+                "type": "Speech",
+                "text": "\u25a3So\u203bI'm a bit reluctant to have deep connections with pe\u25a3ople I know.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_16_13"
+            },
+            {
+                "id": "d_counseling_sin_16_10",
+                "type": "Speech",
+                "text": "I much prefer having\u25a3a wide social circle\u203b\u25a1of people I know, but aren't necessarily overly\u25a3 familiar with.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_11",
+                "type": "Speech",
+                "text": "\u25a1\u25a1When it\u25a3comes to helping\u203bsomeone\u203b\u25a1,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_12",
+                "type": "Speech",
+                "text": "you're \u25a3much more inclined to help someone \u203b\u25a1you know versus, say, a complete stranger\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_16_13",
+                "type": "Narration",
+                "text": "Sin and I debate about relationships.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_17_1",
+                "type": "Speech",
+                "text": "\u25a3\u25a1\u25a3How can I\u203b\u25a3form a meaningful connection with\u25a1\u25a1someone\u25a1\u25a3?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_17_2",
+                "type": "Speech",
+                "text": "\u203b\u25a1Maybe it's\u25a1\u25a3because I came\u203b\u25a1out from the rehabilitation\u25a1\u25a3center,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_17_3",
+                "type": "Speech",
+                "text": "\u25a3\u25a1\u25a3but it feels like everyone\u203b\u25a1is always\u25a3judging me\u25a3.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_17_4",
+                "type": "Choice",
+                "text": "If you want to get close to someone, just talk to them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_17_6"
+            },
+            {
+                "id": "d_counseling_sin_17_5",
+                "type": "Choice",
+                "text": "Butter them up first with a bar of Splendamin.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_17_9"
+            },
+            {
+                "id": "d_counseling_sin_17_6",
+                "type": "Speech",
+                "text": "\u203b\u25a3Are you\u25a1\u203b\u203bsure about that\u203b?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_17_7",
+                "type": "Speech",
+                "text": "\u25a3\u25a1\u25a3\u25a1Whenever I talk to\u203bthem\u203b,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_17_8",
+                "type": "Speech",
+                "text": "\u25a3\u203b\u25a1\u25a1everyone starts \u25a3\u25a1avoiding me before long\u25a1\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_17_12"
+            },
+            {
+                "id": "d_counseling_sin_17_9",
+                "type": "Speech",
+                "text": "\u25a1\u25a1Is that really all it takes\u25a1to\u25a1\u25a3\u203bwin people over?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_17_10",
+                "type": "Speech",
+                "text": "If\u203bthat's how\u25a1\u25a3\u203bit is,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_17_11",
+                "type": "Speech",
+                "text": "\u25a3\u25a1\u25a3I'll prepare\u25a1\u25a1some handmade chocolate\u203bSplendamin\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_17_12",
+                "type": "Narration",
+                "text": "Sin and I brainstorm about other ways to win people over.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_18_1",
+                "type": "Speech",
+                "text": "\u25a3Guilty \u25a3is\u203b\u25a1\u25a1upset with me.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_18_2",
+                "type": "Speech",
+                "text": "\u25a3I made\u25a3fun of her\u25a3and said that she\u25a1\u203btexts too slow.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_18_3",
+                "type": "Speech",
+                "text": "How\u25a3\u25a3can I\u25a1\u203bget her\u25a1\u25a3\u203bto not be mad at me anymore?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_18_4",
+                "type": "Choice",
+                "text": "Nothing you can do. Just have to wait until she cools off.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_18_6"
+            },
+            {
+                "id": "d_counseling_sin_18_5",
+                "type": "Choice",
+                "text": "Look her straight in the eye and apologize.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_18_9"
+            },
+            {
+                "id": "d_counseling_sin_18_6",
+                "type": "Speech",
+                "text": "\u25a1\u203b That's exactly\u203b\u25a3 what I was planning on\u25a3\u25a3doing!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_18_7",
+                "type": "Speech",
+                "text": "\u203b\u25a3If I just sit back and wait \u25a3,I won't\u203bexacerbate the situation\u25a1\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_18_8",
+                "type": "Speech",
+                "text": "\u25a3I'm sure\u203b\u25a3 she'll be\u203b\u25a3fine once some time passes.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_18_12"
+            },
+            {
+                "id": "d_counseling_sin_18_9",
+                "type": "Speech",
+                "text": "\u203bIf I show myself in front of\u203bGuilty\u25a3\u25a3right now,",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_18_10",
+                "type": "Speech",
+                "text": "She may try and break\u25a1\u203bevery bone\u25a1\u203bin my body.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_18_11",
+                "type": "Speech",
+                "text": "\u25a3I'll just\u203bwait\u25a3until\u203b\u203bshe feels better~!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_18_12",
+                "type": "Narration",
+                "text": "I speak with Sin about Guilty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_19_1",
+                "type": "Speech",
+                "text": "\u25a3\u203b\u25a1It's so\u25a3\u25a3annoying having to\u203b\u25a1blend up all of my meals.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_2",
+                "type": "Speech",
+                "text": "\u25a1\u203b\u203bWhat\u25a3should I\u25a3do\u203b\u25a3?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_3",
+                "type": "Speech",
+                "text": "\u203b\u25a3I can't\u25a3starve\u25a1\u203b\u203bbecause of\u25a3this.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_4",
+                "type": "Speech",
+                "text": "\u203b\u25a1Quency\u25a3is too busy, \u25a1\u203b\u203bso I don't want to bother her, and Guilty\u203bcould crush me like a bug\u25a3if I rub her the wrong way.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_5",
+                "type": "Choice",
+                "text": "I'll blend your food up for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_19_7"
+            },
+            {
+                "id": "d_counseling_sin_19_6",
+                "type": "Choice",
+                "text": "If you starve yourself long enough, you'll be more than willing to blend your food.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_19_10"
+            },
+            {
+                "id": "d_counseling_sin_19_7",
+                "type": "Speech",
+                "text": "You'd do\u25a1\u25a3that for me? I felt\u203b\u203ba little bad\u203b\u25a1\u203basking.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_8",
+                "type": "Speech",
+                "text": "But if\u203b\u25a1\u203byou're\u25a3\u25a3volunteering,\u25a1\u25a3I won't\u25a1\u25a3\u203brefuse!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_9",
+                "type": "Speech",
+                "text": "\u25a1\u25a3\u203bI'll bring you\u25a1\u25a3everything you need for our future counseling sessions.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_19_13"
+            },
+            {
+                "id": "d_counseling_sin_19_10",
+                "type": "Speech",
+                "text": "I've been\u203b\u25a3starving\u25a3\u203bmyself for 12\u203b\u203bhours now.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_11",
+                "type": "Speech",
+                "text": "Lazi\u25a3\u203bness will \u203b\u25a1always triumph!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_12",
+                "type": "Speech",
+                "text": "\u25a3\u25a3If I starve to death\u203b\u25a1then\u25a3\u25a3my death is on your hands!",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_19_13",
+                "type": "Narration",
+                "text": "I blend up Sin's food for her during our session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sin_20_1",
+                "type": "Speech",
+                "text": "Coun\u203bselor\u25a3\u25a1, what do\u25a3\u203b\u25a1you think of \u203blying\u203b?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_20_2",
+                "type": "Speech",
+                "text": "Gu\u25a3ilty says\u203bthere's nothing she despises more than\u25a3\u203bfalsehoods.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_20_3",
+                "type": "Choice",
+                "text": "Lying is also a skill.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sin_20_5"
+            },
+            {
+                "id": "d_counseling_sin_20_4",
+                "type": "Choice",
+                "text": "Lying is bad.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sin_20_8"
+            },
+            {
+                "id": "d_counseling_sin_20_5",
+                "type": "Speech",
+                "text": "That's\u25a3\u203bwhat I say\u203b.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_20_6",
+                "type": "Speech",
+                "text": "\u203bBeing a good liar\u25a3\u25a1takes a certain amount of intelligence\u203b\u25a3\u203band wit.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_20_7",
+                "type": "Speech",
+                "text": "\u25a1\u25a1You\u203bseem\u203bpretty\u25a1\u25a1smart yourself, Counselor.",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": "d_counseling_sin_20_11"
+            },
+            {
+                "id": "d_counseling_sin_20_8",
+                "type": "Speech",
+                "text": "Why? What's\u25a3\u203bso \u25a3bad about it?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_20_9",
+                "type": "Speech",
+                "text": "What about\u25a3white lies? \u25a1\u203b\u25a1Are those bad?\u203b",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_20_10",
+                "type": "Speech",
+                "text": "\u203bIs there no possible scenario where\u203bthere would be a good\u25a3\u25a1reason for lying\u25a3\u25a1?",
+                "speaker": "Sin",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sin_20_11",
+                "type": "Narration",
+                "text": "Sin and I have a discussion about lying.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

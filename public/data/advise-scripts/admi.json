@@ -1,0 +1,1845 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_admi_01_1",
+                "type": "Speech",
+                "text": "Commander, if you could only choose one...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_01_2",
+                "type": "Speech",
+                "text": "Which do you prefer: dogs or cats?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_01_3",
+                "type": "Choice",
+                "text": "I prefer dogs.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_01_5"
+            },
+            {
+                "id": "d_counseling_admi_01_4",
+                "type": "Choice",
+                "text": "I'm more fond of cats.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_01_7"
+            },
+            {
+                "id": "d_counseling_admi_01_5",
+                "type": "Speech",
+                "text": "I see. So you are a dog person, not a cat person.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_01_6",
+                "type": "Speech",
+                "text": "Dogs are quite adorable.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_01_10"
+            },
+            {
+                "id": "d_counseling_admi_01_7",
+                "type": "Speech",
+                "text": "I am fond of cats as well.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_01_8",
+                "type": "Speech",
+                "text": "They may not look like it, but actually they're pretty sad.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_01_9",
+                "type": "Speech",
+                "text": "That's why I want to shower them with as much love as possible.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_01_10",
+                "type": "Narration",
+                "text": "I talk to Admi about animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_02_1",
+                "type": "Speech",
+                "text": "Because of Privaty and me, Yulha ended up overworking herself.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_2",
+                "type": "Speech",
+                "text": "I'm quite concerned about her.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_3",
+                "type": "Speech",
+                "text": "Is there anything I can do to help her out?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_4",
+                "type": "Choice",
+                "text": "Just say 'Thank you.' She would appreciate that.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_02_6"
+            },
+            {
+                "id": "d_counseling_admi_02_5",
+                "type": "Choice",
+                "text": "Tell her you'll help her with her work from now on.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_02_10"
+            },
+            {
+                "id": "d_counseling_admi_02_6",
+                "type": "Speech",
+                "text": "Say 'Thank you'?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_7",
+                "type": "Speech",
+                "text": "I imagine she would be pretty embarrassed to hear me say that...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_8",
+                "type": "Speech",
+                "text": "But, you're right. I really should say it to her.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_9",
+                "type": "Speech",
+                "text": "That was very helpful. Thank you very much, Commander.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_02_13"
+            },
+            {
+                "id": "d_counseling_admi_02_10",
+                "type": "Speech",
+                "text": "Hm... I think Yulha would be furious.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_11",
+                "type": "Speech",
+                "text": "She'd probably tell me to just worry about doing my own job instead of messing with hers.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_12",
+                "type": "Speech",
+                "text": "But, thank you anyway. I'll take it into consideration.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_02_13",
+                "type": "Narration",
+                "text": "I talk with Admi about Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_03_1",
+                "type": "Speech",
+                "text": "... Privaty.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_03_2",
+                "type": "Speech",
+                "text": "When will she ever grow up?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_03_3",
+                "type": "Choice",
+                "text": "It'd be better if you just gave up on that idea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_03_5"
+            },
+            {
+                "id": "d_counseling_admi_03_4",
+                "type": "Choice",
+                "text": "Someday, she will. Someday...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_03_9"
+            },
+            {
+                "id": "d_counseling_admi_03_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_03_6",
+                "type": "Speech",
+                "text": "So, it is just wishful thinking... It will never happen.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_03_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_03_8",
+                "type": "Speech",
+                "text": "Thank you, Commander. Letting go of false hope makes me feel much better.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_03_12"
+            },
+            {
+                "id": "d_counseling_admi_03_9",
+                "type": "Speech",
+                "text": "Right. Someday...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_03_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_03_11",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_03_12",
+                "type": "Narration",
+                "text": "I pat Admi's back to show some moral support.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_04_1",
+                "type": "Speech",
+                "text": "The Outpost is such a weird place.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_04_2",
+                "type": "Speech",
+                "text": "It's smaller than average, but we have a police station and a courthouse.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_04_3",
+                "type": "Speech",
+                "text": "We have a hospital and a train station, too.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_04_4",
+                "type": "Speech",
+                "text": "What's your favorite place in the Outpost, Commander?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_04_5",
+                "type": "Choice",
+                "text": "The Commander's Room.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_04_7"
+            },
+            {
+                "id": "d_counseling_admi_04_6",
+                "type": "Choice",
+                "text": "The courthouse, because it's where you are.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_04_9"
+            },
+            {
+                "id": "d_counseling_admi_04_7",
+                "type": "Speech",
+                "text": "Oh... I like it, too.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_04_8",
+                "type": "Speech",
+                "text": "Because that's where I can see you.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_04_12"
+            },
+            {
+                "id": "d_counseling_admi_04_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_04_10",
+                "type": "Speech",
+                "text": "Oh, really? Thank you, Commander...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_04_11",
+                "type": "Speech",
+                "text": "I'm quite glad you feel that way.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_04_12",
+                "type": "Narration",
+                "text": "I spend some time talking about the Outpost with Admi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_05_1",
+                "type": "Speech",
+                "text": "Commander, what kind of weather do you like?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_05_2",
+                "type": "Choice",
+                "text": "Sunny skies.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_05_4"
+            },
+            {
+                "id": "d_counseling_admi_05_3",
+                "type": "Choice",
+                "text": "Rainy days.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_05_6"
+            },
+            {
+                "id": "d_counseling_admi_05_4",
+                "type": "Speech",
+                "text": "I see. Sunshine really does seem to make you happy.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_05_5",
+                "type": "Speech",
+                "text": "It's the perfect weather for having fun outside.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_05_9"
+            },
+            {
+                "id": "d_counseling_admi_05_6",
+                "type": "Speech",
+                "text": "I feel the same way. You know how hard combat can be",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_05_7",
+                "type": "Speech",
+                "text": "on a rainy day... But, I do enjoy hearing the sound of the rain.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_05_8",
+                "type": "Speech",
+                "text": "The melody of rain helps me cope with my loneliness.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_05_9",
+                "type": "Narration",
+                "text": "I talk with Admi about the weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_06_1",
+                "type": "Speech",
+                "text": "Commander, we are under the command of the Central Government.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_06_2",
+                "type": "Speech",
+                "text": "We must treat their orders as our top priority.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_06_3",
+                "type": "Speech",
+                "text": "Are there times when that makes you feel sad, or even hateful toward us?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_06_4",
+                "type": "Choice",
+                "text": "Yes, there are times.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_06_6"
+            },
+            {
+                "id": "d_counseling_admi_06_5",
+                "type": "Choice",
+                "text": "Never.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_06_9"
+            },
+            {
+                "id": "d_counseling_admi_06_6",
+                "type": "Speech",
+                "text": "I knew it. That's entirely normal.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_06_7",
+                "type": "Speech",
+                "text": "But, Commander, you have been always so sincere and kind to us. Thank you.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_06_8",
+                "type": "Speech",
+                "text": "Thank you for staying true to us.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_06_12"
+            },
+            {
+                "id": "d_counseling_admi_06_9",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_06_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_06_11",
+                "type": "Speech",
+                "text": "Even if you are not really being honest, thank you for saying that.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_06_12",
+                "type": "Narration",
+                "text": "I spend some more quality time with Admi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_07_1",
+                "type": "Speech",
+                "text": "Commander, do you have an ideal type?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_07_2",
+                "type": "Choice",
+                "text": "Someone who is mature.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_07_4"
+            },
+            {
+                "id": "d_counseling_admi_07_3",
+                "type": "Choice",
+                "text": "Someone who is cute.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_07_6"
+            },
+            {
+                "id": "d_counseling_admi_07_4",
+                "type": "Speech",
+                "text": "Oh, is that so?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_07_5",
+                "type": "Speech",
+                "text": "It is physically impossible for me to look mature.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_07_10"
+            },
+            {
+                "id": "d_counseling_admi_07_6",
+                "type": "Speech",
+                "text": "I... understand.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_07_7",
+                "type": "Speech",
+                "text": "Then, I guess I'm lucky to look like this.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_07_8",
+                "type": "Speech",
+                "text": "I'm not saying I'm cute, but...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_07_9",
+                "type": "Speech",
+                "text": "... I feel that if I work hard, I can be closer to the kind of woman you like.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_07_10",
+                "type": "Narration",
+                "text": "I talk to Admi about ideal types.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_08_1",
+                "type": "Speech",
+                "text": "People always say that no love lasts forever...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_08_2",
+                "type": "Speech",
+                "text": "Do you agree with that?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_08_3",
+                "type": "Choice",
+                "text": "Eternal love does exist.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_08_5"
+            },
+            {
+                "id": "d_counseling_admi_08_4",
+                "type": "Choice",
+                "text": "Eternal love is a lie.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_08_8"
+            },
+            {
+                "id": "d_counseling_admi_08_5",
+                "type": "Speech",
+                "text": "I knew you would say that, Commander.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_08_6",
+                "type": "Speech",
+                "text": "To be honest, I'm also hoping that such a love really exists.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_08_7",
+                "type": "Speech",
+                "text": "... Thank you, Commander.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_08_11"
+            },
+            {
+                "id": "d_counseling_admi_08_8",
+                "type": "Speech",
+                "text": "So, Commander, you feel the same as everyone else...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_08_9",
+                "type": "Speech",
+                "text": "Even so, I always like to think it might be real.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_08_10",
+                "type": "Speech",
+                "text": "But... I don't know. Maybe it's not...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_08_11",
+                "type": "Narration",
+                "text": "I have a conversation about love with Admi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_09_1",
+                "type": "Speech",
+                "text": "Commander, where do you go when you want to relax and unwind?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_09_2",
+                "type": "Choice",
+                "text": "Downtown, somewhere crowded.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_09_4"
+            },
+            {
+                "id": "d_counseling_admi_09_3",
+                "type": "Choice",
+                "text": "A park without too many people.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_09_7"
+            },
+            {
+                "id": "d_counseling_admi_09_4",
+                "type": "Speech",
+                "text": "Ah... You like places with a lot of people.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_09_5",
+                "type": "Speech",
+                "text": "When I go to crowded places, I get tired very quickly.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_09_6",
+                "type": "Speech",
+                "text": "But there are plenty of things to keep you entertained downtown. Maybe, that's why you like it.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_09_10"
+            },
+            {
+                "id": "d_counseling_admi_09_7",
+                "type": "Speech",
+                "text": "I also enjoy quiet places with very few people.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_09_8",
+                "type": "Speech",
+                "text": "I feel at peace.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_09_9",
+                "type": "Speech",
+                "text": "Perhaps, when I want to relax, I'll go to the same place as you.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_09_10",
+                "type": "Narration",
+                "text": "I have a conversation with Admi about places to relax.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_10_1",
+                "type": "Speech",
+                "text": "They say that to have peace of mind, having a hobby is important.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_2",
+                "type": "Speech",
+                "text": "I'm thinking of getting one.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_3",
+                "type": "Speech",
+                "text": "But... I'm not quite sure what kind of hobby to choose.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_4",
+                "type": "Choice",
+                "text": "What about looking at cat pictures? Or taking cat pictures?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_10_6"
+            },
+            {
+                "id": "d_counseling_admi_10_5",
+                "type": "Choice",
+                "text": "What about exercising?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_10_9"
+            },
+            {
+                "id": "d_counseling_admi_10_6",
+                "type": "Speech",
+                "text": "Pictures of cats?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_8",
+                "type": "Speech",
+                "text": "That sounds nice. I will start today.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_10_13"
+            },
+            {
+                "id": "d_counseling_admi_10_9",
+                "type": "Speech",
+                "text": "Working out might be too hard for me.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_10",
+                "type": "Speech",
+                "text": "It would feel too much like training.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_11",
+                "type": "Speech",
+                "text": "Oh! I'm sorry.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_12",
+                "type": "Speech",
+                "text": "Let... let me think about it.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_10_13",
+                "type": "Narration",
+                "text": "I have a conversation with Admi about hobbies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_11_1",
+                "type": "Speech",
+                "text": "Every beginning has an end.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_2",
+                "type": "Speech",
+                "text": "If everything is bound to end, then why bother trying?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_3",
+                "type": "Speech",
+                "text": "What are your thoughts, Commander?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_4",
+                "type": "Choice",
+                "text": "You just need to start fresh.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_11_6"
+            },
+            {
+                "id": "d_counseling_admi_11_5",
+                "type": "Choice",
+                "text": "I can't give up, not until I know how it all ends.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_11_10"
+            },
+            {
+                "id": "d_counseling_admi_11_6",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_7",
+                "type": "Speech",
+                "text": "Even if you start something new, it will end eventually.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_8",
+                "type": "Speech",
+                "text": "Don't you find the repetition exhausting?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_9",
+                "type": "Speech",
+                "text": "It's a little hard to understand.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_11_14"
+            },
+            {
+                "id": "d_counseling_admi_11_10",
+                "type": "Speech",
+                "text": "How it all ends...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_11",
+                "type": "Speech",
+                "text": "I suppose you could define \"end\" in various ways.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_12",
+                "type": "Speech",
+                "text": "Surely one of those definitions must include a happy ending.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_13",
+                "type": "Speech",
+                "text": "That seems like a good mindset.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_11_14",
+                "type": "Narration",
+                "text": "Admi and I have a nice heart-to-heart.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_12_1",
+                "type": "Speech",
+                "text": "I wanted to get Yulha something for always working so hard.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_12_2",
+                "type": "Speech",
+                "text": "Any ideas?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_12_3",
+                "type": "Choice",
+                "text": "A vacation.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_12_5"
+            },
+            {
+                "id": "d_counseling_admi_12_4",
+                "type": "Choice",
+                "text": "Some alcohol.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_12_8"
+            },
+            {
+                "id": "d_counseling_admi_12_5",
+                "type": "Speech",
+                "text": "Yulha would never go for that.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_12_6",
+                "type": "Speech",
+                "text": "If she relaxed for even a minute, she'd fall behind in her work.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_12_7",
+                "type": "Speech",
+                "text": "I'm grateful for what she does, but I feel a little bad for her too.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_12_11"
+            },
+            {
+                "id": "d_counseling_admi_12_8",
+                "type": "Speech",
+                "text": "It's not good to rely on alcohol,",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_12_9",
+                "type": "Speech",
+                "text": "but it's probably the only way she can get outside of her head.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_12_10",
+                "type": "Speech",
+                "text": "Thanks for the suggestion!",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_12_11",
+                "type": "Narration",
+                "text": "Admi and I talk about Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_13_1",
+                "type": "Speech",
+                "text": "What type of music do you typically listen to, Commander?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_13_2",
+                "type": "Choice",
+                "text": "Subdued and solemn music.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_13_4"
+            },
+            {
+                "id": "d_counseling_admi_13_3",
+                "type": "Choice",
+                "text": "Upbeat and exciting music.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_13_7"
+            },
+            {
+                "id": "d_counseling_admi_13_4",
+                "type": "Speech",
+                "text": "I like that kind of music too.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_13_5",
+                "type": "Speech",
+                "text": "Sitting in the park and listening to music puts me at ease.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_13_6",
+                "type": "Speech",
+                "text": "Would you like to come with me some time?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_13_10"
+            },
+            {
+                "id": "d_counseling_admi_13_7",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_13_8",
+                "type": "Speech",
+                "text": "I tend to prefer more subdued music.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_13_9",
+                "type": "Speech",
+                "text": "However, if you can recommend me some more upbeat music, I'd love to hear it.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_13_10",
+                "type": "Narration",
+                "text": "Admi and I talk about our taste in music.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_14_1",
+                "type": "Speech",
+                "text": "I've been having a lot of nightmares lately, so mornings have been tough.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_14_2",
+                "type": "Speech",
+                "text": "Do you dream often?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_14_3",
+                "type": "Choice",
+                "text": "Yes, all the time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_14_5"
+            },
+            {
+                "id": "d_counseling_admi_14_4",
+                "type": "Choice",
+                "text": "No, not very often.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_14_8"
+            },
+            {
+                "id": "d_counseling_admi_14_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_14_6",
+                "type": "Speech",
+                "text": "Does that not wear you out mentally?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_14_7",
+                "type": "Speech",
+                "text": "I hope you at least have good dreams.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_14_11"
+            },
+            {
+                "id": "d_counseling_admi_14_8",
+                "type": "Speech",
+                "text": "I'm glad to hear that.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_14_9",
+                "type": "Speech",
+                "text": "Dreaming a lot when you sleep can be pretty taxing.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_14_10",
+                "type": "Speech",
+                "text": "It's nice to hear that you sleep soundly.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_14_11",
+                "type": "Narration",
+                "text": "Admi and I discuss dreams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_15_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_15_2",
+                "type": "Speech",
+                "text": "If we manage to reclaim the surface, how would you feel?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_15_3",
+                "type": "Choice",
+                "text": "I'd be elated.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_15_5"
+            },
+            {
+                "id": "d_counseling_admi_15_4",
+                "type": "Choice",
+                "text": "I'm not sure how I'd feel.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_15_8"
+            },
+            {
+                "id": "d_counseling_admi_15_5",
+                "type": "Speech",
+                "text": "I knew you would feel that way.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_15_6",
+                "type": "Speech",
+                "text": "I would be happy too.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_15_7",
+                "type": "Speech",
+                "text": "I hope that day will come soon.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_15_11"
+            },
+            {
+                "id": "d_counseling_admi_15_8",
+                "type": "Speech",
+                "text": "Oh, is that so?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_15_9",
+                "type": "Speech",
+                "text": "I thought for sure you'd be happy.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_15_10",
+                "type": "Speech",
+                "text": "It seems that there's still a lot I don't know about you.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_15_11",
+                "type": "Narration",
+                "text": "Admi and I discuss the surface and its future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_16_1",
+                "type": "Speech",
+                "text": "Commander, are you any good at claw machines?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_16_2",
+                "type": "Speech",
+                "text": "There's one in front of the convenience store.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_16_3",
+                "type": "Speech",
+                "text": "I tried it several times but can't seem to grab anything.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_16_4",
+                "type": "Choice",
+                "text": "I'm the claw machine master.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_16_6"
+            },
+            {
+                "id": "d_counseling_admi_16_5",
+                "type": "Choice",
+                "text": "Honestly, I'm not very good.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_16_9"
+            },
+            {
+                "id": "d_counseling_admi_16_6",
+                "type": "Speech",
+                "text": "Is that true?!",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_16_7",
+                "type": "Speech",
+                "text": "Can you come with me next time then?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_16_8",
+                "type": "Speech",
+                "text": "I'll buy you a tasty treat afterward.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_16_12"
+            },
+            {
+                "id": "d_counseling_admi_16_9",
+                "type": "Speech",
+                "text": "That's too bad...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_16_10",
+                "type": "Speech",
+                "text": "Guess I just need to practice some more.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_16_11",
+                "type": "Speech",
+                "text": "When I get good enough, I'll be sure to snag something for you!",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_16_12",
+                "type": "Narration",
+                "text": "Admi and I talked about claw machines.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_17_1",
+                "type": "Speech",
+                "text": "Have you tried any of the food up on the surface?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_17_2",
+                "type": "Speech",
+                "text": "I tried grapes for the first time a few days ago.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_17_3",
+                "type": "Speech",
+                "text": "I've never tasted anything so sweet.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_17_4",
+                "type": "Choice",
+                "text": "I've eaten a lot.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_17_6"
+            },
+            {
+                "id": "d_counseling_admi_17_5",
+                "type": "Choice",
+                "text": "I've barely tried anything.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_17_9"
+            },
+            {
+                "id": "d_counseling_admi_17_6",
+                "type": "Speech",
+                "text": "What did you find the most memorable?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_17_7",
+                "type": "Speech",
+                "text": "If I ever have the opportunity, I'd like to try some different things.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_17_8",
+                "type": "Speech",
+                "text": "Although it'd taste even better if you and I could eat it together...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_17_12"
+            },
+            {
+                "id": "d_counseling_admi_17_9",
+                "type": "Speech",
+                "text": "No kidding...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_17_10",
+                "type": "Speech",
+                "text": "I thought you would have tried all sorts of stuff.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_17_11",
+                "type": "Speech",
+                "text": "If I come across any more, I'll make sure to invite you.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_17_12",
+                "type": "Narration",
+                "text": "Admi and I talk about food up on the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_18_1",
+                "type": "Speech",
+                "text": "Commander, out of curiosity, is there anything you would like as a gift?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_18_2",
+                "type": "Choice",
+                "text": "Your time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_18_4"
+            },
+            {
+                "id": "d_counseling_admi_18_3",
+                "type": "Choice",
+                "text": "A cat doll.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_18_6"
+            },
+            {
+                "id": "d_counseling_admi_18_4",
+                "type": "Speech",
+                "text": "M-my time?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_18_5",
+                "type": "Speech",
+                "text": "Well... you can have it anytime.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_18_9"
+            },
+            {
+                "id": "d_counseling_admi_18_6",
+                "type": "Speech",
+                "text": "Um...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_18_7",
+                "type": "Speech",
+                "text": "Are you sure that's what you want?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_18_8",
+                "type": "Speech",
+                "text": "You don't need to be so considerate of me.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_18_9",
+                "type": "Narration",
+                "text": "Admi and I talk about gifts.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_19_1",
+                "type": "Speech",
+                "text": "There were a lot of books about cats at the library.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_19_2",
+                "type": "Speech",
+                "text": "I ended up borrowing 6 books all at once.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_19_3",
+                "type": "Speech",
+                "text": "I may have gone a bit overboard.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_19_4",
+                "type": "Choice",
+                "text": "Just a tad.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_19_6"
+            },
+            {
+                "id": "d_counseling_admi_19_5",
+                "type": "Choice",
+                "text": "Not at all, as long as you finish reading all of them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_19_9"
+            },
+            {
+                "id": "d_counseling_admi_19_6",
+                "type": "Speech",
+                "text": "I don't know when I'll find time to read them all...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_19_7",
+                "type": "Speech",
+                "text": "There may be other people waiting to read them as well.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_19_8",
+                "type": "Speech",
+                "text": "I better go return a few of them.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_19_12"
+            },
+            {
+                "id": "d_counseling_admi_19_9",
+                "type": "Speech",
+                "text": "You're right, but I don't know when I'll find time to read them all.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_19_10",
+                "type": "Speech",
+                "text": "... But thank you for putting a positive spin on all this.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_19_11",
+                "type": "Speech",
+                "text": "I'll try to read them as fast as I can.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_19_12",
+                "type": "Narration",
+                "text": "Admi and I have a back and forth about the books she borrowed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_admi_20_1",
+                "type": "Speech",
+                "text": "Cats are so adorable when they meow.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_20_2",
+                "type": "Speech",
+                "text": "How do they make that sound, I wonder?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_20_3",
+                "type": "Choice",
+                "text": "*Meow*",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_admi_20_5"
+            },
+            {
+                "id": "d_counseling_admi_20_4",
+                "type": "Choice",
+                "text": "Not as cute as your voice.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_admi_20_8"
+            },
+            {
+                "id": "d_counseling_admi_20_5",
+                "type": "Speech",
+                "text": "Hmmph.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_20_6",
+                "type": "Speech",
+                "text": "Your voice is too deep, it doesn't sound like a cat at all.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_20_7",
+                "type": "Speech",
+                "text": "Can you try again?",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": "d_counseling_admi_20_11"
+            },
+            {
+                "id": "d_counseling_admi_20_8",
+                "type": "Speech",
+                "text": "...Oh, thank you!",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_20_9",
+                "type": "Speech",
+                "text": "This is the first time I've been complimented about my voice...",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_20_10",
+                "type": "Speech",
+                "text": "I'm a little embarrassed.",
+                "speaker": "Admi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_admi_20_11",
+                "type": "Narration",
+                "text": "Admi and I get into the nitty-gritty about cats and their meows.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

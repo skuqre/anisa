@@ -1,0 +1,1869 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_signal_01_1",
+                "type": "Speech",
+                "text": "Commander, no matter how I look at it, Delta seems so friendly and thoughtful.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_01_2",
+                "type": "Speech",
+                "text": "But, everybody else says she's not.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_01_3",
+                "type": "Speech",
+                "text": "What about you, Commander? What do you think of her?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_01_4",
+                "type": "Choice",
+                "text": "Delta is many things, but 'thoughtful' isn't one of them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_01_6"
+            },
+            {
+                "id": "d_counseling_signal_01_5",
+                "type": "Choice",
+                "text": "I think she's a good person as well, and very friendly.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_01_9"
+            },
+            {
+                "id": "d_counseling_signal_01_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_01_7",
+                "type": "Speech",
+                "text": "I-I'm sorry!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_01_8",
+                "type": "Speech",
+                "text": "I didn't realize you felt the same way everybody else does.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_01_12"
+            },
+            {
+                "id": "d_counseling_signal_01_9",
+                "type": "Speech",
+                "text": "That's right!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_01_10",
+                "type": "Speech",
+                "text": "I knew you'd feel the same way that I do!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_01_11",
+                "type": "Speech",
+                "text": "I'm glad. I was starting to think I needed to get my eyes checked.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_01_12",
+                "type": "Narration",
+                "text": "Signal tells me about all of Delta's positive qualities.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_02_1",
+                "type": "Speech",
+                "text": "C-Commander... I completed my mission...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_02_2",
+                "type": "Speech",
+                "text": "Is it okay if I watch an episode of my TV show?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_02_3",
+                "type": "Speech",
+                "text": "Would... would I get in trouble if I did?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_02_4",
+                "type": "Choice",
+                "text": "Darn right you'd be in trouble.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_02_6"
+            },
+            {
+                "id": "d_counseling_signal_02_5",
+                "type": "Choice",
+                "text": "You won't be in trouble.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_02_9"
+            },
+            {
+                "id": "d_counseling_signal_02_6",
+                "type": "Speech",
+                "text": "I knew it...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_02_7",
+                "type": "Speech",
+                "text": "It's the series finale, so I really wanted to see it right when it aired.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_02_8",
+                "type": "Speech",
+                "text": "But, I understand...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_02_12"
+            },
+            {
+                "id": "d_counseling_signal_02_9",
+                "type": "Speech",
+                "text": "R-really?!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_02_10",
+                "type": "Speech",
+                "text": "It's the series finale! I've been dying to see it.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_02_11",
+                "type": "Speech",
+                "text": "Thank you so much!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_02_12",
+                "type": "Narration",
+                "text": "I have a pleasant conversation about TV shows with Signal.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_03_1",
+                "type": "Speech",
+                "text": "C-Commander, if you were in a relationship, what kind of relationship would you like to be in?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_03_2",
+                "type": "Choice",
+                "text": "I'd want it to be a relationship full of passion, like the ones on TV.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_03_4"
+            },
+            {
+                "id": "d_counseling_signal_03_3",
+                "type": "Choice",
+                "text": "I'm an adult, so I would like to be in an adult relationship.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_03_6"
+            },
+            {
+                "id": "d_counseling_signal_03_4",
+                "type": "Speech",
+                "text": "Of course!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_03_5",
+                "type": "Speech",
+                "text": "Me, too. It's my dream to be in a relationship just like the ones in the romantic dramas.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_03_9"
+            },
+            {
+                "id": "d_counseling_signal_03_6",
+                "type": "Speech",
+                "text": "An... adult relationship?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_03_7",
+                "type": "Speech",
+                "text": "I-I understand...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_03_8",
+                "type": "Speech",
+                "text": "Adult... could I be considered an adult?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_03_9",
+                "type": "Narration",
+                "text": "I have a conversation with Signal about romantic relationships.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_04_1",
+                "type": "Speech",
+                "text": "Commander, this is only a hypothetical question, but...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_04_2",
+                "type": "Speech",
+                "text": "If you could take time off right now,",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_04_3",
+                "type": "Speech",
+                "text": "would you rather stay home or go out?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_04_4",
+                "type": "Choice",
+                "text": "I'd spend my free time outside, where there are lots of fun things to do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_04_6"
+            },
+            {
+                "id": "d_counseling_signal_04_5",
+                "type": "Choice",
+                "text": "I'd have a staycation at home and binge watch all my favorite shows.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_04_9"
+            },
+            {
+                "id": "d_counseling_signal_04_6",
+                "type": "Speech",
+                "text": "I-I see.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_04_7",
+                "type": "Speech",
+                "text": "I thought you might have enjoyed staying home...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_04_8",
+                "type": "Speech",
+                "text": "W-well, thank you for answering my question.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_04_12"
+            },
+            {
+                "id": "d_counseling_signal_04_9",
+                "type": "Speech",
+                "text": "You're so right, Commander!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_04_10",
+                "type": "Speech",
+                "text": "If you stay home, there are so many shows that you could binge!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_04_11",
+                "type": "Speech",
+                "text": "It's the perfect way to use your vacation time!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_04_12",
+                "type": "Narration",
+                "text": "Signal and I go on making plans for our imaginary vacation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_05_1",
+                "type": "Speech",
+                "text": "Commander... Wh-what... exactly is your type?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_05_2",
+                "type": "Speech",
+                "text": "I-I don't mean anything by it. I... I was just curious.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_05_3",
+                "type": "Speech",
+                "text": "Honestly!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_05_4",
+                "type": "Choice",
+                "text": "Are you sure it's just simple curiosity?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_05_6"
+            },
+            {
+                "id": "d_counseling_signal_05_5",
+                "type": "Choice",
+                "text": "Someone I can watch my favorite shows with.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_05_8"
+            },
+            {
+                "id": "d_counseling_signal_05_6",
+                "type": "Speech",
+                "text": "Eep! Forget I said anything!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_05_7",
+                "type": "Speech",
+                "text": "Just pretend I never asked!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_05_11"
+            },
+            {
+                "id": "d_counseling_signal_05_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_05_9",
+                "type": "Speech",
+                "text": "R-really? You're not pulling my leg, are you?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_05_10",
+                "type": "Speech",
+                "text": "Even if it is a joke, just hearing you say it makes me happy!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_05_11",
+                "type": "Narration",
+                "text": "I calm down Signal, who is blushing a bright red.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_06_1",
+                "type": "Speech",
+                "text": "Commander... Y-you have to tell me the truth...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_06_2",
+                "type": "Speech",
+                "text": "Are you in any pain?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_06_3",
+                "type": "Choice",
+                "text": "There's been nothing but pain in my entire life.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_06_5"
+            },
+            {
+                "id": "d_counseling_signal_06_4",
+                "type": "Choice",
+                "text": "Is the protagonist on your TV show terminally ill?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_06_8"
+            },
+            {
+                "id": "d_counseling_signal_06_5",
+                "type": "Speech",
+                "text": "What?!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_06_6",
+                "type": "Speech",
+                "text": "Please tell me you're joking! That's not actually true, is it?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_06_7",
+                "type": "Speech",
+                "text": "T-tell me it's not true. We need to get you to a hospital at once!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_06_11"
+            },
+            {
+                "id": "d_counseling_signal_06_8",
+                "type": "Speech",
+                "text": "How did you...?!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_06_9",
+                "type": "Speech",
+                "text": "You're so perceptive, Commander.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_06_10",
+                "type": "Speech",
+                "text": "With that kind of insight, you probably know what type of diseases you yourself have.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_06_11",
+                "type": "Narration",
+                "text": "I have a conversation with Signal about health management.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_07_1",
+                "type": "Speech",
+                "text": "Hey... Today, when I woke up,",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_2",
+                "type": "Speech",
+                "text": "I was on the opposite side of the bed from where I fell asleep.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_3",
+                "type": "Speech",
+                "text": "Do you think something happened to me last night?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_4",
+                "type": "Choice",
+                "text": "There might have been a thief.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_07_6"
+            },
+            {
+                "id": "d_counseling_signal_07_5",
+                "type": "Choice",
+                "text": "You probably danced in your sleep.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_07_10"
+            },
+            {
+                "id": "d_counseling_signal_07_6",
+                "type": "Speech",
+                "text": "A th-thief?!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_7",
+                "type": "Speech",
+                "text": "But, there's nothing in my room worth stealing!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_8",
+                "type": "Speech",
+                "text": "I thought it was just my own weird sleeping habits... I never thought a crime would be involved...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_9",
+                "type": "Speech",
+                "text": "This is all making me very anxious...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_07_13"
+            },
+            {
+                "id": "d_counseling_signal_07_10",
+                "type": "Speech",
+                "text": "Hey! Now that you mention it, I think I did have a dream like that!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_11",
+                "type": "Speech",
+                "text": "Anyway, as long as nobody else came into my room or anything, I'm happy.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_12",
+                "type": "Speech",
+                "text": "Thank you for putting my mind at ease!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_07_13",
+                "type": "Narration",
+                "text": "I have a conversation with Signal about sleeping habits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_08_1",
+                "type": "Speech",
+                "text": "I've decided.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_2",
+                "type": "Speech",
+                "text": "Starting today, I'm going to focus more on myself.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_3",
+                "type": "Speech",
+                "text": "I'm going to become a career-driven woman.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_4",
+                "type": "Speech",
+                "text": "So... W-with that being said...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_5",
+                "type": "Speech",
+                "text": "Can I dress in office attire, starting tomorrow?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_6",
+                "type": "Choice",
+                "text": "Yes, you can.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_08_8"
+            },
+            {
+                "id": "d_counseling_signal_08_7",
+                "type": "Choice",
+                "text": "Are you sure Delta will be okay with this?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_08_11"
+            },
+            {
+                "id": "d_counseling_signal_08_8",
+                "type": "Speech",
+                "text": "I can't believe you agreed to it so quickly!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_9",
+                "type": "Speech",
+                "text": "So... why do I feel so anxious?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_10",
+                "type": "Speech",
+                "text": "I feel like I'm missing something important...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_08_15"
+            },
+            {
+                "id": "d_counseling_signal_08_11",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_12",
+                "type": "Speech",
+                "text": "Oh, right. Delta will never agree. I'll get in trouble for sure...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_13",
+                "type": "Speech",
+                "text": "*Sigh* I guess I'll just give up now.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_14",
+                "type": "Speech",
+                "text": "Thank you for reminding me, Commander.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_08_15",
+                "type": "Narration",
+                "text": "Signal and I talk about what it means to be a career woman.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_09_1",
+                "type": "Speech",
+                "text": "I really hate it when it rains before a mission.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_09_2",
+                "type": "Speech",
+                "text": "But, I like the rain when I'm indoors.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_09_3",
+                "type": "Speech",
+                "text": "What do you think about rain, Commander?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_09_4",
+                "type": "Choice",
+                "text": "I enjoy the rain. I find it very atmospheric.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_09_6"
+            },
+            {
+                "id": "d_counseling_signal_09_5",
+                "type": "Choice",
+                "text": "I despise the rain, especially during combat.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_09_9"
+            },
+            {
+                "id": "d_counseling_signal_09_6",
+                "type": "Speech",
+                "text": "I feel the same way!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_09_7",
+                "type": "Speech",
+                "text": "The romantic sound of the raindrops really makes me feel like I'm living in a TV show...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_09_8",
+                "type": "Speech",
+                "text": "I'm so glad we feel the same way.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_09_11"
+            },
+            {
+                "id": "d_counseling_signal_09_9",
+                "type": "Speech",
+                "text": "O-oh, right!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_09_10",
+                "type": "Speech",
+                "text": "Yeah, it's totally the worst, especially during combat...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_09_11",
+                "type": "Narration",
+                "text": "I have a conversation with Signal about the rain.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_10_1",
+                "type": "Speech",
+                "text": "I... watched a show yesterday.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_2",
+                "type": "Speech",
+                "text": "It said that when you look at the Ark from the surface elevator,",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_3",
+                "type": "Speech",
+                "text": "it sparkles like starlight in the night sky.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_4",
+                "type": "Speech",
+                "text": "Do you think that's true, Commander?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_5",
+                "type": "Choice",
+                "text": "I think it's true.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_10_7"
+            },
+            {
+                "id": "d_counseling_signal_10_6",
+                "type": "Choice",
+                "text": "The night sky is prettier up on the surface.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_10_10"
+            },
+            {
+                "id": "d_counseling_signal_10_7",
+                "type": "Speech",
+                "text": "So I'm not the only one!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_8",
+                "type": "Speech",
+                "text": "Of course, the night sky would be even prettier up on the surface...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_9",
+                "type": "Speech",
+                "text": "But I love this show's dialogue. It's so dramatic!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_10_13"
+            },
+            {
+                "id": "d_counseling_signal_10_10",
+                "type": "Speech",
+                "text": "I-I don't disagree, but...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_11",
+                "type": "Speech",
+                "text": "don't you think it's such a dramatic metaphor?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_12",
+                "type": "Speech",
+                "text": "I-if you don't think so, that's fine, too...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_10_13",
+                "type": "Narration",
+                "text": "Signal and I talk about the beauty of the Ark.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_11_1",
+                "type": "Speech",
+                "text": "I was wondering...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_11_2",
+                "type": "Speech",
+                "text": "If you ever ran into an actor from your favorite TV show,",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_11_3",
+                "type": "Speech",
+                "text": "would you say hi?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_11_4",
+                "type": "Choice",
+                "text": "I absolutely would. I'd even try to get an autograph.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_11_6"
+            },
+            {
+                "id": "d_counseling_signal_11_5",
+                "type": "Choice",
+                "text": "I'd just stare from a distance as they passed by.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_11_9"
+            },
+            {
+                "id": "d_counseling_signal_11_6",
+                "type": "Speech",
+                "text": "Are you sure they'd be okay with that?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_11_7",
+                "type": "Speech",
+                "text": "But then again, it may be best to seize the opportunity when it presents itself.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_11_8",
+                "type": "Speech",
+                "text": "Quite the conundrum...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_11_12"
+            },
+            {
+                "id": "d_counseling_signal_11_9",
+                "type": "Speech",
+                "text": "Yeah, if you came out of nowhere to say hello, you may freak them out.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_11_10",
+                "type": "Speech",
+                "text": "I've been binging TV shows every day, so I'll just have to settle for seeing them on the screen.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_11_11",
+                "type": "Speech",
+                "text": "It would be nice to have a chance to meet some of the actors in person...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_11_12",
+                "type": "Narration",
+                "text": "Signal and I fantasize about meeting our favorite actors in the flesh.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_12_1",
+                "type": "Speech",
+                "text": "I bought a doll from the toy store, but",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_12_2",
+                "type": "Speech",
+                "text": "I think it looks a bit childish.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_12_3",
+                "type": "Speech",
+                "text": "What do you think?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_12_4",
+                "type": "Choice",
+                "text": "It's adorable.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_12_6"
+            },
+            {
+                "id": "d_counseling_signal_12_5",
+                "type": "Choice",
+                "text": "It's not my style.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_12_9"
+            },
+            {
+                "id": "d_counseling_signal_12_6",
+                "type": "Speech",
+                "text": "I didn't know you liked this kind of style!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_12_7",
+                "type": "Speech",
+                "text": "I thought I was the only one who found it cute...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_12_8",
+                "type": "Speech",
+                "text": "Are there any other designs that you like?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_12_11"
+            },
+            {
+                "id": "d_counseling_signal_12_9",
+                "type": "Speech",
+                "text": "I figured it wouldn't be to your preference...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_12_10",
+                "type": "Speech",
+                "text": "Next time, I'll try and buy something a little more sophisticated.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_12_11",
+                "type": "Narration",
+                "text": "I have a conversation with Signal about doll designs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_13_1",
+                "type": "Speech",
+                "text": "Commander, would it be possible for me to have 3 days off?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_13_2",
+                "type": "Speech",
+                "text": "Since our last mission was a success and all...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_13_3",
+                "type": "Speech",
+                "text": "This new show I've been looking forward to premieres tonight.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_13_4",
+                "type": "Choice",
+                "text": "What's the show about?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_13_6"
+            },
+            {
+                "id": "d_counseling_signal_13_5",
+                "type": "Choice",
+                "text": "Sure, you deserve a little R&R.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_13_9"
+            },
+            {
+                "id": "d_counseling_signal_13_6",
+                "type": "Speech",
+                "text": "It's about a young woman and the innocence of her first love.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_13_7",
+                "type": "Speech",
+                "text": "It's got an amazing cast, so everyone's been looking forward to it.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_13_8",
+                "type": "Speech",
+                "text": "Are you interested in seeing it?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_13_12"
+            },
+            {
+                "id": "d_counseling_signal_13_9",
+                "type": "Speech",
+                "text": "Thank you!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_13_10",
+                "type": "Speech",
+                "text": "Um...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_13_11",
+                "type": "Speech",
+                "text": "Aren't you curious about what the show is about?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_13_12",
+                "type": "Narration",
+                "text": "Signal and I talk about the new TV show that's about to premiere.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_14_1",
+                "type": "Speech",
+                "text": "There are times when we need to file a complaint against a store.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_14_2",
+                "type": "Speech",
+                "text": "I always have a hard time saying anything because I'm afraid of hurting the other person's feelings.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_14_3",
+                "type": "Speech",
+                "text": "If it were you, Commander, how would you handle it?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_14_4",
+                "type": "Choice",
+                "text": "I would be direct and tell them exactly what my issues are.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_14_6"
+            },
+            {
+                "id": "d_counseling_signal_14_5",
+                "type": "Choice",
+                "text": "I would try to hint at what my issues are.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_14_9"
+            },
+            {
+                "id": "d_counseling_signal_14_6",
+                "type": "Speech",
+                "text": "S-so I should be as direct as possible, right?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_14_7",
+                "type": "Speech",
+                "text": "That way, they'll know where I stand right off the bat...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_14_8",
+                "type": "Speech",
+                "text": "But it's so hard!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_14_12"
+            },
+            {
+                "id": "d_counseling_signal_14_9",
+                "type": "Speech",
+                "text": "Funny, I had you pegged as someone who'd prefer the direct approach.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_14_10",
+                "type": "Speech",
+                "text": "Even if I only allude to it, I should be able to get my point across in the end, right?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_14_11",
+                "type": "Speech",
+                "text": "Not only that, but the person on the other end won't feel as bad.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_14_12",
+                "type": "Narration",
+                "text": "I have a conversation with Signal about ways of speaking to others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_15_1",
+                "type": "Speech",
+                "text": "I heard that music can be an indicator of a person's mood and personality.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_15_2",
+                "type": "Speech",
+                "text": "Commander, what kind of music do you usually listen to?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_15_3",
+                "type": "Choice",
+                "text": "The Waiting on Love OST, the first track.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_15_5"
+            },
+            {
+                "id": "d_counseling_signal_15_4",
+                "type": "Choice",
+                "text": "This death metal band called Kill Your Darlings.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_15_8"
+            },
+            {
+                "id": "d_counseling_signal_15_5",
+                "type": "Speech",
+                "text": "O-oh my gosh!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_15_6",
+                "type": "Speech",
+                "text": "That's the music that plays when the two actors first meet!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_15_7",
+                "type": "Speech",
+                "text": "Track 6 is also really good. Have you heard it?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_15_11"
+            },
+            {
+                "id": "d_counseling_signal_15_8",
+                "type": "Speech",
+                "text": "Oh, so you like heavy metal?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_15_9",
+                "type": "Speech",
+                "text": "I'm not too familiar with that genre...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_15_10",
+                "type": "Speech",
+                "text": "But I'll give it a listen whenever I have the chance!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_15_11",
+                "type": "Narration",
+                "text": "Signal and I discuss our taste in music.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_16_1",
+                "type": "Speech",
+                "text": "Hello, Commander...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_16_2",
+                "type": "Speech",
+                "text": "... Never mind, it's nothing.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_16_3",
+                "type": "Choice",
+                "text": "That show you've been watching is starting soon. You can leave early today.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_16_5"
+            },
+            {
+                "id": "d_counseling_signal_16_4",
+                "type": "Choice",
+                "text": "Understood.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_16_8"
+            },
+            {
+                "id": "d_counseling_signal_16_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_16_6",
+                "type": "Speech",
+                "text": "How did you know? Do you watch it too?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_16_7",
+                "type": "Speech",
+                "text": "I promise all of my work is done! Thank you!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_16_11"
+            },
+            {
+                "id": "d_counseling_signal_16_8",
+                "type": "Speech",
+                "text": "Very well...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_16_9",
+                "type": "Self",
+                "text": "It seems like Signal has something she wants to say, but can't.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_16_10",
+                "type": "Speech",
+                "text": "Comman... Sigh. It's nothing.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_16_11",
+                "type": "Narration",
+                "text": "Signal and I ended our discussion early.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_17_1",
+                "type": "Speech",
+                "text": "I had a dream about being in a relationship. It all seemed so real.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_17_2",
+                "type": "Speech",
+                "text": "It would be nice if I could meet that person who was in my dreams someday...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_17_3",
+                "type": "Choice",
+                "text": "I'm sure one day your dream will become a reality.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_17_5"
+            },
+            {
+                "id": "d_counseling_signal_17_4",
+                "type": "Choice",
+                "text": "Well, dreams are by definition the opposite of reality.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_17_8"
+            },
+            {
+                "id": "d_counseling_signal_17_5",
+                "type": "Speech",
+                "text": "You really think my dream will come true?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_17_6",
+                "type": "Speech",
+                "text": "I certainly hope so. We went on an amazing date!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_17_7",
+                "type": "Speech",
+                "text": "I hope that person shows up again in my dream tonight. Hehe.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_17_10"
+            },
+            {
+                "id": "d_counseling_signal_17_8",
+                "type": "Speech",
+                "text": "If that's true, that's so sad...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_17_9",
+                "type": "Speech",
+                "text": "We went on an amazing date in my dream.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_17_10",
+                "type": "Narration",
+                "text": "Signal and I talk about dreams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_18_1",
+                "type": "Speech",
+                "text": "What should I do if I feel resentment towards one of my squadmates?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_18_2",
+                "type": "Choice",
+                "text": "What did Delta do this time?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_18_4"
+            },
+            {
+                "id": "d_counseling_signal_18_3",
+                "type": "Choice",
+                "text": "You should let them know. Don't keep it bottled up inside.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_18_7"
+            },
+            {
+                "id": "d_counseling_signal_18_4",
+                "type": "Speech",
+                "text": "Wh-what?!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_18_5",
+                "type": "Speech",
+                "text": "I was just curious, that's all. It's got nothing to do with Delta!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_18_6",
+                "type": "Speech",
+                "text": "Please don't tell her any of this!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_18_10"
+            },
+            {
+                "id": "d_counseling_signal_18_7",
+                "type": "Speech",
+                "text": "I suppose you're right.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_18_8",
+                "type": "Speech",
+                "text": "I can't keep everything bottled up inside forever.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_18_9",
+                "type": "Speech",
+                "text": "One of these days I'm going to say something!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_18_10",
+                "type": "Narration",
+                "text": "Signal and I have a short chat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_19_1",
+                "type": "Speech",
+                "text": "Commander, have you ever been to a flower garden?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_19_2",
+                "type": "Speech",
+                "text": "I saw one once in a TV show, and it looked absolutely gorgeous.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_19_3",
+                "type": "Speech",
+                "text": "I'd love to visit one for real someday.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_19_4",
+                "type": "Choice",
+                "text": "Actually, you could say I'm in a flower garden right now.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_19_6"
+            },
+            {
+                "id": "d_counseling_signal_19_5",
+                "type": "Choice",
+                "text": "Yes, I've been to one before.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_19_8"
+            },
+            {
+                "id": "d_counseling_signal_19_6",
+                "type": "Speech",
+                "text": "Huh? But where are the flowers... Wait... a-are you saying I'm the flower?!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_19_7",
+                "type": "Speech",
+                "text": "Gah! Commander, where is this coming from?!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_19_10"
+            },
+            {
+                "id": "d_counseling_signal_19_8",
+                "type": "Speech",
+                "text": "Wow, so you've actually been to one before?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_19_9",
+                "type": "Speech",
+                "text": "Who did you go with? They're usually meant to be date spots...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_19_10",
+                "type": "Narration",
+                "text": "Signal and I talk more about flower gardens.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_signal_20_1",
+                "type": "Speech",
+                "text": "Commander, if telling the truth would hurt someone's feelings,",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_20_2",
+                "type": "Speech",
+                "text": "what's your opinion on white lies?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_20_3",
+                "type": "Choice",
+                "text": "I think it's needed in some situations.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_signal_20_5"
+            },
+            {
+                "id": "d_counseling_signal_20_4",
+                "type": "Choice",
+                "text": "Lying is a terrible thing, even if it's a white lie.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_signal_20_8"
+            },
+            {
+                "id": "d_counseling_signal_20_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_20_6",
+                "type": "Speech",
+                "text": "Do you think that's true, Commander?",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_20_7",
+                "type": "Speech",
+                "text": "I feel the same way. With a white lie, no one gets hurt.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": "d_counseling_signal_20_10"
+            },
+            {
+                "id": "d_counseling_signal_20_8",
+                "type": "Speech",
+                "text": "I guess you're right... a white lie is still a lie...",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_20_9",
+                "type": "Speech",
+                "text": "But I think sometimes it's better to lie in order to spare the other person's feelings.",
+                "speaker": "Signal",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_signal_20_10",
+                "type": "Narration",
+                "text": "I have a conversation with Signal about lying.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

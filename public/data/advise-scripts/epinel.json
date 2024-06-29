@@ -1,0 +1,1669 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_epinel_01_1",
+                "type": "Speech",
+                "text": "Hey. You know bubble gum?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_01_2",
+                "type": "Speech",
+                "text": "What is your favorite flavor?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_01_3",
+                "type": "Choice",
+                "text": "Peach.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_01_5"
+            },
+            {
+                "id": "d_counseling_epinel_01_4",
+                "type": "Choice",
+                "text": "Ginseng.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_01_7"
+            },
+            {
+                "id": "d_counseling_epinel_01_5",
+                "type": "Monologue",
+                "text": "Epinel gives you a thumbs up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_01_6",
+                "type": "Speech",
+                "text": "Neat choice, Coach.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_01_9"
+            },
+            {
+                "id": "d_counseling_epinel_01_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_01_8",
+                "type": "Speech",
+                "text": "Just exactly how old are you, Coach?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_01_9",
+                "type": "Narration",
+                "text": "I discuss bubble gum preferences with Epinel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_02_1",
+                "type": "Speech",
+                "text": "My hair is too long.\nIt's hard to dry after I take a shower.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_02_2",
+                "type": "Speech",
+                "text": "Got any tips?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_02_3",
+                "type": "Choice",
+                "text": "Get an industrial-strength hair dryer.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_02_5"
+            },
+            {
+                "id": "d_counseling_epinel_02_4",
+                "type": "Choice",
+                "text": "Come to my office. I can help you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_02_7"
+            },
+            {
+                "id": "d_counseling_epinel_02_5",
+                "type": "Speech",
+                "text": "Industrial-strength...\nThe kind the barbers use?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_02_6",
+                "type": "Speech",
+                "text": "I'll... uh... try to find one, I guess.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_02_10"
+            },
+            {
+                "id": "d_counseling_epinel_02_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_02_8",
+                "type": "Speech",
+                "text": "OK, then. Tomorrow morning I'm showing up with towels and a hair dryer.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_02_9",
+                "type": "Speech",
+                "text": "You can't complain, either. It was your idea.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_02_10",
+                "type": "Narration",
+                "text": "I listen to Epinel's troubles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_03_1",
+                "type": "Speech",
+                "text": "Coach, give it to me straight.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_03_2",
+                "type": "Speech",
+                "text": "Am I... short?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_03_3",
+                "type": "Choice",
+                "text": "Not at all.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_03_5"
+            },
+            {
+                "id": "d_counseling_epinel_03_4",
+                "type": "Choice",
+                "text": "The shorter, the cuter!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_03_7"
+            },
+            {
+                "id": "d_counseling_epinel_03_5",
+                "type": "Speech",
+                "text": "Yeah, right?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_03_6",
+                "type": "Speech",
+                "text": "My size never gets in the way when I'm working out, anyway.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_03_9"
+            },
+            {
+                "id": "d_counseling_epinel_03_7",
+                "type": "Speech",
+                "text": "Uh...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_03_8",
+                "type": "Speech",
+                "text": "Yeah. Cool. Thanks.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_03_9",
+                "type": "Narration",
+                "text": "I listen to all of Epinel's troubles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_04_1",
+                "type": "Speech",
+                "text": "Coach, do you ever get tired of being a Commander?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_04_2",
+                "type": "Choice",
+                "text": "All the time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_04_4"
+            },
+            {
+                "id": "d_counseling_epinel_04_3",
+                "type": "Choice",
+                "text": "Never.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_04_7"
+            },
+            {
+                "id": "d_counseling_epinel_04_4",
+                "type": "Speech",
+                "text": "Oh. I thought you wouldn't.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_04_5",
+                "type": "Speech",
+                "text": "Well, anyway,\nthat makes me feel a little less alone.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_04_6",
+                "type": "Speech",
+                "text": "I thought I was the only one who ever felt that way.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_04_9"
+            },
+            {
+                "id": "d_counseling_epinel_04_7",
+                "type": "Speech",
+                "text": "Whoa.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_04_8",
+                "type": "Speech",
+                "text": "You're a real tough guy.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_04_9",
+                "type": "Narration",
+                "text": "I listen to Epinel's various troubles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_05_1",
+                "type": "Speech",
+                "text": "Coach, you free tomorrow?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_05_2",
+                "type": "Speech",
+                "text": "I have a big competition tomorrow at Nepenthe.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_05_3",
+                "type": "Choice",
+                "text": "I'm busy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_05_5"
+            },
+            {
+                "id": "d_counseling_epinel_05_4",
+                "type": "Choice",
+                "text": "I'll be there. I promise.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_05_7"
+            },
+            {
+                "id": "d_counseling_epinel_05_5",
+                "type": "Speech",
+                "text": "Huh. I get it.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_05_6",
+                "type": "Speech",
+                "text": "Work always comes first for the Coach.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_05_9"
+            },
+            {
+                "id": "d_counseling_epinel_05_7",
+                "type": "Speech",
+                "text": "... Thank you.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_05_8",
+                "type": "Speech",
+                "text": "If Coach is really there, I'll definitely give it my best.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_05_9",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Epinel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_06_1",
+                "type": "Speech",
+                "text": "What was it like to skateboard on the surface back in the day?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_06_2",
+                "type": "Speech",
+                "text": "I wanna know what skateboarders were like back then.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_06_3",
+                "type": "Choice",
+                "text": "Free as a bird.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_06_5"
+            },
+            {
+                "id": "d_counseling_epinel_06_4",
+                "type": "Choice",
+                "text": "No different from skateboarding in the Ark.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_06_8"
+            },
+            {
+                "id": "d_counseling_epinel_06_5",
+                "type": "Speech",
+                "text": "Hah. I knew it.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_06_6",
+                "type": "Speech",
+                "text": "That's why I keep fighting harder, day after day.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_06_7",
+                "type": "Speech",
+                "text": "I need to win back the place where I can skateboard,\nfree as a bird.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_06_10"
+            },
+            {
+                "id": "d_counseling_epinel_06_8",
+                "type": "Speech",
+                "text": "Huh.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_06_9",
+                "type": "Speech",
+                "text": "Coach could be happy anywhere, I guess.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_06_10",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Epinel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_07_1",
+                "type": "Speech",
+                "text": "Coach, when we're done here, wanna come skateboard with me?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_07_2",
+                "type": "Speech",
+                "text": "There's a park by the gym.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_07_3",
+                "type": "Choice",
+                "text": "Sure.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_07_5"
+            },
+            {
+                "id": "d_counseling_epinel_07_4",
+                "type": "Choice",
+                "text": "Sorry, I'm just too busy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_07_8"
+            },
+            {
+                "id": "d_counseling_epinel_07_5",
+                "type": "Speech",
+                "text": "Cool.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_07_6",
+                "type": "Speech",
+                "text": "It's got stairs with railings and benches.\nPerfect place for skateboarding.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_07_7",
+                "type": "Speech",
+                "text": "Even better, nobody ever goes there. We can play until lights out.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_07_10"
+            },
+            {
+                "id": "d_counseling_epinel_07_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_07_9",
+                "type": "Speech",
+                "text": "Whatever. I get it.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_07_10",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Epinel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_08_1",
+                "type": "Speech",
+                "text": "Rumani is always bossing me around and telling me what to eat.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_08_2",
+                "type": "Speech",
+                "text": "She says I can't have any carbs...\nand I have to take protein Splendamin four times a day.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_08_3",
+                "type": "Choice",
+                "text": "That sounds like workplace bullying.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_08_5"
+            },
+            {
+                "id": "d_counseling_epinel_08_4",
+                "type": "Choice",
+                "text": "Do what she says. It's good advice.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_08_7"
+            },
+            {
+                "id": "d_counseling_epinel_08_5",
+                "type": "Speech",
+                "text": "I know, right?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_08_6",
+                "type": "Speech",
+                "text": "I'll tell her off next time.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_08_9"
+            },
+            {
+                "id": "d_counseling_epinel_08_7",
+                "type": "Speech",
+                "text": "Coach...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_08_8",
+                "type": "Speech",
+                "text": "Well, I guess I walked right into that one.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_08_9",
+                "type": "Narration",
+                "text": "I talk with Epinel about her squad members.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_09_1",
+                "type": "Speech",
+                "text": "My fans always copy everything I do. It's such a drag.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_09_2",
+                "type": "Speech",
+                "text": "I know they're just kids,\nbut they need to learn to think for themselves, right?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_09_3",
+                "type": "Choice",
+                "text": "Teenagers only copy the coolest people.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_09_5"
+            },
+            {
+                "id": "d_counseling_epinel_09_4",
+                "type": "Choice",
+                "text": "Kids these days just don't know how to act.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_09_7"
+            },
+            {
+                "id": "d_counseling_epinel_09_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_09_6",
+                "type": "Speech",
+                "text": "Whatever.\nIf you say so.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_09_9"
+            },
+            {
+                "id": "d_counseling_epinel_09_7",
+                "type": "Speech",
+                "text": "I really don't think it's a recent problem.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_09_8",
+                "type": "Speech",
+                "text": "From what I remember, kids have been like that since I debuted as a skateboarder.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_09_9",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Epinel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_10_1",
+                "type": "Speech",
+                "text": "Coach, have you ever... liked someone?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_10_2",
+                "type": "Choice",
+                "text": "Nope.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_10_4"
+            },
+            {
+                "id": "d_counseling_epinel_10_3",
+                "type": "Choice",
+                "text": "I'm still waiting.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_10_7"
+            },
+            {
+                "id": "d_counseling_epinel_10_4",
+                "type": "Speech",
+                "text": "Wha? Really?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_10_5",
+                "type": "Speech",
+                "text": "And with so many cool Nikkes around you...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_10_6",
+                "type": "Speech",
+                "text": "You're really cold, Coach.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_10_10"
+            },
+            {
+                "id": "d_counseling_epinel_10_7",
+                "type": "Speech",
+                "text": "Waiting? For what?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_10_8",
+                "type": "Speech",
+                "text": "Hold on, you mean you still haven't met your special someone?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_10_9",
+                "type": "Speech",
+                "text": "Well, good luck with that, Coach...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_10_10",
+                "type": "Narration",
+                "text": "I have a cozy chat with Epinel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_11_1",
+                "type": "Speech",
+                "text": "I feel like I've been stuck in a rut.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_11_2",
+                "type": "Speech",
+                "text": "What do you usually do to pull yourself back up on your feet?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_11_3",
+                "type": "Choice",
+                "text": "I face the problem head on until I overcome it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_11_5"
+            },
+            {
+                "id": "d_counseling_epinel_11_4",
+                "type": "Choice",
+                "text": "I just wait and have faith that everything will work out in the end.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_11_8"
+            },
+            {
+                "id": "d_counseling_epinel_11_5",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_11_6",
+                "type": "Speech",
+                "text": "Right... it's better to take action",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_11_7",
+                "type": "Speech",
+                "text": "instead of sitting around waiting for the problem to solve itself.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_11_11"
+            },
+            {
+                "id": "d_counseling_epinel_11_8",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_11_9",
+                "type": "Speech",
+                "text": "But doesn't that make you more anxious?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_11_10",
+                "type": "Speech",
+                "text": "Just waiting around without knowing when everything will be resolved?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_11_11",
+                "type": "Narration",
+                "text": "Epinel and I talk more about feeling stuck in a rut.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_12_1",
+                "type": "Speech",
+                "text": "I always carry bubble gum with me in my pocket.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_12_2",
+                "type": "Speech",
+                "text": "What do you normally carry in your pockets?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_12_3",
+                "type": "Choice",
+                "text": "Some candy or gum.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_12_5"
+            },
+            {
+                "id": "d_counseling_epinel_12_4",
+                "type": "Choice",
+                "text": "Money.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_12_8"
+            },
+            {
+                "id": "d_counseling_epinel_12_5",
+                "type": "Speech",
+                "text": "I actually get bored talking to you sometimes.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_12_6",
+                "type": "Speech",
+                "text": "We're too similar.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_12_7",
+                "type": "Speech",
+                "text": "How about I trade you some of my gum for your candy?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_12_9"
+            },
+            {
+                "id": "d_counseling_epinel_12_8",
+                "type": "Speech",
+                "text": "Yep, you're an adult all right. Not a fun-loving bone in your body.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_12_9",
+                "type": "Narration",
+                "text": "During our discussion, Epinel and I show each other the contents of our pockets.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_13_1",
+                "type": "Speech",
+                "text": "If we ever end up reclaiming the surface,",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_13_2",
+                "type": "Speech",
+                "text": "what's the first thing you would do?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_13_3",
+                "type": "Choice",
+                "text": "Experience my first moment of freedom skateboarding with you up on the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_13_5"
+            },
+            {
+                "id": "d_counseling_epinel_13_4",
+                "type": "Choice",
+                "text": "Since the fight would finally be over, I'd enjoy some long overdue R&R.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_13_8"
+            },
+            {
+                "id": "d_counseling_epinel_13_5",
+                "type": "Speech",
+                "text": "Nice!",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_13_6",
+                "type": "Speech",
+                "text": "You'll probably know your way around a board by then.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_13_7",
+                "type": "Speech",
+                "text": "I hope that day comes sooner rather than later.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_13_11"
+            },
+            {
+                "id": "d_counseling_epinel_13_8",
+                "type": "Speech",
+                "text": "Right... you're always being put through the wringer.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_13_9",
+                "type": "Speech",
+                "text": "I'll kick back and relax too, then.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_13_10",
+                "type": "Speech",
+                "text": "But you have to promise to go skateboarding with me once you're finished resting, okay?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_13_11",
+                "type": "Narration",
+                "text": "Epinel and I spend more time imaging our plans for the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_14_1",
+                "type": "Speech",
+                "text": "Hey, check it out! I invented a new trick.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_14_2",
+                "type": "Speech",
+                "text": "What do you think I should call it?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_14_3",
+                "type": "Choice",
+                "text": "First off, what's the trick?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_14_5"
+            },
+            {
+                "id": "d_counseling_epinel_14_4",
+                "type": "Choice",
+                "text": "Triple kickflip nollie shuvit.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_14_8"
+            },
+            {
+                "id": "d_counseling_epinel_14_5",
+                "type": "Speech",
+                "text": "Oh right, I forgot to tell you.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_14_6",
+                "type": "Speech",
+                "text": "Good thing you reminded me!",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_14_7",
+                "type": "Speech",
+                "text": "It's nothing too crazy, just a basic trick.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_14_11"
+            },
+            {
+                "id": "d_counseling_epinel_14_8",
+                "type": "Speech",
+                "text": "It's a brilliant name,",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_14_9",
+                "type": "Speech",
+                "text": "but I don't think it really goes well with the trick.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_14_10",
+                "type": "Speech",
+                "text": "Now that I think about it, I never told you what the trick was!",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_14_11",
+                "type": "Narration",
+                "text": "Epinel and I try to come up with a good name for her new skateboarding trick.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_15_1",
+                "type": "Speech",
+                "text": "I've been thinking about buying a new skateboard to practice on.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_2",
+                "type": "Speech",
+                "text": "Should I buy one that's nice and simple, or one that's all tricked out?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_3",
+                "type": "Speech",
+                "text": "They're both the same brand.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_4",
+                "type": "Choice",
+                "text": "One that's simple.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_15_6"
+            },
+            {
+                "id": "d_counseling_epinel_15_5",
+                "type": "Choice",
+                "text": "One that's tricked out.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_15_10"
+            },
+            {
+                "id": "d_counseling_epinel_15_6",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_7",
+                "type": "Speech",
+                "text": "I always ride the same type of skateboard,",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_8",
+                "type": "Speech",
+                "text": "so I was thinking about buying something different to practice on.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_9",
+                "type": "Speech",
+                "text": "But then again, something simple should get the job done.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_15_13"
+            },
+            {
+                "id": "d_counseling_epinel_15_10",
+                "type": "Speech",
+                "text": "I'm worried that it might be a little too much for me.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_11",
+                "type": "Speech",
+                "text": "Still, I always ride the same type of skateboard, so",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_12",
+                "type": "Speech",
+                "text": "it might be okay if I'm just using it to practice on.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_15_13",
+                "type": "Narration",
+                "text": "I try to guide Epinel through her conundrum over the design of her skateboard.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_16_1",
+                "type": "Speech",
+                "text": "People expect a lot from me.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_16_2",
+                "type": "Speech",
+                "text": "I want to live up to those high expectations, so I always push things to the limit.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_16_3",
+                "type": "Choice",
+                "text": "That mindset is what got you to where you are today.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_16_5"
+            },
+            {
+                "id": "d_counseling_epinel_16_4",
+                "type": "Choice",
+                "text": "Just be careful. You might end up hurting yourself one day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_16_8"
+            },
+            {
+                "id": "d_counseling_epinel_16_5",
+                "type": "Speech",
+                "text": "... Thank you for saying that.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_16_6",
+                "type": "Speech",
+                "text": "You're right, it's that very mindset that",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_16_7",
+                "type": "Speech",
+                "text": "got me this far.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_16_10"
+            },
+            {
+                "id": "d_counseling_epinel_16_8",
+                "type": "Speech",
+                "text": "My only worry is that I'll fall into another slump",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_16_9",
+                "type": "Speech",
+                "text": "if I take my foot off the gas for even an instant.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_16_10",
+                "type": "Narration",
+                "text": "Epinel and I have a serious conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_17_1",
+                "type": "Speech",
+                "text": "I'd like to go head to head with Sugar. My skateboard versus her motorcycle.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_17_2",
+                "type": "Speech",
+                "text": "I know full well she'll smoke me, but I think it'd be fun, don't you?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_17_3",
+                "type": "Choice",
+                "text": "I think if you put your mind to it, you might win.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_17_5"
+            },
+            {
+                "id": "d_counseling_epinel_17_4",
+                "type": "Choice",
+                "text": "It'll be a race for the ages.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_17_8"
+            },
+            {
+                "id": "d_counseling_epinel_17_5",
+                "type": "Speech",
+                "text": "Thank you for saying that,",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_17_6",
+                "type": "Speech",
+                "text": "but I still don't see it happening.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_17_7",
+                "type": "Speech",
+                "text": "How can a skateboard edge out a motorcycle?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_17_11"
+            },
+            {
+                "id": "d_counseling_epinel_17_8",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_17_9",
+                "type": "Speech",
+                "text": "Maybe I'll make it an exhibition match in the next competition.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_17_10",
+                "type": "Speech",
+                "text": "You have to come to watch, Coach.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_17_11",
+                "type": "Narration",
+                "text": "Epinel and I imagine what it would be like for her to race against Sugar.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_18_1",
+                "type": "Speech",
+                "text": "Coach, I need something right away. Can you guess what it is?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_18_2",
+                "type": "Choice",
+                "text": "Shoes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_18_4"
+            },
+            {
+                "id": "d_counseling_epinel_18_3",
+                "type": "Choice",
+                "text": "skateboard.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_18_7"
+            },
+            {
+                "id": "d_counseling_epinel_18_4",
+                "type": "Speech",
+                "text": "I knew you'd figure it out.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_18_5",
+                "type": "Speech",
+                "text": "I tore up my shoes again during practice.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_18_6",
+                "type": "Speech",
+                "text": "I'm gonna go buy a pair later, want to come with me?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_18_10"
+            },
+            {
+                "id": "d_counseling_epinel_18_7",
+                "type": "Speech",
+                "text": "Nope. Fortunately, my skateboard is fine.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_18_8",
+                "type": "Speech",
+                "text": "I did, however, ruin another pair of shoes during practice.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_18_9",
+                "type": "Speech",
+                "text": "I'll have to buy another pair later.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_18_10",
+                "type": "Narration",
+                "text": "Epinel and I talk about what new shoes she'll buy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_19_1",
+                "type": "Speech",
+                "text": "I can be pouring sweat, but as soon as I'm on my skateboard, all the wind dries the sweat off.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_19_2",
+                "type": "Speech",
+                "text": "You think I should tell Folkwang to give skateboarding a try?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_19_3",
+                "type": "Choice",
+                "text": "I think it's a great idea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_19_5"
+            },
+            {
+                "id": "d_counseling_epinel_19_4",
+                "type": "Choice",
+                "text": "I don't think that's a good idea.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_19_8"
+            },
+            {
+                "id": "d_counseling_epinel_19_5",
+                "type": "Speech",
+                "text": "Perfect. I'll have her swing by during one of my practice sessions.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_19_6",
+                "type": "Speech",
+                "text": "She'll probably end up sweating up a storm and quitting.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_19_7",
+                "type": "Speech",
+                "text": "But you never know.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_19_11"
+            },
+            {
+                "id": "d_counseling_epinel_19_8",
+                "type": "Speech",
+                "text": "Yeah, it would take a while to teach her.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_19_9",
+                "type": "Speech",
+                "text": "Not only that, she'd have to be motivated to do it as well.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_19_10",
+                "type": "Speech",
+                "text": "Oh well, it was a nice thought.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_19_11",
+                "type": "Narration",
+                "text": "Epinel and I discuss whether or not skateboarding will help Folkwang with her excessive perspiration.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_epinel_20_1",
+                "type": "Speech",
+                "text": "The more people there are that get into skateboarding,",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_20_2",
+                "type": "Speech",
+                "text": "the more injuries start piling up.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_20_3",
+                "type": "Speech",
+                "text": "You think there's any way to counteract that problem?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_20_4",
+                "type": "Choice",
+                "text": "Have everyone wear safety gear.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_epinel_20_6"
+            },
+            {
+                "id": "d_counseling_epinel_20_5",
+                "type": "Choice",
+                "text": "Limit the purchase of skateboards.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_epinel_20_9"
+            },
+            {
+                "id": "d_counseling_epinel_20_6",
+                "type": "Speech",
+                "text": "That's a good idea.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_20_7",
+                "type": "Speech",
+                "text": "If you're padded up, the chances of you injuring yourself go way down.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_20_8",
+                "type": "Speech",
+                "text": "I'll slap on some safety gear for a while too.",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": "d_counseling_epinel_20_12"
+            },
+            {
+                "id": "d_counseling_epinel_20_9",
+                "type": "Speech",
+                "text": "Are you sure that won't make skateboarding too inaccessible?",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_20_10",
+                "type": "Speech",
+                "text": "I don't want to cut people off from the sport entirely,",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_20_11",
+                "type": "Speech",
+                "text": "I just want them to be able to ride safely...",
+                "speaker": "Epinel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_epinel_20_12",
+                "type": "Narration",
+                "text": "Epinel and I talked more about skateboarding safety.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

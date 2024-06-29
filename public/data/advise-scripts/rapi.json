@@ -1,0 +1,1661 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_rapi_01_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_01_2",
+                "type": "Speech",
+                "text": "Food supplies in the Outpost are dwindling.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_01_3",
+                "type": "Choice",
+                "text": "I'll only eat half-portions from now on.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_01_5"
+            },
+            {
+                "id": "d_counseling_rapi_01_4",
+                "type": "Choice",
+                "text": "We'll have to go without food.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_01_8"
+            },
+            {
+                "id": "d_counseling_rapi_01_5",
+                "type": "Speech",
+                "text": "That won't be necessary.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_01_6",
+                "type": "Speech",
+                "text": "We do not need to eat at all.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_01_7",
+                "type": "Speech",
+                "text": "There's no need for you to make such a sacrifice.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_01_10"
+            },
+            {
+                "id": "d_counseling_rapi_01_8",
+                "type": "Speech",
+                "text": "We cannot do that.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_01_9",
+                "type": "Speech",
+                "text": "Giving up when the chips are down will only dampen everyone's spirits even further.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_01_10",
+                "type": "Narration",
+                "text": "Rapi and I investigate who could have been the culprit who exhausted the food supplies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_02_1",
+                "type": "Speech",
+                "text": "Commander, I am curious.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_02_2",
+                "type": "Speech",
+                "text": "What are your opinions on private personal space?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_02_3",
+                "type": "Choice",
+                "text": "It's nice. You can have some time to yourself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_02_5"
+            },
+            {
+                "id": "d_counseling_rapi_02_4",
+                "type": "Choice",
+                "text": "It can get lonely sometimes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_02_7"
+            },
+            {
+                "id": "d_counseling_rapi_02_5",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_02_6",
+                "type": "Speech",
+                "text": "I will take that into consideration when making plans.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_02_9"
+            },
+            {
+                "id": "d_counseling_rapi_02_7",
+                "type": "Speech",
+                "text": "Ah. As I presumed, there are both pros and cons.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_02_8",
+                "type": "Speech",
+                "text": "I suppose there are two sides to every coin.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_02_9",
+                "type": "Narration",
+                "text": "I spend some quiet time together with Rapi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_03_1",
+                "type": "Speech",
+                "text": "When we're not on an operation, we are free to do whatever we want.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_03_2",
+                "type": "Speech",
+                "text": "We spend a lot of time training, but even then, we often have a lot of time left over.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_03_3",
+                "type": "Speech",
+                "text": "As such, I've been thinking of picking up a hobby.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_03_4",
+                "type": "Choice",
+                "text": "Just kick your feet up and while the hours away.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_03_6"
+            },
+            {
+                "id": "d_counseling_rapi_03_5",
+                "type": "Choice",
+                "text": "How about doing a different kind of training?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_03_8"
+            },
+            {
+                "id": "d_counseling_rapi_03_6",
+                "type": "Speech",
+                "text": "It's definitely tempting to spend the rest of my time like that.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_03_7",
+                "type": "Speech",
+                "text": "However, I was hoping I could do something meaningful.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_03_10"
+            },
+            {
+                "id": "d_counseling_rapi_03_8",
+                "type": "Speech",
+                "text": "Another type of training?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_03_9",
+                "type": "Speech",
+                "text": "It's a good suggestion, though it's not necessarily a hobby. Thank you for the advice.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_03_10",
+                "type": "Narration",
+                "text": "I spend some free time together with Rapi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_04_1",
+                "type": "Speech",
+                "text": "The paperwork at Counters is simple enough.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_04_2",
+                "type": "Speech",
+                "text": "However, sometimes there isn't enough time to do it all on my own.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_04_3",
+                "type": "Speech",
+                "text": "Surely there must be a way to get things done more efficiently...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_04_4",
+                "type": "Choice",
+                "text": "Have Anis and Neon help you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_04_6"
+            },
+            {
+                "id": "d_counseling_rapi_04_5",
+                "type": "Choice",
+                "text": "I can help you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_04_8"
+            },
+            {
+                "id": "d_counseling_rapi_04_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_04_7",
+                "type": "Speech",
+                "text": "I will pretend I didn't hear that.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_04_10"
+            },
+            {
+                "id": "d_counseling_rapi_04_8",
+                "type": "Speech",
+                "text": "I couldn't accept that. You must always be ready to head out at a moment's notice.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_04_9",
+                "type": "Speech",
+                "text": "But... it's the thought that counts. I do appreciate it.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_04_10",
+                "type": "Narration",
+                "text": "I hear all about Rapi's struggles with mounds of paperwork.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_05_1",
+                "type": "Speech",
+                "text": "I'm not sure if I should say this. I don't want to be a tattletale, but...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_05_2",
+                "type": "Speech",
+                "text": "Anis is starting to become unbearable.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_05_3",
+                "type": "Speech",
+                "text": "She never cleans up, not even a little bit.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_05_4",
+                "type": "Choice",
+                "text": "I'll talk to her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_05_6"
+            },
+            {
+                "id": "d_counseling_rapi_05_5",
+                "type": "Choice",
+                "text": "You should show her what's what.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_05_8"
+            },
+            {
+                "id": "d_counseling_rapi_05_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_05_7",
+                "type": "Speech",
+                "text": "Thank you.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_05_9"
+            },
+            {
+                "id": "d_counseling_rapi_05_8",
+                "type": "Speech",
+                "text": "That's out of the question. I'm not her superior.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_05_9",
+                "type": "Narration",
+                "text": "Rapi tells me more about how Anis' unbearable behaviors.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_06_1",
+                "type": "Speech",
+                "text": "Anis opens and closes the refrigerator door too often.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_06_2",
+                "type": "Speech",
+                "text": "She ended up breaking it a few days ago. Fortunately, Liter came and fixed it.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_06_3",
+                "type": "Speech",
+                "text": "I don't understand why Anis acts this way.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_06_4",
+                "type": "Choice",
+                "text": "Maybe she just wants to blow off steam?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_06_6"
+            },
+            {
+                "id": "d_counseling_rapi_06_5",
+                "type": "Choice",
+                "text": "There's a legend that if you open and close it 100 times, pudding will come out.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_06_8"
+            },
+            {
+                "id": "d_counseling_rapi_06_6",
+                "type": "Speech",
+                "text": "I don't think that's the reason.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_06_7",
+                "type": "Speech",
+                "text": "She had a blanket wrapped around her when she opened it.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_06_11"
+            },
+            {
+                "id": "d_counseling_rapi_06_8",
+                "type": "Speech",
+                "text": "... Commander, I don't believe in such ridiculous tall tales.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_06_9",
+                "type": "Speech",
+                "text": "But if Anis believes it, then there's nothing I can do.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_06_10",
+                "type": "Speech",
+                "text": "I'll just have to leave her to her own devices.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_06_11",
+                "type": "Narration",
+                "text": "I talk with Rapi about the most popular refrigerator models.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_07_1",
+                "type": "Speech",
+                "text": "Why hasn't the shower in our dorm been fixed?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_07_2",
+                "type": "Speech",
+                "text": "Mighty Tools came by to repair it, but nothing's changed.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_07_3",
+                "type": "Speech",
+                "text": "Could there be something else going on?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_07_4",
+                "type": "Choice",
+                "text": "You just reminded me of a ghost story.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_07_6"
+            },
+            {
+                "id": "d_counseling_rapi_07_5",
+                "type": "Choice",
+                "text": "Yep, there's definitely a ghost in the showers.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_07_8"
+            },
+            {
+                "id": "d_counseling_rapi_07_6",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_07_7",
+                "type": "Speech",
+                "text": "I, uh, I have go to. Bye.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_07_12"
+            },
+            {
+                "id": "d_counseling_rapi_07_8",
+                "type": "Speech",
+                "text": "A ghost?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_07_9",
+                "type": "Speech",
+                "text": "I don't believe in ghosts.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_07_10",
+                "type": "Speech",
+                "text": "No... absolutely not.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_07_11",
+                "type": "Speech",
+                "text": "N-not one bit.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_07_12",
+                "type": "Narration",
+                "text": "Rapi bolts out of the room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_08_1",
+                "type": "Speech",
+                "text": "A while ago, Neon lost a shell. She stayed up all night and looked for it everywhere.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_08_2",
+                "type": "Speech",
+                "text": "I helped her, and we were eventually able to find it, but... I was jealous of Neon.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_08_3",
+                "type": "Speech",
+                "text": "I was jealous that she had something that mattered so much to her.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_08_4",
+                "type": "Speech",
+                "text": "I wonder... will I ever find something that means that much to me?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_08_5",
+                "type": "Choice",
+                "text": "We can take our time finding it. Together.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_08_7"
+            },
+            {
+                "id": "d_counseling_rapi_08_6",
+                "type": "Choice",
+                "text": "What about me?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_08_9"
+            },
+            {
+                "id": "d_counseling_rapi_08_7",
+                "type": "Speech",
+                "text": "Very well.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_08_8",
+                "type": "Speech",
+                "text": "I do hope we find something.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_08_10"
+            },
+            {
+                "id": "d_counseling_rapi_08_9",
+                "type": "Speech",
+                "text": "... I'm not sure about that.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_08_10",
+                "type": "Narration",
+                "text": "Rapi and I discuss the things we hold dear.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_09_1",
+                "type": "Speech",
+                "text": "I had a dream.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_09_2",
+                "type": "Speech",
+                "text": "A butterfly with sparkling wings landed on my hand, then disappeared as soon as the light hit it.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_09_3",
+                "type": "Speech",
+                "text": "What does it mean?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_09_4",
+                "type": "Choice",
+                "text": "It's about something precious being broken.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_09_6"
+            },
+            {
+                "id": "d_counseling_rapi_09_5",
+                "type": "Choice",
+                "text": "It's about your troubles melting away.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_09_8"
+            },
+            {
+                "id": "d_counseling_rapi_09_6",
+                "type": "Speech",
+                "text": "So it was a nightmare.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_09_7",
+                "type": "Speech",
+                "text": "I should watch my back today.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_09_10"
+            },
+            {
+                "id": "d_counseling_rapi_09_8",
+                "type": "Speech",
+                "text": "I suppose that's one interpretation...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_09_9",
+                "type": "Speech",
+                "text": "Thank you for cheering me up.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_09_10",
+                "type": "Narration",
+                "text": "I talk about dreams with Rapi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_10_1",
+                "type": "Speech",
+                "text": "I'm not a picky eater, but having the same thing several days in a row can get tiring.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_10_2",
+                "type": "Speech",
+                "text": "However, given our current food situation, I shouldn't complain.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_10_3",
+                "type": "Speech",
+                "text": "What do you think I should do?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_10_4",
+                "type": "Choice",
+                "text": "Complain while you eat.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_10_6"
+            },
+            {
+                "id": "d_counseling_rapi_10_5",
+                "type": "Choice",
+                "text": "Just grin and bear it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_10_8"
+            },
+            {
+                "id": "d_counseling_rapi_10_6",
+                "type": "Speech",
+                "text": "I see. If things aren't going to change anyway, there's no harm in letting off some steam.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_10_7",
+                "type": "Speech",
+                "text": "It will be a nice way to vent. Thank you, Commander.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_10_10"
+            },
+            {
+                "id": "d_counseling_rapi_10_8",
+                "type": "Speech",
+                "text": "You mean to say that, if we're powerless to change something, then we should just accept it?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_10_9",
+                "type": "Speech",
+                "text": "Very well. That's what I've been doing up until now, anyway.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_10_10",
+                "type": "Narration",
+                "text": "I talk about food preferences with Rapi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_11_1",
+                "type": "Speech",
+                "text": "Lately, there have been more Nikkes at the Outpost than usual.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_11_2",
+                "type": "Speech",
+                "text": "On the plus side, it's increased the number of troops we have available, but it's also led to a few more altercations and other incidents.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_11_3",
+                "type": "Choice",
+                "text": "We should open our own court.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_11_5"
+            },
+            {
+                "id": "d_counseling_rapi_11_4",
+                "type": "Choice",
+                "text": "We can go on patrol together.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_11_7"
+            },
+            {
+                "id": "d_counseling_rapi_11_5",
+                "type": "Speech",
+                "text": "We've already got one.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_11_6",
+                "type": "Speech",
+                "text": "It's just never been used properly",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_11_9"
+            },
+            {
+                "id": "d_counseling_rapi_11_7",
+                "type": "Speech",
+                "text": "Right, everyone is so fond of you that they may not be willing to cause a ruckus so openly if you're around.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_11_8",
+                "type": "Speech",
+                "text": "Just let me know what time works for you, and I'll let you join me.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_11_9",
+                "type": "Narration",
+                "text": "Rapi and I discussed how to maintain peace in the Outpost.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_12_1",
+                "type": "Speech",
+                "text": "Anis and Neon are always bickering over something trivial,",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_12_2",
+                "type": "Speech",
+                "text": "but there is at least one thing where they're in complete agreement.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_12_3",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_12_4",
+                "type": "Choice",
+                "text": "Is it when they're teasing you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_12_6"
+            },
+            {
+                "id": "d_counseling_rapi_12_5",
+                "type": "Choice",
+                "text": "Is it when they complain about the food?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_12_8"
+            },
+            {
+                "id": "d_counseling_rapi_12_6",
+                "type": "Speech",
+                "text": "So you already knew?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_12_7",
+                "type": "Speech",
+                "text": "It's starting to become a concern. Especially since it seems there's no end in sight.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_12_10"
+            },
+            {
+                "id": "d_counseling_rapi_12_8",
+                "type": "Speech",
+                "text": "That is also true but,",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_12_9",
+                "type": "Speech",
+                "text": "even then they still tend to get into it at times.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_12_10",
+                "type": "Narration",
+                "text": "I listen to Rapi voice her concerns about her squadmates.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_13_1",
+                "type": "Speech",
+                "text": "Have you ever imagined how it felt",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_13_2",
+                "type": "Speech",
+                "text": "to live in the old days?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_13_3",
+                "type": "Choice",
+                "text": "I'm sure there was a greater sense of justice back then.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_13_5"
+            },
+            {
+                "id": "d_counseling_rapi_13_4",
+                "type": "Choice",
+                "text": "People probably led much safer lives back then.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_13_7"
+            },
+            {
+                "id": "d_counseling_rapi_13_5",
+                "type": "Speech",
+                "text": "I'm not so sure I agree with you there.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_13_6",
+                "type": "Speech",
+                "text": "I'm fairly sure that unfairness pervaded many aspects of life even back in the day.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_13_10"
+            },
+            {
+                "id": "d_counseling_rapi_13_7",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_13_8",
+                "type": "Speech",
+                "text": "Not being constantly filled with doubt... not worrying whether or not they will even be a tomorrow...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_13_9",
+                "type": "Speech",
+                "text": "The people back then didn't realize how lucky they were.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_13_10",
+                "type": "Narration",
+                "text": "Rapi and I discovered some old footage of the before times.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_14_1",
+                "type": "Speech",
+                "text": "It's only fair to take turns doing the laundry, but",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_14_2",
+                "type": "Speech",
+                "text": "Neon always uses such strong detergent.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_14_3",
+                "type": "Speech",
+                "text": "How can I prevent this from happening?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_14_4",
+                "type": "Choice",
+                "text": "Tell Neon that simply using extra-strength detergent won't actually make her any stronger.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_14_6"
+            },
+            {
+                "id": "d_counseling_rapi_14_5",
+                "type": "Choice",
+                "text": "Your already short skirt will end up becoming even shorter.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_14_8"
+            },
+            {
+                "id": "d_counseling_rapi_14_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_14_7",
+                "type": "Speech",
+                "text": "I'll be sure to relay that message to her.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_14_10"
+            },
+            {
+                "id": "d_counseling_rapi_14_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_14_9",
+                "type": "Speech",
+                "text": "I see you've been following this issue with rapt attention as well, Commander.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_14_10",
+                "type": "Narration",
+                "text": "Rapi and I talk about proper laundry methods.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_15_1",
+                "type": "Speech",
+                "text": "Commander, If we ever reclaim the surface, what's the first thing you would do?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_15_2",
+                "type": "Choice",
+                "text": "I'd go on a nice spring picnic outdoors.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_15_4"
+            },
+            {
+                "id": "d_counseling_rapi_15_3",
+                "type": "Choice",
+                "text": "I'd start looking for a job.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_15_6"
+            },
+            {
+                "id": "d_counseling_rapi_15_4",
+                "type": "Speech",
+                "text": "A picnic under the sun...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_15_5",
+                "type": "Speech",
+                "text": "It may not seem like much, but if you ask me, it's still worth fighting for.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_15_8"
+            },
+            {
+                "id": "d_counseling_rapi_15_6",
+                "type": "Speech",
+                "text": "That's very... practical of you.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_15_7",
+                "type": "Speech",
+                "text": "So much so that it's kind of depressing.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_15_8",
+                "type": "Narration",
+                "text": "Rapi and I imagined what the future would be like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_16_1",
+                "type": "Speech",
+                "text": "I happened to overhear some of the Nikkes talking about me.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_16_2",
+                "type": "Speech",
+                "text": "Apparently they find me difficult to deal with.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_16_3",
+                "type": "Speech",
+                "text": "Do you feel that way as well, Commander?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_16_4",
+                "type": "Choice",
+                "text": "A little.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_16_6"
+            },
+            {
+                "id": "d_counseling_rapi_16_5",
+                "type": "Choice",
+                "text": "Not at all.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_16_8"
+            },
+            {
+                "id": "d_counseling_rapi_16_6",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_16_7",
+                "type": "Speech",
+                "text": "I'll do what I can to try and change, but don't expect too much.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_16_10"
+            },
+            {
+                "id": "d_counseling_rapi_16_8",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_16_9",
+                "type": "Speech",
+                "text": "Perfect, that's all I needed. Thank you.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_16_10",
+                "type": "Narration",
+                "text": "Rapi and I hang out having fun with personality tests.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_17_1",
+                "type": "Speech",
+                "text": "I have a personal matter I'd like to discuss with you.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_17_2",
+                "type": "Speech",
+                "text": "Say you were to encounter someone from a past relationship.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_17_3",
+                "type": "Speech",
+                "text": "How would you react?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_17_4",
+                "type": "Choice",
+                "text": "I'd be honest about any potential feelings I still had for them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_17_6"
+            },
+            {
+                "id": "d_counseling_rapi_17_5",
+                "type": "Choice",
+                "text": "I'd try to avoid them if I could.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_17_9"
+            },
+            {
+                "id": "d_counseling_rapi_17_6",
+                "type": "Speech",
+                "text": "You mean... my true feelings?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_17_7",
+                "type": "Speech",
+                "text": "You of all people know, I'm not exactly good with opening up about this kind of thing.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_17_8",
+                "type": "Speech",
+                "text": "But if the opportunity presents itself, I'll give it a shot.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_17_11"
+            },
+            {
+                "id": "d_counseling_rapi_17_9",
+                "type": "Speech",
+                "text": "Unfortunately...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_17_10",
+                "type": "Speech",
+                "text": "We're in the same organization, so I doubt I'll be able to avoid them forever.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_17_11",
+                "type": "Narration",
+                "text": "I have a conversation with Rapi about her previous squad.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_18_1",
+                "type": "Speech",
+                "text": "I'm curious about the time you spent at the Military Academy.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_18_2",
+                "type": "Speech",
+                "text": "Do any memories from that time stand out to you?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_18_3",
+                "type": "Choice",
+                "text": "Sure, all the painful ones.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_18_5"
+            },
+            {
+                "id": "d_counseling_rapi_18_4",
+                "type": "Choice",
+                "text": "I don't remember much from that time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_18_8"
+            },
+            {
+                "id": "d_counseling_rapi_18_5",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_18_6",
+                "type": "Speech",
+                "text": "In that case, I admire your tenacity.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_18_7",
+                "type": "Speech",
+                "text": "It's impressive that you overcame all of those obstacles to get where you are today.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_18_10"
+            },
+            {
+                "id": "d_counseling_rapi_18_8",
+                "type": "Speech",
+                "text": "People often repress traumatic or painful memories without even realizing it.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_18_9",
+                "type": "Speech",
+                "text": "I hope that's not the case for you, Commander.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_18_10",
+                "type": "Narration",
+                "text": "I look back on my days of being a cadet and share what I can remember with Rapi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_19_1",
+                "type": "Speech",
+                "text": "I feel Neon and Anis have been stopping by your room too often.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_19_2",
+                "type": "Speech",
+                "text": "For the sake of your own privacy, wouldn't it be better if you set up some ground rules?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_19_3",
+                "type": "Choice",
+                "text": "The more, the merrier.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_19_5"
+            },
+            {
+                "id": "d_counseling_rapi_19_4",
+                "type": "Choice",
+                "text": "I'm only one person, I'm powerless to stop them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_19_8"
+            },
+            {
+                "id": "d_counseling_rapi_19_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_19_6",
+                "type": "Speech",
+                "text": "I guess that settles it then.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_19_7",
+                "type": "Speech",
+                "text": "I'll just leave it be for now.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_19_10"
+            },
+            {
+                "id": "d_counseling_rapi_19_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_19_9",
+                "type": "Speech",
+                "text": "You're far too lenient with them, Commander.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_19_10",
+                "type": "Narration",
+                "text": "Rapi and I have a discussion about privacy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rapi_20_1",
+                "type": "Speech",
+                "text": "Commander, you were born in the Ark, yet you fight up on the surface.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_2",
+                "type": "Speech",
+                "text": "Whenever the fight comes to an end, you come back to the Outpost.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_3",
+                "type": "Speech",
+                "text": "Which of those locations means the most to you?",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_4",
+                "type": "Choice",
+                "text": "The surface.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rapi_20_6"
+            },
+            {
+                "id": "d_counseling_rapi_20_5",
+                "type": "Choice",
+                "text": "The Outpost.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rapi_20_9"
+            },
+            {
+                "id": "d_counseling_rapi_20_6",
+                "type": "Speech",
+                "text": "Well, it is a place where we risk our lives",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_7",
+                "type": "Speech",
+                "text": "trying to reclaim the surface myself included.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_8",
+                "type": "Speech",
+                "text": "I'm not surprised you have such strong feelings for it.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": "d_counseling_rapi_20_13"
+            },
+            {
+                "id": "d_counseling_rapi_20_9",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_10",
+                "type": "Speech",
+                "text": "The Outpost may not be perfect,",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_11",
+                "type": "Speech",
+                "text": "but even taking all that into consideration, there are a lot of good memories here.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_12",
+                "type": "Speech",
+                "text": "Perhaps it's those memories that make you cherish this place so much.",
+                "speaker": "Rapi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rapi_20_13",
+                "type": "Narration",
+                "text": "I have a conversation with Rapi about various places and what they mean to us.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,2005 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_ludmilla_01_1",
+                "type": "Speech",
+                "text": "I feel as if my luck has taken an unfortunate turn of late.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_01_2",
+                "type": "Speech",
+                "text": "My machines are abandoning me quicker than ever.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_01_3",
+                "type": "Speech",
+                "text": "Can nothing be done about this?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_01_4",
+                "type": "Choice",
+                "text": "Let Alice do all the work for you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_01_6"
+            },
+            {
+                "id": "d_counseling_ludmilla_01_5",
+                "type": "Choice",
+                "text": "Let me do the work for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_01_8"
+            },
+            {
+                "id": "d_counseling_ludmilla_01_6",
+                "type": "Speech",
+                "text": "She has already done enough service in my name.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_01_7",
+                "type": "Speech",
+                "text": "I dare not impose upon her anymore.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_01_12"
+            },
+            {
+                "id": "d_counseling_ludmilla_01_8",
+                "type": "Speech",
+                "text": "You? With your own two hands?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_01_9",
+                "type": "Speech",
+                "text": "This suggestion pleases me.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_01_10",
+                "type": "Speech",
+                "text": "Yet, are you not already sufficiently burdened with responsibilities?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_01_11",
+                "type": "Speech",
+                "text": "Worry not. I will face these troubles on my own.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_01_12",
+                "type": "Narration",
+                "text": "I talk with Ludmilla about how she destroys everything she touches.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_02_1",
+                "type": "Speech",
+                "text": "I have been thinking.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_02_2",
+                "type": "Speech",
+                "text": "This world is a cruel place. It is my wish that Alice will quickly come of age, so that she can get by on her own.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_02_3",
+                "type": "Speech",
+                "text": "However, I fear that she may lose her innocence in the process.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_02_4",
+                "type": "Speech",
+                "text": "Then again, as her guardian, perhaps I am just being selfish.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_02_5",
+                "type": "Choice",
+                "text": "Even if she has to grow up, Alice will always be Alice.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_02_7"
+            },
+            {
+                "id": "d_counseling_ludmilla_02_6",
+                "type": "Choice",
+                "text": "It's fine. All parents are like that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_02_10"
+            },
+            {
+                "id": "d_counseling_ludmilla_02_7",
+                "type": "Speech",
+                "text": "Do you truly think so?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_02_8",
+                "type": "Speech",
+                "text": "Even when they come of age, people don't really change.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_02_9",
+                "type": "Speech",
+                "text": "Hearing that puts me at ease. I thank you.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_02_12"
+            },
+            {
+                "id": "d_counseling_ludmilla_02_10",
+                "type": "Speech",
+                "text": "Somehow, I thought that I would be different.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_02_11",
+                "type": "Speech",
+                "text": "I shouldn't worry so much. This all will pass in time, like everything else.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_02_12",
+                "type": "Narration",
+                "text": "I spend time with Ludmilla while thinking about Alice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_03_1",
+                "type": "Speech",
+                "text": "Every time you come here, you appear to be on the verge of becoming a popsicle.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_03_2",
+                "type": "Speech",
+                "text": "Is there anything I could do to make you more comfortable?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_03_3",
+                "type": "Choice",
+                "text": "Any chance you have a space heater?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_03_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_03_4",
+                "type": "Choice",
+                "text": "Any chance I could get a hug from you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_03_8"
+            },
+            {
+                "id": "d_counseling_ludmilla_03_5",
+                "type": "Speech",
+                "text": "A space heater? I assume it's a machine of some sort.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_03_6",
+                "type": "Speech",
+                "text": "Very well. I shall procure one forthwith.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_03_7",
+                "type": "Speech",
+                "text": "However, I doubt its warmth could withstand my cold for long.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_03_12"
+            },
+            {
+                "id": "d_counseling_ludmilla_03_8",
+                "type": "Speech",
+                "text": "A-ha!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_03_9",
+                "type": "Speech",
+                "text": "So, it is my embrace that you desire?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_03_10",
+                "type": "Speech",
+                "text": "Very well.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_03_11",
+                "type": "Speech",
+                "text": "Come to me any time you are cold, and I will have a warm embrace waiting for you.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_03_12",
+                "type": "Narration",
+                "text": "I talk with Ludmilla about how to withstand the frigid Northern temperatures.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_04_1",
+                "type": "Speech",
+                "text": "Hm...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_2",
+                "type": "Speech",
+                "text": "This tea tastes nothing like it used to.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_3",
+                "type": "Speech",
+                "text": "I prepared it in the usual way, and used the usual ingredients...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_4",
+                "type": "Speech",
+                "text": "Perhaps my taste buds are beginning to age?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_5",
+                "type": "Choice",
+                "text": "Maybe it's the tea leaves that got old.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_04_7"
+            },
+            {
+                "id": "d_counseling_ludmilla_04_6",
+                "type": "Choice",
+                "text": "... Good luck with that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_04_11"
+            },
+            {
+                "id": "d_counseling_ludmilla_04_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_8",
+                "type": "Speech",
+                "text": "Now that I look at them, I believe you may be right.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_9",
+                "type": "Speech",
+                "text": "It's been a while since I bought these tea leaves.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_10",
+                "type": "Speech",
+                "text": "Thanks to you, I have found the solution.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_04_13"
+            },
+            {
+                "id": "d_counseling_ludmilla_04_11",
+                "type": "Speech",
+                "text": "You rogue! You actually took my comment seriously?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_12",
+                "type": "Speech",
+                "text": "I don't need your empty encouragement. I'm not that old yet!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_04_13",
+                "type": "Narration",
+                "text": "I spend time having tea with Ludmilla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_05_1",
+                "type": "Speech",
+                "text": "If I recall, you said that Liter is in your Outpost?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_05_2",
+                "type": "Speech",
+                "text": "I want to give her a present to celebrate the beginning of her new job there.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_05_3",
+                "type": "Speech",
+                "text": "What should I get for her?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_05_4",
+                "type": "Choice",
+                "text": "A doggie bone made of ice?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_05_6"
+            },
+            {
+                "id": "d_counseling_ludmilla_05_5",
+                "type": "Choice",
+                "text": "A hand-written letter?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_05_9"
+            },
+            {
+                "id": "d_counseling_ludmilla_05_6",
+                "type": "Speech",
+                "text": "What an innovative idea!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_05_7",
+                "type": "Speech",
+                "text": "Volt will love that, too!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_05_8",
+                "type": "Speech",
+                "text": "Marvelous suggestion. That's just what I'll get her.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_05_12"
+            },
+            {
+                "id": "d_counseling_ludmilla_05_9",
+                "type": "Speech",
+                "text": "Don't you think that's a bit... plain?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_05_10",
+                "type": "Speech",
+                "text": "I want to do something truly special...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_05_11",
+                "type": "Speech",
+                "text": "Hm. I require more time to think.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_05_12",
+                "type": "Narration",
+                "text": "I talk with Ludmilla about Liter.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_06_1",
+                "type": "Speech",
+                "text": "Servant, several of the Nikkes were wondering...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_06_2",
+                "type": "Speech",
+                "text": "Do you have a type?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_06_3",
+                "type": "Choice",
+                "text": "Someone who carries themselves like a Queen.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_06_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_06_4",
+                "type": "Choice",
+                "text": "Are you sure it's not just you that's curious, Ludmilla?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_06_8"
+            },
+            {
+                "id": "d_counseling_ludmilla_06_5",
+                "type": "Speech",
+                "text": "Ha! I can see that you are teasing me.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_06_6",
+                "type": "Speech",
+                "text": "I'm not so dense that I can't pick up on your not-so-subtle intimations.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_06_7",
+                "type": "Speech",
+                "text": "However, if you happen to be speaking the truth, know that I wouldn't mind.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_06_12"
+            },
+            {
+                "id": "d_counseling_ludmilla_06_8",
+                "type": "Speech",
+                "text": "Why in the world would I be so curious about such a trivial thing?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_06_9",
+                "type": "Speech",
+                "text": "Why would I bother to spare a thought for your type?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_06_10",
+                "type": "Speech",
+                "text": "After all...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_06_11",
+                "type": "Speech",
+                "text": "You are nothing but my Servant.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_06_12",
+                "type": "Narration",
+                "text": "I talk with Ludmilla about my type.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_07_1",
+                "type": "Speech",
+                "text": "Royal Road.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_2",
+                "type": "Speech",
+                "text": "Alice told me she heard about Royal Road today.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_3",
+                "type": "Speech",
+                "text": "It's been so long since I've heard someone mention that place. I do miss it.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_4",
+                "type": "Speech",
+                "text": "Speaking of, have you ever been to Royal Road?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_5",
+                "type": "Choice",
+                "text": "I have.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_07_7"
+            },
+            {
+                "id": "d_counseling_ludmilla_07_6",
+                "type": "Choice",
+                "text": "I haven't.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_07_10"
+            },
+            {
+                "id": "d_counseling_ludmilla_07_7",
+                "type": "Speech",
+                "text": "Ha. I should have known.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_8",
+                "type": "Speech",
+                "text": "It is not unreasonable for you to have been there before.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_9",
+                "type": "Speech",
+                "text": "It is a pity, though. If you hadn't been there before, I could have made an excuse to take you there myself.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_07_13"
+            },
+            {
+                "id": "d_counseling_ludmilla_07_10",
+                "type": "Speech",
+                "text": "Oh? You've never been?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_11",
+                "type": "Speech",
+                "text": "In that case, why don't I take you there?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_12",
+                "type": "Speech",
+                "text": "I'm a bit of a big deal in that area, so I'll have to wear a disguise.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_07_13",
+                "type": "Narration",
+                "text": "I talk with Ludmilla about Royal Road.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_08_1",
+                "type": "Speech",
+                "text": "Servant.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_2",
+                "type": "Speech",
+                "text": "How would you define family?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_3",
+                "type": "Choice",
+                "text": "Similar to the relationship between you and Alice.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_08_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_08_4",
+                "type": "Choice",
+                "text": "It's a relationship between those who are related by blood.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_08_9"
+            },
+            {
+                "id": "d_counseling_ludmilla_08_5",
+                "type": "Speech",
+                "text": "Alice and I...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_6",
+                "type": "Speech",
+                "text": "we may not share the same blood,",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_7",
+                "type": "Speech",
+                "text": "but I believe that we are connected on a deep level.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_8",
+                "type": "Speech",
+                "text": "Thank you for sharing your opinion with me.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_08_13"
+            },
+            {
+                "id": "d_counseling_ludmilla_08_9",
+                "type": "Speech",
+                "text": "Yes, that is the normal definition of family.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_10",
+                "type": "Speech",
+                "text": "However, I think there's more to it than that.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_11",
+                "type": "Speech",
+                "text": "Blood shouldn't be the only thing that defines a family. The heart also plays a role.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_12",
+                "type": "Speech",
+                "text": "At least, that's how I feel.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_08_13",
+                "type": "Narration",
+                "text": "Ludmilla and I continue to ponder about family.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_09_1",
+                "type": "Speech",
+                "text": "Andersen has something of a soft spot for you.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_09_2",
+                "type": "Speech",
+                "text": "Did you already know this?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_09_3",
+                "type": "Choice",
+                "text": "I'd rather have the affection of someone else.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_09_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_09_4",
+                "type": "Choice",
+                "text": "No, and I don't want to know.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_09_8"
+            },
+            {
+                "id": "d_counseling_ludmilla_09_5",
+                "type": "Speech",
+                "text": "A-ha! Well, I know he is not your type.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_09_6",
+                "type": "Speech",
+                "text": "However, his affection does offer you more material benefits, right?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_09_7",
+                "type": "Speech",
+                "text": "So long as you don't despise him for feeling that way.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_09_10"
+            },
+            {
+                "id": "d_counseling_ludmilla_09_8",
+                "type": "Speech",
+                "text": "Oh, my. You hate it to the point that you don't want to even know about it?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_09_9",
+                "type": "Speech",
+                "text": "I had no idea you despised Andersen with such fervor!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_09_10",
+                "type": "Narration",
+                "text": "I spend time with Ludmilla talking about Andersen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_10_1",
+                "type": "Speech",
+                "text": "A few days ago, after I rescued a Nikke, she asked me:",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_2",
+                "type": "Speech",
+                "text": "How can you live in such an unforgiving place?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_3",
+                "type": "Speech",
+                "text": "What about you? Do you think living here is difficult?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_4",
+                "type": "Choice",
+                "text": "It is a very inhospitable place.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_10_6"
+            },
+            {
+                "id": "d_counseling_ludmilla_10_5",
+                "type": "Choice",
+                "text": "It has its own stark beauty.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_10_9"
+            },
+            {
+                "id": "d_counseling_ludmilla_10_6",
+                "type": "Speech",
+                "text": "Do you truly think so?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_7",
+                "type": "Speech",
+                "text": "I suppose I can sympathize.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_8",
+                "type": "Speech",
+                "text": "It is indeed not particularly suited for human habitation.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_10_13"
+            },
+            {
+                "id": "d_counseling_ludmilla_10_9",
+                "type": "Speech",
+                "text": "Precisely!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_10",
+                "type": "Speech",
+                "text": "I could not agree more.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_11",
+                "type": "Speech",
+                "text": "It is a perilous place, with danger around every corner.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_12",
+                "type": "Speech",
+                "text": "But therein lies its beauty! Or so I believe.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_10_13",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Ludmilla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_11_1",
+                "type": "Speech",
+                "text": "You must have been to the Outer Rim, yes?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_11_2",
+                "type": "Speech",
+                "text": "What do you think of it?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_11_3",
+                "type": "Choice",
+                "text": "It's a cesspool of crime and corruption.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_11_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_11_4",
+                "type": "Choice",
+                "text": "It's far from heaven, that much is certain.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_11_8"
+            },
+            {
+                "id": "d_counseling_ludmilla_11_5",
+                "type": "Speech",
+                "text": "I didn't expect you to feel that way.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_11_6",
+                "type": "Speech",
+                "text": "I thought you would view it in a different light.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_11_7",
+                "type": "Speech",
+                "text": "I'll take note of that.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_11_11"
+            },
+            {
+                "id": "d_counseling_ludmilla_11_8",
+                "type": "Speech",
+                "text": "You and I are in agreement there.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_11_9",
+                "type": "Speech",
+                "text": "It's a society formed by splinter groups of those who have been abandoned.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_11_10",
+                "type": "Speech",
+                "text": "That's why it's such a dangerous and isolated place.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_11_11",
+                "type": "Narration",
+                "text": "Ludmilla and I speak more about the Outer Rim.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_12_1",
+                "type": "Speech",
+                "text": "Hmmm... I want to try a new tea.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_12_2",
+                "type": "Speech",
+                "text": "What should I try?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_12_3",
+                "type": "Choice",
+                "text": "Some bitter tea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_12_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_12_4",
+                "type": "Choice",
+                "text": "Some aromatic tea.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_12_8"
+            },
+            {
+                "id": "d_counseling_ludmilla_12_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_12_6",
+                "type": "Speech",
+                "text": "That's actually what I was leaning towards anyway.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_12_7",
+                "type": "Speech",
+                "text": "Very well then, prepare the tea Servant!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_12_12"
+            },
+            {
+                "id": "d_counseling_ludmilla_12_8",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_12_9",
+                "type": "Speech",
+                "text": "I think I'm more in the mood for bitter tea today...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_12_10",
+                "type": "Speech",
+                "text": "but what the heck, I'll go for some aromatic tea instead.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_12_11",
+                "type": "Speech",
+                "text": "Hurry and prepare the tea, Servant.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_12_12",
+                "type": "Narration",
+                "text": "Ludmilla and I sip tea together while discussing the various types of tea.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_13_1",
+                "type": "Speech",
+                "text": "What splendid weather we're having.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_13_2",
+                "type": "Speech",
+                "text": "What do you usually do on days like today?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_13_3",
+                "type": "Choice",
+                "text": "I like staying inside all day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_13_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_13_4",
+                "type": "Choice",
+                "text": "It'd be nice to go out and have some tea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_13_8"
+            },
+            {
+                "id": "d_counseling_ludmilla_13_5",
+                "type": "Speech",
+                "text": "You're going to stay cooped up inside when the weather is this nice?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_13_6",
+                "type": "Speech",
+                "text": "Absolutely not. Get up.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_13_7",
+                "type": "Speech",
+                "text": "Let's go outside and have some tea.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_13_11"
+            },
+            {
+                "id": "d_counseling_ludmilla_13_8",
+                "type": "Speech",
+                "text": "You are an amazing servant indeed!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_13_9",
+                "type": "Speech",
+                "text": "You're capable of reading the mind of whom you serve.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_13_10",
+                "type": "Speech",
+                "text": "Now then, let us go.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_13_11",
+                "type": "Narration",
+                "text": "I go out on a picnic with Ludmilla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_14_1",
+                "type": "Speech",
+                "text": "When you look at snow, what does it make you think of?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_14_2",
+                "type": "Choice",
+                "text": "You.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_14_4"
+            },
+            {
+                "id": "d_counseling_ludmilla_14_3",
+                "type": "Choice",
+                "text": "Traumatic past events.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_14_7"
+            },
+            {
+                "id": "d_counseling_ludmilla_14_4",
+                "type": "Speech",
+                "text": "Good answer.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_14_5",
+                "type": "Speech",
+                "text": "If I'm the first thing you think over every time you lay eyes upon the North, or the snow,",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_14_6",
+                "type": "Speech",
+                "text": "I will be very glad indeed.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_14_9"
+            },
+            {
+                "id": "d_counseling_ludmilla_14_7",
+                "type": "Speech",
+                "text": "Understandable.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_14_8",
+                "type": "Speech",
+                "text": "Especially with how you nearly perished while buried under the snow.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_14_9",
+                "type": "Narration",
+                "text": "Ludmilla and I talk more about snow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_15_1",
+                "type": "Speech",
+                "text": "Safety amidst lies",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_2",
+                "type": "Speech",
+                "text": "and danger amidst reality...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_3",
+                "type": "Speech",
+                "text": "Which would you choose?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_4",
+                "type": "Choice",
+                "text": "Safety amidst lies.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_15_6"
+            },
+            {
+                "id": "d_counseling_ludmilla_15_5",
+                "type": "Choice",
+                "text": "Danger amidst reality.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_15_11"
+            },
+            {
+                "id": "d_counseling_ludmilla_15_6",
+                "type": "Speech",
+                "text": "It's no surprise someone from the Ark would think so.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_7",
+                "type": "Speech",
+                "text": "For a person who knows the surface well, I thought you would have a different response.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_8",
+                "type": "Speech",
+                "text": "I'm not sure if you really think so.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_9",
+                "type": "Speech",
+                "text": "But it would be better for you to remember that",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_10",
+                "type": "Speech",
+                "text": "falsehood always invites greater danger.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_15_16"
+            },
+            {
+                "id": "d_counseling_ludmilla_15_11",
+                "type": "Speech",
+                "text": "I knew you would think so as you know the surface well.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_12",
+                "type": "Speech",
+                "text": "That's why you are probably getting lost all the time.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_13",
+                "type": "Speech",
+                "text": "But do not worry.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_14",
+                "type": "Speech",
+                "text": "The closer you are to the truth, the more dangerous it gets. Yet, because of this risk you shoulder,",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_15",
+                "type": "Speech",
+                "text": "the Nikkes are willing to lay their lives to protect you.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_15_16",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Ludmilla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_16_1",
+                "type": "Speech",
+                "text": "Did you know?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_16_2",
+                "type": "Speech",
+                "text": "There aren't many Commander who take the time to consult with their Nikkes.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_16_3",
+                "type": "Speech",
+                "text": "Why are you going to so much trouble to listen to all of our concerns?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_16_4",
+                "type": "Choice",
+                "text": "You're all my friends and squadmates. I want to know what's on your mind.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_16_6"
+            },
+            {
+                "id": "d_counseling_ludmilla_16_5",
+                "type": "Choice",
+                "text": "I wonder what makes Nikkes tick.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_16_9"
+            },
+            {
+                "id": "d_counseling_ludmilla_16_6",
+                "type": "Speech",
+                "text": "Good answer.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_16_7",
+                "type": "Speech",
+                "text": "Very good answer.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_16_8",
+                "type": "Speech",
+                "text": "I hope it's not just for the show.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_16_12"
+            },
+            {
+                "id": "d_counseling_ludmilla_16_9",
+                "type": "Speech",
+                "text": "When you put it that way,",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_16_10",
+                "type": "Speech",
+                "text": "it sounds like you're just going through the motions of what needs doing.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_16_11",
+                "type": "Speech",
+                "text": "I suppose I can understand that.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_16_12",
+                "type": "Narration",
+                "text": "Ludmilla and I talk more about why I'm so intent on listening to my Nikkes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_17_1",
+                "type": "Monologue",
+                "text": "Ludmilla is staring intently at her phone.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_2",
+                "type": "Speech",
+                "text": "I forgot to bring my gloves...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_3",
+                "type": "Narration",
+                "text": "*Zzzhh* *Zhhh*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_4",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_5",
+                "type": "Choice",
+                "text": "Hurl the phone far away from Ludmilla before it breaks.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_17_7"
+            },
+            {
+                "id": "d_counseling_ludmilla_17_6",
+                "type": "Choice",
+                "text": "Snatch the phone and ask what she is trying to do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_17_12"
+            },
+            {
+                "id": "d_counseling_ludmilla_17_7",
+                "type": "Narration",
+                "text": "*Crash*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_8",
+                "type": "Speech",
+                "text": "You made a wise decision. However...",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_9",
+                "type": "Monologue",
+                "text": "... the phone is now destroyed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_10",
+                "type": "Speech",
+                "text": "I think you may have gotten a little carried away.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_11",
+                "type": "Speech",
+                "text": "Can you use your phone to let Alice know we're in the middle of a discussion?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_17_14"
+            },
+            {
+                "id": "d_counseling_ludmilla_17_12",
+                "type": "Speech",
+                "text": "Well done, Servant!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_13",
+                "type": "Speech",
+                "text": "Send Alice a message and let her know we're in the middle of a discussion.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_17_14",
+                "type": "Narration",
+                "text": "I helped Ludmilla send Alice a message.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_18_1",
+                "type": "Speech",
+                "text": "Given my condition, do you think it would be better if I",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_2",
+                "type": "Speech",
+                "text": "called people, or sent them messages?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_3",
+                "type": "Choice",
+                "text": "Calling.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_18_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_18_4",
+                "type": "Choice",
+                "text": "Messaging.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_18_10"
+            },
+            {
+                "id": "d_counseling_ludmilla_18_5",
+                "type": "Speech",
+                "text": "Oh? How so?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_6",
+                "type": "Self",
+                "text": "If you use a speakerphone, you don't have to hold the phone for very long.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_8",
+                "type": "Speech",
+                "text": "I thought you were going to say because you liked hearing my voice.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_9",
+                "type": "Speech",
+                "text": "However, you've put forth a very convincing argument just now!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_18_14"
+            },
+            {
+                "id": "d_counseling_ludmilla_18_10",
+                "type": "Speech",
+                "text": "Hmm? How so?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_11",
+                "type": "Self",
+                "text": "When you text someone, the conversation goes on longer than when you talk on the phone.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_12",
+                "type": "Speech",
+                "text": "I understand what you're saying, but I'm not sure what type of phone is out there that could",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_13",
+                "type": "Speech",
+                "text": "handle me holding it for that long...Either way, I'll keep that in mind.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_18_14",
+                "type": "Narration",
+                "text": "I have a conversation with Ludmilla about using phones for extended periods of time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_19_1",
+                "type": "Speech",
+                "text": "I know that you've been to many different places up on the surface.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_19_2",
+                "type": "Speech",
+                "text": "Looking back, are there any locations that stand out?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_19_3",
+                "type": "Choice",
+                "text": "For one, I remember the snowfields up north, where I met you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_19_5"
+            },
+            {
+                "id": "d_counseling_ludmilla_19_4",
+                "type": "Choice",
+                "text": "Nothing much comes to mind.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_19_8"
+            },
+            {
+                "id": "d_counseling_ludmilla_19_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_19_6",
+                "type": "Speech",
+                "text": "I'm delighted to hear you feel that way.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_19_7",
+                "type": "Speech",
+                "text": "I too have a special attachment to the place where we first met.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_19_11"
+            },
+            {
+                "id": "d_counseling_ludmilla_19_8",
+                "type": "Speech",
+                "text": "... Understandable. The surface is such a danger zone, I'm sure everything starts to blend together.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_19_9",
+                "type": "Speech",
+                "text": "I hope one day you'll have been to some areas you feel are worth remembering.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_19_10",
+                "type": "Speech",
+                "text": "When that happens, the surface will no longer seem so threatening to you.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_19_11",
+                "type": "Narration",
+                "text": "I go through all the previous places I'd been to on the surface with Ludmilla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ludmilla_20_1",
+                "type": "Speech",
+                "text": "Andersen sent a new tea.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_2",
+                "type": "Narration",
+                "text": "Ludmilla hands over a teacup.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_3",
+                "type": "Speech",
+                "text": "Would you like to try it?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_4",
+                "type": "Choice",
+                "text": "Not if it's from him.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ludmilla_20_6"
+            },
+            {
+                "id": "d_counseling_ludmilla_20_5",
+                "type": "Choice",
+                "text": "Sure, why not.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ludmilla_20_9"
+            },
+            {
+                "id": "d_counseling_ludmilla_20_6",
+                "type": "Speech",
+                "text": "Are you sure?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_7",
+                "type": "Speech",
+                "text": "I'm sorry you feel that way.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_8",
+                "type": "Speech",
+                "text": "I was looking forward to drinking it together.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": "d_counseling_ludmilla_20_13"
+            },
+            {
+                "id": "d_counseling_ludmilla_20_9",
+                "type": "Speech",
+                "text": "Well, what do you think?",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_10",
+                "type": "Speech",
+                "text": "It must feel nice for your lips to be touching the cup where my lips have just been.",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_11",
+                "type": "Self",
+                "text": "!!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_12",
+                "type": "Speech",
+                "text": "Hehe, this is too fun!",
+                "speaker": "Ludmilla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ludmilla_20_13",
+                "type": "Narration",
+                "text": "Ludmilla and I have a nice time together having tea.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

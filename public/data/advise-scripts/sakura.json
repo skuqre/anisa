@@ -1,0 +1,1997 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_sakura_01_1",
+                "type": "Speech",
+                "text": "{AccountData.NickName}-kun, I've been wanting to know:",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_01_2",
+                "type": "Speech",
+                "text": "Which type of tea do you like?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_01_3",
+                "type": "Choice",
+                "text": "Black tea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_01_5"
+            },
+            {
+                "id": "d_counseling_sakura_01_4",
+                "type": "Choice",
+                "text": "Green tea",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_01_8"
+            },
+            {
+                "id": "d_counseling_sakura_01_5",
+                "type": "Speech",
+                "text": "Me too.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_01_6",
+                "type": "Speech",
+                "text": "That short burst of bitterness, followed by a faintly sweet aftertaste, wins me over every time.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_01_7",
+                "type": "Speech",
+                "text": "Next time you come to visit, I'll treat you to some black tea.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_01_10"
+            },
+            {
+                "id": "d_counseling_sakura_01_8",
+                "type": "Speech",
+                "text": "I can certainly see the appeal in green tea,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_01_9",
+                "type": "Speech",
+                "text": "but I personally have found myself preferring black tea lately.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_01_10",
+                "type": "Narration",
+                "text": "Sakura and I talk about our favorite types of tea for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_02_1",
+                "type": "Speech",
+                "text": "{AccountData.NickName}-kun, what would you do if you were the leader of an organization",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_02_2",
+                "type": "Speech",
+                "text": "and you couldn't tell if the decision you were making was the right one?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_02_3",
+                "type": "Choice",
+                "text": "I would believe in myself and keep moving forward.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_02_5"
+            },
+            {
+                "id": "d_counseling_sakura_02_4",
+                "type": "Choice",
+                "text": "I'd ask others for their opinion.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_02_8"
+            },
+            {
+                "id": "d_counseling_sakura_02_5",
+                "type": "Speech",
+                "text": "You're one tough cookie, that's for sure.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_02_6",
+                "type": "Speech",
+                "text": "You're right. The leader of an organization should have faith in themselves.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_02_7",
+                "type": "Speech",
+                "text": "Only in this way can the organization be stable.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_02_11"
+            },
+            {
+                "id": "d_counseling_sakura_02_8",
+                "type": "Speech",
+                "text": "That is one way of going about it.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_02_9",
+                "type": "Speech",
+                "text": "But there's an old saying: too many cooks in the kitchen can spoil the broth.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_02_10",
+                "type": "Speech",
+                "text": "It's good if the leader of an organization trusts their own judgment.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_02_11",
+                "type": "Narration",
+                "text": "I have a deep conversation with Sakura.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_03_1",
+                "type": "Speech",
+                "text": "You really are a gentle soul, {AccountData.NickName}-kun.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_03_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_03_3",
+                "type": "Speech",
+                "text": "Are you this way with everyone?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_03_4",
+                "type": "Choice",
+                "text": "No, only with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_03_6"
+            },
+            {
+                "id": "d_counseling_sakura_03_5",
+                "type": "Choice",
+                "text": "Generally, yes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_03_8"
+            },
+            {
+                "id": "d_counseling_sakura_03_6",
+                "type": "Speech",
+                "text": "So you only love me and no one else...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_03_7",
+                "type": "Speech",
+                "text": "I feel the same way about you.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_03_10"
+            },
+            {
+                "id": "d_counseling_sakura_03_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_03_9",
+                "type": "Speech",
+                "text": "So love comes easy for you...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_03_10",
+                "type": "Narration",
+                "text": "Sakura and I talk more about love and gentleness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_04_1",
+                "type": "Speech",
+                "text": "Whenever I see the cherry blossom trees outside the residence,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_04_2",
+                "type": "Speech",
+                "text": "all kinds of different emotions well up inside me.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_04_3",
+                "type": "Speech",
+                "text": "How do you feel when you see them?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_04_4",
+                "type": "Choice",
+                "text": "I feel very excited.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_04_6"
+            },
+            {
+                "id": "d_counseling_sakura_04_5",
+                "type": "Choice",
+                "text": "I feel very content.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_04_8"
+            },
+            {
+                "id": "d_counseling_sakura_04_6",
+                "type": "Speech",
+                "text": "Same here.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_04_7",
+                "type": "Speech",
+                "text": "It brings joy to my heart whenever I see the cherry blossom petals floating by the trees.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_04_11"
+            },
+            {
+                "id": "d_counseling_sakura_04_8",
+                "type": "Speech",
+                "text": "So gazing at them puts you in a state of relaxation?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_04_9",
+                "type": "Speech",
+                "text": "I don't know whether it has to do with the time of year, or the cherry blossoms themselves,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_04_10",
+                "type": "Speech",
+                "text": "but they tend to give me more of a thrilling sense of elation.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_04_11",
+                "type": "Narration",
+                "text": "Sakura and I talk about cherry blossom trees.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_05_1",
+                "type": "Speech",
+                "text": "Lately I've been passing the time enjoying tea and practicing Ikebana.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_05_2",
+                "type": "Speech",
+                "text": "What about you?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_05_3",
+                "type": "Choice",
+                "text": "I've been studying hard.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_05_5"
+            },
+            {
+                "id": "d_counseling_sakura_05_4",
+                "type": "Choice",
+                "text": "I've been exercising.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_05_7"
+            },
+            {
+                "id": "d_counseling_sakura_05_5",
+                "type": "Speech",
+                "text": "I...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_05_6",
+                "type": "Speech",
+                "text": "didn't realize that studying could be considered a hobby.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_05_11"
+            },
+            {
+                "id": "d_counseling_sakura_05_7",
+                "type": "Speech",
+                "text": "I see that you haven't been slacking off.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_05_8",
+                "type": "Speech",
+                "text": "That's good to hear.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_05_9",
+                "type": "Speech",
+                "text": "If you'd like, you could come and try some Ikebana next time you're free.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_05_10",
+                "type": "Speech",
+                "text": "I can teach you.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_05_11",
+                "type": "Narration",
+                "text": "Sakura and I share more information about our hobbies with each other.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_06_1",
+                "type": "Speech",
+                "text": "I find it troubling that I never seem to have anything to say to Moran.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_06_2",
+                "type": "Speech",
+                "text": "What would you do if you were me, {AccountData.NickName}-kun?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_06_3",
+                "type": "Choice",
+                "text": "Keep hammering away at it until something you say makes an impression.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_06_5"
+            },
+            {
+                "id": "d_counseling_sakura_06_4",
+                "type": "Choice",
+                "text": "Just give it up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_06_8"
+            },
+            {
+                "id": "d_counseling_sakura_06_5",
+                "type": "Speech",
+                "text": "It's clear that you're a very patient person.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_06_6",
+                "type": "Speech",
+                "text": "That makes two of us.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_06_7",
+                "type": "Speech",
+                "text": "Nevertheless, I feel that in Moran's case, it may be wise to give up.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_06_10"
+            },
+            {
+                "id": "d_counseling_sakura_06_8",
+                "type": "Speech",
+                "text": "Patience is clearly not one of your virtues.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_06_9",
+                "type": "Speech",
+                "text": "It is one of mine, but even I think that it may be smarter, in this case, to call it quits.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_06_10",
+                "type": "Narration",
+                "text": "Sakura and I talk about Moran for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_07_1",
+                "type": "Speech",
+                "text": "What's your favorite flower?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_07_2",
+                "type": "Speech",
+                "text": "I'll prepare some in the courtyard for you for the next time you visit.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_07_3",
+                "type": "Choice",
+                "text": "Roses.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_07_5"
+            },
+            {
+                "id": "d_counseling_sakura_07_4",
+                "type": "Choice",
+                "text": "Cherry blossoms.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_07_8"
+            },
+            {
+                "id": "d_counseling_sakura_07_5",
+                "type": "Speech",
+                "text": "Roses always remind me of a certain criminal ringleader.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_07_6",
+                "type": "Speech",
+                "text": "I can't say I'm a big fan of such things,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_07_7",
+                "type": "Speech",
+                "text": "but if that's what you like, I'll see that it's done.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_07_10"
+            },
+            {
+                "id": "d_counseling_sakura_07_8",
+                "type": "Speech",
+                "text": "Ah, cherry blossoms. The snowflakes of spring.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_07_9",
+                "type": "Speech",
+                "text": "Rather than plant them in the courtyard, I always keep them in my most precious vase.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_07_10",
+                "type": "Narration",
+                "text": "Sakura and I talk about our favorite flowers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_08_1",
+                "type": "Speech",
+                "text": "Whenever you're dealing with something important,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_08_2",
+                "type": "Speech",
+                "text": "what's your general approach?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_08_3",
+                "type": "Choice",
+                "text": "Stick to the procedure.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_08_5"
+            },
+            {
+                "id": "d_counseling_sakura_08_4",
+                "type": "Choice",
+                "text": "Improvise.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_08_8"
+            },
+            {
+                "id": "d_counseling_sakura_08_5",
+                "type": "Speech",
+                "text": "That's my preference as well.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_08_6",
+                "type": "Speech",
+                "text": "If only everyone did the same.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_08_7",
+                "type": "Speech",
+                "text": "Not only would there be fewer accidents, but the final results would be much easier to predict.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_08_11"
+            },
+            {
+                "id": "d_counseling_sakura_08_8",
+                "type": "Speech",
+                "text": "To be sure, no one appreciates a co-worker",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_08_9",
+                "type": "Speech",
+                "text": "who freezes whenever the unexpected occurs.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_08_10",
+                "type": "Speech",
+                "text": "However, changes are a constant occurrence in almost every facet of life, so I don't like improvising.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_08_11",
+                "type": "Narration",
+                "text": "I have a deep conversation with Sakura.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_09_1",
+                "type": "Speech",
+                "text": "I'm curious.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_2",
+                "type": "Speech",
+                "text": "What do you look for in a partner?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_3",
+                "type": "Choice",
+                "text": "Someone with grace and sangfroid.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_09_5"
+            },
+            {
+                "id": "d_counseling_sakura_09_4",
+                "type": "Choice",
+                "text": "Someone who values loyalty.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_09_9"
+            },
+            {
+                "id": "d_counseling_sakura_09_5",
+                "type": "Speech",
+                "text": "Grace and sangfroid...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_7",
+                "type": "Monologue",
+                "text": "Sakura smiles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_8",
+                "type": "Speech",
+                "text": "I like that answer very much.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_09_13"
+            },
+            {
+                "id": "d_counseling_sakura_09_9",
+                "type": "Speech",
+                "text": "Loyalty?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_11",
+                "type": "Speech",
+                "text": "That reminds me of someone.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_12",
+                "type": "Speech",
+                "text": "But I wish it wasn't her.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_09_13",
+                "type": "Narration",
+                "text": "I talk with Sakura about our favorite types.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_10_1",
+                "type": "Speech",
+                "text": "When I was out at the mall shopping today, I stopped by to see a fortune teller.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_10_2",
+                "type": "Speech",
+                "text": "When she read my fortune, she mentioned your name. What do you think that means?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_10_3",
+                "type": "Choice",
+                "text": "It certainly sounds positive to me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_10_5"
+            },
+            {
+                "id": "d_counseling_sakura_10_4",
+                "type": "Choice",
+                "text": "I've never put much faith in fortune-telling.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_10_8"
+            },
+            {
+                "id": "d_counseling_sakura_10_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_10_6",
+                "type": "Speech",
+                "text": "... Yeah, maybe that was what the fortune teller meant.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_10_7",
+                "type": "Speech",
+                "text": "I'll have to go see her again sometime.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_10_12"
+            },
+            {
+                "id": "d_counseling_sakura_10_8",
+                "type": "Speech",
+                "text": "So you don't think there's any truth to fortune-telling?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_10_9",
+                "type": "Speech",
+                "text": "Actually, neither do I.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_10_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_10_11",
+                "type": "Speech",
+                "text": "But still, it was nice to hear that you were a part of my future.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_10_12",
+                "type": "Narration",
+                "text": "I talk with Sakura about fortune-telling for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_11_1",
+                "type": "Speech",
+                "text": "Most of my time is spent here inside my residence.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_2",
+                "type": "Speech",
+                "text": "Every once in a while, I do miss being able to hang out with my friends.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_3",
+                "type": "Speech",
+                "text": "But I can't go out and leave my work unattended.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_4",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_5",
+                "type": "Choice",
+                "text": "Hand over your work to a trusted subordinate and have some fun out on the town.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_11_7"
+            },
+            {
+                "id": "d_counseling_sakura_11_6",
+                "type": "Choice",
+                "text": "How about I come visit and keep you company?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_11_10"
+            },
+            {
+                "id": "d_counseling_sakura_11_7",
+                "type": "Speech",
+                "text": "I've considered it,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_8",
+                "type": "Speech",
+                "text": "but if people saw the leader of a criminal organization idling about in the streets all the time,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_9",
+                "type": "Speech",
+                "text": "it'd be quite a scandal.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_11_13"
+            },
+            {
+                "id": "d_counseling_sakura_11_10",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_11",
+                "type": "Speech",
+                "text": "It's like you read my mind!",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_12",
+                "type": "Speech",
+                "text": "I was hoping that's how you'd respond.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_11_13",
+                "type": "Narration",
+                "text": "Sakura and I talk about more indoor activities.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_12_1",
+                "type": "Speech",
+                "text": "{AccountData.NickName}-kun,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_2",
+                "type": "Speech",
+                "text": "your clothes are so disheveled.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_3",
+                "type": "Speech",
+                "text": "It's hardly appropriate for someone in your position to look that way.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_4",
+                "type": "Choice",
+                "text": "Belorta played a prank on me. There was nothing I could do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_12_6"
+            },
+            {
+                "id": "d_counseling_sakura_12_5",
+                "type": "Choice",
+                "text": "I know. I'm so helpless. Help meeeee, pretty please with a cherry on top?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_12_9"
+            },
+            {
+                "id": "d_counseling_sakura_12_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_7",
+                "type": "Speech",
+                "text": "How can you expect those under you to understand their leader displaying such weakness?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_8",
+                "type": "Speech",
+                "text": "A leader must be a pillar of strength.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_12_15"
+            },
+            {
+                "id": "d_counseling_sakura_12_9",
+                "type": "Speech",
+                "text": "You're really laying it on thick.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_10",
+                "type": "Speech",
+                "text": "However...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_11",
+                "type": "Speech",
+                "text": "You've performed many valuable services for me before, so I'll let you get away with it just this once.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_12",
+                "type": "Monologue",
+                "text": "Sakura leans in and straightens my tie.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_13",
+                "type": "Self",
+                "text": "Thank you.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_14",
+                "type": "Speech",
+                "text": "You're welcome.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_12_15",
+                "type": "Narration",
+                "text": "I talk with Sakura about how to wear a uniform correctly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_13_1",
+                "type": "Speech",
+                "text": "Hypothetically speaking,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_13_2",
+                "type": "Speech",
+                "text": "if you had feelings for someone,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_13_3",
+                "type": "Speech",
+                "text": "how would you express yourself to her?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_13_4",
+                "type": "Choice",
+                "text": "I think I'd talk to her face to face.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_13_6"
+            },
+            {
+                "id": "d_counseling_sakura_13_5",
+                "type": "Choice",
+                "text": "I wouldn't say anything, and keep my feelings hidden.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_13_9"
+            },
+            {
+                "id": "d_counseling_sakura_13_6",
+                "type": "Speech",
+                "text": "As would I.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_13_7",
+                "type": "Speech",
+                "text": "Whatever I want, I take.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_13_8",
+                "type": "Speech",
+                "text": "I think this is the mentality that any leader worth their salt should have.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_13_11"
+            },
+            {
+                "id": "d_counseling_sakura_13_9",
+                "type": "Speech",
+                "text": "I didn't realize you were so tentative.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_13_10",
+                "type": "Speech",
+                "text": "What if the opportunity passed you by? Things might end up far worse than you'd imagined.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_13_11",
+                "type": "Narration",
+                "text": "I speak with Sakura about how to profess your feelings of love to someone.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_14_1",
+                "type": "Speech",
+                "text": "I'm looking for books to read while having my tea.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_2",
+                "type": "Speech",
+                "text": "Do you have any recommendations?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_3",
+                "type": "Choice",
+                "text": "The Mafia's Youngest Son",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_14_5"
+            },
+            {
+                "id": "d_counseling_sakura_14_4",
+                "type": "Choice",
+                "text": "The Mistress and Her Dog.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_14_9"
+            },
+            {
+                "id": "d_counseling_sakura_14_5",
+                "type": "Monologue",
+                "text": "The protagonist of that book is mysteriously reborn as the youngest son of a mafia leader.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_6",
+                "type": "Monologue",
+                "text": "He proceeds to defeat his rival siblings while vying for power, and eventually becomes the leader of the organization.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_7",
+                "type": "Speech",
+                "text": "Um...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_8",
+                "type": "Speech",
+                "text": "It doesn't sound like something I could really identify with.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_14_14"
+            },
+            {
+                "id": "d_counseling_sakura_14_9",
+                "type": "Monologue",
+                "text": "That book is about the right-hand man of a criminal leader.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_10",
+                "type": "Monologue",
+                "text": "He falls in love with the leader's daughter, and becomes despondent because he doesn't know what to do.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_11",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_12",
+                "type": "Speech",
+                "text": "If the protagonist made it all the way to right-hand man, he's no spring chicken.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_13",
+                "type": "Speech",
+                "text": "But if you recommend it, I'll check it out.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_14_14"
+            },
+            {
+                "id": "d_counseling_sakura_14_14",
+                "type": "Speech",
+                "text": "It's been a while since I read a fictional story.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_14_15",
+                "type": "Narration",
+                "text": "Sakura and I both concentrate on the books we're reading.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_15_1",
+                "type": "Speech",
+                "text": "My subordinates have been screwing up left and right lately.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_15_2",
+                "type": "Speech",
+                "text": "I've had to make my punishments more severe,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_15_3",
+                "type": "Speech",
+                "text": "but I don't feel terribly comfortable while I'm doing it.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_15_4",
+                "type": "Choice",
+                "text": "The consequences of one's actions, both good and bad, should always be clear.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_15_6"
+            },
+            {
+                "id": "d_counseling_sakura_15_5",
+                "type": "Choice",
+                "text": "You expect too much of them. Take it easy on them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_15_8"
+            },
+            {
+                "id": "d_counseling_sakura_15_6",
+                "type": "Speech",
+                "text": "You're right.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_15_7",
+                "type": "Speech",
+                "text": "I thought I had grown used to playing the disciplinarian role but apparently that's not the case.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_15_10"
+            },
+            {
+                "id": "d_counseling_sakura_15_8",
+                "type": "Speech",
+                "text": "... Yeah.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_15_9",
+                "type": "Speech",
+                "text": "But isn't that even more disrespectful to them, in a way?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_15_10",
+                "type": "Narration",
+                "text": "I talk with Sakura about the mentality of being a leader.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_16_1",
+                "type": "Speech",
+                "text": "So many different emotions well up inside me when I see the cherry blossoms bloom.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_2",
+                "type": "Speech",
+                "text": "Early spring is the best season to recite haikus.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_3",
+                "type": "Speech",
+                "text": "What goes through your mind when you see the first cherry blossoms of the year?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_4",
+                "type": "Choice",
+                "text": "I'm reminded of both the splendor and impermanence of life.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_16_6"
+            },
+            {
+                "id": "d_counseling_sakura_16_5",
+                "type": "Choice",
+                "text": "I think about Sakura.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_16_8"
+            },
+            {
+                "id": "d_counseling_sakura_16_6",
+                "type": "Speech",
+                "text": "I can see why you would feel that way.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_7",
+                "type": "Speech",
+                "text": "Once they bloom, cherry blossoms fade away almost immediately.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_16_13"
+            },
+            {
+                "id": "d_counseling_sakura_16_8",
+                "type": "Speech",
+                "text": "Wait...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_9",
+                "type": "Speech",
+                "text": "are you talking about me?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_10",
+                "type": "Self",
+                "text": "Yes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_11",
+                "type": "Speech",
+                "text": "Perhaps I shouldn't have asked this question.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_12",
+                "type": "Speech",
+                "text": "Your response really... has me flustered.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_16_13",
+                "type": "Narration",
+                "text": "Sakura teaches me some old-time haikus.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_17_1",
+                "type": "Speech",
+                "text": "My family tells me that when I was a child,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_2",
+                "type": "Speech",
+                "text": "I would always frolic under the cherry blossoms.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_3",
+                "type": "Speech",
+                "text": "Now my memory is all a blur. I can't remember anything.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_4",
+                "type": "Speech",
+                "text": "But, whenever I see cherry blossoms, that feeling of excitement comes rushing back.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_5",
+                "type": "Speech",
+                "text": "Do you have any memorable childhood memories, {AccountData.NickName}-kun?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_6",
+                "type": "Choice",
+                "text": "Actually, I can't remember anything either.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_17_8"
+            },
+            {
+                "id": "d_counseling_sakura_17_7",
+                "type": "Choice",
+                "text": "The hospital.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_17_10"
+            },
+            {
+                "id": "d_counseling_sakura_17_8",
+                "type": "Speech",
+                "text": "... I see.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_9",
+                "type": "Speech",
+                "text": "That's too bad. For the both of us.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_17_13"
+            },
+            {
+                "id": "d_counseling_sakura_17_10",
+                "type": "Speech",
+                "text": "Oh...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_11",
+                "type": "Speech",
+                "text": "So you were a sickly child?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_12",
+                "type": "Speech",
+                "text": "Well, I'm glad you've grown up to become much stronger.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_17_13",
+                "type": "Narration",
+                "text": "Sakura and I flip through her album of childhood photos.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_18_1",
+                "type": "Speech",
+                "text": "You really are inscrutable, {AccountData.NickName}-kun.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_2",
+                "type": "Speech",
+                "text": "Sometimes you're weak, and others you're strong.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_3",
+                "type": "Speech",
+                "text": "Other times, you're incredibly gentle.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_4",
+                "type": "Speech",
+                "text": "That's a side of myself I feel I'm unable to access.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_5",
+                "type": "Speech",
+                "text": "How can I access that gentler side of myself?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_6",
+                "type": "Choice",
+                "text": "It's also important to be comfortable with who you are.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_18_8"
+            },
+            {
+                "id": "d_counseling_sakura_18_7",
+                "type": "Choice",
+                "text": "Do you want to practice with me?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_18_12"
+            },
+            {
+                "id": "d_counseling_sakura_18_8",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_9",
+                "type": "Speech",
+                "text": "Thank you for saying that.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_10",
+                "type": "Speech",
+                "text": "You've made me feel much more confident.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_11",
+                "type": "Speech",
+                "text": "Thank you.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_18_17"
+            },
+            {
+                "id": "d_counseling_sakura_18_12",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_13",
+                "type": "Self",
+                "text": "Try to be gentle with me first.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_14",
+                "type": "Speech",
+                "text": "Are you sure this will work?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_15",
+                "type": "Speech",
+                "text": "You may find this hard to believe,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_16",
+                "type": "Speech",
+                "text": "but I've been trying to be as kind to you as possible this entire time.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_18_17",
+                "type": "Narration",
+                "text": "I have a heart-to-heart with Sakura.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_19_1",
+                "type": "Speech",
+                "text": "I found a new confectionery shop.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_19_2",
+                "type": "Speech",
+                "text": "The treats there come in all sorts of shapes: flowers, animals, human faces, and kinds of unique formations.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_19_3",
+                "type": "Speech",
+                "text": "They've got lots of materials their customers can use to create their own confections.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_19_4",
+                "type": "Choice",
+                "text": "Why don't we go and buy some sometime?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_19_6"
+            },
+            {
+                "id": "d_counseling_sakura_19_5",
+                "type": "Choice",
+                "text": "Why don't we go and make some together?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_19_8"
+            },
+            {
+                "id": "d_counseling_sakura_19_6",
+                "type": "Speech",
+                "text": "Sure!",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_19_7",
+                "type": "Speech",
+                "text": "Let me know when you're free, and I'll clear up my schedule.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_19_11"
+            },
+            {
+                "id": "d_counseling_sakura_19_8",
+                "type": "Speech",
+                "text": "Sorry,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_19_9",
+                "type": "Speech",
+                "text": "but I'm not all that interested in cooking.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_19_10",
+                "type": "Speech",
+                "text": "Especially with the kind of confections they have at that shop. There's a lot involved in making them, so I don't think I'll go.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_19_11",
+                "type": "Narration",
+                "text": "Sakura and I check out the shop's webpage.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_20_1",
+                "type": "Speech",
+                "text": "I'm the only one who uses Ichigenkin anymore.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_2",
+                "type": "Speech",
+                "text": "Nevertheless, it's a family heirloom.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_3",
+                "type": "Speech",
+                "text": "It feels like a part of me, so I've kept it all this time.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_4",
+                "type": "Speech",
+                "text": "Have you ever fired a matchlock rifle, {AccountData.NickName}-kun?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_5",
+                "type": "Choice",
+                "text": "No, I've only seen them in a museum.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_20_7"
+            },
+            {
+                "id": "d_counseling_sakura_20_6",
+                "type": "Choice",
+                "text": "I haven't, but I'd love to.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_20_9"
+            },
+            {
+                "id": "d_counseling_sakura_20_7",
+                "type": "Speech",
+                "text": "I'm not surprised.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_8",
+                "type": "Speech",
+                "text": "That is the typical response I get from people.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_20_17"
+            },
+            {
+                "id": "d_counseling_sakura_20_9",
+                "type": "Speech",
+                "text": "Would you like to try aiming with it?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_10",
+                "type": "Monologue",
+                "text": "Sakura hands me her gun.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_11",
+                "type": "Speech",
+                "text": "Although it's an ancient relic, it's been modified for Nikkes, so it's heavy.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_12",
+                "type": "Speech",
+                "text": "Let me help you lift it.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_13",
+                "type": "Monologue",
+                "text": "Sakura clasps my hand in hers as she slowly lifts the gun up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_14",
+                "type": "Self",
+                "text": "!!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_15",
+                "type": "Speech",
+                "text": "What's wrong? Why do you seem so startled?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_16",
+                "type": "Self",
+                "text": "... Nothing. It's just a bit difficult to aim, that's all.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_20_17",
+                "type": "Narration",
+                "text": "I listen to Sakura as she goes over the matchlock rifle in detail.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

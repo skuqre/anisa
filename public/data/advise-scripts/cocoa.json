@@ -1,0 +1,1749 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_cocoa_01_1",
+                "type": "Speech",
+                "text": "Here you go!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_2",
+                "type": "Monologue",
+                "text": "Cocoa sets a plate of omurice in front of me and holds up the ketchup.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_3",
+                "type": "Choice",
+                "text": "As much ketchup as you can muster.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_01_5"
+            },
+            {
+                "id": "d_counseling_cocoa_01_4",
+                "type": "Choice",
+                "text": "Just a bit of ketchup.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_01_7"
+            },
+            {
+                "id": "d_counseling_cocoa_01_5",
+                "type": "Speech",
+                "text": "I knew you'd say that.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_6",
+                "type": "Monologue",
+                "text": "Cocoa's eyes glimmer with delight.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_01_10"
+            },
+            {
+                "id": "d_counseling_cocoa_01_7",
+                "type": "Speech",
+                "text": "But... are you sure that'll be enough?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_8",
+                "type": "Monologue",
+                "text": "Cocoa glances over with a look of disappointment.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_9",
+                "type": "Self",
+                "text": "... Fine, pour it on.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_01_10"
+            },
+            {
+                "id": "d_counseling_cocoa_01_10",
+                "type": "Speech",
+                "text": "You got it!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_11",
+                "type": "Narration",
+                "text": "*Squirt* *Squirt*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_12",
+                "type": "Narration",
+                "text": "*Squirt* *Spuirt* *Spuuuirt... Squirrrrt*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_13",
+                "type": "Speech",
+                "text": "... Phew.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_14",
+                "type": "Speech",
+                "text": "That oughta do it.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_01_15",
+                "type": "Narration",
+                "text": "I give Cocoa a thumbs up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_02_1",
+                "type": "Speech",
+                "text": "Master, do you prefer rainy days,",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_02_2",
+                "type": "Speech",
+                "text": "or sunny days?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_02_3",
+                "type": "Choice",
+                "text": "I like rainy days.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_02_5"
+            },
+            {
+                "id": "d_counseling_cocoa_02_4",
+                "type": "Choice",
+                "text": "I like sunny days.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_02_7"
+            },
+            {
+                "id": "d_counseling_cocoa_02_5",
+                "type": "Speech",
+                "text": "I like rainy days as well.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_02_6",
+                "type": "Speech",
+                "text": "It also makes me happy to see Cocorella enjoying herself in the rain.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_02_9"
+            },
+            {
+                "id": "d_counseling_cocoa_02_7",
+                "type": "Speech",
+                "text": "I don't mind sunny days, but I like rainy days as well.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_02_8",
+                "type": "Speech",
+                "text": "It also makes me happy to see Cocorella enjoying herself in the rain.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_02_9",
+                "type": "Narration",
+                "text": "I agree to go out with Cocoa on a rainy day while bringing Cocorella along.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_03_1",
+                "type": "Speech",
+                "text": "Soda has been super handsy lately.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_03_2",
+                "type": "Speech",
+                "text": "Whenever she gives me a hug, my face gets smooshed into her chest and I can't breathe.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_03_3",
+                "type": "Speech",
+                "text": "What can I do to keep her at bay?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_03_4",
+                "type": "Choice",
+                "text": "Fire some ketchup at her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_03_6"
+            },
+            {
+                "id": "d_counseling_cocoa_03_5",
+                "type": "Choice",
+                "text": "Fire a gun at her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_03_9"
+            },
+            {
+                "id": "d_counseling_cocoa_03_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_03_7",
+                "type": "Speech",
+                "text": "That's a great idea.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_03_8",
+                "type": "Speech",
+                "text": "I'm positive I'll be able to vanquish her with ketchup.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_03_12"
+            },
+            {
+                "id": "d_counseling_cocoa_03_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_03_10",
+                "type": "Speech",
+                "text": "You can't do that. Shooting a gun is dangerous.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_03_11",
+                "type": "Speech",
+                "text": "I don't want to hurt Soda.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_03_12",
+                "type": "Narration",
+                "text": "Cocoa and I brainstorm about how to defeat Soda.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_04_1",
+                "type": "Speech",
+                "text": "Some customers ordered omurice today, but they ordered it to-go.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_04_2",
+                "type": "Speech",
+                "text": "Do you prefer eating inside, or going al fresco?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_04_3",
+                "type": "Choice",
+                "text": "I prefer eating in the restaurant.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_04_5"
+            },
+            {
+                "id": "d_counseling_cocoa_04_4",
+                "type": "Choice",
+                "text": "Ordering take-out and eating it elsewhere can be nice.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_04_7"
+            },
+            {
+                "id": "d_counseling_cocoa_04_5",
+                "type": "Speech",
+                "text": "As expected.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_04_6",
+                "type": "Speech",
+                "text": "Since it's you, I knew you'd prefer eating with Cocoa.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_04_10"
+            },
+            {
+                "id": "d_counseling_cocoa_04_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_04_8",
+                "type": "Speech",
+                "text": "So you enjoy al fresco dining as well...",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_04_9",
+                "type": "Speech",
+                "text": "You don't enjoy eating together with me?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_04_10",
+                "type": "Narration",
+                "text": "I decide to eat omurice with Cocoa in the Maid Cafe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_05_1",
+                "type": "Speech",
+                "text": "Master!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_05_2",
+                "type": "Monologue",
+                "text": "Cocoa holds out her thumb.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_05_3",
+                "type": "Choice",
+                "text": "Also give a thumbs up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_05_5"
+            },
+            {
+                "id": "d_counseling_cocoa_05_4",
+                "type": "Choice",
+                "text": "Shake Cocoa's hand.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_05_7"
+            },
+            {
+                "id": "d_counseling_cocoa_05_5",
+                "type": "Speech",
+                "text": "Such lovely manners you have, Master!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_05_6",
+                "type": "Speech",
+                "text": "Very admirable.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_05_9"
+            },
+            {
+                "id": "d_counseling_cocoa_05_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_05_8",
+                "type": "Speech",
+                "text": "I wasn't asking you to shake my hand...",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_05_9",
+                "type": "Narration",
+                "text": "Cocoa and I keep our thumbs up the entire time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_06_1",
+                "type": "Speech",
+                "text": "Ade is always complimenting me.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_06_2",
+                "type": "Speech",
+                "text": "I want to return the favor, but how?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_06_3",
+                "type": "Choice",
+                "text": "Tell Ade what a good job she's doing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_06_5"
+            },
+            {
+                "id": "d_counseling_cocoa_06_4",
+                "type": "Choice",
+                "text": "Give her two thumbs up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_06_8"
+            },
+            {
+                "id": "d_counseling_cocoa_06_5",
+                "type": "Speech",
+                "text": "Is that necessary?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_06_6",
+                "type": "Speech",
+                "text": "If she's actually doing such a good job,",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_06_7",
+                "type": "Speech",
+                "text": "why would I have to point it out?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_06_11"
+            },
+            {
+                "id": "d_counseling_cocoa_06_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_06_9",
+                "type": "Speech",
+                "text": "A double thumbs up?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_06_10",
+                "type": "Speech",
+                "text": "That's a great idea!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_06_11",
+                "type": "Narration",
+                "text": "I have a discussion with Cocoa about how to compliment Ade.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_07_1",
+                "type": "Speech",
+                "text": "A customer told me today that",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_2",
+                "type": "Speech",
+                "text": "it's not polite to open your umbrella in a cafe.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_3",
+                "type": "Speech",
+                "text": "What's your stance on that?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_4",
+                "type": "Choice",
+                "text": "Opening an umbrella indoors is generally frowned upon.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_07_6"
+            },
+            {
+                "id": "d_counseling_cocoa_07_5",
+                "type": "Choice",
+                "text": "If you're a maid, you can open your umbrella wherever you want.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_07_10"
+            },
+            {
+                "id": "d_counseling_cocoa_07_6",
+                "type": "Speech",
+                "text": "It is?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_7",
+                "type": "Speech",
+                "text": "But I'm not like everybody else.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_8",
+                "type": "Speech",
+                "text": "I'm a maid.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_9",
+                "type": "Speech",
+                "text": "A professional one at that.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_07_13"
+            },
+            {
+                "id": "d_counseling_cocoa_07_10",
+                "type": "Speech",
+                "text": "That's what I was saying.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_11",
+                "type": "Speech",
+                "text": "You know more about maids than some actual maids, Master.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_12",
+                "type": "Speech",
+                "text": "Amazing.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_07_13",
+                "type": "Narration",
+                "text": "Cocoa and I talk about what maids can and cannot do in public.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_08_1",
+                "type": "Speech",
+                "text": "I brought a customer a menu today,",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_08_2",
+                "type": "Speech",
+                "text": "and they looked up at me with this solemn expression.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_08_3",
+                "type": "Speech",
+                "text": "Why do you think that was?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_08_4",
+                "type": "Choice",
+                "text": "She felt inferior standing next to someone as cool as you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_08_6"
+            },
+            {
+                "id": "d_counseling_cocoa_08_5",
+                "type": "Choice",
+                "text": "She might have wanted another maid to serve her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_08_9"
+            },
+            {
+                "id": "d_counseling_cocoa_08_6",
+                "type": "Speech",
+                "text": "Am I really that cool?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_08_7",
+                "type": "Speech",
+                "text": "I didn't know that the face people made when they encounter someone they think is cool, but now I know.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_08_8",
+                "type": "Speech",
+                "text": "Problem solved. Thank you, Master.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_08_12"
+            },
+            {
+                "id": "d_counseling_cocoa_08_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_08_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_08_11",
+                "type": "Speech",
+                "text": "So she didn't want to meet me...?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_08_12",
+                "type": "Narration",
+                "text": "I have a conversation with Cocoa about the customer's reaction.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_09_1",
+                "type": "Speech",
+                "text": "Master, is there anything you don't go anywhere without?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_09_2",
+                "type": "Choice",
+                "text": "My umbrella.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_09_4"
+            },
+            {
+                "id": "d_counseling_cocoa_09_3",
+                "type": "Choice",
+                "text": "Credits that I can use at the Maid Cafe.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_09_7"
+            },
+            {
+                "id": "d_counseling_cocoa_09_4",
+                "type": "Speech",
+                "text": "An umbrella?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_09_5",
+                "type": "Speech",
+                "text": "You don't have to carry one of those.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_09_6",
+                "type": "Speech",
+                "text": "When you're with me, you can just use Cocorella.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_09_10"
+            },
+            {
+                "id": "d_counseling_cocoa_09_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_09_8",
+                "type": "Speech",
+                "text": "Because you want to see me every day?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_09_9",
+                "type": "Speech",
+                "text": "That's so nice of you to say, Master.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_09_10",
+                "type": "Narration",
+                "text": "I have a conversation with Cocoa about things we won't go anywhere without.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_10_1",
+                "type": "Speech",
+                "text": "Master.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_10_2",
+                "type": "Speech",
+                "text": "I want a real challenge. Give me something to make.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_10_3",
+                "type": "Choice",
+                "text": "I want an opulent super-duper mega ultra omurice.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_10_5"
+            },
+            {
+                "id": "d_counseling_cocoa_10_4",
+                "type": "Choice",
+                "text": "I want a delectable, supremely appetizing apple juice.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_10_8"
+            },
+            {
+                "id": "d_counseling_cocoa_10_5",
+                "type": "Speech",
+                "text": "Good choice.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_10_6",
+                "type": "Speech",
+                "text": "For this one,",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_10_7",
+                "type": "Speech",
+                "text": "I'll use this brand-new ketchup I just made!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_10_11"
+            },
+            {
+                "id": "d_counseling_cocoa_10_8",
+                "type": "Speech",
+                "text": "Huh? Juice?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_10_9",
+                "type": "Speech",
+                "text": "But I prepared some brand new ketchup...",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_10_10",
+                "type": "Speech",
+                "text": "Are you sure you don't want omurice?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_10_11",
+                "type": "Narration",
+                "text": "I eat the omurice, which is plastered with ketchup, that Cocoa ended up preparing for me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_11_1",
+                "type": "Speech",
+                "text": "Master, do you prefer ketchup or mayo?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_11_2",
+                "type": "Speech",
+                "text": "I'm crafting a new menu, and can't decide which sauce to use.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_11_3",
+                "type": "Choice",
+                "text": "Ketchmayo.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_11_5"
+            },
+            {
+                "id": "d_counseling_cocoa_11_4",
+                "type": "Choice",
+                "text": "Ketchup.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_11_9"
+            },
+            {
+                "id": "d_counseling_cocoa_11_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_11_6",
+                "type": "Speech",
+                "text": "What is ketchmayo?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_11_7",
+                "type": "Speech",
+                "text": "Is it a mix of ketchup and mayo?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_11_8",
+                "type": "Speech",
+                "text": "I've never made that before. I know a new challenge is always risky, but I'll consider it.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_11_11"
+            },
+            {
+                "id": "d_counseling_cocoa_11_9",
+                "type": "Speech",
+                "text": "Yeah, you can't go wrong with ketchup.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_11_10",
+                "type": "Speech",
+                "text": "I should have known that'd be the answer.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_11_11",
+                "type": "Narration",
+                "text": "I have a conversation with Cocoa about the new menu.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_12_1",
+                "type": "Speech",
+                "text": "Master.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_12_2",
+                "type": "Speech",
+                "text": "What would you like me to draw using ketchup?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_12_3",
+                "type": "Choice",
+                "text": "Draw a self-portrait.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_12_5"
+            },
+            {
+                "id": "d_counseling_cocoa_12_4",
+                "type": "Choice",
+                "text": "Draw me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_12_8"
+            },
+            {
+                "id": "d_counseling_cocoa_12_5",
+                "type": "Speech",
+                "text": "Draw myself?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_12_6",
+                "type": "Speech",
+                "text": "To do that, I'd need a mirror, and this place doesn't have one.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_12_7",
+                "type": "Speech",
+                "text": "Can I draw you instead?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_12_11"
+            },
+            {
+                "id": "d_counseling_cocoa_12_8",
+                "type": "Speech",
+                "text": "All right!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_12_9",
+                "type": "Speech",
+                "text": "I've already drawn you many times before.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_12_10",
+                "type": "Speech",
+                "text": "I've been practicing on my own whenever I have time.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_12_11",
+                "type": "Narration",
+                "text": "I hang out with Cocoa while she tries to draw me using ketchup.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_13_1",
+                "type": "Speech",
+                "text": "Master, what's your favorite food?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_13_2",
+                "type": "Speech",
+                "text": "I'll make it for you right now.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_13_3",
+                "type": "Choice",
+                "text": "Savory omurice.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_13_5"
+            },
+            {
+                "id": "d_counseling_cocoa_13_4",
+                "type": "Choice",
+                "text": "Sweet and delicious fruit parfait.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_13_7"
+            },
+            {
+                "id": "d_counseling_cocoa_13_5",
+                "type": "Speech",
+                "text": "I can do that!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_13_6",
+                "type": "Speech",
+                "text": "I'll make sure it's nicely decorated with some ketchup on top too.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_13_10"
+            },
+            {
+                "id": "d_counseling_cocoa_13_7",
+                "type": "Speech",
+                "text": "Parfait?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_13_8",
+                "type": "Speech",
+                "text": "I haven't made that before, but I'll give it my best shot.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_13_9",
+                "type": "Speech",
+                "text": "I'm a pro, so I'm sure it'll end up at least being edible.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_13_10",
+                "type": "Narration",
+                "text": "I spend time with Cocoa while making food.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_14_1",
+                "type": "Speech",
+                "text": "I'm trying to increase customer satisfaction at the cafe,",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_14_2",
+                "type": "Speech",
+                "text": "but I feel like I keep coming up short.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_14_3",
+                "type": "Speech",
+                "text": "What kind of service should I include?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_14_4",
+                "type": "Choice",
+                "text": "There's nothing you can do. The service at Maid Cafe is already perfect.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_14_6"
+            },
+            {
+                "id": "d_counseling_cocoa_14_5",
+                "type": "Choice",
+                "text": "Why don't you ask the customers what they'd like to see?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_14_8"
+            },
+            {
+                "id": "d_counseling_cocoa_14_6",
+                "type": "Speech",
+                "text": "It makes me happy that you said that,",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_14_7",
+                "type": "Speech",
+                "text": "but unless we get our heads out of the clouds, we won't be able to improve.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_14_12"
+            },
+            {
+                "id": "d_counseling_cocoa_14_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_14_9",
+                "type": "Speech",
+                "text": "Master, you're a genius.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_14_10",
+                "type": "Speech",
+                "text": "The customer is always right, after all.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_14_11",
+                "type": "Speech",
+                "text": "I'll tell Ade and Soda.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_14_12",
+                "type": "Narration",
+                "text": "Cocoa and I have a discussion about how to listen to customer feedback.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_15_1",
+                "type": "Speech",
+                "text": "Master.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_15_2",
+                "type": "Speech",
+                "text": "How good of a maid do you think I am?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_15_3",
+                "type": "Choice",
+                "text": "You're a professional.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_15_5"
+            },
+            {
+                "id": "d_counseling_cocoa_15_4",
+                "type": "Choice",
+                "text": "Hmmm...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_15_7"
+            },
+            {
+                "id": "d_counseling_cocoa_15_5",
+                "type": "Speech",
+                "text": "Darn right!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_15_6",
+                "type": "Speech",
+                "text": "I'm the best of the best.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_15_9"
+            },
+            {
+                "id": "d_counseling_cocoa_15_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_15_8",
+                "type": "Speech",
+                "text": "Don't you consider me a professional?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_15_9",
+                "type": "Narration",
+                "text": "I have a discussion with Cocoa about what it means to be a pro.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_16_1",
+                "type": "Speech",
+                "text": "I had a conversation with Ade and Soda today.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_16_2",
+                "type": "Speech",
+                "text": "Ade likes hot cocoa and Soda likes iced cocoa.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_16_3",
+                "type": "Speech",
+                "text": "Which do you prefer, Master?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_16_4",
+                "type": "Choice",
+                "text": "Warm cocoa, all day every day.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_16_6"
+            },
+            {
+                "id": "d_counseling_cocoa_16_5",
+                "type": "Choice",
+                "text": "I don't care if I'm about to freeze to death, I'll only drink iced cocoa.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_16_8"
+            },
+            {
+                "id": "d_counseling_cocoa_16_6",
+                "type": "Speech",
+                "text": "I also prefer it warm.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_16_7",
+                "type": "Speech",
+                "text": "It's even better when you add marshmallows.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_16_10"
+            },
+            {
+                "id": "d_counseling_cocoa_16_8",
+                "type": "Speech",
+                "text": "Are you serious?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_16_9",
+                "type": "Speech",
+                "text": "How can you even taste the cocoa amongst all that ice?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_16_10",
+                "type": "Narration",
+                "text": "I have a conversation with Cocoa about... cocoa.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_17_1",
+                "type": "Speech",
+                "text": "I've got the day off today.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_17_2",
+                "type": "Speech",
+                "text": "What should we do?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_17_3",
+                "type": "Choice",
+                "text": "Do you want to go somewhere?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_17_5"
+            },
+            {
+                "id": "d_counseling_cocoa_17_4",
+                "type": "Choice",
+                "text": "Nothing beats resting at home.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_17_7"
+            },
+            {
+                "id": "d_counseling_cocoa_17_5",
+                "type": "Speech",
+                "text": "Sure! Where should we go?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_17_6",
+                "type": "Speech",
+                "text": "Cocorella says she wants to fly paper airplanes at the amusement park.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_17_9"
+            },
+            {
+                "id": "d_counseling_cocoa_17_7",
+                "type": "Speech",
+                "text": "Booorrrrring... Unfortunately, Soda and Ade are busy, so...",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_17_8",
+                "type": "Speech",
+                "text": "Could you come with me to go fly some paper airplanes?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_17_9",
+                "type": "Narration",
+                "text": "I go fly paper airplanes with Cocoa.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_18_1",
+                "type": "Speech",
+                "text": "Some customers have no manners at all.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_18_2",
+                "type": "Speech",
+                "text": "How should I deal with them?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_18_3",
+                "type": "Choice",
+                "text": "Teach them a lesson about manners.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_18_5"
+            },
+            {
+                "id": "d_counseling_cocoa_18_4",
+                "type": "Choice",
+                "text": "Be rude right back to them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_18_7"
+            },
+            {
+                "id": "d_counseling_cocoa_18_5",
+                "type": "Speech",
+                "text": "I suppose that would be the most effective method...",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_18_6",
+                "type": "Speech",
+                "text": "Cocorella could be my co-teacher.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_18_9"
+            },
+            {
+                "id": "d_counseling_cocoa_18_7",
+                "type": "Speech",
+                "text": "But then I'd become a maid without manners!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_18_8",
+                "type": "Speech",
+                "text": "No self-respecting maid would demean herself like that.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_18_9",
+                "type": "Narration",
+                "text": "I have a conversation with Cocoa about manners.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_19_1",
+                "type": "Speech",
+                "text": "Master, can you make origami using just a napkin?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_19_2",
+                "type": "Speech",
+                "text": "I can.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_19_3",
+                "type": "Choice",
+                "text": "I can do it with my eyes closed.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_19_5"
+            },
+            {
+                "id": "d_counseling_cocoa_19_4",
+                "type": "Choice",
+                "text": "Can you teach me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_19_8"
+            },
+            {
+                "id": "d_counseling_cocoa_19_5",
+                "type": "Speech",
+                "text": "I should have known better. I underestimated you!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_19_6",
+                "type": "Speech",
+                "text": "In that case, let's have an origami competition.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_19_7",
+                "type": "Speech",
+                "text": "We can see who is faster.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_19_11"
+            },
+            {
+                "id": "d_counseling_cocoa_19_8",
+                "type": "Speech",
+                "text": "Hehehe!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_19_9",
+                "type": "Speech",
+                "text": "Oh Master, you're hopeless.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_19_10",
+                "type": "Speech",
+                "text": "No problem though, I can teach you.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_19_11",
+                "type": "Narration",
+                "text": "I spend time with Cocoa folding napkins into origami.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_cocoa_20_1",
+                "type": "Speech",
+                "text": "Master,",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_20_2",
+                "type": "Speech",
+                "text": "I like you, Ade and Soda equally.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_20_3",
+                "type": "Choice",
+                "text": "I like you as well, Cocoa.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_cocoa_20_5"
+            },
+            {
+                "id": "d_counseling_cocoa_20_4",
+                "type": "Choice",
+                "text": "Actually, I kind of prefer...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_cocoa_20_7"
+            },
+            {
+                "id": "d_counseling_cocoa_20_5",
+                "type": "Speech",
+                "text": "Ah ha!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_20_6",
+                "type": "Speech",
+                "text": "Great minds think alike.",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": "d_counseling_cocoa_20_9"
+            },
+            {
+                "id": "d_counseling_cocoa_20_7",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_20_8",
+                "type": "Speech",
+                "text": "Is there someone you like more than me?",
+                "speaker": "Cocoa",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_cocoa_20_9",
+                "type": "Narration",
+                "text": "I have a conversation with Cocoa about people we like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

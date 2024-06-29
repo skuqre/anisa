@@ -1,0 +1,2165 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_leona_01_1",
+                "type": "Speech",
+                "text": "Cats go \"meow meow\",",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_01_2",
+                "type": "Speech",
+                "text": "dogs go, \"woof woof\",",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_01_3",
+                "type": "Speech",
+                "text": "and Timi goes...",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_01_4",
+                "type": "Choice",
+                "text": "Rowl Rowl!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_01_6"
+            },
+            {
+                "id": "d_counseling_leona_01_5",
+                "type": "Choice",
+                "text": "Graul!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_01_9"
+            },
+            {
+                "id": "d_counseling_leona_01_6",
+                "type": "Speech",
+                "text": "No no no!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_01_7",
+                "type": "Speech",
+                "text": "That's the sound of a tiger.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_01_8",
+                "type": "Speech",
+                "text": "I'm a little disappointed in you, Zoo Keeper.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_01_13"
+            },
+            {
+                "id": "d_counseling_leona_01_9",
+                "type": "Speech",
+                "text": "Yeah!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_01_10",
+                "type": "Speech",
+                "text": "You're right!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_01_11",
+                "type": "Speech",
+                "text": "Some people think he goes \"Rowl rowl\",",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_01_12",
+                "type": "Speech",
+                "text": "but that's the roar of a tiger, not a lion.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_01_13"
+            },
+            {
+                "id": "d_counseling_leona_01_13",
+                "type": "Narration",
+                "text": "I have a conversation with Leona about Timi's roar.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_02_1",
+                "type": "Speech",
+                "text": "It really eats me up inside how so many people are scared of Timi, just because he's a lion.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_02_2",
+                "type": "Speech",
+                "text": "Especially when he's as cute as he is.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_02_3",
+                "type": "Speech",
+                "text": "What do you think I can do to make people realize how charming he can be?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_02_4",
+                "type": "Choice",
+                "text": "Promote the shelter volunteer program more heavily.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_02_6"
+            },
+            {
+                "id": "d_counseling_leona_02_5",
+                "type": "Choice",
+                "text": "Make him wear a dog mask.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_02_10"
+            },
+            {
+                "id": "d_counseling_leona_02_6",
+                "type": "Speech",
+                "text": "That's a great idea!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_02_7",
+                "type": "Speech",
+                "text": "That way, more people will come to the shelter and get to see Timi for who he really is.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_02_8",
+                "type": "Speech",
+                "text": "Once they realize how awesome he is, they're sure to spread the word.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_02_9",
+                "type": "Speech",
+                "text": "Thanks for the suggestion, Zoo Keeper.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_02_13"
+            },
+            {
+                "id": "d_counseling_leona_02_10",
+                "type": "Speech",
+                "text": "No, we can't do that.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_02_11",
+                "type": "Speech",
+                "text": "Timi's face is integral to his charm.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_02_12",
+                "type": "Speech",
+                "text": "We can't cover that up!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_02_13"
+            },
+            {
+                "id": "d_counseling_leona_02_13",
+                "type": "Narration",
+                "text": "I have a conversation with Leona about Timi's charm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_03_1",
+                "type": "Speech",
+                "text": "Maybe it's just me, but Biscuit seems a bit scared of me sometimes.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_03_2",
+                "type": "Speech",
+                "text": "Am I really that intimidating?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_03_3",
+                "type": "Choice",
+                "text": "It's not you, but rather the animals that you always have around you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_03_5"
+            },
+            {
+                "id": "d_counseling_leona_03_4",
+                "type": "Choice",
+                "text": "It can be a tad bit hard approaching you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_03_8"
+            },
+            {
+                "id": "d_counseling_leona_03_5",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_03_6",
+                "type": "Speech",
+                "text": "I guess that's a fair point.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_03_7",
+                "type": "Speech",
+                "text": "Big animals can be kinda freaky to some people.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_03_11"
+            },
+            {
+                "id": "d_counseling_leona_03_8",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_03_9",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_03_10",
+                "type": "Speech",
+                "text": "I always thought I was pretty friendly...",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_03_11"
+            },
+            {
+                "id": "d_counseling_leona_03_11",
+                "type": "Speech",
+                "text": "Then what can I do to make Biscuit feel more comfortable?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_03_12",
+                "type": "Narration",
+                "text": "I have a short conversation with Leona.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_04_1",
+                "type": "Speech",
+                "text": "Did you know",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_04_2",
+                "type": "Speech",
+                "text": "there used to be these places called zoos?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_04_3",
+                "type": "Speech",
+                "text": "Animals were kept there, and people paid money to go see them.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_04_4",
+                "type": "Choice",
+                "text": "Sounds like a lot of fun.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_04_6"
+            },
+            {
+                "id": "d_counseling_leona_04_5",
+                "type": "Choice",
+                "text": "I feel sorry for the animals.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_04_9"
+            },
+            {
+                "id": "d_counseling_leona_04_6",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_04_7",
+                "type": "Speech",
+                "text": "I doubt the animals found it all that fun.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_04_8",
+                "type": "Speech",
+                "text": "Becoming spectacles for humans all while being confined in tight spaces.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_04_12"
+            },
+            {
+                "id": "d_counseling_leona_04_9",
+                "type": "Speech",
+                "text": "I'm glad you feel that way too.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_04_10",
+                "type": "Speech",
+                "text": "None of those animals ever had a choice. They were forcibly confined and displayed as a spectacle.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_04_11",
+                "type": "Speech",
+                "text": "It must have been miserable.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_04_12"
+            },
+            {
+                "id": "d_counseling_leona_04_12",
+                "type": "Speech",
+                "text": "I'm glad such a thing doesn't exist anymore.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_04_13",
+                "type": "Narration",
+                "text": "Leona and I talk more about zoos.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_05_1",
+                "type": "Speech",
+                "text": "Biscuit likes kibble.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_2",
+                "type": "Speech",
+                "text": "Nero likes kitty treats.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_3",
+                "type": "Speech",
+                "text": "Do you remember what I like?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_4",
+                "type": "Choice",
+                "text": "Meat.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_05_6"
+            },
+            {
+                "id": "d_counseling_leona_05_5",
+                "type": "Choice",
+                "text": "Vegetables.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_05_9"
+            },
+            {
+                "id": "d_counseling_leona_05_6",
+                "type": "Speech",
+                "text": "Bingo!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_7",
+                "type": "Speech",
+                "text": "Meat is my favorite.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_8",
+                "type": "Speech",
+                "text": "Especially when it's cooked blue, lightly seared on the outside, and red on the inside.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_05_12"
+            },
+            {
+                "id": "d_counseling_leona_05_9",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_10",
+                "type": "Speech",
+                "text": "I can't stand vegetables.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_11",
+                "type": "Speech",
+                "text": "I much prefer meat. There's much more to it.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_05_12"
+            },
+            {
+                "id": "d_counseling_leona_05_12",
+                "type": "Speech",
+                "text": "All this talk of food is making me hungry.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_13",
+                "type": "Speech",
+                "text": "Do you want to go eat together later?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_05_14",
+                "type": "Narration",
+                "text": "I listen to Leona as she continues to extol the virtues of meat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_06_1",
+                "type": "Speech",
+                "text": "People often think that cats are the only ones that are lazy and loaf around all the time,",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_2",
+                "type": "Speech",
+                "text": "but lions are actually quite similar.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_3",
+                "type": "Speech",
+                "text": "They're always lying down and rolling around.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_4",
+                "type": "Speech",
+                "text": "G-grrr...?",
+                "speaker": "Timi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_5",
+                "type": "Choice",
+                "text": "They are a member of the cat family, after all.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_06_7"
+            },
+            {
+                "id": "d_counseling_leona_06_6",
+                "type": "Choice",
+                "text": "Cats and lions have a lot in common. More than people think.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_06_11"
+            },
+            {
+                "id": "d_counseling_leona_06_7",
+                "type": "Speech",
+                "text": "Wow!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_8",
+                "type": "Speech",
+                "text": "You knew that already?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_9",
+                "type": "Speech",
+                "text": "You're more interested in animals than I thought you were.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_10",
+                "type": "Speech",
+                "text": "That makes me really happy!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_06_15"
+            },
+            {
+                "id": "d_counseling_leona_06_11",
+                "type": "Speech",
+                "text": "Precisely.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_12",
+                "type": "Speech",
+                "text": "They've also got rough tongues",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_13",
+                "type": "Speech",
+                "text": "and have retractable claws.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_06_14",
+                "type": "Speech",
+                "text": "If you're interested, I've got plenty more factoids I could share with you.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_06_15"
+            },
+            {
+                "id": "d_counseling_leona_06_15",
+                "type": "Narration",
+                "text": "I have a conversation with Leona about animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_07_1",
+                "type": "Speech",
+                "text": "Timi has been shedding like crazy lately.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_2",
+                "type": "Speech",
+                "text": "I could probably knit a blanket with all the fur he's lost.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_3",
+                "type": "Choice",
+                "text": "You should brush Timi every day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_07_5"
+            },
+            {
+                "id": "d_counseling_leona_07_4",
+                "type": "Choice",
+                "text": "It's shedding season, so these things are inevitable.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_07_10"
+            },
+            {
+                "id": "d_counseling_leona_07_5",
+                "type": "Speech",
+                "text": "Are you insinuating that I don't already do that?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_6",
+                "type": "Speech",
+                "text": "Zoo Keeper, that's mean.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_7",
+                "type": "Speech",
+                "text": "Where do you think Timi's beautiful coat gets its luster?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_8",
+                "type": "Speech",
+                "text": "I take great care to brush it every day.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_9",
+                "type": "Speech",
+                "text": "During the shedding season, it doesn't matter how often you brush them. They just keep shedding.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_07_14"
+            },
+            {
+                "id": "d_counseling_leona_07_10",
+                "type": "Speech",
+                "text": "You're right. No matter how much I brush him, it doesn't seem to make any difference.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_11",
+                "type": "Speech",
+                "text": "It takes me over an hour to remove all the strands of hair off my clothes.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_12",
+                "type": "Speech",
+                "text": "Anyway, I'm impressed you knew about seasonal shedding.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_07_13",
+                "type": "Speech",
+                "text": "Are you sure you don't want to volunteer at the animal shelter?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_07_14"
+            },
+            {
+                "id": "d_counseling_leona_07_14",
+                "type": "Narration",
+                "text": "I have a discussion with Leona about Timi's shedding.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_08_1",
+                "type": "Speech",
+                "text": "Have you ever touched Timi's paws?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_2",
+                "type": "Speech",
+                "text": "They're so soft and squishy.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_3",
+                "type": "Speech",
+                "text": "Would you like to try?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_4",
+                "type": "Choice",
+                "text": "Poke Timi's paw.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_08_6"
+            },
+            {
+                "id": "d_counseling_leona_08_5",
+                "type": "Choice",
+                "text": "Poke Leona's side.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_08_10"
+            },
+            {
+                "id": "d_counseling_leona_08_6",
+                "type": "Narration",
+                "text": "*Poke*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_7",
+                "type": "Speech",
+                "text": "Graul?",
+                "speaker": "Timi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_8",
+                "type": "Speech",
+                "text": "Don't they feel lovely?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_9",
+                "type": "Speech",
+                "text": "So squishy, hehe.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_08_14"
+            },
+            {
+                "id": "d_counseling_leona_08_10",
+                "type": "Narration",
+                "text": "*Poke*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_11",
+                "type": "Speech",
+                "text": "Hey!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_12",
+                "type": "Speech",
+                "text": "You startled me.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_08_13",
+                "type": "Speech",
+                "text": "What are you poking me for? I was talking about touching Timi's paw.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_08_14"
+            },
+            {
+                "id": "d_counseling_leona_08_14",
+                "type": "Narration",
+                "text": "I spend time with Leona while poking Timi's paws.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_09_1",
+                "type": "Speech",
+                "text": "Graul! Graul!",
+                "speaker": "Timi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_2",
+                "type": "Speech",
+                "text": "Yeah, yeah! I feel the same way.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_3",
+                "type": "Speech",
+                "text": "Graul.",
+                "speaker": "Timi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_4",
+                "type": "Speech",
+                "text": "No, that's not it.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_5",
+                "type": "Speech",
+                "text": "What are you looking at me like that for, Zoo Keeper?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_6",
+                "type": "Choice",
+                "text": "Because you're so beautiful.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_09_8"
+            },
+            {
+                "id": "d_counseling_leona_09_7",
+                "type": "Choice",
+                "text": "It's fascinating that you can communicate with Timi like that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_09_12"
+            },
+            {
+                "id": "d_counseling_leona_09_8",
+                "type": "Speech",
+                "text": "??",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_9",
+                "type": "Speech",
+                "text": "Haha, I can tell that's not the real reason,",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_10",
+                "type": "Speech",
+                "text": "but I'm happy hearing you saying that anyway.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_11",
+                "type": "Speech",
+                "text": "Thanks.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_09_15"
+            },
+            {
+                "id": "d_counseling_leona_09_12",
+                "type": "Speech",
+                "text": "I find it interesting myself.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_13",
+                "type": "Speech",
+                "text": "I've always been able to tell what animals were saying.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_09_14",
+                "type": "Speech",
+                "text": "I wonder why other people are incapable of it?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_09_15"
+            },
+            {
+                "id": "d_counseling_leona_09_15",
+                "type": "Narration",
+                "text": "I have an enjoyable time with Leona.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_10_1",
+                "type": "Speech",
+                "text": "Zoo Keeper, let me give you a quiz.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_10_2",
+                "type": "Speech",
+                "text": "How many teeth does an adult lion have?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_10_3",
+                "type": "Choice",
+                "text": "Around 20.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_10_5"
+            },
+            {
+                "id": "d_counseling_leona_10_4",
+                "type": "Choice",
+                "text": "Around 30.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_10_9"
+            },
+            {
+                "id": "d_counseling_leona_10_5",
+                "type": "Speech",
+                "text": "Come on,",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_10_6",
+                "type": "Speech",
+                "text": "how could such a big cat only have 20 teeth?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_10_7",
+                "type": "Speech",
+                "text": "I'm disappointed in you.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_10_8",
+                "type": "Speech",
+                "text": "They usually tend to have about 30.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_10_12"
+            },
+            {
+                "id": "d_counseling_leona_10_9",
+                "type": "Speech",
+                "text": "Correct!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_10_10",
+                "type": "Speech",
+                "text": "Honestly, Zoo Keeper, with your level of knowledge, I think I'd feel safe even entrusting Timi in your care.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_10_11",
+                "type": "Speech",
+                "text": "You're practically an animal expert.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_10_12"
+            },
+            {
+                "id": "d_counseling_leona_10_12",
+                "type": "Narration",
+                "text": "Leona and I spend some time counting Timi's teeth.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_11_1",
+                "type": "Speech",
+                "text": "There were three bears in one house. Daddy bear, mommy bear, baby bear.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_11_2",
+                "type": "Speech",
+                "text": "You know what I've always found fascinating?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_11_3",
+                "type": "Speech",
+                "text": "Bears can be such ferocious creatures, but they're oftentimes viewed as cute and cuddly.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_11_4",
+                "type": "Choice",
+                "text": "I think we have teddy bears to thank for that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_11_6"
+            },
+            {
+                "id": "d_counseling_leona_11_5",
+                "type": "Choice",
+                "text": "That's because bears are cute.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_11_8"
+            },
+            {
+                "id": "d_counseling_leona_11_6",
+                "type": "Speech",
+                "text": "Maybe so, especially if that's the first image of bears you're exposed to when you're young.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_11_7",
+                "type": "Speech",
+                "text": "Do you think people would find other animals less frightening if they were made into dolls?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_11_13"
+            },
+            {
+                "id": "d_counseling_leona_11_8",
+                "type": "Speech",
+                "text": "Wow!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_11_9",
+                "type": "Speech",
+                "text": "Do you really think so, Zoo Keeper?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_11_10",
+                "type": "Speech",
+                "text": "You've got a keen eye.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_11_11",
+                "type": "Speech",
+                "text": "Bears, lions, and other big animals are super cute when you see them up close.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_11_12",
+                "type": "Speech",
+                "text": "I hope other people will be able to appreciate how cute these big fellas can be.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_11_13"
+            },
+            {
+                "id": "d_counseling_leona_11_13",
+                "type": "Narration",
+                "text": "I have a conversation with Leona about cute animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_12_1",
+                "type": "Speech",
+                "text": "Have you heard of the saying, \"The bigger they are, the cuter they are.\"?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_12_2",
+                "type": "Speech",
+                "text": "Some students came to volunteer at the shelter, and I overheard one of them say that about Timi.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_12_3",
+                "type": "Choice",
+                "text": "I think that saying could apply to you as well, Leona.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_12_5"
+            },
+            {
+                "id": "d_counseling_leona_12_4",
+                "type": "Choice",
+                "text": "So by that rationale, the smaller something is, the less cute it is?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_12_9"
+            },
+            {
+                "id": "d_counseling_leona_12_5",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_12_6",
+                "type": "Speech",
+                "text": "So I'm big in what sense?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_12_7",
+                "type": "Speech",
+                "text": "As in my height? Or...",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_12_8",
+                "type": "Speech",
+                "text": "Anyway, I'll take it as a compliment. Thank you, Zoo Keeper.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_12_13"
+            },
+            {
+                "id": "d_counseling_leona_12_9",
+                "type": "Speech",
+                "text": "Oh, I didn't mean it like that.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_12_10",
+                "type": "Speech",
+                "text": "You would be unpopular if you spoke in this way.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_12_11",
+                "type": "Speech",
+                "text": "Haha, there's no need to sulk.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_12_12",
+                "type": "Speech",
+                "text": "In my eyes, you're as cute as can be.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_12_13"
+            },
+            {
+                "id": "d_counseling_leona_12_13",
+                "type": "Narration",
+                "text": "Leona and I have an enjoyable time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_13_1",
+                "type": "Speech",
+                "text": "Although I'm a Nikke, I do fall prey to my own emotions sometimes.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_13_2",
+                "type": "Speech",
+                "text": "Mostly feelings of exhaustion.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_13_3",
+                "type": "Speech",
+                "text": "What should I do to get over that?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_13_4",
+                "type": "Choice",
+                "text": "Talk to me whenever you're feeling tired.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_13_6"
+            },
+            {
+                "id": "d_counseling_leona_13_5",
+                "type": "Choice",
+                "text": "Try talking to Biscuit or Nero.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_13_9"
+            },
+            {
+                "id": "d_counseling_leona_13_6",
+                "type": "Speech",
+                "text": "I knew you would be someone I could depend on,",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_13_7",
+                "type": "Speech",
+                "text": "Zoo Keeper.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_13_8",
+                "type": "Speech",
+                "text": "All right, when things get tough, I'll be sure to talk to you.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_13_13"
+            },
+            {
+                "id": "d_counseling_leona_13_9",
+                "type": "Speech",
+                "text": "I'd like to do that,",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_13_10",
+                "type": "Speech",
+                "text": "but I'm their leader, so I don't want to show any weakness.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_13_11",
+                "type": "Speech",
+                "text": "I'll try to tough it out, and when I feel I can't, I'll talk to you.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_13_12",
+                "type": "Speech",
+                "text": "Is that okay?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_13_13"
+            },
+            {
+                "id": "d_counseling_leona_13_13",
+                "type": "Narration",
+                "text": "I have a meaningful time with Leona.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_14_1",
+                "type": "Speech",
+                "text": "When people say that someone has the heart of a lion,",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_14_2",
+                "type": "Speech",
+                "text": "it means that they're a determined and courageous person.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_14_3",
+                "type": "Speech",
+                "text": "Do you know anyone like that?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_14_4",
+                "type": "Choice",
+                "text": "Me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_14_6"
+            },
+            {
+                "id": "d_counseling_leona_14_5",
+                "type": "Choice",
+                "text": "You.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_14_9"
+            },
+            {
+                "id": "d_counseling_leona_14_6",
+                "type": "Speech",
+                "text": "Haha, I don't disagree,",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_14_7",
+                "type": "Speech",
+                "text": "but it's a bit strange to nominate yourself, you know.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_14_8",
+                "type": "Speech",
+                "text": "Then again, even doing that takes a bit of courage, so I suppose it's admirable.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_14_12"
+            },
+            {
+                "id": "d_counseling_leona_14_9",
+                "type": "Speech",
+                "text": "I'm glad you see me that way, but",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_14_10",
+                "type": "Speech",
+                "text": "there are many things that I still lack.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_14_11",
+                "type": "Speech",
+                "text": "Personally, I feel that you're the one with the heart of a lion.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_14_12"
+            },
+            {
+                "id": "d_counseling_leona_14_12",
+                "type": "Narration",
+                "text": "I have a meaningful time with Leona.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_15_1",
+                "type": "Speech",
+                "text": "I've been wondering:",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_15_2",
+                "type": "Speech",
+                "text": "When you grill meat, how do you like to cook it?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_15_3",
+                "type": "Choice",
+                "text": "Rare.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_15_5"
+            },
+            {
+                "id": "d_counseling_leona_15_4",
+                "type": "Choice",
+                "text": "Medium.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_15_10"
+            },
+            {
+                "id": "d_counseling_leona_15_5",
+                "type": "Speech",
+                "text": "Me too!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_15_6",
+                "type": "Speech",
+                "text": "Have you heard of blue steak?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_15_7",
+                "type": "Speech",
+                "text": "It's when you lightly sear the outside and that's all.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_15_8",
+                "type": "Speech",
+                "text": "Personally, I prefer my meat rare or blue.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_15_9",
+                "type": "Speech",
+                "text": "I guess we're pretty similar in how we like our meat cooked.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_15_13"
+            },
+            {
+                "id": "d_counseling_leona_15_10",
+                "type": "Speech",
+                "text": "Okay, so you like it somewhat cooked.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_15_11",
+                "type": "Speech",
+                "text": "Personally, I prefer it as raw as possible, so rare is as high as I'll go.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_15_12",
+                "type": "Speech",
+                "text": "I guess we're a bit different in how we like our meat cooked.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_15_13"
+            },
+            {
+                "id": "d_counseling_leona_15_13",
+                "type": "Narration",
+                "text": "I have a discussion with Leona about cooking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_16_1",
+                "type": "Speech",
+                "text": "Do you think it's possible to raise big animals as household pets?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_16_2",
+                "type": "Speech",
+                "text": "Living together in the same space, going out on walks, giving them treats, and all that.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_16_3",
+                "type": "Choice",
+                "text": "I think it would be hard.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_16_5"
+            },
+            {
+                "id": "d_counseling_leona_16_4",
+                "type": "Choice",
+                "text": "I think it's certainly possible.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_16_9"
+            },
+            {
+                "id": "d_counseling_leona_16_5",
+                "type": "Speech",
+                "text": "It certainly would be.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_16_6",
+                "type": "Speech",
+                "text": "Even with a domesticated species like dogs, there are certain species which are less tame and require special attention.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_16_7",
+                "type": "Speech",
+                "text": "Raising wild animals to be a household pet would be an even greater challenge.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_16_8",
+                "type": "Speech",
+                "text": "It's not completely impossible, but it's far too dangerous.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_16_13"
+            },
+            {
+                "id": "d_counseling_leona_16_9",
+                "type": "Speech",
+                "text": "I disagree.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_16_10",
+                "type": "Speech",
+                "text": "These are wild animals we're talking about here.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_16_11",
+                "type": "Speech",
+                "text": "The only reason the guys in the shelter are as docile as they are is because they've been trained by me.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_16_12",
+                "type": "Speech",
+                "text": "They're usually far more ferocious and dangerous creatures.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_16_13"
+            },
+            {
+                "id": "d_counseling_leona_16_13",
+                "type": "Narration",
+                "text": "Leona and I have a conversation about how to care for big animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_17_1",
+                "type": "Speech",
+                "text": "There's a saying, \"A lion always hunts to the hilt, even when trying to catch a rabbit.\"",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_2",
+                "type": "Speech",
+                "text": "What's your takeaway from that?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_3",
+                "type": "Choice",
+                "text": "That you should try your best, no matter if the task is big or small.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_17_5"
+            },
+            {
+                "id": "d_counseling_leona_17_4",
+                "type": "Choice",
+                "text": "Surviving in the wild isn't easy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_17_9"
+            },
+            {
+                "id": "d_counseling_leona_17_5",
+                "type": "Speech",
+                "text": "A fairly cookie-cutter answer.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_6",
+                "type": "Speech",
+                "text": "But did you know?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_7",
+                "type": "Speech",
+                "text": "Rabbits are faster than you think.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_8",
+                "type": "Speech",
+                "text": "For a lion, catching a rabbit isn't as easy as you may imagine.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_17_14"
+            },
+            {
+                "id": "d_counseling_leona_17_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_10",
+                "type": "Speech",
+                "text": "You're the first person to tell me that.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_11",
+                "type": "Speech",
+                "text": "In the unforgiving environment that is nature, you have to give your utmost to every hunt, regardless of the size of the prey.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_12",
+                "type": "Speech",
+                "text": "On top of that, rabbits can run much faster than you might think.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_17_13",
+                "type": "Speech",
+                "text": "I appreciate you sharing your thoughts with me, Zoo Keeper.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_17_14"
+            },
+            {
+                "id": "d_counseling_leona_17_14",
+                "type": "Narration",
+                "text": "I have an enjoyable time with Leona.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_18_1",
+                "type": "Speech",
+                "text": "Look at this!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_18_2",
+                "type": "Speech",
+                "text": "I bought a scarf from the store.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_18_3",
+                "type": "Choice",
+                "text": "Did you buy it for Timi?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_18_5"
+            },
+            {
+                "id": "d_counseling_leona_18_4",
+                "type": "Choice",
+                "text": "Did you buy it for me?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_18_9"
+            },
+            {
+                "id": "d_counseling_leona_18_5",
+                "type": "Speech",
+                "text": "That's right.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_18_6",
+                "type": "Speech",
+                "text": "I think Timi may be coming down with a cold,",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_18_7",
+                "type": "Speech",
+                "text": "so that's why I bought this for him.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_18_8",
+                "type": "Speech",
+                "text": "It's all the more convenient since a regular human-sized scarf is the perfect size for him.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_18_13"
+            },
+            {
+                "id": "d_counseling_leona_18_9",
+                "type": "Speech",
+                "text": "Er... no, this is for Timi.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_18_10",
+                "type": "Speech",
+                "text": "I can see how you would have gotten that impression though.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_18_11",
+                "type": "Speech",
+                "text": "Timi is big enough so that I can buy a regular scarf meant for humans.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_18_12",
+                "type": "Speech",
+                "text": "Sorry if I got your hopes up...",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_18_13"
+            },
+            {
+                "id": "d_counseling_leona_18_13",
+                "type": "Narration",
+                "text": "I spend some time with Leona talking about just how large Timi is.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_19_1",
+                "type": "Speech",
+                "text": "Ouch!",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_2",
+                "type": "Speech",
+                "text": "Don't bite, Timi.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_3",
+                "type": "Monologue",
+                "text": "Timi chews lightly on Leona's head.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_4",
+                "type": "Choice",
+                "text": "Don't your teeth hurt, Timi?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_19_6"
+            },
+            {
+                "id": "d_counseling_leona_19_5",
+                "type": "Choice",
+                "text": "Doesn't your head hurt, Leona?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_19_10"
+            },
+            {
+                "id": "d_counseling_leona_19_6",
+                "type": "Speech",
+                "text": "Graul?",
+                "speaker": "Timi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_7",
+                "type": "Speech",
+                "text": "Wait a minute.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_8",
+                "type": "Speech",
+                "text": "Are you saying that my head is harder than Timi's teeth?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_9",
+                "type": "Speech",
+                "text": "I mean... that's true, but still, it's not exactly flattering to hear.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_19_14"
+            },
+            {
+                "id": "d_counseling_leona_19_10",
+                "type": "Speech",
+                "text": "I'm okay.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_11",
+                "type": "Speech",
+                "text": "My head is pretty sturdy.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_12",
+                "type": "Speech",
+                "text": "Timi knows that too, which is why he's comfortable doing this.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_19_13",
+                "type": "Speech",
+                "text": "I'm just worried that it might become a habit of his.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_19_14"
+            },
+            {
+                "id": "d_counseling_leona_19_14",
+                "type": "Narration",
+                "text": "I have an enjoyable time with Leona.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_leona_20_1",
+                "type": "Speech",
+                "text": "Boy, am I full.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_20_2",
+                "type": "Speech",
+                "text": "I just wanna roll around and doze off.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_20_3",
+                "type": "Speech",
+                "text": "Graul.",
+                "speaker": "Timi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_20_4",
+                "type": "Choice",
+                "text": "Would you like to sleep in the Commander's Room?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_leona_20_6"
+            },
+            {
+                "id": "d_counseling_leona_20_5",
+                "type": "Choice",
+                "text": "I can wrap up our session early so you can go back and get some sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_leona_20_8"
+            },
+            {
+                "id": "d_counseling_leona_20_6",
+                "type": "Speech",
+                "text": "Can I?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_20_7",
+                "type": "Speech",
+                "text": "If you're sure it's okay, I'll borrow your bed for a moment.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_20_11"
+            },
+            {
+                "id": "d_counseling_leona_20_8",
+                "type": "Speech",
+                "text": "Are you sure that's okay?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_20_9",
+                "type": "Speech",
+                "text": "I'd really like to lie down.",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_20_10",
+                "type": "Speech",
+                "text": "Is there any chance I can take a nap in the Commander's Room?",
+                "speaker": "Leona",
+                "points": null,
+                "jumpTo": "d_counseling_leona_20_11"
+            },
+            {
+                "id": "d_counseling_leona_20_11",
+                "type": "Speech",
+                "text": "Graul.",
+                "speaker": "Timi",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_leona_20_12",
+                "type": "Narration",
+                "text": "Leona and Timi lie on the bed and fall asleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

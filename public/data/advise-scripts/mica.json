@@ -1,0 +1,1757 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_mica_01_1",
+                "type": "Speech",
+                "text": "Old-Timer!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_01_2",
+                "type": "Speech",
+                "text": "Belorta keeps teasing me.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_01_3",
+                "type": "Speech",
+                "text": "What can I do to make her stop?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_01_4",
+                "type": "Choice",
+                "text": "You should tease her back.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_01_6"
+            },
+            {
+                "id": "d_counseling_mica_01_5",
+                "type": "Choice",
+                "text": "Have her come tease me instead.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_01_9"
+            },
+            {
+                "id": "d_counseling_mica_01_6",
+                "type": "Speech",
+                "text": "Me, tease Belorta?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_01_7",
+                "type": "Speech",
+                "text": "I've never thought about it...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_01_8",
+                "type": "Speech",
+                "text": "But I'll give it a try!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_01_12"
+            },
+            {
+                "id": "d_counseling_mica_01_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_01_10",
+                "type": "Speech",
+                "text": "I couldn't do that!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_01_11",
+                "type": "Speech",
+                "text": "You're a good person! I don't want you to suffer.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_01_12",
+                "type": "Narration",
+                "text": "I make plans with Mica to deal with Belorta's teasing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_02_1",
+                "type": "Speech",
+                "text": "Old-Timer! Belorta says that if you want to help others,",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_02_2",
+                "type": "Speech",
+                "text": "first you should figure out what you can get in return.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_02_3",
+                "type": "Speech",
+                "text": "I help Belorta out all the time,",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_02_4",
+                "type": "Speech",
+                "text": "so, what should I get in return?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_02_5",
+                "type": "Choice",
+                "text": "Something good to eat.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_02_7"
+            },
+            {
+                "id": "d_counseling_mica_02_6",
+                "type": "Choice",
+                "text": "A \"No Teasing for a Day\" voucher.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_02_10"
+            },
+            {
+                "id": "d_counseling_mica_02_7",
+                "type": "Speech",
+                "text": "I don't think that would work.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_02_8",
+                "type": "Speech",
+                "text": "Belorta loves eating too much.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_02_9",
+                "type": "Speech",
+                "text": "She wouldn't give up a single crumb.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_02_12"
+            },
+            {
+                "id": "d_counseling_mica_02_10",
+                "type": "Speech",
+                "text": "That's a great idea!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_02_11",
+                "type": "Speech",
+                "text": "Every time I help Belorta, I'll ask her for that!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_02_12",
+                "type": "Narration",
+                "text": "I have a conversation with Mica about how to stop being a pushover.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_03_1",
+                "type": "Speech",
+                "text": "Hey... Old-Timer...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_03_2",
+                "type": "Speech",
+                "text": "Um... Between me and Belorta...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_03_3",
+                "type": "Speech",
+                "text": "who do you like more?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_03_4",
+                "type": "Choice",
+                "text": "You.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_03_6"
+            },
+            {
+                "id": "d_counseling_mica_03_5",
+                "type": "Choice",
+                "text": "I don't have a favorite.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_03_10"
+            },
+            {
+                "id": "d_counseling_mica_03_6",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_03_7",
+                "type": "Speech",
+                "text": "Haha. Hearing you say that makes me feel happy.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_03_8",
+                "type": "Speech",
+                "text": "But, wait, Belorta was the one who told me to ask you.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_03_9",
+                "type": "Speech",
+                "text": "If I tell her what you said... I'll probably get in trouble, won't I?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_03_12"
+            },
+            {
+                "id": "d_counseling_mica_03_10",
+                "type": "Speech",
+                "text": "Huh? That's not what I thought you'd say...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_03_11",
+                "type": "Speech",
+                "text": "Anyway, I only asked you because Belorta told me to. What should I tell her?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_03_12",
+                "type": "Narration",
+                "text": "Mica and I try and figure out a way not to get in trouble with Belorta.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_04_1",
+                "type": "Speech",
+                "text": "A few days ago,",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_2",
+                "type": "Speech",
+                "text": "I gave some of my food to this really hungry stray dog.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_3",
+                "type": "Speech",
+                "text": "Then a cat came over, so I shared some of my food with it as well.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_4",
+                "type": "Speech",
+                "text": "Eventually... I had nothing left for myself.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_5",
+                "type": "Speech",
+                "text": "Belorta got really mad when she found out.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_6",
+                "type": "Speech",
+                "text": "Why do you think she was so upset?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_7",
+                "type": "Choice",
+                "text": "Because there was nothing left for you to eat.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_04_9"
+            },
+            {
+                "id": "d_counseling_mica_04_8",
+                "type": "Choice",
+                "text": "Because there was nothing left for her to eat.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_04_11"
+            },
+            {
+                "id": "d_counseling_mica_04_9",
+                "type": "Speech",
+                "text": "??",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_10",
+                "type": "Speech",
+                "text": "That can't be it! Belorta always steals my food!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_04_13"
+            },
+            {
+                "id": "d_counseling_mica_04_11",
+                "type": "Speech",
+                "text": "Yeah, that's gotta be it!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_12",
+                "type": "Speech",
+                "text": "I forgot about that. Gee, Old-Timer, you're so smart!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_04_13",
+                "type": "Narration",
+                "text": "I have a conversation with Mica about Belorta's eating habits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_05_1",
+                "type": "Speech",
+                "text": "Old-Timer! Old-Timer!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_05_2",
+                "type": "Speech",
+                "text": "I heard that if you really want to be an adult, you've got to work on self-development.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_05_3",
+                "type": "Speech",
+                "text": "So... if you don't, then you can't become an adult, right?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_05_4",
+                "type": "Choice",
+                "text": "Exactly.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_05_6"
+            },
+            {
+                "id": "d_counseling_mica_05_5",
+                "type": "Choice",
+                "text": "That's not how it works.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_05_9"
+            },
+            {
+                "id": "d_counseling_mica_05_6",
+                "type": "Speech",
+                "text": "Ha ha! Great.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_05_7",
+                "type": "Speech",
+                "text": "I never want to become an adult!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_05_8",
+                "type": "Speech",
+                "text": "Self-development? Hah! I'll do my best to stay away from it.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_05_12"
+            },
+            {
+                "id": "d_counseling_mica_05_9",
+                "type": "Speech",
+                "text": "No?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_05_10",
+                "type": "Speech",
+                "text": "So, even if I don't do it, I'll still become an adult anyway?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_05_11",
+                "type": "Speech",
+                "text": "Aw, man! That stinks.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_05_12",
+                "type": "Narration",
+                "text": "I try to come up with ways for Mica not to become an adult.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_06_1",
+                "type": "Speech",
+                "text": "So, I was watching TV,",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_06_2",
+                "type": "Speech",
+                "text": "and they said that if you're smart, you won't get fooled by pranks so easily.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_06_3",
+                "type": "Speech",
+                "text": "So, starting today, I'm gonna be smart!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_06_4",
+                "type": "Speech",
+                "text": "If I'm smart, no one will be able to prank me! Right?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_06_5",
+                "type": "Choice",
+                "text": "You're probably right.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_06_7"
+            },
+            {
+                "id": "d_counseling_mica_06_6",
+                "type": "Choice",
+                "text": "Is that really true?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_06_9"
+            },
+            {
+                "id": "d_counseling_mica_06_7",
+                "type": "Speech",
+                "text": "Ha ha! Fantastic!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_06_8",
+                "type": "Speech",
+                "text": "If you think it'll work out, then I'm sure it will.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_06_12"
+            },
+            {
+                "id": "d_counseling_mica_06_9",
+                "type": "Speech",
+                "text": "Oh... Don't say that!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_06_10",
+                "type": "Speech",
+                "text": "Getting pranked, even if I'm smart...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_06_11",
+                "type": "Speech",
+                "text": "I'm getting anxious just thinking about it!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_06_12",
+                "type": "Narration",
+                "text": "I discuss ways to become smarter with Mica.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_07_1",
+                "type": "Speech",
+                "text": "Old-Timer, what do you do when you're sad?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_07_2",
+                "type": "Choice",
+                "text": "I cry like a little baby.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_07_4"
+            },
+            {
+                "id": "d_counseling_mica_07_3",
+                "type": "Choice",
+                "text": "I shove it down deep inside.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_07_7"
+            },
+            {
+                "id": "d_counseling_mica_07_4",
+                "type": "Speech",
+                "text": "Whoa! You're just like me!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_07_5",
+                "type": "Speech",
+                "text": "I just let the tears flow.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_07_6",
+                "type": "Speech",
+                "text": "Then, Belorta holds my hand and tells me everything is gonna be okay.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_07_10"
+            },
+            {
+                "id": "d_counseling_mica_07_7",
+                "type": "Speech",
+                "text": "Hmm... you're more like Belorta.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_07_8",
+                "type": "Speech",
+                "text": "That's no way to deal with sadness!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_07_9",
+                "type": "Speech",
+                "text": "If you don't say anything, no one will hold your hand and tell you everything is gonna be okay.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_07_10",
+                "type": "Narration",
+                "text": "I have a conversation with Mica about expressing sadness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_08_1",
+                "type": "Speech",
+                "text": "Old-Timer, I'm curious about something.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_08_2",
+                "type": "Speech",
+                "text": "What's the one thing you are most scared of?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_08_3",
+                "type": "Choice",
+                "text": "Did Belorta put you up to this?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_08_5"
+            },
+            {
+                "id": "d_counseling_mica_08_4",
+                "type": "Choice",
+                "text": "Belorta.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_08_8"
+            },
+            {
+                "id": "d_counseling_mica_08_5",
+                "type": "Speech",
+                "text": "How did you know?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_08_6",
+                "type": "Speech",
+                "text": "She sure did.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_08_7",
+                "type": "Speech",
+                "text": "I have no idea why, though.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_08_11"
+            },
+            {
+                "id": "d_counseling_mica_08_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_08_9",
+                "type": "Speech",
+                "text": "Wow! So, even Old-Timer feels that way about her?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_08_10",
+                "type": "Speech",
+                "text": "I really like Belorta, but she can be really scary sometimes.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_08_11",
+                "type": "Narration",
+                "text": "I chat with Mica about the scariest things in the world.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_09_1",
+                "type": "Speech",
+                "text": "Neon yells out \"Firepower!\" whenever she sees me.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_09_2",
+                "type": "Speech",
+                "text": "What should I yell back at her?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_09_3",
+                "type": "Choice",
+                "text": "Firepower!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_09_5"
+            },
+            {
+                "id": "d_counseling_mica_09_4",
+                "type": "Choice",
+                "text": "Firecracker!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_09_7"
+            },
+            {
+                "id": "d_counseling_mica_09_5",
+                "type": "Speech",
+                "text": "The same thing she says?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_09_6",
+                "type": "Speech",
+                "text": "Isn't there anything else I can say?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_09_9"
+            },
+            {
+                "id": "d_counseling_mica_09_7",
+                "type": "Speech",
+                "text": "That's a good one!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_09_8",
+                "type": "Speech",
+                "text": "From now on, I'll yell \"Firecracker!\" back at her.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_09_9",
+                "type": "Narration",
+                "text": "I have a conversation with Mica about Neon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_10_1",
+                "type": "Speech",
+                "text": "I'm worried because no one comes to our toy shop.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_10_2",
+                "type": "Speech",
+                "text": "Do you think nobody likes toys anymore?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_10_3",
+                "type": "Choice",
+                "text": "Maybe they're just afraid of getting pranked.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_10_5"
+            },
+            {
+                "id": "d_counseling_mica_10_4",
+                "type": "Choice",
+                "text": "I don't think people are into toys.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_10_8"
+            },
+            {
+                "id": "d_counseling_mica_10_5",
+                "type": "Speech",
+                "text": "Ah! So that's why no one's coming!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_10_6",
+                "type": "Speech",
+                "text": "They're all afraid of getting pranked.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_10_7",
+                "type": "Speech",
+                "text": "Ha ha ha. They're all just like me!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_10_11"
+            },
+            {
+                "id": "d_counseling_mica_10_8",
+                "type": "Speech",
+                "text": "Aw, man... You really think so?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_10_9",
+                "type": "Speech",
+                "text": "That stinks.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_10_10",
+                "type": "Speech",
+                "text": "It'd be so much fun if everyone came. We could all play together...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_10_11",
+                "type": "Narration",
+                "text": "I have a conversation with Mica about the toy store.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_11_1",
+                "type": "Speech",
+                "text": "Hey, there's this person... whenever I look at them, my heart feels funny.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_11_2",
+                "type": "Speech",
+                "text": "What's the deal?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_11_3",
+                "type": "Choice",
+                "text": "You have feelings for them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_11_5"
+            },
+            {
+                "id": "d_counseling_mica_11_4",
+                "type": "Choice",
+                "text": "Probably heart disease.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_11_8"
+            },
+            {
+                "id": "d_counseling_mica_11_5",
+                "type": "Speech",
+                "text": "Seriously?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_11_6",
+                "type": "Speech",
+                "text": "But I was talking about you...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_11_7",
+                "type": "Speech",
+                "text": "Does that mean... I have feelings for you?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_11_10"
+            },
+            {
+                "id": "d_counseling_mica_11_8",
+                "type": "Speech",
+                "text": "What?! You mean I'm sick? No, I can't be!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_11_9",
+                "type": "Speech",
+                "text": "What should I do? Should I go to the hospital?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_11_10",
+                "type": "Narration",
+                "text": "I talk with Mica about her peculiar heart situation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_12_1",
+                "type": "Speech",
+                "text": "Belorta said we should cook you up something as a gift.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_12_2",
+                "type": "Speech",
+                "text": "She also said to keep it a secret, so no blabbing about it!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_12_3",
+                "type": "Choice",
+                "text": "Can't wait to try it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_12_5"
+            },
+            {
+                "id": "d_counseling_mica_12_4",
+                "type": "Choice",
+                "text": "I don't want to eat it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_12_7"
+            },
+            {
+                "id": "d_counseling_mica_12_5",
+                "type": "Speech",
+                "text": "I'm excited to see what you think of it!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_12_6",
+                "type": "Speech",
+                "text": "Belorta was asking me what to put in it and she looked really excited!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_12_10"
+            },
+            {
+                "id": "d_counseling_mica_12_7",
+                "type": "Speech",
+                "text": "... Why? Why won't you eat it? Is it because I told you about it?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_12_8",
+                "type": "Speech",
+                "text": "I knew I shouldn't have told you...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_12_9",
+                "type": "Speech",
+                "text": "Aw man, I'm gonna be in big trouble with Belorta now.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_12_10",
+                "type": "Narration",
+                "text": "Mica and I talk more about food.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_13_1",
+                "type": "Speech",
+                "text": "I had a terrible nightmare last night. This terrifying ghost emerged and came after me.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_13_2",
+                "type": "Speech",
+                "text": "What if it comes out again tonight? I don't think I can sleep.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_13_3",
+                "type": "Choice",
+                "text": "I'll stay with you until you fall asleep.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_13_5"
+            },
+            {
+                "id": "d_counseling_mica_13_4",
+                "type": "Choice",
+                "text": "It's just a dream, so why don't you fight the ghost?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_13_8"
+            },
+            {
+                "id": "d_counseling_mica_13_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_13_6",
+                "type": "Speech",
+                "text": "Really? Hehe. Thanks, Old-Timer!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_13_7",
+                "type": "Speech",
+                "text": "I might actually be able to get a peaceful night's sleep, thanks to you!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_13_10"
+            },
+            {
+                "id": "d_counseling_mica_13_8",
+                "type": "Speech",
+                "text": "Sure, but you don't realize it's a dream when you're actually dreaming.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_13_9",
+                "type": "Speech",
+                "text": "It feels just like real life, that's why it's so scary.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_13_10",
+                "type": "Narration",
+                "text": "Mica and I talk about dreams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_14_1",
+                "type": "Speech",
+                "text": "Hey, have you ever been to an amusement park?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_14_2",
+                "type": "Speech",
+                "text": "I heard there are all sorts of cool rides there and lots of good eats!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_14_3",
+                "type": "Speech",
+                "text": "I want to go!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_14_4",
+                "type": "Choice",
+                "text": "Next time, I'll take you and Belorta.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_14_6"
+            },
+            {
+                "id": "d_counseling_mica_14_5",
+                "type": "Choice",
+                "text": "I'd like to go one day as well.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_14_8"
+            },
+            {
+                "id": "d_counseling_mica_14_6",
+                "type": "Speech",
+                "text": "Wow! Really? We'd all have a blast going together!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_14_7",
+                "type": "Speech",
+                "text": "I want to go! When should we go?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_14_10"
+            },
+            {
+                "id": "d_counseling_mica_14_8",
+                "type": "Speech",
+                "text": "I would have thought you'd gone already.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_14_9",
+                "type": "Speech",
+                "text": "You think there will be a day we can all go together?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_14_10",
+                "type": "Narration",
+                "text": "I share a conversation with Mica about amusement parks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_15_1",
+                "type": "Speech",
+                "text": "I just love Belorta to death!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_15_2",
+                "type": "Speech",
+                "text": "She may tease me a lot, but she doesn't really mean it.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_15_3",
+                "type": "Speech",
+                "text": "I hope she'll still be around 10, even 20 years from now.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_15_4",
+                "type": "Speech",
+                "text": "Do you think she'll still be friends with me then?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_15_5",
+                "type": "Choice",
+                "text": "You never know. People change.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_15_7"
+            },
+            {
+                "id": "d_counseling_mica_15_6",
+                "type": "Choice",
+                "text": "I'll be there for you as well.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_15_9"
+            },
+            {
+                "id": "d_counseling_mica_15_7",
+                "type": "Speech",
+                "text": "But I'm a Nikke, not a human...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_15_8",
+                "type": "Speech",
+                "text": "Does anyone know whether Nikkes change or not?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_15_11"
+            },
+            {
+                "id": "d_counseling_mica_15_9",
+                "type": "Speech",
+                "text": "You'll be there too? That's great!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_15_10",
+                "type": "Speech",
+                "text": "Me, Belorta, and you together forever!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_15_11",
+                "type": "Narration",
+                "text": "Mica and I have fun chatting.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_16_1",
+                "type": "Speech",
+                "text": "You're one of the good adults, Old-Timer. You're super kind.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_16_2",
+                "type": "Speech",
+                "text": "Are all adults like you?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_16_3",
+                "type": "Choice",
+                "text": "I'm afraid not.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_16_5"
+            },
+            {
+                "id": "d_counseling_mica_16_4",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_16_8"
+            },
+            {
+                "id": "d_counseling_mica_16_5",
+                "type": "Speech",
+                "text": "Belorta said the same thing.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_16_6",
+                "type": "Speech",
+                "text": "She told me you're an exception.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_16_7",
+                "type": "Speech",
+                "text": "Either way, I'm just happy that you're one of the good ones!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_16_10"
+            },
+            {
+                "id": "d_counseling_mica_16_8",
+                "type": "Speech",
+                "text": "Whoa! Really?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_16_9",
+                "type": "Speech",
+                "text": "I'm glad to hear there are lots more kind people out there like you!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_16_10",
+                "type": "Narration",
+                "text": "Mica and I continue our discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_17_1",
+                "type": "Speech",
+                "text": "Old-Timer! Old-Timer! Belorta and I are gonna cook up a new firework today!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_17_2",
+                "type": "Speech",
+                "text": "What kind of firework should we make?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_17_3",
+                "type": "Choice",
+                "text": "One that's full of color, like a rainbow.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_17_5"
+            },
+            {
+                "id": "d_counseling_mica_17_4",
+                "type": "Choice",
+                "text": "Something nice and loud.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_17_7"
+            },
+            {
+                "id": "d_counseling_mica_17_5",
+                "type": "Speech",
+                "text": "Hmm... If pretty is all it has going for it, I'm not sure Belorta will like it...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_17_6",
+                "type": "Speech",
+                "text": "I'll have to see what she says.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_17_9"
+            },
+            {
+                "id": "d_counseling_mica_17_7",
+                "type": "Speech",
+                "text": "Oooh, I haven't made a really big firework before!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_17_8",
+                "type": "Speech",
+                "text": "Now I'm curious! I'll go tell Belorta we have to make one!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_17_9",
+                "type": "Narration",
+                "text": "I have a conversation with Mica about fireworks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_18_1",
+                "type": "Speech",
+                "text": "I'm officially off for the day!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_18_2",
+                "type": "Speech",
+                "text": "This is the first time in ages I've had some time to myself. What should I do?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_18_3",
+                "type": "Choice",
+                "text": "Want to hang out?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_18_5"
+            },
+            {
+                "id": "d_counseling_mica_18_4",
+                "type": "Choice",
+                "text": "You should try and improve yourself somehow.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_18_8"
+            },
+            {
+                "id": "d_counseling_mica_18_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_18_6",
+                "type": "Speech",
+                "text": "You've got time to hang out with me?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_18_7",
+                "type": "Speech",
+                "text": "That's awesome! What should we do?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_18_10"
+            },
+            {
+                "id": "d_counseling_mica_18_8",
+                "type": "Speech",
+                "text": "But... why so serious?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_18_9",
+                "type": "Speech",
+                "text": "It's my day off...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_18_10",
+                "type": "Narration",
+                "text": "Mica and I make plans to go out and have fun.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_19_1",
+                "type": "Speech",
+                "text": "Belorta asked what my hobbies were today, and I didn't know how to respond.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_19_2",
+                "type": "Speech",
+                "text": "Is it really that important that I have a hobby?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_19_3",
+                "type": "Choice",
+                "text": "I'm sure we can figure something out together.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_19_5"
+            },
+            {
+                "id": "d_counseling_mica_19_4",
+                "type": "Choice",
+                "text": "It's good to have at least one.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_19_8"
+            },
+            {
+                "id": "d_counseling_mica_19_5",
+                "type": "Speech",
+                "text": "Okay, sounds good!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_19_6",
+                "type": "Speech",
+                "text": "Now, obviously you're supposed to enjoy your hobby...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_19_7",
+                "type": "Speech",
+                "text": "So what is it that I enjoy doing...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_19_10"
+            },
+            {
+                "id": "d_counseling_mica_19_8",
+                "type": "Speech",
+                "text": "I guess you're right about that.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_19_9",
+                "type": "Speech",
+                "text": "But I don't have any. Any ideas?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_19_10",
+                "type": "Narration",
+                "text": "Mica and I try to figure out a hobby for her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mica_20_1",
+                "type": "Speech",
+                "text": "Hey Old-Timer, would you prefer a world where it's always nighttime,",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_20_2",
+                "type": "Speech",
+                "text": "or always daytime?",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_20_3",
+                "type": "Choice",
+                "text": "Always daytime.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mica_20_5"
+            },
+            {
+                "id": "d_counseling_mica_20_4",
+                "type": "Choice",
+                "text": "Always nighttime.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mica_20_7"
+            },
+            {
+                "id": "d_counseling_mica_20_5",
+                "type": "Speech",
+                "text": "But if there's no nighttime, we can't set off any fireworks...",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_20_6",
+                "type": "Speech",
+                "text": "If you ask me, I'd rather go without the daytime.",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": "d_counseling_mica_20_10"
+            },
+            {
+                "id": "d_counseling_mica_20_7",
+                "type": "Speech",
+                "text": "Heck yeah, who needs the daytime anyway!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_20_8",
+                "type": "Speech",
+                "text": "Great minds think alike!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_20_9",
+                "type": "Speech",
+                "text": "I need the nighttime for setting off fireworks!",
+                "speaker": "Mica",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mica_20_10",
+                "type": "Narration",
+                "text": "Mica and I have a nice little chat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

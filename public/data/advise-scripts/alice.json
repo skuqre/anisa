@@ -1,0 +1,1805 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_alice_01_1",
+                "type": "Speech",
+                "text": "Rabbit in the mountains, rabbit in the meadow, where does the rabbit want to go?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_01_2",
+                "type": "Speech",
+                "text": "Hiya, Rabbity! Where is the rabbit in this song going?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_01_3",
+                "type": "Choice",
+                "text": "Naturally, rabbits prefer the hills.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_01_5"
+            },
+            {
+                "id": "d_counseling_alice_01_4",
+                "type": "Choice",
+                "text": "It's searching for a happier world.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_01_8"
+            },
+            {
+                "id": "d_counseling_alice_01_5",
+                "type": "Speech",
+                "text": "The hills?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_01_6",
+                "type": "Speech",
+                "text": "That sounds like a far-away place!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_01_7",
+                "type": "Speech",
+                "text": "Come on, rabbit! I believe in you!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_01_11"
+            },
+            {
+                "id": "d_counseling_alice_01_8",
+                "type": "Speech",
+                "text": "Whoa!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_01_9",
+                "type": "Speech",
+                "text": "She's really looking for a happier world!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_01_10",
+                "type": "Speech",
+                "text": "That's so cool!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_01_11"
+            },
+            {
+                "id": "d_counseling_alice_01_11",
+                "type": "Narration",
+                "text": "Alice and I sing some songs and have a good time together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_02_1",
+                "type": "Speech",
+                "text": "Hey, Rabbity. I was wondering.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_02_2",
+                "type": "Speech",
+                "text": "What if Sleeping Beauty gets hungry while she's sleeping?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_02_3",
+                "type": "Choice",
+                "text": "She'll have plenty to feast on in her dreams.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_02_5"
+            },
+            {
+                "id": "d_counseling_alice_02_4",
+                "type": "Choice",
+                "text": "If she gets hungry, she'll wake up.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_02_8"
+            },
+            {
+                "id": "d_counseling_alice_02_5",
+                "type": "Speech",
+                "text": "Hey, you're right!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_02_6",
+                "type": "Speech",
+                "text": "I never thought about all the great food in her dreams!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_02_7",
+                "type": "Speech",
+                "text": "Now I don't have to worry about her anymore!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_02_11"
+            },
+            {
+                "id": "d_counseling_alice_02_8",
+                "type": "Speech",
+                "text": "Really? She'll get up?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_02_9",
+                "type": "Speech",
+                "text": "Then we'll need to have some food ready for her, right?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_02_10",
+                "type": "Speech",
+                "text": "Hmm... that's a lot of work.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_02_11"
+            },
+            {
+                "id": "d_counseling_alice_02_11",
+                "type": "Narration",
+                "text": "Alice and I have a serious conversation about Sleeping Beauty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_03_1",
+                "type": "Speech",
+                "text": "The Queen has brought soooooo much snow.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_03_2",
+                "type": "Speech",
+                "text": "Is there a way we can ask her to stop?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_03_3",
+                "type": "Choice",
+                "text": "We could soothe her nerves with a cup of black tea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_03_5"
+            },
+            {
+                "id": "d_counseling_alice_03_4",
+                "type": "Choice",
+                "text": "Actually, the snow has nothing to do with Ludmilla.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_03_8"
+            },
+            {
+                "id": "d_counseling_alice_03_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_03_6",
+                "type": "Speech",
+                "text": "You're right! If the Queen is in a good mood, she won't bring any more snow!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_03_7",
+                "type": "Speech",
+                "text": "You're a genius!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_03_11"
+            },
+            {
+                "id": "d_counseling_alice_03_8",
+                "type": "Speech",
+                "text": "Really? How can that be?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_03_9",
+                "type": "Speech",
+                "text": "Oh no! Does this mean the Queen is losing control of her powers?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_03_10",
+                "type": "Speech",
+                "text": "This is no good. No good at all!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_03_11"
+            },
+            {
+                "id": "d_counseling_alice_03_11",
+                "type": "Narration",
+                "text": "Alice and I chat about Ludmilla for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_04_1",
+                "type": "Speech",
+                "text": "Speaking of carrots,",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_04_2",
+                "type": "Speech",
+                "text": "which taste do you prefer \u2013 sweet or salty?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_04_3",
+                "type": "Choice",
+                "text": "Actually, I don't like carrots at all.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_04_5"
+            },
+            {
+                "id": "d_counseling_alice_04_4",
+                "type": "Choice",
+                "text": "I like salty-sweet carrots.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_04_9"
+            },
+            {
+                "id": "d_counseling_alice_04_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_04_6",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_04_7",
+                "type": "Speech",
+                "text": "So strange...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_04_8",
+                "type": "Speech",
+                "text": "I thought carrots were every rabbit's favorite food!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_04_12"
+            },
+            {
+                "id": "d_counseling_alice_04_9",
+                "type": "Speech",
+                "text": "Salty-sweet?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_04_10",
+                "type": "Speech",
+                "text": "I never knew there were salty-sweet carrots!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_04_11",
+                "type": "Speech",
+                "text": "I bet they taste soooo good!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_04_12",
+                "type": "Narration",
+                "text": "I discuss the flavors of carrots with Alice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_05_1",
+                "type": "Speech",
+                "text": "Rabbity!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_05_2",
+                "type": "Speech",
+                "text": "I heard that people in the Ark eat some kind of food called Splendamin.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_05_3",
+                "type": "Speech",
+                "text": "What makes Splendamin so splendid?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_05_4",
+                "type": "Choice",
+                "text": "It puts you in a splendid mood.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_05_6"
+            },
+            {
+                "id": "d_counseling_alice_05_5",
+                "type": "Choice",
+                "text": "It gives you a splendid body.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_05_9"
+            },
+            {
+                "id": "d_counseling_alice_05_6",
+                "type": "Speech",
+                "text": "Splendid mood?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_05_7",
+                "type": "Speech",
+                "text": "That's amazing! A splendid mood!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_05_8",
+                "type": "Speech",
+                "text": "Amazing!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_05_11"
+            },
+            {
+                "id": "d_counseling_alice_05_9",
+                "type": "Speech",
+                "text": "Body?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_05_10",
+                "type": "Speech",
+                "text": "Wow! So, you must have a splendid body, too!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_05_11",
+                "type": "Narration",
+                "text": "I have a good talk with Alice about Splendamin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_06_1",
+                "type": "Speech",
+                "text": "Speaking of weather,",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_06_2",
+                "type": "Speech",
+                "text": "what kind of weather do you prefer: sunny or snowy?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_06_3",
+                "type": "Choice",
+                "text": "Sunny.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_06_5"
+            },
+            {
+                "id": "d_counseling_alice_06_4",
+                "type": "Choice",
+                "text": "Snowy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_06_8"
+            },
+            {
+                "id": "d_counseling_alice_06_5",
+                "type": "Speech",
+                "text": "I like sunny days too,",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_06_6",
+                "type": "Speech",
+                "text": "but I like snowy days more!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_06_7",
+                "type": "Speech",
+                "text": "That's because our Queen is the Snow Queen!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_06_11"
+            },
+            {
+                "id": "d_counseling_alice_06_8",
+                "type": "Speech",
+                "text": "I love our Queen's snow as well!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_06_9",
+                "type": "Speech",
+                "text": "The snow is cold, and it can be really scary sometimes...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_06_10",
+                "type": "Speech",
+                "text": "But I love it anyway! It's the same color as our Queen.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_06_11",
+                "type": "Narration",
+                "text": "I have a good talk with Alice about the Snow Queen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_07_1",
+                "type": "Speech",
+                "text": "Rabbity!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_07_2",
+                "type": "Speech",
+                "text": "Why don't the Queen of Hearts' minions need to sleep?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_07_3",
+                "type": "Speech",
+                "text": "I don't think I've ever seen them go to sleep, not even once.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_07_4",
+                "type": "Choice",
+                "text": "They're under an insomnia spell.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_07_6"
+            },
+            {
+                "id": "d_counseling_alice_07_5",
+                "type": "Choice",
+                "text": "That's why we have to make them all go to sleep.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_07_9"
+            },
+            {
+                "id": "d_counseling_alice_07_6",
+                "type": "Speech",
+                "text": "Ooh... really?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_07_7",
+                "type": "Speech",
+                "text": "The Queen of Hearts' minions are all big meanies,",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_07_8",
+                "type": "Speech",
+                "text": "but I still feel sorry for them.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_07_12"
+            },
+            {
+                "id": "d_counseling_alice_07_9",
+                "type": "Speech",
+                "text": "You're right! If they can't go to sleep by themselves...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_07_10",
+                "type": "Speech",
+                "text": "We can give them a little help!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_07_11",
+                "type": "Speech",
+                "text": "You're a real genius!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_07_12",
+                "type": "Narration",
+                "text": "I have a good talk with Alice about the minions of the Queen of Heart, Raptures.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_08_1",
+                "type": "Speech",
+                "text": "Rabbit in the mountains, oh, come drink by the spring.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_08_2",
+                "type": "Speech",
+                "text": "Rabbit in the morning, rubbing its eyes.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_08_3",
+                "type": "Speech",
+                "text": "Oh! Rabbit! Do you always wake up this early?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_08_4",
+                "type": "Choice",
+                "text": "That's right! I'm gonna go drink some spring water.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_08_6"
+            },
+            {
+                "id": "d_counseling_alice_08_5",
+                "type": "Choice",
+                "text": "I was just sleepwalking.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_08_8"
+            },
+            {
+                "id": "d_counseling_alice_08_6",
+                "type": "Speech",
+                "text": "Whoa! Early birds are the best!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_08_7",
+                "type": "Speech",
+                "text": "From now on, I'll wake up early with you! I promise!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_08_11"
+            },
+            {
+                "id": "d_counseling_alice_08_8",
+                "type": "Speech",
+                "text": "Mmm-hmm. Sounds fishy to me.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_08_9",
+                "type": "Speech",
+                "text": "How did you go to the spring",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_08_10",
+                "type": "Speech",
+                "text": "if you were sleepwalking?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_08_11",
+                "type": "Narration",
+                "text": "I have a discussion on the way to the spring with Alice for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_09_1",
+                "type": "Speech",
+                "text": "Rabbity, the fat's in the fire!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_09_2",
+                "type": "Speech",
+                "text": "The Queen is so powerful that the machines have been taken down one after another!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_09_3",
+                "type": "Speech",
+                "text": "I don't know what to do.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_09_4",
+                "type": "Choice",
+                "text": "Let them stay hidden.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_09_6"
+            },
+            {
+                "id": "d_counseling_alice_09_5",
+                "type": "Choice",
+                "text": "They will be fine as long as you stay with Ludmilla all the time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_09_9"
+            },
+            {
+                "id": "d_counseling_alice_09_6",
+                "type": "Speech",
+                "text": "That won't do at all.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_09_7",
+                "type": "Speech",
+                "text": "I've tried that long ago,",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_09_8",
+                "type": "Speech",
+                "text": "but the Queen told me that, it would be more difficult to rescue the lost princess.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_09_11"
+            },
+            {
+                "id": "d_counseling_alice_09_9",
+                "type": "Speech",
+                "text": "Ok! I will!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_09_10",
+                "type": "Speech",
+                "text": "After all, I like being with her.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_09_11",
+                "type": "Narration",
+                "text": "I have a discussion about rescuing the machines with Alice for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_10_1",
+                "type": "Speech",
+                "text": "Hey, Rabbity! Don't fall asleep in the middle of a race!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_10_2",
+                "type": "Speech",
+                "text": "Remember?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_10_3",
+                "type": "Choice",
+                "text": "I won't take part in any race.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_10_5"
+            },
+            {
+                "id": "d_counseling_alice_10_4",
+                "type": "Choice",
+                "text": "OK. I will try my best in every race.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_10_7"
+            },
+            {
+                "id": "d_counseling_alice_10_5",
+                "type": "Speech",
+                "text": "Huh? Why not?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_10_6",
+                "type": "Speech",
+                "text": "Have you quit racing?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_10_10"
+            },
+            {
+                "id": "d_counseling_alice_10_7",
+                "type": "Speech",
+                "text": "Hmph. Good!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_10_8",
+                "type": "Speech",
+                "text": "I'll be your number one fan.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_10_9",
+                "type": "Speech",
+                "text": "I'll watch you win all the races!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_10_10",
+                "type": "Narration",
+                "text": "I chat with Alice about how to beat tortoises in a race.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_11_1",
+                "type": "Speech",
+                "text": "Hey Rabbity!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_11_2",
+                "type": "Speech",
+                "text": "Whenever you sleep, do you dream?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_11_3",
+                "type": "Choice",
+                "text": "Not very often.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_11_5"
+            },
+            {
+                "id": "d_counseling_alice_11_4",
+                "type": "Choice",
+                "text": "All the time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_11_7"
+            },
+            {
+                "id": "d_counseling_alice_11_5",
+                "type": "Speech",
+                "text": "Darn, that's too bad.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_11_6",
+                "type": "Speech",
+                "text": "If you did, I was going to ask what you dreamed about.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_11_11"
+            },
+            {
+                "id": "d_counseling_alice_11_7",
+                "type": "Speech",
+                "text": "So you're just like me!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_11_8",
+                "type": "Speech",
+                "text": "I dream all the time about you and I running around",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_11_9",
+                "type": "Speech",
+                "text": "in a field of flowers together, without a care in the world.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_11_10",
+                "type": "Speech",
+                "text": "What do you dream about?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_11_11",
+                "type": "Narration",
+                "text": "Alice and I talk about dreams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_12_1",
+                "type": "Speech",
+                "text": "The snow is really piling up today!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_12_2",
+                "type": "Speech",
+                "text": "What do you like to do whenever it snows?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_12_3",
+                "type": "Choice",
+                "text": "Have a snowball fight.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_12_5"
+            },
+            {
+                "id": "d_counseling_alice_12_4",
+                "type": "Choice",
+                "text": "Make a snowman.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_12_8"
+            },
+            {
+                "id": "d_counseling_alice_12_5",
+                "type": "Speech",
+                "text": "Wow, that sounds cool!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_12_6",
+                "type": "Speech",
+                "text": "I've never done that before.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_12_7",
+                "type": "Speech",
+                "text": "Wanna have a snowball fight with me?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_12_11"
+            },
+            {
+                "id": "d_counseling_alice_12_8",
+                "type": "Speech",
+                "text": "I wanted to do something a little different today,",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_12_9",
+                "type": "Speech",
+                "text": "but since you really enjoy making snowmen...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_12_10",
+                "type": "Speech",
+                "text": "I can make another one.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_12_11",
+                "type": "Narration",
+                "text": "Alice and I try and come up with other snow-related activities.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_13_1",
+                "type": "Speech",
+                "text": "Doo dah, doo dee dah...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_13_2",
+                "type": "Speech",
+                "text": "Rabbity, sing with me!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_13_3",
+                "type": "Choice",
+                "text": "Join in and complement her singing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_13_5"
+            },
+            {
+                "id": "d_counseling_alice_13_4",
+                "type": "Choice",
+                "text": "Sing along jokingly.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_13_8"
+            },
+            {
+                "id": "d_counseling_alice_13_5",
+                "type": "Speech",
+                "text": "Whoa!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_13_6",
+                "type": "Speech",
+                "text": "You sing so well!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_13_7",
+                "type": "Speech",
+                "text": "Sing it again!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_13_10"
+            },
+            {
+                "id": "d_counseling_alice_13_8",
+                "type": "Speech",
+                "text": "Hmm, that doesn't quite gel...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_13_9",
+                "type": "Speech",
+                "text": "Still, I'm glad to see you enjoying yourself.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_13_10",
+                "type": "Narration",
+                "text": "Alice and I have fun singing together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_14_1",
+                "type": "Speech",
+                "text": "You must have other animal friends, right?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_14_2",
+                "type": "Speech",
+                "text": "What other animal friends are you close with?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_14_3",
+                "type": "Choice",
+                "text": "A tortoise.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_14_5"
+            },
+            {
+                "id": "d_counseling_alice_14_4",
+                "type": "Choice",
+                "text": "A dog.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_14_7"
+            },
+            {
+                "id": "d_counseling_alice_14_5",
+                "type": "Speech",
+                "text": "Wait, rabbits and tortoises don't get along!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_14_6",
+                "type": "Speech",
+                "text": "They had that big disagreement over that race...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_14_11"
+            },
+            {
+                "id": "d_counseling_alice_14_7",
+                "type": "Speech",
+                "text": "Oh, so you have a dog friend?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_14_8",
+                "type": "Speech",
+                "text": "What's its name?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_14_9",
+                "type": "Self",
+                "text": "Poli.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_14_10",
+                "type": "Speech",
+                "text": "Hey, I know a policewoman with the same name!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_14_11",
+                "type": "Narration",
+                "text": "Alice and I have a conversation about animal friends.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_15_1",
+                "type": "Speech",
+                "text": "Hey Rabbity!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_15_2",
+                "type": "Speech",
+                "text": "Have you ever eaten snow before?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_15_3",
+                "type": "Choice",
+                "text": "Sure, I've eaten snow that's fallen on the ground.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_15_5"
+            },
+            {
+                "id": "d_counseling_alice_15_4",
+                "type": "Choice",
+                "text": "Never.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_15_9"
+            },
+            {
+                "id": "d_counseling_alice_15_5",
+                "type": "Speech",
+                "text": "Wow!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_15_6",
+                "type": "Speech",
+                "text": "I've only had snow that's coming down from the sky.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_15_7",
+                "type": "Speech",
+                "text": "I wonder if it tastes any different once it's hit the ground.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_15_8",
+                "type": "Speech",
+                "text": "Let's try some next time we run across it.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_15_12"
+            },
+            {
+                "id": "d_counseling_alice_15_9",
+                "type": "Speech",
+                "text": "I can't believe you still haven't tried it!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_15_10",
+                "type": "Speech",
+                "text": "You can't eat snow once it melts,",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_15_11",
+                "type": "Speech",
+                "text": "so make sure you try it before then.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_15_12",
+                "type": "Narration",
+                "text": "Alice and I talk about the taste of snow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_16_1",
+                "type": "Speech",
+                "text": "I'm in the mood for cotton candy today.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_16_2",
+                "type": "Speech",
+                "text": "Do you like cotton candy, Rabbity?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_16_3",
+                "type": "Choice",
+                "text": "I like it because it's sweet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_16_5"
+            },
+            {
+                "id": "d_counseling_alice_16_4",
+                "type": "Choice",
+                "text": "Not really, I think it's too sweet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_16_8"
+            },
+            {
+                "id": "d_counseling_alice_16_5",
+                "type": "Speech",
+                "text": "I figured you would!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_16_6",
+                "type": "Speech",
+                "text": "Let's have some together next time.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_16_7",
+                "type": "Speech",
+                "text": "I want some that are pink-colored!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_16_10"
+            },
+            {
+                "id": "d_counseling_alice_16_8",
+                "type": "Speech",
+                "text": "But that's why I like it so much...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_16_9",
+                "type": "Speech",
+                "text": "I guess you don't have a big sweet tooth.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_16_10",
+                "type": "Narration",
+                "text": "Alice and I talk about cotton candy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_17_1",
+                "type": "Speech",
+                "text": "Whenever I can't fall asleep,",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_17_2",
+                "type": "Speech",
+                "text": "I imagine you and I are having tea time, Rabbity.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_17_3",
+                "type": "Speech",
+                "text": "What goes through your mind when you can't fall asleep?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_17_4",
+                "type": "Choice",
+                "text": "I imagine tea time with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_17_6"
+            },
+            {
+                "id": "d_counseling_alice_17_5",
+                "type": "Choice",
+                "text": "I lay down and try to keep my mind blank.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_17_9"
+            },
+            {
+                "id": "d_counseling_alice_17_6",
+                "type": "Speech",
+                "text": "Wow, so we've been thinking about the same thing!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_17_7",
+                "type": "Speech",
+                "text": "Hopefully we can run into each other in our dreams.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_17_8",
+                "type": "Speech",
+                "text": "I'll be sure to prepare some scrumptious treats for you.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_17_12"
+            },
+            {
+                "id": "d_counseling_alice_17_9",
+                "type": "Speech",
+                "text": "Don't you get bored just laying down not thinking about anything?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_17_10",
+                "type": "Speech",
+                "text": "It'd be more fun",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_17_11",
+                "type": "Speech",
+                "text": "if you tried to imagine something...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_17_12",
+                "type": "Narration",
+                "text": "Alice and I talk about imagination.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_18_1",
+                "type": "Speech",
+                "text": "I'm making cookies with the Queen today!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_18_2",
+                "type": "Speech",
+                "text": "I'll give you some once I finish.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_18_3",
+                "type": "Speech",
+                "text": "What should I make them look like?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_18_4",
+                "type": "Choice",
+                "text": "Like a rabbit.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_18_6"
+            },
+            {
+                "id": "d_counseling_alice_18_5",
+                "type": "Choice",
+                "text": "Like a snowman.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_18_10"
+            },
+            {
+                "id": "d_counseling_alice_18_6",
+                "type": "Speech",
+                "text": "Whoa, freaky!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_18_7",
+                "type": "Speech",
+                "text": "I was thinking the exact same thing!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_18_8",
+                "type": "Speech",
+                "text": "Our minds are in sync.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_18_9",
+                "type": "Speech",
+                "text": "I'll try and make it extra delicious for you!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_18_12"
+            },
+            {
+                "id": "d_counseling_alice_18_10",
+                "type": "Speech",
+                "text": "I thought you'd want it to be shaped like a rabbit...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_18_11",
+                "type": "Speech",
+                "text": "But I can try and go for a snowman.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_18_12",
+                "type": "Narration",
+                "text": "I eagerly anticipated trying Alice's delicious cookies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_19_1",
+                "type": "Speech",
+                "text": "Rabbity!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_19_2",
+                "type": "Speech",
+                "text": "Would a cloud melt like cotton candy does?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_19_3",
+                "type": "Choice",
+                "text": "Sure, and it would probably taste the same as well.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_19_5"
+            },
+            {
+                "id": "d_counseling_alice_19_4",
+                "type": "Choice",
+                "text": "I doubt it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_19_8"
+            },
+            {
+                "id": "d_counseling_alice_19_5",
+                "type": "Speech",
+                "text": "So it'd taste similar as well?!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_19_6",
+                "type": "Speech",
+                "text": "That'd be amazing!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_19_7",
+                "type": "Speech",
+                "text": "I hope I can try eating some actual clouds one day.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_19_10"
+            },
+            {
+                "id": "d_counseling_alice_19_8",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_19_9",
+                "type": "Speech",
+                "text": "Oh, I thought they'd be similar...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_19_10",
+                "type": "Narration",
+                "text": "Alice and I converse about clouds.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_alice_20_1",
+                "type": "Speech",
+                "text": "Hey Rabbity!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_20_2",
+                "type": "Speech",
+                "text": "If you were the main character in a movie, what would you be?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_20_3",
+                "type": "Choice",
+                "text": "A hatmaker.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_alice_20_5"
+            },
+            {
+                "id": "d_counseling_alice_20_4",
+                "type": "Choice",
+                "text": "Alice.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_alice_20_8"
+            },
+            {
+                "id": "d_counseling_alice_20_5",
+                "type": "Speech",
+                "text": "I think you'd make a great hatmaker!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_20_6",
+                "type": "Speech",
+                "text": "You and I could have a tea party every day.",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_20_7",
+                "type": "Speech",
+                "text": "We'd have so much fun!",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": "d_counseling_alice_20_10"
+            },
+            {
+                "id": "d_counseling_alice_20_8",
+                "type": "Speech",
+                "text": "Uh... but Alice is who I want to be...",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_20_9",
+                "type": "Speech",
+                "text": "What about another role?",
+                "speaker": "Alice",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_alice_20_10",
+                "type": "Narration",
+                "text": "Alice and I fantasize about being movie protagonists.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

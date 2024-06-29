@@ -1,0 +1,2181 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_helm_01_1",
+                "type": "Speech",
+                "text": "When you're out on the battlefield,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_01_2",
+                "type": "Speech",
+                "text": "which do you think is more important, Subordinate?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_01_3",
+                "type": "Speech",
+                "text": "Tried-and-true tactics or improvisation?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_01_4",
+                "type": "Choice",
+                "text": "Tried-and-true tactics.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_01_6"
+            },
+            {
+                "id": "d_counseling_helm_01_5",
+                "type": "Choice",
+                "text": "Improvisation.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_01_9"
+            },
+            {
+                "id": "d_counseling_helm_01_6",
+                "type": "Speech",
+                "text": "That's one thing you and I agree on.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_01_7",
+                "type": "Speech",
+                "text": "I think it's vital to stick to the techniques that have been practiced beforehand.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_01_8",
+                "type": "Speech",
+                "text": "Only then will the ship not veer too far off course.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_01_13"
+            },
+            {
+                "id": "d_counseling_helm_01_9",
+                "type": "Speech",
+                "text": "I'm the opposite.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_01_10",
+                "type": "Speech",
+                "text": "I put all my faith in tactics that have already proven effective in the past.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_01_11",
+                "type": "Speech",
+                "text": "Sure, improvising may be better for handling unexpected events, but...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_01_12",
+                "type": "Speech",
+                "text": "flying by the seat of your pants may bring about some dire consequences down the line.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_01_13"
+            },
+            {
+                "id": "d_counseling_helm_01_13",
+                "type": "Narration",
+                "text": "Helm and I talk more in-depth about various ways of commanding on a battlefield.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_02_1",
+                "type": "Speech",
+                "text": "Do you like seafood-flavored Splendamin, Subordinate?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_02_2",
+                "type": "Speech",
+                "text": "Octopus-flavored Splendamin. Halibut-flavored Splendamin. \nThings like that...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_02_3",
+                "type": "Choice",
+                "text": "I like it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_02_5"
+            },
+            {
+                "id": "d_counseling_helm_02_4",
+                "type": "Choice",
+                "text": "Not really.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_02_9"
+            },
+            {
+                "id": "d_counseling_helm_02_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_02_6",
+                "type": "Speech",
+                "text": "You like it too, Subordinate?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_02_7",
+                "type": "Speech",
+                "text": "That's an outrage! Everyone around me seems to be crazy about that fishy and salty... Blech! They must think I'm weird for hating it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_02_8",
+                "type": "Speech",
+                "text": "If you ask me, they're the ones who are weird.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_02_13"
+            },
+            {
+                "id": "d_counseling_helm_02_9",
+                "type": "Speech",
+                "text": "Whew... That's a relief.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_02_10",
+                "type": "Speech",
+                "text": "If you ended up liking that nasty stuff,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_02_11",
+                "type": "Speech",
+                "text": "I'd be the only one who isn't obsessing over it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_02_12",
+                "type": "Speech",
+                "text": "It would have been horrible.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_02_13"
+            },
+            {
+                "id": "d_counseling_helm_02_13",
+                "type": "Narration",
+                "text": "Helm continues to list the various reasons why she detests seafood-flavored Splendamin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_03_1",
+                "type": "Speech",
+                "text": "Which flavor do you prefer most? Spicy, salty or sour?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_03_2",
+                "type": "Speech",
+                "text": "Just so you know, I'm not a massive fan of any of them.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_03_3",
+                "type": "Choice",
+                "text": "Spicy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_03_5"
+            },
+            {
+                "id": "d_counseling_helm_03_4",
+                "type": "Choice",
+                "text": "Salty.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_03_8"
+            },
+            {
+                "id": "d_counseling_helm_03_5",
+                "type": "Speech",
+                "text": "Yeah, I'm the same as well. At the very least, it gives an umami flavor to it, which is nice.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_03_6",
+                "type": "Speech",
+                "text": "Every time I eat something salty, it just feels like it's sticking to my tongue.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_03_7",
+                "type": "Speech",
+                "text": "No matter how much water I drink afterward, that feeling doesn't go away. I simply detest it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_03_12"
+            },
+            {
+                "id": "d_counseling_helm_03_8",
+                "type": "Speech",
+                "text": "You really think so?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_03_9",
+                "type": "Speech",
+                "text": "I can't say I agree.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_03_10",
+                "type": "Speech",
+                "text": "I just can't stand salty stuff. It always feels like it's sticking to my tongue.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_03_11",
+                "type": "Speech",
+                "text": "No matter how much water I drink afterward, that feeling doesn't go away. I simply detest it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_03_12"
+            },
+            {
+                "id": "d_counseling_helm_03_12",
+                "type": "Narration",
+                "text": "Helm and I continue to talk more about the flavors we prefer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_04_1",
+                "type": "Speech",
+                "text": "Subordinate, do you think...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_04_2",
+                "type": "Speech",
+                "text": "the surface will be reclaimed one day?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_04_3",
+                "type": "Choice",
+                "text": "Yes, I believe it will happen.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_04_5"
+            },
+            {
+                "id": "d_counseling_helm_04_4",
+                "type": "Choice",
+                "text": "... I'm not sure.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_04_8"
+            },
+            {
+                "id": "d_counseling_helm_04_5",
+                "type": "Speech",
+                "text": "I, too, believe that day will come.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_04_6",
+                "type": "Speech",
+                "text": "And when it does,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_04_7",
+                "type": "Speech",
+                "text": "the Admire will protect every last inch of the ocean on the surface.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_04_11"
+            },
+            {
+                "id": "d_counseling_helm_04_8",
+                "type": "Speech",
+                "text": "... Yes, you may be right.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_04_9",
+                "type": "Speech",
+                "text": "But I believe that no matter how hopeless things may appear, you should never give up on your dreams.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_04_10",
+                "type": "Speech",
+                "text": "If you do, then you're just letting your nightmares come true.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_04_11"
+            },
+            {
+                "id": "d_counseling_helm_04_11",
+                "type": "Narration",
+                "text": "Helm and I have a conversation about reclaiming the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_05_1",
+                "type": "Speech",
+                "text": "Hypothetically speaking,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_05_2",
+                "type": "Speech",
+                "text": "IF you were to receive a large sum of money,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_05_3",
+                "type": "Speech",
+                "text": "how do you intend to spend it?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_05_4",
+                "type": "Choice",
+                "text": "Did you receive more donations than usual?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_05_6"
+            },
+            {
+                "id": "d_counseling_helm_05_5",
+                "type": "Choice",
+                "text": "I'll invest in the Admire.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_05_9"
+            },
+            {
+                "id": "d_counseling_helm_05_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_05_7",
+                "type": "Speech",
+                "text": "How can you...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_05_8",
+                "type": "Speech",
+                "text": "Well, what would you do? I want a serious answer.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_05_13"
+            },
+            {
+                "id": "d_counseling_helm_05_9",
+                "type": "Speech",
+                "text": "Not exactly the answer I was looking for...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_05_10",
+                "type": "Speech",
+                "text": "I was hoping you'd tell me about some dream you would invest it in.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_05_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_05_12",
+                "type": "Speech",
+                "text": "Still... Thanks for saying that.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_05_13"
+            },
+            {
+                "id": "d_counseling_helm_05_13",
+                "type": "Narration",
+                "text": "Helm and I cannot help but fantasize about hitting it big.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_06_1",
+                "type": "Speech",
+                "text": "Do you know Ludmilla from Unlimited?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_2",
+                "type": "Speech",
+                "text": "Not only are we descended from royalty, but I've also received her help once before.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_3",
+                "type": "Speech",
+                "text": "It's been ages since I last got in touch with her, so I'd like to give her a gift. So what do you think I should give her?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_4",
+                "type": "Choice",
+                "text": "A fancy tea set.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_06_6"
+            },
+            {
+                "id": "d_counseling_helm_06_5",
+                "type": "Choice",
+                "text": "A fancy handkerchief.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_06_8"
+            },
+            {
+                "id": "d_counseling_helm_06_6",
+                "type": "Speech",
+                "text": "Hm... That's not a bad idea.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_7",
+                "type": "Speech",
+                "text": "I think she'd like that.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_06_11"
+            },
+            {
+                "id": "d_counseling_helm_06_8",
+                "type": "Speech",
+                "text": "Hm... A bit ordinary, don't you think?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_10",
+                "type": "Speech",
+                "text": "Oh well... If nothing else comes to mind, then I'll just go with that.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_06_11"
+            },
+            {
+                "id": "d_counseling_helm_06_11",
+                "type": "Self",
+                "text": "Can you afford it?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_12",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_13",
+                "type": "Speech",
+                "text": "... No.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_14",
+                "type": "Speech",
+                "text": "I'll just... get her a gift later on, I guess.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_15",
+                "type": "Monologue",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_06_16",
+                "type": "Narration",
+                "text": "... I purchase the gift and send it to Ludmilla on Helm's behalf.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_07_1",
+                "type": "Speech",
+                "text": "Anchor has a bad habit of tossing starfish around whenever she's in a tough spot.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_07_2",
+                "type": "Speech",
+                "text": "I'm trying to get her to kick the habit, but I'm not sure how to go about it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_07_3",
+                "type": "Choice",
+                "text": "I'll toss out all the starfish in Anchor's locker.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_07_5"
+            },
+            {
+                "id": "d_counseling_helm_07_4",
+                "type": "Choice",
+                "text": "You can try tossing out all the starfish in Anchor's locker.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_07_9"
+            },
+            {
+                "id": "d_counseling_helm_07_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_07_6",
+                "type": "Speech",
+                "text": "You're gonna throw them all out?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_07_7",
+                "type": "Speech",
+                "text": "That's diabolical!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_07_8",
+                "type": "Speech",
+                "text": "... Thank you so much.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_07_12"
+            },
+            {
+                "id": "d_counseling_helm_07_9",
+                "type": "Speech",
+                "text": "Wait... you can't be serious?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_07_10",
+                "type": "Speech",
+                "text": "You actually want me to rummage through her locker for those disgusting starfish?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_07_11",
+                "type": "Speech",
+                "text": "No way. Ain't gonna happen!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_07_12"
+            },
+            {
+                "id": "d_counseling_helm_07_12",
+                "type": "Narration",
+                "text": "Helm and I continue to talk about Anchor and her starfish.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_08_1",
+                "type": "Speech",
+                "text": "The Admire features the latest cutting-edge technology...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_08_2",
+                "type": "Speech",
+                "text": "designed to provide our distinguished guests with the safest and most peaceful journey possible. In the past, countless ships...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_08_3",
+                "type": "Speech",
+                "text": "Argh, I can't memorize all this!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_08_4",
+                "type": "Choice",
+                "text": "Would it help if we recite the speech together?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_08_6"
+            },
+            {
+                "id": "d_counseling_helm_08_5",
+                "type": "Choice",
+                "text": "Would it help if I listened to you reciting the speech?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_08_9"
+            },
+            {
+                "id": "d_counseling_helm_08_6",
+                "type": "Speech",
+                "text": "No, it's okay.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_08_7",
+                "type": "Speech",
+                "text": "When the time comes, I'll be the only one reciting it anyway.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_08_8",
+                "type": "Speech",
+                "text": "I'll just keep at it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_08_12"
+            },
+            {
+                "id": "d_counseling_helm_08_9",
+                "type": "Speech",
+                "text": "You want to be my audience, Subordinate?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_08_10",
+                "type": "Speech",
+                "text": "... That's a swell idea actually. I'll be able to memorize it more easily if it feels like the actual thing.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_08_11",
+                "type": "Speech",
+                "text": "I appreciate it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_08_12"
+            },
+            {
+                "id": "d_counseling_helm_08_12",
+                "type": "Narration",
+                "text": "Time flies by as I watch Helm memorize her speech.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_09_1",
+                "type": "Monologue",
+                "text": "It is finally time for Helm and me to have a session,",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_2",
+                "type": "Monologue",
+                "text": "but she is nowhere to be found.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_3",
+                "type": "Monologue",
+                "text": "All I could find was a lone glass box left on the floor.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_4",
+                "type": "Choice",
+                "text": "Place a card containing small amounts of credit in the box.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_09_6"
+            },
+            {
+                "id": "d_counseling_helm_09_5",
+                "type": "Choice",
+                "text": "Place one of Anchor's starfish in the box.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_09_14"
+            },
+            {
+                "id": "d_counseling_helm_09_6",
+                "type": "Narration",
+                "text": "*Beep*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_7",
+                "type": "Speech",
+                "text": "Sorry, I'm late...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_8",
+                "type": "Monologue",
+                "text": "Helm sees the glass box.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_9",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_10",
+                "type": "Speech",
+                "text": "... I've only left for a moment, Subordinate. I can't believe you actually placed that in there...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_11",
+                "type": "Speech",
+                "text": "Usually, it's not ethical for me to receive credits,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_12",
+                "type": "Speech",
+                "text": "but for you, I'll make an exception.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_13",
+                "type": "Speech",
+                "text": "Thanks.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_09_21"
+            },
+            {
+                "id": "d_counseling_helm_09_14",
+                "type": "Narration",
+                "text": "*Beep*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_15",
+                "type": "Speech",
+                "text": "Sorry, I'm late...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_16",
+                "type": "Monologue",
+                "text": "Helm sees the glass box.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_17",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_18",
+                "type": "Speech",
+                "text": "What... is that?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_19",
+                "type": "Speech",
+                "text": "Subordinate... what exactly did you put in there?!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_09_20",
+                "type": "Speech",
+                "text": "Eek! Take that horrendous thing out this instant!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_09_21"
+            },
+            {
+                "id": "d_counseling_helm_09_21",
+                "type": "Narration",
+                "text": "I talk with Helm about what constitutes a proper donation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_10_1",
+                "type": "Speech",
+                "text": "By the way, are you good at swimming?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_2",
+                "type": "Speech",
+                "text": "I'm only asking, just in case.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_3",
+                "type": "Choice",
+                "text": "I'm extremely good at it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_10_5"
+            },
+            {
+                "id": "d_counseling_helm_10_4",
+                "type": "Choice",
+                "text": "I sink like a stone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_10_9"
+            },
+            {
+                "id": "d_counseling_helm_10_5",
+                "type": "Speech",
+                "text": "That's great.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_6",
+                "type": "Speech",
+                "text": "I'd be worried if you didn't know how.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_7",
+                "type": "Speech",
+                "text": "In that case, let's head to the swimming pool.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_8",
+                "type": "Speech",
+                "text": "I wanna see what you're made of.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_10_14"
+            },
+            {
+                "id": "d_counseling_helm_10_9",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_10",
+                "type": "Speech",
+                "text": "How can you not know how to swim when you're with Aegis?!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_11",
+                "type": "Speech",
+                "text": "That just won't do!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_12",
+                "type": "Speech",
+                "text": "From now on, you're undergoing special training.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_10_13",
+                "type": "Speech",
+                "text": "Let's go to the swimming pool.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_10_14"
+            },
+            {
+                "id": "d_counseling_helm_10_14",
+                "type": "Narration",
+                "text": "Helm and I make our way to the swimming pool.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_11_1",
+                "type": "Speech",
+                "text": "Whenever I'm about to give an important speech, my mind will more often than not go blank.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_2",
+                "type": "Speech",
+                "text": "It doesn't happen often. Just occasionally, whenever it's a particularly big or significant event.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_3",
+                "type": "Speech",
+                "text": "I haven't made any major blunders yet, but I'm worried it'll happen one of these days.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_4",
+                "type": "Choice",
+                "text": "It's normal to flub a line or two.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_11_6"
+            },
+            {
+                "id": "d_counseling_helm_11_5",
+                "type": "Choice",
+                "text": "Don't forget who you're representing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_11_11"
+            },
+            {
+                "id": "d_counseling_helm_11_6",
+                "type": "Speech",
+                "text": "For most, one misstep may not be the end of the world.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_7",
+                "type": "Speech",
+                "text": "However, it is for us.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_8",
+                "type": "Speech",
+                "text": "With how much we're struggling, one mistake may ruin us.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_9",
+                "type": "Speech",
+                "text": "So I need to hold it together.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_10",
+                "type": "Speech",
+                "text": "Thanks. We may have taken a long way around, but it helped.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_11_16"
+            },
+            {
+                "id": "d_counseling_helm_11_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_12",
+                "type": "Speech",
+                "text": "You're right.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_13",
+                "type": "Speech",
+                "text": "My mistakes are not just my own",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_14",
+                "type": "Speech",
+                "text": "since they'll reflect poorly on the entire Aegis.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_11_15",
+                "type": "Speech",
+                "text": "Thanks for opening my eyes.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_11_16"
+            },
+            {
+                "id": "d_counseling_helm_11_16",
+                "type": "Narration",
+                "text": "Helm and I research different breathing techniques for relieving anxiety.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_12_1",
+                "type": "Speech",
+                "text": "I want to test your knowledge of emergency procedures today.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_12_2",
+                "type": "Speech",
+                "text": "Let's say I fell into the water. Even after you've pulled me out, I remain unconscious.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_12_3",
+                "type": "Speech",
+                "text": "So the question now is, what is the first thing you should do?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_12_4",
+                "type": "Choice",
+                "text": "There's no way you'd ever fall into the water.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_12_6"
+            },
+            {
+                "id": "d_counseling_helm_12_5",
+                "type": "Choice",
+                "text": "I'd give you a kiss first.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_12_9"
+            },
+            {
+                "id": "d_counseling_helm_12_6",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_12_7",
+                "type": "Speech",
+                "text": "I suppose you're right.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_12_8",
+                "type": "Speech",
+                "text": "It's not an answer I was expecting to hear, but I'll accept it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_12_13"
+            },
+            {
+                "id": "d_counseling_helm_12_9",
+                "type": "Speech",
+                "text": "... Subordinate.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_12_10",
+                "type": "Speech",
+                "text": "It's not a kiss, but CPR.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_12_11",
+                "type": "Speech",
+                "text": "And that's not the first thing you should do.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_12_12",
+                "type": "Speech",
+                "text": "Honestly...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_12_13"
+            },
+            {
+                "id": "d_counseling_helm_12_13",
+                "type": "Narration",
+                "text": "With that, Helm begins to give me first-aid training.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_13_1",
+                "type": "Speech",
+                "text": "The Admire is always so filthy.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_13_2",
+                "type": "Speech",
+                "text": "All this dirt and grime that builds up every day.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_13_3",
+                "type": "Speech",
+                "text": "Don't ask me why, but all it ever does is float in a swimming pool.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_13_4",
+                "type": "Choice",
+                "text": "Perhaps, that's the reason?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_13_6"
+            },
+            {
+                "id": "d_counseling_helm_13_5",
+                "type": "Choice",
+                "text": "I mean, people become dirty too if they don't clean themselves up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_13_9"
+            },
+            {
+                "id": "d_counseling_helm_13_6",
+                "type": "Speech",
+                "text": "You've got a point...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_13_7",
+                "type": "Speech",
+                "text": "If it could sail the ocean, I'm sure it'd help with the cleanliness problem.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_13_8",
+                "type": "Speech",
+                "text": "It's a shame that it's not possible right now.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_13_13"
+            },
+            {
+                "id": "d_counseling_helm_13_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_13_10",
+                "type": "Speech",
+                "text": "Good point.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_13_11",
+                "type": "Speech",
+                "text": "After all, the Admire is no ordinary ship.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_13_12",
+                "type": "Speech",
+                "text": "It's also a member of Aegis.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_13_13"
+            },
+            {
+                "id": "d_counseling_helm_13_13",
+                "type": "Narration",
+                "text": "Helm and I begin to talk about how to clean the swimming pool.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_14_1",
+                "type": "Speech",
+                "text": "Su-Subordinate...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_2",
+                "type": "Speech",
+                "text": "Jeez, Anchor threw... this right in my face.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_3",
+                "type": "Speech",
+                "text": "It's not a st-starfish, is it?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_4",
+                "type": "Choice",
+                "text": "That's a living, breathing starfish, all right.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_14_6"
+            },
+            {
+                "id": "d_counseling_helm_14_5",
+                "type": "Choice",
+                "text": "Calm down. It's only a toy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_14_11"
+            },
+            {
+                "id": "d_counseling_helm_14_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_7",
+                "type": "Speech",
+                "text": "!!!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_8",
+                "type": "Speech",
+                "text": "Th-thank you for telling me the truth.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_9",
+                "type": "Speech",
+                "text": "Can you do me a favor, Subordinate?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_10",
+                "type": "Speech",
+                "text": "Take. This. Thing. Off. Of. Me!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_14_15"
+            },
+            {
+                "id": "d_counseling_helm_14_11",
+                "type": "Speech",
+                "text": "A-are you sure?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_12",
+                "type": "Narration",
+                "text": "*Wiggle*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_13",
+                "type": "Speech",
+                "text": "!!!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_14_14",
+                "type": "Speech",
+                "text": "...!!!!!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_14_15"
+            },
+            {
+                "id": "d_counseling_helm_14_15",
+                "type": "Narration",
+                "text": "I begin to examine the starfish that is stuck on Helm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_15_1",
+                "type": "Speech",
+                "text": "Subordinate, do you prefer a lightweight but fast ship",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_15_2",
+                "type": "Speech",
+                "text": "or a strong but slow ship?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_15_3",
+                "type": "Choice",
+                "text": "A lightweight but fast ship.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_15_5"
+            },
+            {
+                "id": "d_counseling_helm_15_4",
+                "type": "Choice",
+                "text": "A strong but slow ship.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_15_8"
+            },
+            {
+                "id": "d_counseling_helm_15_5",
+                "type": "Speech",
+                "text": "Hm... Really?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_15_6",
+                "type": "Speech",
+                "text": "It's rather different from the Admire,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_15_7",
+                "type": "Speech",
+                "text": "but it's a perfectly valid choice.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_15_11"
+            },
+            {
+                "id": "d_counseling_helm_15_8",
+                "type": "Speech",
+                "text": "I knew you'd say that.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_15_9",
+                "type": "Speech",
+                "text": "That's just how the Admire is. It may not be the fastest ship, but it certainly has a charm to it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_15_10",
+                "type": "Speech",
+                "text": "Yes... Just the way I like it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_15_11"
+            },
+            {
+                "id": "d_counseling_helm_15_11",
+                "type": "Narration",
+                "text": "I spend time folding paper boats with Helm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_16_1",
+                "type": "Speech",
+                "text": "Suppose someone decides to sponsor you all of a sudden.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_2",
+                "type": "Speech",
+                "text": "Say they give you enough money that you can lead the life you want.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_3",
+                "type": "Speech",
+                "text": "What will you do, Subordinate?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_4",
+                "type": "Choice",
+                "text": "I'd accept it with pleasure.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_16_6"
+            },
+            {
+                "id": "d_counseling_helm_16_5",
+                "type": "Choice",
+                "text": "It'd be meaningless if I didn't accomplish it myself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_16_10"
+            },
+            {
+                "id": "d_counseling_helm_16_6",
+                "type": "Speech",
+                "text": "Exactly, why turn down a good thing?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_7",
+                "type": "Speech",
+                "text": "I can't help thinking...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_8",
+                "type": "Speech",
+                "text": "If that's how I end up making it, will any of those achievements be truly mine?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_9",
+                "type": "Speech",
+                "text": "If I didn't accomplish something myself, have I actually done at the end of the day?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_16_14"
+            },
+            {
+                "id": "d_counseling_helm_16_10",
+                "type": "Speech",
+                "text": "That sounds far too extreme,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_11",
+                "type": "Speech",
+                "text": "but I agree.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_12",
+                "type": "Speech",
+                "text": "All that I've not achieved myself isn't truly mine.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_16_13",
+                "type": "Speech",
+                "text": "At least that's what I think.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_16_14"
+            },
+            {
+                "id": "d_counseling_helm_16_14",
+                "type": "Narration",
+                "text": "Helm and I continue to chat more about benefactors.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_17_1",
+                "type": "Speech",
+                "text": "How do you deal with disobedient subordinates?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_17_2",
+                "type": "Speech",
+                "text": "For example, let's say... drinking on the job or throwing starfish.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_17_3",
+                "type": "Choice",
+                "text": "I don't have any subordinates like that, so I can't say.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_17_5"
+            },
+            {
+                "id": "d_counseling_helm_17_4",
+                "type": "Choice",
+                "text": "I'd join them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_17_8"
+            },
+            {
+                "id": "d_counseling_helm_17_5",
+                "type": "Speech",
+                "text": "Oh...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_17_6",
+                "type": "Speech",
+                "text": "Right.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_17_7",
+                "type": "Speech",
+                "text": "I don't think many would...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_17_11"
+            },
+            {
+                "id": "d_counseling_helm_17_8",
+                "type": "Speech",
+                "text": "Ya know, just go along with it?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_17_9",
+                "type": "Speech",
+                "text": "Well, I guess I'd be able to understand why they find it so enthralling.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_17_10",
+                "type": "Speech",
+                "text": "... But I don't drink and can't touch starfish.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_17_11"
+            },
+            {
+                "id": "d_counseling_helm_17_11",
+                "type": "Narration",
+                "text": "Helm and I discuss proper attitudes in the workplace.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_18_1",
+                "type": "Speech",
+                "text": "Apparently, this sword I carry around bothers people, so there have been some complaints.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_18_2",
+                "type": "Speech",
+                "text": "It's not even real and is completely harmless. Nevertheless, people keep mistaking it for an actual weapon.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_18_3",
+                "type": "Speech",
+                "text": "I can't just leave it behind, though. So I don't know what to do.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_18_4",
+                "type": "Choice",
+                "text": "It's not like you can explain the situation to each and every single person you meet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_18_6"
+            },
+            {
+                "id": "d_counseling_helm_18_5",
+                "type": "Choice",
+                "text": "How about stabbing all passers-by?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_18_9"
+            },
+            {
+                "id": "d_counseling_helm_18_6",
+                "type": "Speech",
+                "text": "True that...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_18_7",
+                "type": "Speech",
+                "text": "I can't exactly write, \"Don't be scared. Not a real sword.\" on my back and traipse about.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_18_8",
+                "type": "Speech",
+                "text": "You're right. I shouldn't let it bother me so much.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_18_12"
+            },
+            {
+                "id": "d_counseling_helm_18_9",
+                "type": "Speech",
+                "text": "Hey, that's a good idea!",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_18_10",
+                "type": "Speech",
+                "text": "That'll prove it can't possibly harm anyone instantly.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_18_11",
+                "type": "Speech",
+                "text": "It's the perfect solution... but it involves assault.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_18_12"
+            },
+            {
+                "id": "d_counseling_helm_18_12",
+                "type": "Narration",
+                "text": "Helm and I spend time looking into different swords.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_19_1",
+                "type": "Speech",
+                "text": "It seems that someone used the swimming pool last night.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_19_2",
+                "type": "Speech",
+                "text": "Water had been splashed everywhere.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_19_3",
+                "type": "Speech",
+                "text": "I don't mind people using the pool, but they should clean up after themselves.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_19_4",
+                "type": "Choice",
+                "text": "... Wasn't everyone out on an mission last night?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_19_6"
+            },
+            {
+                "id": "d_counseling_helm_19_5",
+                "type": "Choice",
+                "text": "I'll make sure it's cleaned from here on out.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_19_9"
+            },
+            {
+                "id": "d_counseling_helm_19_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_19_7",
+                "type": "Speech",
+                "text": "If you're trying to scare me with a lame spooky story, you can give up now.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_19_8",
+                "type": "Speech",
+                "text": "I don't believe in ghosts.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_19_12"
+            },
+            {
+                "id": "d_counseling_helm_19_9",
+                "type": "Speech",
+                "text": "I didn't expect you to say that.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_19_10",
+                "type": "Speech",
+                "text": "But I certainly won't turn down an offer like that.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_19_11",
+                "type": "Speech",
+                "text": "I'll help out too, of course.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_19_12"
+            },
+            {
+                "id": "d_counseling_helm_19_12",
+                "type": "Narration",
+                "text": "Helm and I talk about which chemicals we should use to clean the pool.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_helm_20_1",
+                "type": "Speech",
+                "text": "What do you think about noble causes that are doomed to fail?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_20_2",
+                "type": "Speech",
+                "text": "Is it a meaningless feat",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_20_3",
+                "type": "Speech",
+                "text": "or something we should beseech everyone to do, regardless?",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_20_4",
+                "type": "Choice",
+                "text": "Fighting for a just cause should be respected, no matter what form it takes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_helm_20_6"
+            },
+            {
+                "id": "d_counseling_helm_20_5",
+                "type": "Choice",
+                "text": "If a cause is bound to fail, then it is meaningless.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_helm_20_9"
+            },
+            {
+                "id": "d_counseling_helm_20_6",
+                "type": "Speech",
+                "text": "That's how I feel as well.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_20_7",
+                "type": "Speech",
+                "text": "Power comes in all forms, not just material or physical.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_20_8",
+                "type": "Speech",
+                "text": "Depending on what you're fighting for, justice itself can become a form of power.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_20_13"
+            },
+            {
+                "id": "d_counseling_helm_20_9",
+                "type": "Speech",
+                "text": "I suppose that has an element of truth to it.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_20_10",
+                "type": "Speech",
+                "text": "But if that's the case,",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_20_11",
+                "type": "Speech",
+                "text": "justice will become something reserved solely for those with power.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_helm_20_12",
+                "type": "Speech",
+                "text": "Meanwhile, there won't be any justice for the powerless.",
+                "speaker": "Helm",
+                "points": null,
+                "jumpTo": "d_counseling_helm_20_13"
+            },
+            {
+                "id": "d_counseling_helm_20_13",
+                "type": "Narration",
+                "text": "Helm and I have a heated discussion about justice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,1861 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_diesel_01_1",
+                "type": "Speech",
+                "text": "Hey Commander, you've been spacing out",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_2",
+                "type": "Speech",
+                "text": "in the office for a while.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_3",
+                "type": "Speech",
+                "text": "Are you bored or something?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_4",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_01_6"
+            },
+            {
+                "id": "d_counseling_diesel_01_5",
+                "type": "Choice",
+                "text": "Nope.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_01_10"
+            },
+            {
+                "id": "d_counseling_diesel_01_6",
+                "type": "Speech",
+                "text": "I knew it!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_7",
+                "type": "Speech",
+                "text": "My eyes never deceive me.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_8",
+                "type": "Speech",
+                "text": "It's like you have \"Help! I'm bored and I want to do something!\" written all over your face.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_9",
+                "type": "Speech",
+                "text": "How about a strawberry candy?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_01_14"
+            },
+            {
+                "id": "d_counseling_diesel_01_10",
+                "type": "Speech",
+                "text": "Oh, come on!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_11",
+                "type": "Speech",
+                "text": "Even I can see that you have \"I'm bored\" written all over your face.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_12",
+                "type": "Speech",
+                "text": "But if you say you're not, I'll believe you.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_13",
+                "type": "Speech",
+                "text": "Have a strawberry candy, then?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_01_14",
+                "type": "Narration",
+                "text": "I talk with Diesel while eating the strawberry candy she gives me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_02_1",
+                "type": "Speech",
+                "text": "Soline said she was tired of eating strawberry candy.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_02_2",
+                "type": "Speech",
+                "text": "She said she wanted something else for a change.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_02_3",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_02_4",
+                "type": "Choice",
+                "text": "No more candy for her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_02_6"
+            },
+            {
+                "id": "d_counseling_diesel_02_5",
+                "type": "Choice",
+                "text": "Give her some better strawberry candy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_02_8"
+            },
+            {
+                "id": "d_counseling_diesel_02_6",
+                "type": "Speech",
+                "text": "Hm... Is that really the only way?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_02_7",
+                "type": "Speech",
+                "text": "It makes me feel so sad...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_02_10"
+            },
+            {
+                "id": "d_counseling_diesel_02_8",
+                "type": "Speech",
+                "text": "Whoa, fantastic idea!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_02_9",
+                "type": "Speech",
+                "text": "I haven't gone shopping for candy in a long time. Strawberry candies, here I come!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_02_10",
+                "type": "Narration",
+                "text": "Diesel tells me all about her favorite strawberry candy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_03_1",
+                "type": "Speech",
+                "text": "Heeey... Commander,",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_2",
+                "type": "Speech",
+                "text": "Brid has been feeling down lately.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_3",
+                "type": "Speech",
+                "text": "I'm worried about her.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_4",
+                "type": "Speech",
+                "text": "What can I do to cheer her up?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_5",
+                "type": "Choice",
+                "text": "Ask Soline to stay away from Brid for a while.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_03_7"
+            },
+            {
+                "id": "d_counseling_diesel_03_6",
+                "type": "Choice",
+                "text": "Help Brid with some of her work.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_03_10"
+            },
+            {
+                "id": "d_counseling_diesel_03_7",
+                "type": "Speech",
+                "text": "Haha! You mean, remove her main source of stress?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_8",
+                "type": "Speech",
+                "text": "I wouldn't mind that. And then I could spend more time with Soline, too.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_9",
+                "type": "Speech",
+                "text": "I can help Brid and play with Soline at the same time!\nThat's what I call a win-win scenario!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_03_13"
+            },
+            {
+                "id": "d_counseling_diesel_03_10",
+                "type": "Speech",
+                "text": "That would make Brid even more upset!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_11",
+                "type": "Speech",
+                "text": "She's so responsible, she has to do all her work herself or she'll feel stressed out.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_12",
+                "type": "Speech",
+                "text": "Buuut... I guess I should go ask her if she needs help, just in case!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_03_13",
+                "type": "Narration",
+                "text": "I chat with Diesel about ways to help Brid relax.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_04_1",
+                "type": "Speech",
+                "text": "Commander, do you like soft flavors or strong flavors?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_04_2",
+                "type": "Choice",
+                "text": "Soft.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_04_4"
+            },
+            {
+                "id": "d_counseling_diesel_04_3",
+                "type": "Choice",
+                "text": "Strong.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_04_7"
+            },
+            {
+                "id": "d_counseling_diesel_04_4",
+                "type": "Speech",
+                "text": "Oh. I see.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_04_5",
+                "type": "Speech",
+                "text": "I had no idea! I always give you my strongest strawberry candy.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_04_6",
+                "type": "Speech",
+                "text": "I guess I should give you the strawberry milk candy instead.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_04_10"
+            },
+            {
+                "id": "d_counseling_diesel_04_7",
+                "type": "Speech",
+                "text": "Haha! Me, too!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_04_8",
+                "type": "Speech",
+                "text": "I like pure strawberry candy with no milk!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_04_9",
+                "type": "Speech",
+                "text": "From now on, I'll give you all my strongest, purest candy!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_04_10",
+                "type": "Narration",
+                "text": "I have a cheerful conversation with Diesel about strawberry candy preferences.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_05_1",
+                "type": "Speech",
+                "text": "Ding dong! Out of the way!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_05_2",
+                "type": "Speech",
+                "text": "AZX is coming through! Ding dong!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_05_3",
+                "type": "Choice",
+                "text": "She's out of tune, but just let her sing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_05_5"
+            },
+            {
+                "id": "d_counseling_diesel_05_4",
+                "type": "Choice",
+                "text": "She's out of tune, so tell her to stop.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_05_8"
+            },
+            {
+                "id": "d_counseling_diesel_05_5",
+                "type": "Speech",
+                "text": "Passengers over there! Please be careful!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_05_6",
+                "type": "Speech",
+                "text": "The train is coming through! Ding dong!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_05_7",
+                "type": "Speech",
+                "text": "Thank you for letting me finish the song, Commander.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_05_10"
+            },
+            {
+                "id": "d_counseling_diesel_05_8",
+                "type": "Speech",
+                "text": "Oops! I was just so carried away by the music.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_05_9",
+                "type": "Speech",
+                "text": "Sooorry, Commander!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_05_10",
+                "type": "Narration",
+                "text": "I have a cheerful chat with Diesel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_06_1",
+                "type": "Speech",
+                "text": "Commander, did you like Ark Rangers when you were a kid?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_06_2",
+                "type": "Choice",
+                "text": "I was a huge fan.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_06_4"
+            },
+            {
+                "id": "d_counseling_diesel_06_3",
+                "type": "Choice",
+                "text": "I never got into them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_06_7"
+            },
+            {
+                "id": "d_counseling_diesel_06_4",
+                "type": "Speech",
+                "text": "Haha, I see!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_06_5",
+                "type": "Speech",
+                "text": "You must have been so adorable!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_06_6",
+                "type": "Speech",
+                "text": "I wish I could see photos of you when you were little.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_06_9"
+            },
+            {
+                "id": "d_counseling_diesel_06_7",
+                "type": "Speech",
+                "text": "Oh! You were one of those cool kids who didn't care about trends.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_06_8",
+                "type": "Speech",
+                "text": "You must have been so adorable!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_06_9",
+                "type": "Narration",
+                "text": "I talk with Diesel about childhood.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_07_1",
+                "type": "Speech",
+                "text": "Hm... What a pickle...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_2",
+                "type": "Speech",
+                "text": "I really want to make the AZX more pretty.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_3",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_4",
+                "type": "Choice",
+                "text": "Make it the same color as strawberry candy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_07_6"
+            },
+            {
+                "id": "d_counseling_diesel_07_5",
+                "type": "Choice",
+                "text": "The AZX is already perfect. No need to decorate.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_07_9"
+            },
+            {
+                "id": "d_counseling_diesel_07_6",
+                "type": "Speech",
+                "text": "Oh! That would be so cute!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_7",
+                "type": "Speech",
+                "text": "Hm... But...\nIts current appearance would be lost forever!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_8",
+                "type": "Speech",
+                "text": "Oh, my! What a pickle...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_07_14"
+            },
+            {
+                "id": "d_counseling_diesel_07_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_10",
+                "type": "Speech",
+                "text": "You're right. The AZX is already perfect",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_11",
+                "type": "Speech",
+                "text": "without any additional decoration.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_12",
+                "type": "Speech",
+                "text": "I didn't even consider that.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_13",
+                "type": "Speech",
+                "text": "Thank you sooo much!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_07_14",
+                "type": "Narration",
+                "text": "I talk with Diesel about the cute AZX.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_08_1",
+                "type": "Speech",
+                "text": "What a beautiful day!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_08_2",
+                "type": "Speech",
+                "text": "If you could take a day off on a nice day like this,",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_08_3",
+                "type": "Speech",
+                "text": "what would you do, Commander?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_08_4",
+                "type": "Choice",
+                "text": "Sleep in the office.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_08_6"
+            },
+            {
+                "id": "d_counseling_diesel_08_5",
+                "type": "Choice",
+                "text": "Practice my singing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_08_9"
+            },
+            {
+                "id": "d_counseling_diesel_08_6",
+                "type": "Speech",
+                "text": "Wow! You must be so tired all the time, right?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_08_7",
+                "type": "Speech",
+                "text": "But staying cooped up inside will only make you more tired in the end.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_08_8",
+                "type": "Speech",
+                "text": "Taking a walk around the Outpost would be a better choice.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_08_12"
+            },
+            {
+                "id": "d_counseling_diesel_08_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_08_10",
+                "type": "Speech",
+                "text": "Practice singing? That sounds so exciting!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_08_11",
+                "type": "Speech",
+                "text": "Can I do it with you?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_08_12",
+                "type": "Narration",
+                "text": "I chat with Diesel about how to have a pleasant holiday.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_09_1",
+                "type": "Speech",
+                "text": "Hey! There's something I want to know.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_09_2",
+                "type": "Speech",
+                "text": "What would I be doing if I hadn't come to work at Arc Express?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_09_3",
+                "type": "Choice",
+                "text": "Probably a pop idol.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_09_5"
+            },
+            {
+                "id": "d_counseling_diesel_09_4",
+                "type": "Choice",
+                "text": "Definitely a kindergarten teacher.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_09_8"
+            },
+            {
+                "id": "d_counseling_diesel_09_5",
+                "type": "Speech",
+                "text": "Do you really think so?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_09_6",
+                "type": "Speech",
+                "text": "Wow! Just thinking about it makes me so happy!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_09_7",
+                "type": "Speech",
+                "text": "I feel like my dream has come true!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_09_10"
+            },
+            {
+                "id": "d_counseling_diesel_09_8",
+                "type": "Speech",
+                "text": "Oh... Yes. I do love playing with kids.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_09_9",
+                "type": "Speech",
+                "text": "I guess I would make a good teacher.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_09_10",
+                "type": "Narration",
+                "text": "I spend some time chatting with Diesel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_10_1",
+                "type": "Speech",
+                "text": "Commander, if time machines were real,",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_2",
+                "type": "Speech",
+                "text": "would you want to go back and change anything?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_3",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_10_5"
+            },
+            {
+                "id": "d_counseling_diesel_10_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_10_11"
+            },
+            {
+                "id": "d_counseling_diesel_10_5",
+                "type": "Speech",
+                "text": "Gee! So, you feel the same as me!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_6",
+                "type": "Speech",
+                "text": "I didn't expect that.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_7",
+                "type": "Speech",
+                "text": "But it makes sense. After all, everyone has regrets.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_8",
+                "type": "Speech",
+                "text": "That includes me!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_9",
+                "type": "Speech",
+                "text": "I also have a moment that I really, really regret.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_10",
+                "type": "Speech",
+                "text": "Knowing that you feel the same makes me feel comforted.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_10_13"
+            },
+            {
+                "id": "d_counseling_diesel_10_11",
+                "type": "Speech",
+                "text": "Hehe, I knew it.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_12",
+                "type": "Speech",
+                "text": "I admire the way you live without regrets, Commander.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_10_13",
+                "type": "Narration",
+                "text": "I spend a quiet time with Diesel reminiscing about the past.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_11_1",
+                "type": "Speech",
+                "text": "If you could get on the AZX right now and go anywhere you wanted,",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_11_2",
+                "type": "Speech",
+                "text": "where would you go?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_11_3",
+                "type": "Choice",
+                "text": "Somewhere with a lush forest and babbling brook.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_11_5"
+            },
+            {
+                "id": "d_counseling_diesel_11_4",
+                "type": "Choice",
+                "text": "Somewhere near the ocean where I could hear the sound of crashing waves.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_11_8"
+            },
+            {
+                "id": "d_counseling_diesel_11_5",
+                "type": "Speech",
+                "text": "So you prefer forested areas?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_11_6",
+                "type": "Speech",
+                "text": "Glancing at the mountains and streams outside the window",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_11_7",
+                "type": "Speech",
+                "text": "while riding the AZX would be a real treat.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_11_12"
+            },
+            {
+                "id": "d_counseling_diesel_11_8",
+                "type": "Speech",
+                "text": "I'm a big fan of the ocean as well.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_11_9",
+                "type": "Speech",
+                "text": "Sitting by the ocean at night, dipping my toes in the sand, listening to the waves coming in and out...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_11_10",
+                "type": "Speech",
+                "text": "I could do that forever.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_11_11",
+                "type": "Speech",
+                "text": "Oh boy, this makes me want to hop in the AZX right now and set off!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_11_12",
+                "type": "Narration",
+                "text": "Diesel and I talk about the various places we want to visit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_12_1",
+                "type": "Speech",
+                "text": "I really like the color of the uniform I'm wearing.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_12_2",
+                "type": "Speech",
+                "text": "What's your favorite color, Commander?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_12_3",
+                "type": "Choice",
+                "text": "Blue.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_12_5"
+            },
+            {
+                "id": "d_counseling_diesel_12_4",
+                "type": "Choice",
+                "text": "White.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_12_9"
+            },
+            {
+                "id": "d_counseling_diesel_12_5",
+                "type": "Speech",
+                "text": "Hey, me too!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_12_6",
+                "type": "Speech",
+                "text": "Nothing beats blue.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_12_7",
+                "type": "Speech",
+                "text": "Whenever I see the color blue, it feels like my mind is clearer than before.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_12_8",
+                "type": "Speech",
+                "text": "I can feel my entire body become more at ease.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_12_11"
+            },
+            {
+                "id": "d_counseling_diesel_12_9",
+                "type": "Speech",
+                "text": "White is a nice and clean color.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_12_10",
+                "type": "Speech",
+                "text": "Very appropriate for you!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_12_11",
+                "type": "Narration",
+                "text": "Diesel and I talk a little more about our favorite colors.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_13_1",
+                "type": "Speech",
+                "text": "Every button has to be in place with our uniforms when we're on duty.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_13_2",
+                "type": "Speech",
+                "text": "What type of clothing style do you like?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_13_3",
+                "type": "Choice",
+                "text": "Cool and casual.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_13_5"
+            },
+            {
+                "id": "d_counseling_diesel_13_4",
+                "type": "Choice",
+                "text": "Prim and proper.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_13_9"
+            },
+            {
+                "id": "d_counseling_diesel_13_5",
+                "type": "Speech",
+                "text": "Really? I didn't expect you to be into a more laidback style.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_13_6",
+                "type": "Speech",
+                "text": "I prefer it myself as well.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_13_7",
+                "type": "Speech",
+                "text": "I wonder what you'd look like with a more casual look...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_13_8",
+                "type": "Speech",
+                "text": "I'm sure it'd look good on you!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_13_12"
+            },
+            {
+                "id": "d_counseling_diesel_13_9",
+                "type": "Speech",
+                "text": "Hmm...I think you could rock a casual look too!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_13_10",
+                "type": "Speech",
+                "text": "I think you could pull off a more stylish look too.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_13_11",
+                "type": "Speech",
+                "text": "I'm sure you'd cut quite the figure!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_13_12",
+                "type": "Narration",
+                "text": "Diesel and I spent some time talking about our favorite clothing styles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_14_1",
+                "type": "Speech",
+                "text": "Brid is always pounding down coffee while she's working... I'm actually a little worried.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_14_2",
+                "type": "Speech",
+                "text": "Is there anything else I could get her to drink instead of coffee?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_14_3",
+                "type": "Choice",
+                "text": "Make her a sweet strawberry latte.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_14_5"
+            },
+            {
+                "id": "d_counseling_diesel_14_4",
+                "type": "Choice",
+                "text": "Why change it? Nothing beats a good cup of joe while you're working.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_14_9"
+            },
+            {
+                "id": "d_counseling_diesel_14_5",
+                "type": "Speech",
+                "text": "Sounds delicious! My mouth's watering just thinking about it.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_14_6",
+                "type": "Speech",
+                "text": "I'll go and buy all the ingredients.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_14_7",
+                "type": "Speech",
+                "text": "Fresh strawberries may be tough to find though...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_14_8",
+                "type": "Speech",
+                "text": "I hope Brid will like it!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_14_12"
+            },
+            {
+                "id": "d_counseling_diesel_14_9",
+                "type": "Speech",
+                "text": "But I want to make her something new...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_14_10",
+                "type": "Speech",
+                "text": "I suppose you're right though. Coffee is second to none in terms of increasing your work efficiency.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_14_11",
+                "type": "Speech",
+                "text": "I should buy her a top-of-the-line coffee grinder!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_14_12",
+                "type": "Narration",
+                "text": "Diesel and I try to figure out other drinks that Brid might enjoy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_15_1",
+                "type": "Speech",
+                "text": "Whenever I smell something nice, it puts me in a good mood.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_15_2",
+                "type": "Speech",
+                "text": "What's your favorite smell?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_15_3",
+                "type": "Choice",
+                "text": "Sweet fruits",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_15_5"
+            },
+            {
+                "id": "d_counseling_diesel_15_4",
+                "type": "Choice",
+                "text": "Fresh flowers",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_15_9"
+            },
+            {
+                "id": "d_counseling_diesel_15_5",
+                "type": "Speech",
+                "text": "Same! The fruits smell so nice.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_15_6",
+                "type": "Speech",
+                "text": "Especially strawberries!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_15_7",
+                "type": "Speech",
+                "text": "Whenever I pick up the scent of strawberries, it's as if I'm having strawberry candy.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_15_8",
+                "type": "Speech",
+                "text": "Nothing puts me in a better mood!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_15_12"
+            },
+            {
+                "id": "d_counseling_diesel_15_9",
+                "type": "Speech",
+                "text": "That's unexpected...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_15_10",
+                "type": "Speech",
+                "text": "I thought you would like the smell of certain fruits better.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_15_11",
+                "type": "Speech",
+                "text": "Anyway, I'll keep that in mind.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_15_12",
+                "type": "Narration",
+                "text": "Diesel and I talked more about our favorite scents.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_16_1",
+                "type": "Speech",
+                "text": "I've heard certain animals dance after you give them a compliment.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_16_2",
+                "type": "Speech",
+                "text": "In your mind, what's the ultimate compliment?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_16_3",
+                "type": "Choice",
+                "text": "Any compliment from you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_16_5"
+            },
+            {
+                "id": "d_counseling_diesel_16_4",
+                "type": "Choice",
+                "text": "Any compliment is fine by me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_16_7"
+            },
+            {
+                "id": "d_counseling_diesel_16_5",
+                "type": "Speech",
+                "text": "In that case,",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_16_6",
+                "type": "Speech",
+                "text": "I'll be sure to compliment you every day!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_16_11"
+            },
+            {
+                "id": "d_counseling_diesel_16_7",
+                "type": "Speech",
+                "text": "I wonder if you'd start dancing if I gave you enough compliments, hehe!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_16_8",
+                "type": "Speech",
+                "text": "You seem like a really nice person.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_16_9",
+                "type": "Speech",
+                "text": "I'm happy to have you around.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_16_10",
+                "type": "Speech",
+                "text": "I hope you can stick around for a long time!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_16_11",
+                "type": "Narration",
+                "text": "Diesel showered me with compliments for the rest of the day.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_17_1",
+                "type": "Speech",
+                "text": "Instead of texting, I prefer calling people.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_17_2",
+                "type": "Speech",
+                "text": "What do you prefer?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_17_3",
+                "type": "Choice",
+                "text": "Texting.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_17_5"
+            },
+            {
+                "id": "d_counseling_diesel_17_4",
+                "type": "Choice",
+                "text": "Phone calls.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_17_7"
+            },
+            {
+                "id": "d_counseling_diesel_17_5",
+                "type": "Speech",
+                "text": "In that case,",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_17_6",
+                "type": "Speech",
+                "text": "I'll text you more from here on out.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_17_11"
+            },
+            {
+                "id": "d_counseling_diesel_17_7",
+                "type": "Speech",
+                "text": "If you ask me,",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_17_8",
+                "type": "Speech",
+                "text": "talking with someone over the phone is the way to go.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_17_9",
+                "type": "Speech",
+                "text": "You can more easily tell how the person is feeling when you can hear their voice.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_17_10",
+                "type": "Speech",
+                "text": "Next time I'm bored, I'll give you a call.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_17_11",
+                "type": "Narration",
+                "text": "Diesel and I had a nice heart-to-heart.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_18_1",
+                "type": "Speech",
+                "text": "For me, it's the little things that bring me joy.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_18_2",
+                "type": "Speech",
+                "text": "What's something small that makes you happy?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_18_3",
+                "type": "Choice",
+                "text": "I haven't really thought about it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_18_5"
+            },
+            {
+                "id": "d_counseling_diesel_18_4",
+                "type": "Choice",
+                "text": "Talking with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_18_8"
+            },
+            {
+                "id": "d_counseling_diesel_18_5",
+                "type": "Speech",
+                "text": "Don't worry, I'm sure there's plenty out there",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_18_6",
+                "type": "Speech",
+                "text": "that would make you happy.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_18_7",
+                "type": "Speech",
+                "text": "If anything comes to mind, be sure to let me know!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_18_11"
+            },
+            {
+                "id": "d_counseling_diesel_18_8",
+                "type": "Speech",
+                "text": "I didn't realize you enjoyed talking with me so much!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_18_9",
+                "type": "Speech",
+                "text": "Talking with you makes me happy as well.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_18_10",
+                "type": "Speech",
+                "text": "We should try and talk a little more often.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_18_11",
+                "type": "Narration",
+                "text": "Diesel and I have a conversation about happiness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_19_1",
+                "type": "Speech",
+                "text": "It's always so hard picking out a birthday present.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_19_2",
+                "type": "Speech",
+                "text": "Is there anything you would want as a birthday present?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_19_3",
+                "type": "Choice",
+                "text": "Strawberry cake.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_19_5"
+            },
+            {
+                "id": "d_counseling_diesel_19_4",
+                "type": "Choice",
+                "text": "It's the thought that counts.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_19_9"
+            },
+            {
+                "id": "d_counseling_diesel_19_5",
+                "type": "Speech",
+                "text": "Oooh, sounds delicious!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_19_6",
+                "type": "Speech",
+                "text": "Then again, anything with strawberries is bound to be good.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_19_7",
+                "type": "Speech",
+                "text": "All right then, I'll bake a strawberry cake for your birthday.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_19_11"
+            },
+            {
+                "id": "d_counseling_diesel_19_9",
+                "type": "Speech",
+                "text": "Hmm... kind of a cookie-cutter answer.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_19_10",
+                "type": "Speech",
+                "text": "You'll be one tough cookie to buy a birthday present for.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_19_11",
+                "type": "Narration",
+                "text": "Diesel and I talked more about birthday presents.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_diesel_20_1",
+                "type": "Speech",
+                "text": "I watched a documentary yesterday, and it talked a lot about death.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_20_2",
+                "type": "Speech",
+                "text": "It got me thinking...",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_20_3",
+                "type": "Speech",
+                "text": "What age do you want to live until?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_20_4",
+                "type": "Choice",
+                "text": "I want to be immortal.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_diesel_20_6"
+            },
+            {
+                "id": "d_counseling_diesel_20_5",
+                "type": "Choice",
+                "text": "I want my life to be short and sweet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_diesel_20_8"
+            },
+            {
+                "id": "d_counseling_diesel_20_6",
+                "type": "Speech",
+                "text": "That'd be great!",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_20_7",
+                "type": "Speech",
+                "text": "I want you to live a long long time as well.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": "d_counseling_diesel_20_10"
+            },
+            {
+                "id": "d_counseling_diesel_20_8",
+                "type": "Speech",
+                "text": "Don't you think it's sad to live such a short life though?",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_20_9",
+                "type": "Speech",
+                "text": "I want you to live a long long time.",
+                "speaker": "Diesel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_diesel_20_10",
+                "type": "Narration",
+                "text": "Diesel and I talk about our times, and when they'll be up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,1621 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_neve_01_1",
+                "type": "Speech",
+                "text": "*Yawn*",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_01_2",
+                "type": "Speech",
+                "text": "Is there any way I can keep myself from sleeping so much?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_01_3",
+                "type": "Choice",
+                "text": "You should sleep if you're tired.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_01_5"
+            },
+            {
+                "id": "d_counseling_neve_01_4",
+                "type": "Choice",
+                "text": "Try drinking coffee.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_01_8"
+            },
+            {
+                "id": "d_counseling_neve_01_5",
+                "type": "Speech",
+                "text": "Haha, that's great.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_01_6",
+                "type": "Speech",
+                "text": "I knew you'd feel the same way.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_01_7",
+                "type": "Speech",
+                "text": "Well, I'm off to bed then!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_01_10"
+            },
+            {
+                "id": "d_counseling_neve_01_8",
+                "type": "Speech",
+                "text": "I've already tried that, remember?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_01_9",
+                "type": "Speech",
+                "text": "It didn't do a thing.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_01_10",
+                "type": "Narration",
+                "text": "I talk about sleep with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_02_1",
+                "type": "Speech",
+                "text": "What's your favorite kind of bear?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_02_2",
+                "type": "Speech",
+                "text": "Polar bears, grizzly bears, or brown bears?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_02_3",
+                "type": "Choice",
+                "text": "Polar bears.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_02_5"
+            },
+            {
+                "id": "d_counseling_neve_02_4",
+                "type": "Choice",
+                "text": "Grizzly bears.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_02_8"
+            },
+            {
+                "id": "d_counseling_neve_02_5",
+                "type": "Speech",
+                "text": "Same here.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_02_6",
+                "type": "Speech",
+                "text": "Isn't their fur just so cute and cuddly?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_02_7",
+                "type": "Speech",
+                "text": "Polar bears are the best.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_02_10"
+            },
+            {
+                "id": "d_counseling_neve_02_8",
+                "type": "Speech",
+                "text": "Grizzly bears?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_02_9",
+                "type": "Speech",
+                "text": "I thought you'd say polar bears...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_02_10",
+                "type": "Narration",
+                "text": "I talk about bears with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_03_1",
+                "type": "Speech",
+                "text": "Burly Bear,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_03_2",
+                "type": "Speech",
+                "text": "what do you think is the softest thing in the world?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_03_3",
+                "type": "Choice",
+                "text": "A cloud?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_03_5"
+            },
+            {
+                "id": "d_counseling_neve_03_4",
+                "type": "Choice",
+                "text": "The space in between my arms.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_03_7"
+            },
+            {
+                "id": "d_counseling_neve_03_5",
+                "type": "Speech",
+                "text": "Hmm, I didn't think of that.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_03_6",
+                "type": "Speech",
+                "text": "But now that you mention it, I suppose they would be pretty soft.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_03_10"
+            },
+            {
+                "id": "d_counseling_neve_03_7",
+                "type": "Speech",
+                "text": "Hehe...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_03_8",
+                "type": "Speech",
+                "text": "Then can you hold me for a moment?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_03_9",
+                "type": "Speech",
+                "text": "I was feeling sleepy anyway.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_03_10",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_04_1",
+                "type": "Speech",
+                "text": "Zzzzzz...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_04_2",
+                "type": "Choice",
+                "text": "Don't do anything.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_04_4"
+            },
+            {
+                "id": "d_counseling_neve_04_3",
+                "type": "Choice",
+                "text": "Wake Neve up.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_04_6"
+            },
+            {
+                "id": "d_counseling_neve_04_4",
+                "type": "Speech",
+                "text": "Zzzz...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_04_5",
+                "type": "Speech",
+                "text": "ZZZZZZzzzzz...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_04_9"
+            },
+            {
+                "id": "d_counseling_neve_04_6",
+                "type": "Speech",
+                "text": "Hey!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_04_7",
+                "type": "Speech",
+                "text": "What'd you wake me up for?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_04_8",
+                "type": "Speech",
+                "text": "I was having a great dream.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_04_9",
+                "type": "Narration",
+                "text": "I watch Neve go back to sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_05_1",
+                "type": "Speech",
+                "text": "Winter is my favorite season.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_05_2",
+                "type": "Speech",
+                "text": "I get to wear heavy layers and get some great sleep.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_05_3",
+                "type": "Speech",
+                "text": "Do you like winter too?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_05_4",
+                "type": "Choice",
+                "text": "I do, but I like you even more.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_05_6"
+            },
+            {
+                "id": "d_counseling_neve_05_5",
+                "type": "Choice",
+                "text": "Winter is too cold for me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_05_8"
+            },
+            {
+                "id": "d_counseling_neve_05_6",
+                "type": "Speech",
+                "text": "A little off-topic,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_05_7",
+                "type": "Speech",
+                "text": "but a lovely answer nonetheless, hehe! You get a pass.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_05_10"
+            },
+            {
+                "id": "d_counseling_neve_05_8",
+                "type": "Speech",
+                "text": "You get cold easily, huh?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_05_9",
+                "type": "Speech",
+                "text": "I don't really like summer.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_05_10",
+                "type": "Narration",
+                "text": "Neve and I talk about our favorite seasons.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_06_1",
+                "type": "Speech",
+                "text": "I know there are a few other Nikkes who sleep,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_06_2",
+                "type": "Speech",
+                "text": "but I must be the only one that sleeps this much.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_06_3",
+                "type": "Choice",
+                "text": "There's a possible contender called Frima.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_06_5"
+            },
+            {
+                "id": "d_counseling_neve_06_4",
+                "type": "Choice",
+                "text": "Most likely.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_06_8"
+            },
+            {
+                "id": "d_counseling_neve_06_5",
+                "type": "Speech",
+                "text": "She sleeps as much as me?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_06_6",
+                "type": "Speech",
+                "text": "I can't let anyone dethrone me!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_06_7",
+                "type": "Speech",
+                "text": "I've gotta work hard and sleep more than ever.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_06_10"
+            },
+            {
+                "id": "d_counseling_neve_06_8",
+                "type": "Speech",
+                "text": "I don't know why,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_06_9",
+                "type": "Speech",
+                "text": "but I feel a strange sense of pride about that.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_06_10",
+                "type": "Narration",
+                "text": "I talk about sleep with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_07_1",
+                "type": "Speech",
+                "text": "Alice is so adorable.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_07_2",
+                "type": "Speech",
+                "text": "Doesn't she remind you of a baby bunny?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_07_3",
+                "type": "Choice",
+                "text": "She's not as cute as you are.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_07_5"
+            },
+            {
+                "id": "d_counseling_neve_07_4",
+                "type": "Choice",
+                "text": "I'm cuter.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_07_7"
+            },
+            {
+                "id": "d_counseling_neve_07_5",
+                "type": "Speech",
+                "text": "Oh my, well... thank you.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_07_6",
+                "type": "Speech",
+                "text": "You just made my day. I'm not even tired anymore!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_07_9"
+            },
+            {
+                "id": "d_counseling_neve_07_7",
+                "type": "Speech",
+                "text": "I mean, you're not wrong!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_07_8",
+                "type": "Speech",
+                "text": "You're super cute, Burly Bear.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_07_9",
+                "type": "Narration",
+                "text": "I talk about cute things with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_08_1",
+                "type": "Speech",
+                "text": "Every time I drink tea with Ludmilla,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_08_2",
+                "type": "Speech",
+                "text": "I get so sleepy.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_08_3",
+                "type": "Choice",
+                "text": "Ask her for some cold tea.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_08_5"
+            },
+            {
+                "id": "d_counseling_neve_08_4",
+                "type": "Choice",
+                "text": "Try to sleep with your eyes open.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_08_7"
+            },
+            {
+                "id": "d_counseling_neve_08_5",
+                "type": "Speech",
+                "text": "Smart! I'll try it next time.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_08_6",
+                "type": "Speech",
+                "text": "I shouldn't be as sleepy if I drink something cold.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_08_9"
+            },
+            {
+                "id": "d_counseling_neve_08_7",
+                "type": "Speech",
+                "text": "Hmm... I'm not entirely sure if that's even possible,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_08_8",
+                "type": "Speech",
+                "text": "but I'll keep it in mind.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_08_9",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_09_1",
+                "type": "Speech",
+                "text": "*Yawn*",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_09_2",
+                "type": "Speech",
+                "text": "*Yaaaawwwn*",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_09_3",
+                "type": "Speech",
+                "text": "*Ya*",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_09_4",
+                "type": "Choice",
+                "text": "Boo!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_09_6"
+            },
+            {
+                "id": "d_counseling_neve_09_5",
+                "type": "Choice",
+                "text": "*Yaaaawwwn*",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_09_8"
+            },
+            {
+                "id": "d_counseling_neve_09_6",
+                "type": "Speech",
+                "text": "Wow, you finished my yawn for me!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_09_7",
+                "type": "Speech",
+                "text": "*Yaaaawwwn*",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_09_10"
+            },
+            {
+                "id": "d_counseling_neve_09_8",
+                "type": "Speech",
+                "text": "Gah!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_09_9",
+                "type": "Speech",
+                "text": "You scared me.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_09_10",
+                "type": "Narration",
+                "text": "I have a yawning competition with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_10_1",
+                "type": "Speech",
+                "text": "Alice and I were talking about which animal is the cutest.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_10_2",
+                "type": "Speech",
+                "text": "I say polar bears are the cutest, but Alice feels rabbits are cuter.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_10_3",
+                "type": "Speech",
+                "text": "What do you think, Burly Bear?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_10_4",
+                "type": "Choice",
+                "text": "Polar bears are cuter.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_10_6"
+            },
+            {
+                "id": "d_counseling_neve_10_5",
+                "type": "Choice",
+                "text": "Rabbits are cuter.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_10_8"
+            },
+            {
+                "id": "d_counseling_neve_10_6",
+                "type": "Speech",
+                "text": "I knew it. Nothing tops polar bears.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_10_7",
+                "type": "Speech",
+                "text": "Who can resist all that cuddly cuteness?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_10_10"
+            },
+            {
+                "id": "d_counseling_neve_10_8",
+                "type": "Speech",
+                "text": "I suppose rabbits are pretty cute too.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_10_9",
+                "type": "Speech",
+                "text": "Alice will be happy to hear you say that.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_10_10",
+                "type": "Narration",
+                "text": "Neve and I talk about our favorite animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_11_1",
+                "type": "Speech",
+                "text": "Do you ever feel lonely?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_11_2",
+                "type": "Speech",
+                "text": "Sometimes when I'm out searching for polar bears,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_11_3",
+                "type": "Speech",
+                "text": "I get a little lonesome.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_11_4",
+                "type": "Choice",
+                "text": "Why don't you have Alice and Ludmilla join you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_11_6"
+            },
+            {
+                "id": "d_counseling_neve_11_5",
+                "type": "Choice",
+                "text": "I can always join you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_11_8"
+            },
+            {
+                "id": "d_counseling_neve_11_6",
+                "type": "Speech",
+                "text": "They're both busy with their own jobs.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_11_7",
+                "type": "Speech",
+                "text": "Although it would be fun if we searched together.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_11_11"
+            },
+            {
+                "id": "d_counseling_neve_11_8",
+                "type": "Speech",
+                "text": "You will?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_11_9",
+                "type": "Speech",
+                "text": "That's great! When can you come up?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_11_10",
+                "type": "Speech",
+                "text": "I'll come and pick you up.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_11_11",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_12_1",
+                "type": "Speech",
+                "text": "If you could give me a nickname,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_12_2",
+                "type": "Speech",
+                "text": "what would it be?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_12_3",
+                "type": "Choice",
+                "text": "The Sleep Queen.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_12_5"
+            },
+            {
+                "id": "d_counseling_neve_12_4",
+                "type": "Choice",
+                "text": "Sleepyhead.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_12_8"
+            },
+            {
+                "id": "d_counseling_neve_12_5",
+                "type": "Speech",
+                "text": "Oooh, that has a nice ring to it",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_12_6",
+                "type": "Speech",
+                "text": "Ludmilla is the Snow Queen,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_12_7",
+                "type": "Speech",
+                "text": "so it's only fitting that I'm the Sleep Queen.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_12_10"
+            },
+            {
+                "id": "d_counseling_neve_12_8",
+                "type": "Speech",
+                "text": "Sleepyhead?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_12_9",
+                "type": "Speech",
+                "text": "I thought you'd come up with something a bit more... elegant?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_12_10",
+                "type": "Narration",
+                "text": "I have a conversation about nicknames with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_13_1",
+                "type": "Speech",
+                "text": "If you had to name one positive quality about me,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_13_2",
+                "type": "Speech",
+                "text": "what would it be?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_13_3",
+                "type": "Choice",
+                "text": "Umm... well... let me think...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_13_5"
+            },
+            {
+                "id": "d_counseling_neve_13_4",
+                "type": "Choice",
+                "text": "There are so many. I can't possibly choose just one.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_13_7"
+            },
+            {
+                "id": "d_counseling_neve_13_5",
+                "type": "Speech",
+                "text": "If it's taking you that long to come up with something,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_13_6",
+                "type": "Speech",
+                "text": "I'll take it that means I don't have any positive qualities at all.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_13_9"
+            },
+            {
+                "id": "d_counseling_neve_13_7",
+                "type": "Speech",
+                "text": "You're too kind.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_13_8",
+                "type": "Speech",
+                "text": "I was going to say the same thing about you.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_13_9",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_14_1",
+                "type": "Speech",
+                "text": "I've always wondered,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_14_2",
+                "type": "Speech",
+                "text": "why do people get so scared when they see a polar bear up close?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_14_3",
+                "type": "Choice",
+                "text": "Because they're known for eating people.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_14_5"
+            },
+            {
+                "id": "d_counseling_neve_14_4",
+                "type": "Choice",
+                "text": "Beats me. I think they're cute.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_14_7"
+            },
+            {
+                "id": "d_counseling_neve_14_5",
+                "type": "Speech",
+                "text": "Hmm... I suppose if you thought about them that way,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_14_6",
+                "type": "Speech",
+                "text": "then they would seem pretty scary.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_14_10"
+            },
+            {
+                "id": "d_counseling_neve_14_7",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_14_8",
+                "type": "Speech",
+                "text": "Great minds think alike.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_14_9",
+                "type": "Speech",
+                "text": "They're just so round and fluffy!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_14_10",
+                "type": "Narration",
+                "text": "I have a conversation about polar bears with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_15_1",
+                "type": "Speech",
+                "text": "What is it about sleep that makes it so great?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_15_2",
+                "type": "Speech",
+                "text": "Is there anything in the world sweeter than sleep?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_15_3",
+                "type": "Choice",
+                "text": "A kiss from me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_15_5"
+            },
+            {
+                "id": "d_counseling_neve_15_4",
+                "type": "Choice",
+                "text": "Chocolate.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_15_7"
+            },
+            {
+                "id": "d_counseling_neve_15_5",
+                "type": "Speech",
+                "text": "Oooh, it is?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_15_6",
+                "type": "Speech",
+                "text": "Any chance I can see for myself?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_15_9"
+            },
+            {
+                "id": "d_counseling_neve_15_7",
+                "type": "Speech",
+                "text": "It was only a figure of speech.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_15_8",
+                "type": "Speech",
+                "text": "You don't have to take everything so literally.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_15_9",
+                "type": "Narration",
+                "text": "I have a conversation about sweet things with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_16_1",
+                "type": "Speech",
+                "text": "Burly Bear,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_16_2",
+                "type": "Speech",
+                "text": "I don't snore when I sleep, do I?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_16_3",
+                "type": "Choice",
+                "text": "Louder than anyone I've ever heard.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_16_5"
+            },
+            {
+                "id": "d_counseling_neve_16_4",
+                "type": "Choice",
+                "text": "I've never heard you snore.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_16_7"
+            },
+            {
+                "id": "d_counseling_neve_16_5",
+                "type": "Speech",
+                "text": "... Really?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_16_6",
+                "type": "Speech",
+                "text": "I thought I didn't...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_16_10"
+            },
+            {
+                "id": "d_counseling_neve_16_7",
+                "type": "Speech",
+                "text": "Phew, that's a relief.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_16_8",
+                "type": "Speech",
+                "text": "I was worried that",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_16_9",
+                "type": "Speech",
+                "text": "what if you had heard me snore.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_16_10",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_17_1",
+                "type": "Speech",
+                "text": "How are you not tired right now?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_17_2",
+                "type": "Speech",
+                "text": "I'm even sleepier than usual...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_17_3",
+                "type": "Choice",
+                "text": "Then get some sleep.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_17_5"
+            },
+            {
+                "id": "d_counseling_neve_17_4",
+                "type": "Choice",
+                "text": "Can't you fight the urge to sleep?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_17_8"
+            },
+            {
+                "id": "d_counseling_neve_17_5",
+                "type": "Speech",
+                "text": "If you say so.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_17_6",
+                "type": "Speech",
+                "text": "You know me, I never turn down a chance to sleep.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_17_7",
+                "type": "Speech",
+                "text": "Make sure to wake me up later.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_17_11"
+            },
+            {
+                "id": "d_counseling_neve_17_8",
+                "type": "Speech",
+                "text": "I tried, but it doesn't work.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_17_9",
+                "type": "Speech",
+                "text": "Actually... I feel like I... I'm gonna fall asleep now...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_17_10",
+                "type": "Speech",
+                "text": "Zzzz...",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_17_11",
+                "type": "Narration",
+                "text": "I keep quiet so as not to wake up Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_18_1",
+                "type": "Speech",
+                "text": "People say that polar bears are fond of that dark brown carbonated drink.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_18_2",
+                "type": "Speech",
+                "text": "What about you, Burly Bear? Which soft drink do you prefer?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_18_3",
+                "type": "Choice",
+                "text": "Green carbonated drink.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_18_5"
+            },
+            {
+                "id": "d_counseling_neve_18_4",
+                "type": "Choice",
+                "text": "Brown carbonated drink.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_18_7"
+            },
+            {
+                "id": "d_counseling_neve_18_5",
+                "type": "Speech",
+                "text": "The only thing about that is,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_18_6",
+                "type": "Speech",
+                "text": "it doesn't give you so much sweetness that brown drink does.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_18_9"
+            },
+            {
+                "id": "d_counseling_neve_18_7",
+                "type": "Speech",
+                "text": "You can't go wrong with that!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_18_8",
+                "type": "Speech",
+                "text": "I prefer brown carbonated drink as well.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_18_9",
+                "type": "Narration",
+                "text": "I have a conversation about drinks we like with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_19_1",
+                "type": "Speech",
+                "text": "Whenever you're asleep,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_19_2",
+                "type": "Speech",
+                "text": "what do you dream about?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_19_3",
+                "type": "Choice",
+                "text": "Of being around you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_19_5"
+            },
+            {
+                "id": "d_counseling_neve_19_4",
+                "type": "Choice",
+                "text": "I don't dream.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_19_8"
+            },
+            {
+                "id": "d_counseling_neve_19_5",
+                "type": "Speech",
+                "text": "No kidding!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_19_6",
+                "type": "Speech",
+                "text": "Sometimes, I dream of being with you too.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_19_7",
+                "type": "Speech",
+                "text": "Although usually, I'm dreaming about frolicking with polar bears.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_19_10"
+            },
+            {
+                "id": "d_counseling_neve_19_8",
+                "type": "Speech",
+                "text": "You don't?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_19_9",
+                "type": "Speech",
+                "text": "Sleeping must be super relaxing for you then.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_19_10",
+                "type": "Narration",
+                "text": "I have a conversation about dreams with Neve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neve_20_1",
+                "type": "Speech",
+                "text": "Even though polar bears are what I'm after,",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_20_2",
+                "type": "Speech",
+                "text": "I've run into all sorts of wildlife in my search.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_20_3",
+                "type": "Speech",
+                "text": "Are there any other animals you want to see besides polar bears?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_20_4",
+                "type": "Choice",
+                "text": "An arctic hare.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neve_20_6"
+            },
+            {
+                "id": "d_counseling_neve_20_5",
+                "type": "Choice",
+                "text": "A killer whale.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neve_20_9"
+            },
+            {
+                "id": "d_counseling_neve_20_6",
+                "type": "Speech",
+                "text": "An arctic hare, huh?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_20_7",
+                "type": "Speech",
+                "text": "I bet they'd be super cute, just like a polar bear.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_20_8",
+                "type": "Speech",
+                "text": "Let's try and find one on our next search!",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": "d_counseling_neve_20_11"
+            },
+            {
+                "id": "d_counseling_neve_20_9",
+                "type": "Speech",
+                "text": "A killer whale?",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_20_10",
+                "type": "Speech",
+                "text": "They seem a little scary to me.",
+                "speaker": "Neve",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neve_20_11",
+                "type": "Narration",
+                "text": "Neve and I talk about which animals we'd most like to see.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

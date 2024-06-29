@@ -1,0 +1,1861 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_mihara_01_1",
+                "type": "Speech",
+                "text": "Why do people always assume I enjoy spicy food?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_01_2",
+                "type": "Speech",
+                "text": "Do I smell spicy or something?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_01_3",
+                "type": "Choice",
+                "text": "It's because eating spicy food is painful.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_01_5"
+            },
+            {
+                "id": "d_counseling_mihara_01_4",
+                "type": "Choice",
+                "text": "It's because you give off an irritated vibe.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_01_7"
+            },
+            {
+                "id": "d_counseling_mihara_01_5",
+                "type": "Speech",
+                "text": "Oh, my.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_01_6",
+                "type": "Speech",
+                "text": "Ha ha, I suppose that's true. That is why I love spicy food so much.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_01_10"
+            },
+            {
+                "id": "d_counseling_mihara_01_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_01_8",
+                "type": "Speech",
+                "text": "I see. I didn't realize I gave off that vibe.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_01_9",
+                "type": "Speech",
+                "text": "But what does that have to do with liking spicy food, anyway?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_01_10",
+                "type": "Narration",
+                "text": "Mihara and I experiment with the limits of spiciness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_02_1",
+                "type": "Speech",
+                "text": "Yuni is so loveable.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_02_2",
+                "type": "Speech",
+                "text": "Why do you think that is?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_02_3",
+                "type": "Choice",
+                "text": "Everything she does is just adorable.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_02_5"
+            },
+            {
+                "id": "d_counseling_mihara_02_4",
+                "type": "Choice",
+                "text": "Some people are just loveable. There's no reason behind it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_02_8"
+            },
+            {
+                "id": "d_counseling_mihara_02_5",
+                "type": "Speech",
+                "text": "You're not wrong, and yet...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_02_6",
+                "type": "Speech",
+                "text": "there are times when her whining gets on my nerves.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_02_7",
+                "type": "Speech",
+                "text": "Not everything she does is so loveable. After all, nobody's perfect.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_02_11"
+            },
+            {
+                "id": "d_counseling_mihara_02_8",
+                "type": "Speech",
+                "text": "Hm. That is true.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_02_9",
+                "type": "Speech",
+                "text": "Trying to find the reason is pointless.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_02_10",
+                "type": "Speech",
+                "text": "Love can never truly be explained.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_02_11",
+                "type": "Narration",
+                "text": "I have a conversation with Mihara about Yuni.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_03_1",
+                "type": "Speech",
+                "text": "Commander, what do you think my type is?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_03_2",
+                "type": "Speech",
+                "text": "Um... when it comes to boys, I mean.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_03_3",
+                "type": "Choice",
+                "text": "Tall, good-looking, and a great personality.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_03_5"
+            },
+            {
+                "id": "d_counseling_mihara_03_4",
+                "type": "Choice",
+                "text": "Someone who can accommodate your... preferences.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_03_8"
+            },
+            {
+                "id": "d_counseling_mihara_03_5",
+                "type": "Speech",
+                "text": "Ha ha! You're right. That would be like a dream come true. But, I suppose everyone wants the same thing.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_03_6",
+                "type": "Speech",
+                "text": "Actually, I've already met the man of my dreams.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_03_7",
+                "type": "Speech",
+                "text": "And, as a matter of fact, he's somewhere very close by.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_03_10"
+            },
+            {
+                "id": "d_counseling_mihara_03_8",
+                "type": "Speech",
+                "text": "Hm... Not necessarily.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_03_9",
+                "type": "Speech",
+                "text": "A man who can accommodate me would be nice, but that's far from being my ideal type.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_03_10",
+                "type": "Narration",
+                "text": "I spend time with Mihara talking about our celebrity crushes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_04_1",
+                "type": "Speech",
+                "text": "I was out on a mission capturing a Rapture when a thought crossed my mind.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_04_2",
+                "type": "Speech",
+                "text": "I realized that I have a natural talent for this sort of work.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_04_3",
+                "type": "Speech",
+                "text": "Commander, what do you think I would be? If I wasn't a Nikke, of course.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_04_4",
+                "type": "Choice",
+                "text": "... A shepherd?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_04_6"
+            },
+            {
+                "id": "d_counseling_mihara_04_5",
+                "type": "Choice",
+                "text": "... A bounty hunter?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_04_9"
+            },
+            {
+                "id": "d_counseling_mihara_04_6",
+                "type": "Speech",
+                "text": "A shepherd?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_04_7",
+                "type": "Speech",
+                "text": "Hm... sounds kind of fun.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_04_8",
+                "type": "Speech",
+                "text": "But I think I'm better suited to dealing with humans, not animals.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_04_12"
+            },
+            {
+                "id": "d_counseling_mihara_04_9",
+                "type": "Speech",
+                "text": "Yes... I think that would suit me very well.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_04_10",
+                "type": "Speech",
+                "text": "It has some decent thrill to it as well.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_04_11",
+                "type": "Speech",
+                "text": "If I decide to do that later on, would you be interested in joining me?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_04_12",
+                "type": "Narration",
+                "text": "I listen to Mihara's detailed lecture on how to tie people up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_05_1",
+                "type": "Speech",
+                "text": "I always want to share the stuff I'm into with others.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_05_2",
+                "type": "Speech",
+                "text": "However, I always feel like there's so much distance between me and everyone else.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_05_3",
+                "type": "Speech",
+                "text": "Is there any way I can get rid of that distance?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_05_4",
+                "type": "Choice",
+                "text": "Take your time and use your powers of persuasion.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_05_6"
+            },
+            {
+                "id": "d_counseling_mihara_05_5",
+                "type": "Choice",
+                "text": "Use your experience to make them fall for you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_05_9"
+            },
+            {
+                "id": "d_counseling_mihara_05_6",
+                "type": "Speech",
+                "text": "I suppose that is the right thing to do.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_05_7",
+                "type": "Speech",
+                "text": "Some things just take time to get used to.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_05_8",
+                "type": "Speech",
+                "text": "I'll take my time. I'll go really slow.\nI'll make them understand, bit by bit...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_05_12"
+            },
+            {
+                "id": "d_counseling_mihara_05_9",
+                "type": "Speech",
+                "text": "Ha ha. It's an appealing proposition.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_05_10",
+                "type": "Speech",
+                "text": "However, I'm not entirely sure I can make that work every time.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_05_11",
+                "type": "Speech",
+                "text": "Though, trying might be fun in its own way...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_05_12",
+                "type": "Narration",
+                "text": "I have a deep conversation with Mihara about her preferences.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_06_1",
+                "type": "Speech",
+                "text": "The line between pain and pleasure is so, so thin.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_06_2",
+                "type": "Speech",
+                "text": "Sometimes you're being crushed by pain you can barely take,\nand the next moment it crosses the line into intense pleasure.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_06_3",
+                "type": "Speech",
+                "text": "Doesn't it make you curious, Commander?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_06_4",
+                "type": "Choice",
+                "text": "Not one bit.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_06_6"
+            },
+            {
+                "id": "d_counseling_mihara_06_5",
+                "type": "Choice",
+                "text": "I'm curious, but it kind of scares me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_06_8"
+            },
+            {
+                "id": "d_counseling_mihara_06_6",
+                "type": "Speech",
+                "text": "Hm... really?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_06_7",
+                "type": "Speech",
+                "text": "I thought you'd at least be somewhat interested. I guess I was wrong.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_06_10"
+            },
+            {
+                "id": "d_counseling_mihara_06_8",
+                "type": "Speech",
+                "text": "Ha ha. New things are always a bit intimidating.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_06_9",
+                "type": "Speech",
+                "text": "Don't be scared. We can take it one step at a time. I'll show you everything.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_06_10",
+                "type": "Narration",
+                "text": "I watch a video of painful parkour fails with Mihara.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_07_1",
+                "type": "Speech",
+                "text": "There are so many stores on the Royal Road.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_07_2",
+                "type": "Speech",
+                "text": "One of them is very, very secretive and mysterious.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_07_3",
+                "type": "Speech",
+                "text": "Doesn't that make you curious?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_07_4",
+                "type": "Choice",
+                "text": "Let's go right now.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_07_6"
+            },
+            {
+                "id": "d_counseling_mihara_07_5",
+                "type": "Choice",
+                "text": "... Not really.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_07_9"
+            },
+            {
+                "id": "d_counseling_mihara_07_6",
+                "type": "Speech",
+                "text": "Oh, my. Really?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_07_7",
+                "type": "Speech",
+                "text": "Lovely. I hear they actually let you use their merchandise in the store.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_07_8",
+                "type": "Speech",
+                "text": "Let's go have some fun. Okay?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_07_12"
+            },
+            {
+                "id": "d_counseling_mihara_07_9",
+                "type": "Speech",
+                "text": "Oh, my! You're not embarrassed, are you?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_07_10",
+                "type": "Speech",
+                "text": "Hm... I didn't expect that. I thought you were a bit more adventurous.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_07_11",
+                "type": "Speech",
+                "text": "Oh, well. It doesn't matter. I'll go there with Yuni later.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_07_12",
+                "type": "Narration",
+                "text": "Mihara tells me more about the unique items that can be found on Royal Road.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_08_1",
+                "type": "Speech",
+                "text": "Taking care of your body is important.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_08_2",
+                "type": "Speech",
+                "text": "If I want to keep enjoying my particular hobbies for a long time, I'll need to keep my body in tip-top shape.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_08_3",
+                "type": "Speech",
+                "text": "Speaking of which, do you have any health tips you can share?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_08_4",
+                "type": "Choice",
+                "text": "Consistent exercise and a good diet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_08_6"
+            },
+            {
+                "id": "d_counseling_mihara_08_5",
+                "type": "Choice",
+                "text": "Stay away from stressful situations.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_08_8"
+            },
+            {
+                "id": "d_counseling_mihara_08_6",
+                "type": "Speech",
+                "text": "Commander, those things don't really apply to a Nikke...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_08_7",
+                "type": "Speech",
+                "text": "Wouldn't it be better to focus more on the mental side of things?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_08_12"
+            },
+            {
+                "id": "d_counseling_mihara_08_8",
+                "type": "Speech",
+                "text": "Yes! That's the most important thing.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_08_9",
+                "type": "Speech",
+                "text": "Ha ha. I always thought that, as a Commander, you would always be stressed out by your work.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_08_10",
+                "type": "Speech",
+                "text": "Perhaps I was wrong?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_08_11",
+                "type": "Speech",
+                "text": "Just like I thought. You are exceptional.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_08_12",
+                "type": "Narration",
+                "text": "I watch a video about mental health with Mihara.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_09_1",
+                "type": "Speech",
+                "text": "These clothes I'm wearing...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_09_2",
+                "type": "Speech",
+                "text": "Are they a little... weird?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_09_3",
+                "type": "Choice",
+                "text": "I think they're very nice.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_09_5"
+            },
+            {
+                "id": "d_counseling_mihara_09_4",
+                "type": "Choice",
+                "text": "Something a little more modest might be better...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_09_7"
+            },
+            {
+                "id": "d_counseling_mihara_09_5",
+                "type": "Speech",
+                "text": "Ha ha! Really? Okay, then.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_09_6",
+                "type": "Speech",
+                "text": "As long as the Commander likes them, I couldn't care less what other people think.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_09_9"
+            },
+            {
+                "id": "d_counseling_mihara_09_7",
+                "type": "Speech",
+                "text": "But... this is modest! For me, at least...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_09_8",
+                "type": "Speech",
+                "text": "At this rate, I'll have to walk around in a burlap sack...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_09_9",
+                "type": "Narration",
+                "text": "I spend time with Mihara looking at fashion magazines.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_10_1",
+                "type": "Speech",
+                "text": "Yuni has been rather busy lately.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_10_2",
+                "type": "Speech",
+                "text": "I haven't been able to see her that much.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_10_3",
+                "type": "Speech",
+                "text": "Do you think there's something going on?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_10_4",
+                "type": "Choice",
+                "text": "Have you ever considered that she may just need some rest?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_10_6"
+            },
+            {
+                "id": "d_counseling_mihara_10_5",
+                "type": "Choice",
+                "text": "I'm sure she is working on some new skills.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_10_9"
+            },
+            {
+                "id": "d_counseling_mihara_10_6",
+                "type": "Speech",
+                "text": "No way.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_10_7",
+                "type": "Speech",
+                "text": "Yuni never stops, no matter what.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_10_8",
+                "type": "Speech",
+                "text": "I'm worried. I really should go pay her a visit.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_10_12"
+            },
+            {
+                "id": "d_counseling_mihara_10_9",
+                "type": "Speech",
+                "text": "Oh, my. Just hearing that makes my body quiver.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_10_10",
+                "type": "Speech",
+                "text": "You're probably right. Yuni must be preparing a special surprise for me.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_10_11",
+                "type": "Speech",
+                "text": "I'll just have to wait and see what it is!",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_10_12",
+                "type": "Narration",
+                "text": "Listen to Mihara gush about Yuni.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_11_1",
+                "type": "Speech",
+                "text": "Check out this new leather strap that I bought.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_11_2",
+                "type": "Speech",
+                "text": "What do you think? Get a good look at it, and make sure to feel it.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_11_3",
+                "type": "Choice",
+                "text": "Touch it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_11_5"
+            },
+            {
+                "id": "d_counseling_mihara_11_4",
+                "type": "Choice",
+                "text": "Don't touch it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_11_9"
+            },
+            {
+                "id": "d_counseling_mihara_11_5",
+                "type": "Speech",
+                "text": "Such a smooth texture, right? And sturdy as well.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_11_6",
+                "type": "Speech",
+                "text": "Do you like it?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_11_7",
+                "type": "Speech",
+                "text": "Hehe, don't be afraid.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_11_8",
+                "type": "Speech",
+                "text": "I won't ask you to tie me up until you've gotten used to all of this.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_11_11"
+            },
+            {
+                "id": "d_counseling_mihara_11_9",
+                "type": "Speech",
+                "text": "Seems you're still a bit put off by all this.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_11_10",
+                "type": "Speech",
+                "text": "What a shame. Fine then, we'll find something else to play with.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_11_11",
+                "type": "Narration",
+                "text": "Mihara helped broaden my horizons and shared some scandalous information.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_12_1",
+                "type": "Speech",
+                "text": "I've used up all my scented candles so I'm going to buy some more.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_12_2",
+                "type": "Speech",
+                "text": "Which scent should I buy?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_12_3",
+                "type": "Speech",
+                "text": "I wanted to get something that you'd like.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_12_4",
+                "type": "Choice",
+                "text": "Something sweet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_12_6"
+            },
+            {
+                "id": "d_counseling_mihara_12_5",
+                "type": "Choice",
+                "text": "Something refreshing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_12_9"
+            },
+            {
+                "id": "d_counseling_mihara_12_6",
+                "type": "Speech",
+                "text": "The one I used before had a sweet scent...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_12_7",
+                "type": "Speech",
+                "text": "Well, if that's what you want...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_12_8",
+                "type": "Speech",
+                "text": "I suppose I can buy the same thing again. I'll be using it on you, after all.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_12_12"
+            },
+            {
+                "id": "d_counseling_mihara_12_9",
+                "type": "Speech",
+                "text": "That's exactly what I was thinking!",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_12_10",
+                "type": "Speech",
+                "text": "That's good, I was really looking forward to trying out something new.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_12_11",
+                "type": "Speech",
+                "text": "We can have some fun using it together.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_12_12",
+                "type": "Narration",
+                "text": "Mihara taught me all sorts of new things about candles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_13_1",
+                "type": "Speech",
+                "text": "Commander, do you know why I take such pleasure in salacious activities?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_13_2",
+                "type": "Choice",
+                "text": "Because you like pain.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_13_4"
+            },
+            {
+                "id": "d_counseling_mihara_13_3",
+                "type": "Choice",
+                "text": "Because you want to be controlled by others.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_13_7"
+            },
+            {
+                "id": "d_counseling_mihara_13_4",
+                "type": "Speech",
+                "text": "Hehe, you're very perceptive at times.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_13_5",
+                "type": "Speech",
+                "text": "Correct. Pain makes you realize you are alive.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_13_6",
+                "type": "Speech",
+                "text": "That's what I love so much about it.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_13_9"
+            },
+            {
+                "id": "d_counseling_mihara_13_7",
+                "type": "Speech",
+                "text": "Huh? That's not true at all.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_13_8",
+                "type": "Speech",
+                "text": "It's the other way around. I enjoy controlling others.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_13_9",
+                "type": "Narration",
+                "text": "I have a conversation with Mihara about her turn-ons and turn-offs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_14_1",
+                "type": "Speech",
+                "text": "Commander, if you had to choose between",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_14_2",
+                "type": "Speech",
+                "text": "something new and something familiar, which would you pick?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_14_3",
+                "type": "Choice",
+                "text": "Something new.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_14_5"
+            },
+            {
+                "id": "d_counseling_mihara_14_4",
+                "type": "Choice",
+                "text": "Something familiar.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_14_8"
+            },
+            {
+                "id": "d_counseling_mihara_14_5",
+                "type": "Speech",
+                "text": "I see, so the same as me.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_14_6",
+                "type": "Speech",
+                "text": "I get a thrill from new experiences as well.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_14_7",
+                "type": "Speech",
+                "text": "Once I get too familiar with something, it no longer stimulates me.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_14_11"
+            },
+            {
+                "id": "d_counseling_mihara_14_8",
+                "type": "Speech",
+                "text": "Interesting...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_14_9",
+                "type": "Speech",
+                "text": "Personally, I enjoy new experiences.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_14_10",
+                "type": "Speech",
+                "text": "If I don't move on to something new, it quickly gets stale for me.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_14_11",
+                "type": "Narration",
+                "text": "Mihara and I concoct various ways to find stimulation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_15_1",
+                "type": "Speech",
+                "text": "Since the weather is so nice, I was thinking of going for a walk.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_15_2",
+                "type": "Speech",
+                "text": "What should I take with me?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_15_3",
+                "type": "Choice",
+                "text": "A packed lunch.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_15_5"
+            },
+            {
+                "id": "d_counseling_mihara_15_4",
+                "type": "Choice",
+                "text": "A leash, maybe?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_15_9"
+            },
+            {
+                "id": "d_counseling_mihara_15_5",
+                "type": "Speech",
+                "text": "As long as you pack it for me, sure!",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_15_6",
+                "type": "Speech",
+                "text": "I'd love to go on a nice little picnic.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_15_7",
+                "type": "Speech",
+                "text": "It should be a nice change of pace.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_15_8",
+                "type": "Speech",
+                "text": "Such a new experience... I'm tingling with anticipation!",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_15_12"
+            },
+            {
+                "id": "d_counseling_mihara_15_9",
+                "type": "Speech",
+                "text": "I just wanted to walk around the Outpost.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_15_10",
+                "type": "Speech",
+                "text": "What exactly did you have in mind?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_15_11",
+                "type": "Speech",
+                "text": "You little pervert, hehe.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_15_12",
+                "type": "Narration",
+                "text": "I went on a walk with Mihara.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_16_1",
+                "type": "Speech",
+                "text": "Commander, between the mind and the body,",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_16_2",
+                "type": "Speech",
+                "text": "which do you think is more important?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_16_3",
+                "type": "Choice",
+                "text": "Body.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_16_5"
+            },
+            {
+                "id": "d_counseling_mihara_16_4",
+                "type": "Choice",
+                "text": "Mind.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_16_8"
+            },
+            {
+                "id": "d_counseling_mihara_16_5",
+                "type": "Speech",
+                "text": "Hmm... really? I suppose that's because you're a human.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_16_6",
+                "type": "Speech",
+                "text": "If your body sustains any injuries, you don't recover so easily, so I understand why you would feel that way.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_16_7",
+                "type": "Speech",
+                "text": "Personally, I think it's more frightening to suffer a mental collapse.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_16_10"
+            },
+            {
+                "id": "d_counseling_mihara_16_8",
+                "type": "Speech",
+                "text": "Me too.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_16_9",
+                "type": "Speech",
+                "text": "The mind is capable of inflicting far more pain than the body ever could.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_16_10",
+                "type": "Narration",
+                "text": "Mihara and I have a discussion about the correlation between the body and mind.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_17_1",
+                "type": "Speech",
+                "text": "I was considering getting some exercise.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_17_2",
+                "type": "Speech",
+                "text": "What type of exercise do you think would best suit me?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_17_3",
+                "type": "Choice",
+                "text": "Jump rope.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_17_5"
+            },
+            {
+                "id": "d_counseling_mihara_17_4",
+                "type": "Choice",
+                "text": "I thought Nikkes didn't have to exercise?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_17_8"
+            },
+            {
+                "id": "d_counseling_mihara_17_5",
+                "type": "Speech",
+                "text": "Yes... The pain of constantly jumping over a rope that is about to hit you.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_17_6",
+                "type": "Speech",
+                "text": "The sting when it finally makes contact, and the fact that you brought this pain upon yourself...",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_17_7",
+                "type": "Speech",
+                "text": "It's perfect.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_17_11"
+            },
+            {
+                "id": "d_counseling_mihara_17_8",
+                "type": "Speech",
+                "text": "You're right,",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_17_9",
+                "type": "Speech",
+                "text": "but I've had an urge recently to get my body in motion.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_17_10",
+                "type": "Speech",
+                "text": "If you don't have any recommendations, then I'll just have to figure it out myself.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_17_11",
+                "type": "Narration",
+                "text": "Mihara and I talk about exercise.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_18_1",
+                "type": "Speech",
+                "text": "Commander, have you ever had the urge to steal",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_2",
+                "type": "Speech",
+                "text": "something from someone else?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_3",
+                "type": "Choice",
+                "text": "No, I haven't.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_18_5"
+            },
+            {
+                "id": "d_counseling_mihara_18_4",
+                "type": "Choice",
+                "text": "Yes, I have.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_18_8"
+            },
+            {
+                "id": "d_counseling_mihara_18_5",
+                "type": "Speech",
+                "text": "I figured as much.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_6",
+                "type": "Speech",
+                "text": "I knew you and I were different.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_7",
+                "type": "Speech",
+                "text": "Well, I've stolen before.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_18_11"
+            },
+            {
+                "id": "d_counseling_mihara_18_8",
+                "type": "Speech",
+                "text": "You're not pulling my leg, are you?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_9",
+                "type": "Speech",
+                "text": "It's nice to know that we have something in common,",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_10",
+                "type": "Speech",
+                "text": "even if it's rather unexpected.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_11",
+                "type": "Speech",
+                "text": "I was so envious of someone else's life that I wanted to steal their very essence.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_12",
+                "type": "Speech",
+                "text": "Perhaps that is how I came to have this ability.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_18_13",
+                "type": "Narration",
+                "text": "I spend time talking with Mihara.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_19_1",
+                "type": "Speech",
+                "text": "I have to be honest with you Commander, I've been keeping a secret from you this entire time.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_2",
+                "type": "Speech",
+                "text": "Can you guess what it is?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_3",
+                "type": "Speech",
+                "text": "I'll let you know if you get it right?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_4",
+                "type": "Choice",
+                "text": "But if you tell me, it'll no longer be a secret.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_19_6"
+            },
+            {
+                "id": "d_counseling_mihara_19_5",
+                "type": "Choice",
+                "text": "You know Syuene's weakness?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_19_10"
+            },
+            {
+                "id": "d_counseling_mihara_19_6",
+                "type": "Speech",
+                "text": "Very true. By definition, a secret is only a secret when no one else knows.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_7",
+                "type": "Speech",
+                "text": "The moment I tell you what it is, it will cease to be a secret.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_8",
+                "type": "Speech",
+                "text": "You're a tough nut to crack, Commander.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_9",
+                "type": "Speech",
+                "text": "I think that's what I like about you.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_19_13"
+            },
+            {
+                "id": "d_counseling_mihara_19_10",
+                "type": "Speech",
+                "text": "Let me see... correct, or incorrect?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_11",
+                "type": "Speech",
+                "text": "As soon as I tell you it's correct, it no longer becomes a secret.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_12",
+                "type": "Speech",
+                "text": "Therefore I can't tell you.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_19_13",
+                "type": "Narration",
+                "text": "Mihara and I talk about secrets.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mihara_20_1",
+                "type": "Speech",
+                "text": "Commander, which do you think is more precious?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_2",
+                "type": "Speech",
+                "text": "The memories you've already accumulated, or the memories you'll create in the future?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_3",
+                "type": "Choice",
+                "text": "All the previous memories I've gathered.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mihara_20_5"
+            },
+            {
+                "id": "d_counseling_mihara_20_4",
+                "type": "Choice",
+                "text": "The memories I'll create in the future.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mihara_20_9"
+            },
+            {
+                "id": "d_counseling_mihara_20_5",
+                "type": "Speech",
+                "text": "Why?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_6",
+                "type": "Self",
+                "text": "They've made me into the person I am today.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_7",
+                "type": "Speech",
+                "text": "Hmm... my view differs slightly.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_8",
+                "type": "Speech",
+                "text": "I feel I'm a much better person now than I was in the past.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": "d_counseling_mihara_20_14"
+            },
+            {
+                "id": "d_counseling_mihara_20_9",
+                "type": "Speech",
+                "text": "Why?",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_10",
+                "type": "Self",
+                "text": "Because the person I am now will be the one making those new memories.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_11",
+                "type": "Speech",
+                "text": "Precisely!",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_12",
+                "type": "Speech",
+                "text": "I couldn't agree more.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_13",
+                "type": "Speech",
+                "text": "I've always preferred my current self to who I was in the past.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_14",
+                "type": "Speech",
+                "text": "Therefore, it's a no-brainer that the experiences I'm having now are superior to those of the past.",
+                "speaker": "Mihara",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mihara_20_15",
+                "type": "Narration",
+                "text": "Mihara and I talk about the concept of memories.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,1717 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_exia_01_1",
+                "type": "Speech",
+                "text": "Hey, Noob.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_01_2",
+                "type": "Speech",
+                "text": "I have a friend who can't game to save their life.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_01_3",
+                "type": "Speech",
+                "text": "Their complete lack of skill frustrates me greatly during raids.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_01_4",
+                "type": "Speech",
+                "text": "I seek your advice on this.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_01_5",
+                "type": "Choice",
+                "text": "Just be patient and look after them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_01_7"
+            },
+            {
+                "id": "d_counseling_exia_01_6",
+                "type": "Choice",
+                "text": "Are you talking about me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_01_8"
+            },
+            {
+                "id": "d_counseling_exia_01_7",
+                "type": "Speech",
+                "text": "*Stare*",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_01_10"
+            },
+            {
+                "id": "d_counseling_exia_01_8",
+                "type": "Speech",
+                "text": "Affirmative.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_01_9",
+                "type": "Speech",
+                "text": "Ah! Finally saying this to your face relieves me greatly.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_01_10"
+            },
+            {
+                "id": "d_counseling_exia_01_10",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_02_1",
+                "type": "Speech",
+                "text": "People keep telling me to speak with caution.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_02_2",
+                "type": "Speech",
+                "text": "But, what's wrong with stating simple facts?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_02_3",
+                "type": "Choice",
+                "text": "The truth can be hurtful sometimes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_02_5"
+            },
+            {
+                "id": "d_counseling_exia_02_4",
+                "type": "Choice",
+                "text": "Don't back down, no matter what other people say.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_02_7"
+            },
+            {
+                "id": "d_counseling_exia_02_5",
+                "type": "Speech",
+                "text": "Hm.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_02_6",
+                "type": "Speech",
+                "text": "Nevertheless, we all must face the facts eventually.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_02_9"
+            },
+            {
+                "id": "d_counseling_exia_02_7",
+                "type": "Speech",
+                "text": "Exceptional!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_02_8",
+                "type": "Speech",
+                "text": "Your answer befits a Commander. I am glad to hear it!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_02_9"
+            },
+            {
+                "id": "d_counseling_exia_02_9",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_03_1",
+                "type": "Speech",
+                "text": "Hey Noob, do you prefer 2D or 3D?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_03_2",
+                "type": "Choice",
+                "text": "I don't understand the question.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_03_4"
+            },
+            {
+                "id": "d_counseling_exia_03_3",
+                "type": "Choice",
+                "text": "2D, for sure.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_03_6"
+            },
+            {
+                "id": "d_counseling_exia_03_4",
+                "type": "Speech",
+                "text": "Wait, what?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_03_5",
+                "type": "Speech",
+                "text": "I thought you were a gamer, Noob!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_03_8"
+            },
+            {
+                "id": "d_counseling_exia_03_6",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_03_7",
+                "type": "Speech",
+                "text": "Your answer is completely within my expectation.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_03_8"
+            },
+            {
+                "id": "d_counseling_exia_03_8",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_04_1",
+                "type": "Speech",
+                "text": "I have a teammate who never stops speaking.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_04_3",
+                "type": "Speech",
+                "text": "How should I resolve the situation?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_04_4",
+                "type": "Choice",
+                "text": "Get noise canceling headphones.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_04_6"
+            },
+            {
+                "id": "d_counseling_exia_04_5",
+                "type": "Choice",
+                "text": "Just grin and bear it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_04_8"
+            },
+            {
+                "id": "d_counseling_exia_04_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_04_7",
+                "type": "Speech",
+                "text": "Good advice. You have my gratitude.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_04_10"
+            },
+            {
+                "id": "d_counseling_exia_04_8",
+                "type": "Speech",
+                "text": "... Your solution is unacceptable.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_04_9",
+                "type": "Speech",
+                "text": "With continued exposure, I may develop neurological damage...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_04_10",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_05_1",
+                "type": "Speech",
+                "text": "I understand the necessity of regular Guild meet-ups.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_05_2",
+                "type": "Speech",
+                "text": "However, I do not enjoy seeing people offline.\nPlease propose a solution.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_05_3",
+                "type": "Choice",
+                "text": "Have the meet-ups online.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_05_5"
+            },
+            {
+                "id": "d_counseling_exia_05_4",
+                "type": "Choice",
+                "text": "I can go with you, if you like.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_05_7"
+            },
+            {
+                "id": "d_counseling_exia_05_5",
+                "type": "Speech",
+                "text": "This answer is acceptable.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_05_6",
+                "type": "Speech",
+                "text": "However, what's the point of a meet-up if it's online?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_05_9"
+            },
+            {
+                "id": "d_counseling_exia_05_7",
+                "type": "Speech",
+                "text": "Hm...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_05_8",
+                "type": "Speech",
+                "text": "I believe I would find your presence most enjoyable.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_05_9",
+                "type": "Narration",
+                "text": "I talk with Exia about setting up regular meet-ups for the Guild.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_06_1",
+                "type": "Speech",
+                "text": "Unacceptable.\nUnacceptable.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_06_2",
+                "type": "Speech",
+                "text": "All games have become boring to me.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_06_3",
+                "type": "Speech",
+                "text": "I think I may be becoming desensitized to games.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_06_4",
+                "type": "Choice",
+                "text": "Let's stop the game, then.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_06_6"
+            },
+            {
+                "id": "d_counseling_exia_06_5",
+                "type": "Choice",
+                "text": "You'll feel better after a day or two.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_06_8"
+            },
+            {
+                "id": "d_counseling_exia_06_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_06_7",
+                "type": "Speech",
+                "text": "Ah. My condition has already improved considerably.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_06_10"
+            },
+            {
+                "id": "d_counseling_exia_06_8",
+                "type": "Speech",
+                "text": "Noob, are you telling me",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_06_9",
+                "type": "Speech",
+                "text": "that you can see the future? I suppose we will see.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_06_10",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_07_1",
+                "type": "Speech",
+                "text": "I have uncovered someone's dirty secret.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_07_2",
+                "type": "Speech",
+                "text": "What is the optimal course of action?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_07_3",
+                "type": "Choice",
+                "text": "Play dumb.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_07_5"
+            },
+            {
+                "id": "d_counseling_exia_07_4",
+                "type": "Choice",
+                "text": "Tell them about it and say you're sorry for snooping.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_07_7"
+            },
+            {
+                "id": "d_counseling_exia_07_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_07_6",
+                "type": "Speech",
+                "text": "Greetings. I am but a simple Nikke who knows nothing.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_07_10"
+            },
+            {
+                "id": "d_counseling_exia_07_7",
+                "type": "Speech",
+                "text": "Then, I...\nI apologize.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_07_8",
+                "type": "Speech",
+                "text": "A few days ago, I was collecting information on graduates from your military academy.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_07_9",
+                "type": "Speech",
+                "text": "By chance, I acquired a copy of your graduation thesis and read it... It was terrible.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_07_10",
+                "type": "Narration",
+                "text": "The time Exia and I spend together is rather awkward.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_08_1",
+                "type": "Speech",
+                "text": "Novel keeps locking my shower door.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_08_2",
+                "type": "Speech",
+                "text": "Apparently she believes she is trying to solve a murder. Her actions are unbearable.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_08_3",
+                "type": "Speech",
+                "text": "You are the one who is in control here. I require your assistance. Please!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_08_4",
+                "type": "Choice",
+                "text": "You can use the shower in my room.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_08_6"
+            },
+            {
+                "id": "d_counseling_exia_08_5",
+                "type": "Choice",
+                "text": "Install a large window in your shower.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_08_8"
+            },
+            {
+                "id": "d_counseling_exia_08_6",
+                "type": "Speech",
+                "text": "What?\nAre you offering me the best shower in the Outpost?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_08_7",
+                "type": "Speech",
+                "text": "It will be my pleasure, I assure you.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_08_10"
+            },
+            {
+                "id": "d_counseling_exia_08_8",
+                "type": "Speech",
+                "text": "... Noob.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_08_9",
+                "type": "Speech",
+                "text": "Are you actually that dumb? Or are you just a crafty pervert?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_08_10",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_09_1",
+                "type": "Speech",
+                "text": "Work has made me feel so stressed out lately.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_2",
+                "type": "Speech",
+                "text": "I require a means of escape, of release.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_3",
+                "type": "Choice",
+                "text": "What's been stressing you out?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_09_5"
+            },
+            {
+                "id": "d_counseling_exia_09_4",
+                "type": "Choice",
+                "text": "Let's run away together.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_09_10"
+            },
+            {
+                "id": "d_counseling_exia_09_5",
+                "type": "Speech",
+                "text": "Since I work in the Information Division, everyone's eyes are on me constantly.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_6",
+                "type": "Speech",
+                "text": "Thus, I'll have to tell you using a secret code.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_7",
+                "type": "Narration",
+                "text": "*Tap-* *Tap tap* *Tap tap tap-*\n*Tap- tap-* *Tap- tap tap tap*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_8",
+                "type": "Narration",
+                "text": "It's Morse code for \"dumb\".",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_9",
+                "type": "Speech",
+                "text": "It is the perfect descriptor for every single one of my co-workers.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_09_13"
+            },
+            {
+                "id": "d_counseling_exia_09_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_11",
+                "type": "Speech",
+                "text": "I know just the place. Online!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_12",
+                "type": "Speech",
+                "text": "Meet me tonight at 11.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_09_13",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_10_1",
+                "type": "Speech",
+                "text": "Just once before I die,",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_10_2",
+                "type": "Speech",
+                "text": "I would like to hack Enikk's mainframe.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_10_3",
+                "type": "Choice",
+                "text": "If you want it that badly, just go for it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_10_5"
+            },
+            {
+                "id": "d_counseling_exia_10_4",
+                "type": "Choice",
+                "text": "I can't allow that. It's too dangerous.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_10_9"
+            },
+            {
+                "id": "d_counseling_exia_10_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_10_6",
+                "type": "Speech",
+                "text": "You have surprised and impressed me!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_10_7",
+                "type": "Speech",
+                "text": "You are willing to get a little dirty, and are not afraid of the consequences.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_10_8",
+                "type": "Speech",
+                "text": "You have officially earned a small part of my respect, Noob.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_10_11"
+            },
+            {
+                "id": "d_counseling_exia_10_9",
+                "type": "Speech",
+                "text": "I completely understand.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_10_10",
+                "type": "Speech",
+                "text": "If I ever get up to anything, then mum's the word, Noob.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_10_11",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_11_1",
+                "type": "Speech",
+                "text": "This feels like an intervention...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_11_2",
+                "type": "Speech",
+                "text": "If anyone needs an intervention, it's you for your sorry gaming skills!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_11_3",
+                "type": "Speech",
+                "text": "Anyway, is there anything you wanted to ask me?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_11_4",
+                "type": "Choice",
+                "text": "What's the attack pattern for the raid boss in chapter 3?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_11_6"
+            },
+            {
+                "id": "d_counseling_exia_11_5",
+                "type": "Choice",
+                "text": "How can I deal more damage?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_11_10"
+            },
+            {
+                "id": "d_counseling_exia_11_6",
+                "type": "Speech",
+                "text": "So you want to try and memorize the enemy attack pattern?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_11_7",
+                "type": "Speech",
+                "text": "I admire your resolve!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_11_8",
+                "type": "Speech",
+                "text": "As for that particular boss,",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_11_9",
+                "type": "Speech",
+                "text": "You just need to watch the ground.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_11_12"
+            },
+            {
+                "id": "d_counseling_exia_11_10",
+                "type": "Speech",
+                "text": "I don't think we're going to solve that problem in just a single discussion...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_11_11",
+                "type": "Speech",
+                "text": "To put it simply... git gud noob!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_11_12",
+                "type": "Narration",
+                "text": "During our discussion, Exia and I talked about gaming skills.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_12_1",
+                "type": "Speech",
+                "text": "It feels like there are more people than usual talking trash and not being able to back it up.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_12_2",
+                "type": "Speech",
+                "text": "How should I deal with them?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_12_3",
+                "type": "Speech",
+                "text": "Helloooooo? Anyone there?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_12_4",
+                "type": "Choice",
+                "text": "Mute their mics",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_12_6"
+            },
+            {
+                "id": "d_counseling_exia_12_5",
+                "type": "Choice",
+                "text": "Request a PVP with them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_12_9"
+            },
+            {
+                "id": "d_counseling_exia_12_6",
+                "type": "Speech",
+                "text": "No way! Voice chat is a must during a raid!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_12_7",
+                "type": "Speech",
+                "text": "No matter how infuriating those guys can be,",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_12_8",
+                "type": "Speech",
+                "text": "A raid would be impossible if I muted their mics.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_12_12"
+            },
+            {
+                "id": "d_counseling_exia_12_9",
+                "type": "Speech",
+                "text": "Hmm-",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_12_10",
+                "type": "Speech",
+                "text": "I guess the only way to solve this problem is to take it to the proverbial streets!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_12_11",
+                "type": "Speech",
+                "text": "Time to show them who's boss!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_12_12",
+                "type": "Narration",
+                "text": "I spend some meaningful time together with Exia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_13_1",
+                "type": "Speech",
+                "text": "Whenever Novel wants to activate her sleuthing skills,",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_13_2",
+                "type": "Speech",
+                "text": "she tumbles all over the house.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_13_3",
+                "type": "Speech",
+                "text": "She makes such a racket, I can't concentrate on my games!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_13_4",
+                "type": "Choice",
+                "text": "Help her activate her sleuthing skills more quickly.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_13_6"
+            },
+            {
+                "id": "d_counseling_exia_13_5",
+                "type": "Choice",
+                "text": "Have her go to a gym instead of the house.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_13_9"
+            },
+            {
+                "id": "d_counseling_exia_13_6",
+                "type": "Speech",
+                "text": "How am I supposed to do that?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_13_7",
+                "type": "Speech",
+                "text": "You mean I should be tossing myself to and fro as well?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_13_8",
+                "type": "Speech",
+                "text": "What an absurd idea!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_13_12"
+            },
+            {
+                "id": "d_counseling_exia_13_9",
+                "type": "Speech",
+                "text": "Hey, nice!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_13_10",
+                "type": "Speech",
+                "text": "Good idea.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_13_11",
+                "type": "Speech",
+                "text": "Press F to pay respects!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_13_12",
+                "type": "Narration",
+                "text": "Exia and I talk more about Novel's sleuthing skills.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_14_1",
+                "type": "Speech",
+                "text": "When I see Guillotine playing with a concept on social media,",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_2",
+                "type": "Speech",
+                "text": "it looks so fun.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_3",
+                "type": "Speech",
+                "text": "So I also want to have a try.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_4",
+                "type": "Speech",
+                "text": "What kind of concept do you think would suit me?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_5",
+                "type": "Choice",
+                "text": "A detective otaku who is crazy about mystery.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_14_7"
+            },
+            {
+                "id": "d_counseling_exia_14_6",
+                "type": "Choice",
+                "text": "A girl with a Super Wyrm.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_14_10"
+            },
+            {
+                "id": "d_counseling_exia_14_7",
+                "type": "Speech",
+                "text": "Wow!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_8",
+                "type": "Speech",
+                "text": "I have someone close to me to refer to!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_9",
+                "type": "Speech",
+                "text": "That sounds interesting.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_14_13"
+            },
+            {
+                "id": "d_counseling_exia_14_10",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_11",
+                "type": "Speech",
+                "text": "Guillotine has already used this concept...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_12",
+                "type": "Speech",
+                "text": "No other ideas?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_14_13",
+                "type": "Narration",
+                "text": "I have a conversation with Exia about SNS.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_15_1",
+                "type": "Speech",
+                "text": "Arrrrghhhh!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_15_2",
+                "type": "Speech",
+                "text": "There's a bug in the game that prevented me from clearing this mission.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_15_3",
+                "type": "Choice",
+                "text": "Try and debug the game yourself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_15_5"
+            },
+            {
+                "id": "d_counseling_exia_15_4",
+                "type": "Choice",
+                "text": "Just play another game for the time being.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_15_8"
+            },
+            {
+                "id": "d_counseling_exia_15_5",
+                "type": "Speech",
+                "text": "Hey, good idea!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_15_6",
+                "type": "Speech",
+                "text": "I'll hack into the game and get rid of the bug.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_15_7",
+                "type": "Speech",
+                "text": "The game developers ought to thank me!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_15_11"
+            },
+            {
+                "id": "d_counseling_exia_15_8",
+                "type": "Speech",
+                "text": "But once I beat this boss, I'll have finished the game!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_15_9",
+                "type": "Speech",
+                "text": "I can't back down now, not with the final boss standing right in front of me!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_15_10",
+                "type": "Speech",
+                "text": "I won't stand for it!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_15_11",
+                "type": "Narration",
+                "text": "Exia and I have a conversation about video game bugs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_16_1",
+                "type": "Speech",
+                "text": "What should I do if I'm not gelling with my team",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_16_2",
+                "type": "Speech",
+                "text": "during a team PVP match?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_16_3",
+                "type": "Choice",
+                "text": "Turn on voice chat.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_16_5"
+            },
+            {
+                "id": "d_counseling_exia_16_4",
+                "type": "Choice",
+                "text": "Carry the team on your back.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_16_8"
+            },
+            {
+                "id": "d_counseling_exia_16_5",
+                "type": "Speech",
+                "text": "Oh boy...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_16_6",
+                "type": "Speech",
+                "text": "voice chatting with strangers on the internet?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_16_7",
+                "type": "Speech",
+                "text": "No thank you.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_16_10"
+            },
+            {
+                "id": "d_counseling_exia_16_8",
+                "type": "Speech",
+                "text": "Well, considering that I am a top-ranked player,",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_16_9",
+                "type": "Speech",
+                "text": "that might be the easiest way around all of this.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_16_10",
+                "type": "Narration",
+                "text": "Exia and I talk more about PVP games.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_17_1",
+                "type": "Speech",
+                "text": "Noob.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_17_2",
+                "type": "Speech",
+                "text": "If the world were going to end tomorrow, what would you do?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_17_3",
+                "type": "Choice",
+                "text": "I would plant an apple tree.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_17_5"
+            },
+            {
+                "id": "d_counseling_exia_17_4",
+                "type": "Choice",
+                "text": "I would complete more side missions in this game I'm playing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_17_7"
+            },
+            {
+                "id": "d_counseling_exia_17_5",
+                "type": "Speech",
+                "text": "In case you forgot, allow me to remind you...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_17_6",
+                "type": "Speech",
+                "text": "It's illegal to plant seeds within the civilian sector.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_17_9"
+            },
+            {
+                "id": "d_counseling_exia_17_7",
+                "type": "Speech",
+                "text": "Holy moly!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_17_8",
+                "type": "Speech",
+                "text": "I didn't realize you were such an avid gamer!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_17_9",
+                "type": "Narration",
+                "text": "I have a conversation with Exia about the end of the world.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_18_1",
+                "type": "Speech",
+                "text": "My strength stats aren't up to snuff, so I'm getting my butt handed to me in this game.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_18_2",
+                "type": "Speech",
+                "text": "What do you think I should do?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_18_3",
+                "type": "Choice",
+                "text": "I'd consider being more strategic.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_18_5"
+            },
+            {
+                "id": "d_counseling_exia_18_4",
+                "type": "Choice",
+                "text": "I'd rage-quit.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_18_7"
+            },
+            {
+                "id": "d_counseling_exia_18_5",
+                "type": "Speech",
+                "text": "Right... mental fortitude could potentially make up for a lack of physical strength.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_18_6",
+                "type": "Speech",
+                "text": "It may not be ideal, but it's all I've got.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_18_9"
+            },
+            {
+                "id": "d_counseling_exia_18_7",
+                "type": "Speech",
+                "text": "If you do that, then your tenacity might as well be zero as well!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_18_8",
+                "type": "Speech",
+                "text": "I didn't know you were such a filthy casual!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_18_9",
+                "type": "Narration",
+                "text": "Exia and I got into a heated discussion about tough games.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_19_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_19_2",
+                "type": "Monologue",
+                "text": "Exia is focused on playing a game.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_19_3",
+                "type": "Choice",
+                "text": "It's time for our appointment.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_19_5"
+            },
+            {
+                "id": "d_counseling_exia_19_4",
+                "type": "Choice",
+                "text": "Turn on the same game.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_19_8"
+            },
+            {
+                "id": "d_counseling_exia_19_5",
+                "type": "Speech",
+                "text": "Take a hint, will you? Can't you see I'm in the middle of a guild war?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_19_6",
+                "type": "Speech",
+                "text": "Moreover, you're in the same guild as me!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_19_7",
+                "type": "Speech",
+                "text": "You're using our discussion time as an excuse to slack off! Why I oughta...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_19_11"
+            },
+            {
+                "id": "d_counseling_exia_19_8",
+                "type": "Speech",
+                "text": "Perfect, you joined just in time!",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_19_9",
+                "type": "Speech",
+                "text": "We were short a member.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_19_10",
+                "type": "Speech",
+                "text": "We're at war with the North Wind Guild. Teleport over here, and then...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_19_11",
+                "type": "Narration",
+                "text": "Exia and I used the remaining time allotted for our discussion to go all out in a guild war.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_exia_20_1",
+                "type": "Speech",
+                "text": "As the top hacker in the Ark, I've been digging up all sorts of secrets.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_20_2",
+                "type": "Speech",
+                "text": "But when I searched your name, I didn't come up with anything.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_20_3",
+                "type": "Speech",
+                "text": "Just who exactly are you?",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_20_4",
+                "type": "Choice",
+                "text": "I'm a new species, neither human nor machine.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_exia_20_6"
+            },
+            {
+                "id": "d_counseling_exia_20_5",
+                "type": "Choice",
+                "text": "I don't remember. You have to help me remember my identity.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_exia_20_8"
+            },
+            {
+                "id": "d_counseling_exia_20_6",
+                "type": "Speech",
+                "text": "You are so guilty...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_20_7",
+                "type": "Speech",
+                "text": "of being boring.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": "d_counseling_exia_20_11"
+            },
+            {
+                "id": "d_counseling_exia_20_8",
+                "type": "Speech",
+                "text": "Amnesia, how corny can you get...",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_20_9",
+                "type": "Speech",
+                "text": "However,",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_20_10",
+                "type": "Speech",
+                "text": "I have to maintain my reputation as a master hacker, so I'll give it another whirl.",
+                "speaker": "Exia",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_exia_20_11",
+                "type": "Narration",
+                "text": "I have a conversation with Exia about hacking personal information.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

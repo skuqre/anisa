@@ -1,0 +1,2453 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_bay_01_1",
+                "type": "Speech",
+                "text": "Coach, I'm curious:",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_2",
+                "type": "Speech",
+                "text": "What kind of cheerleading style do you like best?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_3",
+                "type": "Choice",
+                "text": "The proficient kind that involves a lot of skill.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_01_5"
+            },
+            {
+                "id": "d_counseling_bay_01_4",
+                "type": "Choice",
+                "text": "The explosive kind that involves a lot of energy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_01_8"
+            },
+            {
+                "id": "d_counseling_bay_01_5",
+                "type": "Speech",
+                "text": "... I see.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_6",
+                "type": "Speech",
+                "text": "If we want to improve our overall skill level,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_7",
+                "type": "Speech",
+                "text": "Rewind will have to put in a lot of hours.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_01_14"
+            },
+            {
+                "id": "d_counseling_bay_01_8",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_9",
+                "type": "Speech",
+                "text": "You feel that way too?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_10",
+                "type": "Speech",
+                "text": "That's what our fans told us.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_11",
+                "type": "Speech",
+                "text": "They said that",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_12",
+                "type": "Speech",
+                "text": "our energy is what they love most.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_01_13",
+                "type": "Speech",
+                "text": "I'm happy to hear that you think that as well.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_01_14"
+            },
+            {
+                "id": "d_counseling_bay_01_14",
+                "type": "Narration",
+                "text": "I share insights about cheerleading with Bay.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_02_1",
+                "type": "Speech",
+                "text": "I washed my uniform,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_2",
+                "type": "Speech",
+                "text": "but I can still pick up the lingering smell of sweat on it.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_3",
+                "type": "Speech",
+                "text": "It was so bad that I couldn't focus on practice.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_4",
+                "type": "Speech",
+                "text": "Do you have any foolproof methods to completely get rid of the smell?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_5",
+                "type": "Choice",
+                "text": "Use a detergent specially designed for sportswear.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_02_7"
+            },
+            {
+                "id": "d_counseling_bay_02_6",
+                "type": "Choice",
+                "text": "Try handwashing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_02_10"
+            },
+            {
+                "id": "d_counseling_bay_02_7",
+                "type": "Speech",
+                "text": "I didn't even know",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_8",
+                "type": "Speech",
+                "text": "there was such a thing.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_9",
+                "type": "Speech",
+                "text": "You know everything, Coach.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_02_14"
+            },
+            {
+                "id": "d_counseling_bay_02_10",
+                "type": "Speech",
+                "text": "Coach...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_11",
+                "type": "Speech",
+                "text": "Once practice is finished, I don't even have the strength to lift a finger.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_12",
+                "type": "Speech",
+                "text": "How could I possibly handwash my clothes?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_02_13",
+                "type": "Speech",
+                "text": "I'll just try changing the detergent.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_02_14"
+            },
+            {
+                "id": "d_counseling_bay_02_14",
+                "type": "Narration",
+                "text": "Bay and I contemplate the ideal method of doing laundry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_03_1",
+                "type": "Speech",
+                "text": "Go! Go! Victory!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_2",
+                "type": "Speech",
+                "text": "Go! Go! Victory!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_3",
+                "type": "Monologue",
+                "text": "When I arrive at the Commander's Room, I see Bay practicing in front of a doll.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_4",
+                "type": "Choice",
+                "text": "What are you doing?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_03_6"
+            },
+            {
+                "id": "d_counseling_bay_03_5",
+                "type": "Choice",
+                "text": "You can do it!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_03_11"
+            },
+            {
+                "id": "d_counseling_bay_03_6",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_7",
+                "type": "Speech",
+                "text": "Coach, how long have you been watching?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_8",
+                "type": "Self",
+                "text": "For a little while now.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_9",
+                "type": "Speech",
+                "text": "*Gasp*",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_10",
+                "type": "Speech",
+                "text": "I feel a bout of stage fright coming on...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_03_19"
+            },
+            {
+                "id": "d_counseling_bay_03_11",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_12",
+                "type": "Speech",
+                "text": "C'mon, team, give it your all!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_13",
+                "type": "Monologue",
+                "text": "Bay finishes her cheerleading routine.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_14",
+                "type": "Speech",
+                "text": "You know how our cheers go?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_15",
+                "type": "Self",
+                "text": "Of course.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_16",
+                "type": "Speech",
+                "text": "You're a fast learner, Coach.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_17",
+                "type": "Speech",
+                "text": "Here, I'll do another routine just for you.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_03_18",
+                "type": "Speech",
+                "text": "Go! Go! Victory!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_03_19"
+            },
+            {
+                "id": "d_counseling_bay_03_19",
+                "type": "Narration",
+                "text": "I sit back and watch Bay practice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_04_1",
+                "type": "Speech",
+                "text": "Coach, what do you think is the most important virtue a cheerleader should have?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_04_2",
+                "type": "Choice",
+                "text": "A genuine desire to cheer others on.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_04_4"
+            },
+            {
+                "id": "d_counseling_bay_04_3",
+                "type": "Choice",
+                "text": "Be big and bold with your voice and gestures.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_04_7"
+            },
+            {
+                "id": "d_counseling_bay_04_4",
+                "type": "Speech",
+                "text": "I think so as well.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_04_5",
+                "type": "Speech",
+                "text": "Sure, it's important to be big and bold with your voice and gestures,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_04_6",
+                "type": "Speech",
+                "text": "but the most important thing is for your heart to be in it.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_04_12"
+            },
+            {
+                "id": "d_counseling_bay_04_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_04_8",
+                "type": "Speech",
+                "text": "That's important too,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_04_9",
+                "type": "Speech",
+                "text": "but shouldn't having a genuine desire for cheerleading be the most important thing?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_04_10",
+                "type": "Speech",
+                "text": "Well...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_04_11",
+                "type": "Speech",
+                "text": "I thought you'd know that...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_04_12"
+            },
+            {
+                "id": "d_counseling_bay_04_12",
+                "type": "Narration",
+                "text": "I have a conversation about the virtues of being a cheerleader with Bay.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_05_1",
+                "type": "Speech",
+                "text": "If we cheer others on,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_2",
+                "type": "Speech",
+                "text": "who cheers for us?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_3",
+                "type": "Choice",
+                "text": "Other cheerleaders?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_05_5"
+            },
+            {
+                "id": "d_counseling_bay_05_4",
+                "type": "Choice",
+                "text": "I'll cheer for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_05_8"
+            },
+            {
+                "id": "d_counseling_bay_05_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_6",
+                "type": "Speech",
+                "text": "Is that meant to be a serious answer?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_7",
+                "type": "Speech",
+                "text": "That's not the most comforting thought...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_05_14"
+            },
+            {
+                "id": "d_counseling_bay_05_8",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_9",
+                "type": "Speech",
+                "text": "I didn't necessarily ask for it, but I certainly won't stop you from doing that.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_10",
+                "type": "Speech",
+                "text": "But...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_11",
+                "type": "Speech",
+                "text": "How are you planning on cheering me on?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_12",
+                "type": "Speech",
+                "text": "Er... just out of curiosity,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_05_13",
+                "type": "Speech",
+                "text": "that's all.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_05_14"
+            },
+            {
+                "id": "d_counseling_bay_05_14",
+                "type": "Narration",
+                "text": "Bay and I ruminate on being a cheerleader.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_06_1",
+                "type": "Speech",
+                "text": "It seems like audiences these days are more into the concession stands than our performances.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_06_2",
+                "type": "Speech",
+                "text": "Do you feel the same, Coach?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_06_3",
+                "type": "Choice",
+                "text": "I can't resist a good snack.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_06_5"
+            },
+            {
+                "id": "d_counseling_bay_06_4",
+                "type": "Choice",
+                "text": "How could I possibly find time to eat a snack while watching you all perform?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_06_8"
+            },
+            {
+                "id": "d_counseling_bay_06_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_06_6",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_06_7",
+                "type": "Speech",
+                "text": "It hurts to hear that snacks take precedence over me...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_06_10"
+            },
+            {
+                "id": "d_counseling_bay_06_8",
+                "type": "Speech",
+                "text": "I knew you would feel differently.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_06_9",
+                "type": "Speech",
+                "text": "I hope you'll continue to support me going forward.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_06_10"
+            },
+            {
+                "id": "d_counseling_bay_06_10",
+                "type": "Narration",
+                "text": "Bay and I have a conversation about the threat of stadium snacks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_07_1",
+                "type": "Speech",
+                "text": "Clay and I are going to watch a movie. What genre would be good?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_2",
+                "type": "Choice",
+                "text": "A suspense film.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_07_4"
+            },
+            {
+                "id": "d_counseling_bay_07_3",
+                "type": "Choice",
+                "text": "A high school film.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_07_7"
+            },
+            {
+                "id": "d_counseling_bay_07_4",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_5",
+                "type": "Speech",
+                "text": "It's my day off, so I'd like to watch something a bit more light-hearted.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_6",
+                "type": "Speech",
+                "text": "Do you have any other suggestions?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_07_14"
+            },
+            {
+                "id": "d_counseling_bay_07_7",
+                "type": "Speech",
+                "text": "Ooh,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_8",
+                "type": "Speech",
+                "text": "that might be a good idea.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_9",
+                "type": "Speech",
+                "text": "One where the main protagonist is a cheerleader.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_10",
+                "type": "Speech",
+                "text": "I'm sure Clay would enjoy that too.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_11",
+                "type": "Speech",
+                "text": "Here I was racking my brain all alone,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_12",
+                "type": "Speech",
+                "text": "when I should have just asked you for a suggestion.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_07_13",
+                "type": "Speech",
+                "text": "Thanks, Coach.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_07_14"
+            },
+            {
+                "id": "d_counseling_bay_07_14",
+                "type": "Narration",
+                "text": "I have a meaningful conversation about movies with Bay.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_08_1",
+                "type": "Speech",
+                "text": "Sometimes I feel like Clay is too prim and proper.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_2",
+                "type": "Speech",
+                "text": "She'll still greet me with,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_3",
+                "type": "Speech",
+                "text": "\"Yes, ma'am\" and \"Will do, ma'am.\"",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_4",
+                "type": "Speech",
+                "text": "It's all a bit stolid.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_5",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_6",
+                "type": "Speech",
+                "text": "I just want things to be more casual and easy. What should I do?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_7",
+                "type": "Choice",
+                "text": "How about a company retreat for the squad?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_08_9"
+            },
+            {
+                "id": "d_counseling_bay_08_8",
+                "type": "Choice",
+                "text": "It'll resolve itself with time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_08_13"
+            },
+            {
+                "id": "d_counseling_bay_08_9",
+                "type": "Speech",
+                "text": "I don't know about that.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_10",
+                "type": "Speech",
+                "text": "That might make it",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_11",
+                "type": "Speech",
+                "text": "more pronounced than it is now.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_12",
+                "type": "Speech",
+                "text": "Then she'd never shake the habit.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_08_19"
+            },
+            {
+                "id": "d_counseling_bay_08_13",
+                "type": "Speech",
+                "text": "Will it?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_14",
+                "type": "Self",
+                "text": "Sure. You're a good person, and easygoing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_15",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_16",
+                "type": "Speech",
+                "text": "You really think so?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_17",
+                "type": "Speech",
+                "text": "I'm not so sure myself,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_08_18",
+                "type": "Speech",
+                "text": "but I'll follow your advice and wait.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_08_19"
+            },
+            {
+                "id": "d_counseling_bay_08_19",
+                "type": "Narration",
+                "text": "Bay and I discuss how she can become closer to her fellow teammates.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_09_1",
+                "type": "Speech",
+                "text": "Rewind fans are always saying that my beauty marks are charming.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_2",
+                "type": "Speech",
+                "text": "How about you, Coach? Which of my beauty marks do you find most alluring?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_3",
+                "type": "Choice",
+                "text": "They're all equally charming.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_09_5"
+            },
+            {
+                "id": "d_counseling_bay_09_4",
+                "type": "Choice",
+                "text": "The one beside your breast.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_09_12"
+            },
+            {
+                "id": "d_counseling_bay_09_5",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_6",
+                "type": "Speech",
+                "text": "All of my... beauty marks...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_7",
+                "type": "Speech",
+                "text": "Even if you talk so nicely, I don't have anything I can specially do for you.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_9",
+                "type": "Speech",
+                "text": "But Coach.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_10",
+                "type": "Speech",
+                "text": "Specifically, what beauty mark do you think... is charming?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_11",
+                "type": "Speech",
+                "text": "... Can you tell me one by one?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_09_14"
+            },
+            {
+                "id": "d_counseling_bay_09_12",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_09_13",
+                "type": "Speech",
+                "text": "You creep!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_09_14"
+            },
+            {
+                "id": "d_counseling_bay_09_14",
+                "type": "Narration",
+                "text": "Bay and I have a conversation about beauty marks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_10_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_2",
+                "type": "Monologue",
+                "text": "Bay sits staring silently at the wall with her arms crossed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_3",
+                "type": "Self",
+                "text": "Is there something on your mind, Bay?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_4",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_5",
+                "type": "Speech",
+                "text": "Oh, hey, Coach.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_6",
+                "type": "Speech",
+                "text": "It's just that whenever I look into the audience, I start to get short of breath.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_7",
+                "type": "Speech",
+                "text": "Will I ever be able to overcome this crippling stage fright?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_8",
+                "type": "Choice",
+                "text": "You can do this.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_10_10"
+            },
+            {
+                "id": "d_counseling_bay_10_9",
+                "type": "Choice",
+                "text": "Don't say things like that. You're better than that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_10_14"
+            },
+            {
+                "id": "d_counseling_bay_10_10",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_11",
+                "type": "Speech",
+                "text": "I never said I couldn't do it.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_12",
+                "type": "Speech",
+                "text": "Still...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_13",
+                "type": "Speech",
+                "text": "Hearing you cheer me on does make me feel rejuvenated.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_10_19"
+            },
+            {
+                "id": "d_counseling_bay_10_14",
+                "type": "Speech",
+                "text": "... You're right.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_15",
+                "type": "Speech",
+                "text": "I know that",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_16",
+                "type": "Speech",
+                "text": "cheerleaders shouldn't let their negativity show.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_17",
+                "type": "Speech",
+                "text": "But still,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_10_18",
+                "type": "Speech",
+                "text": "sometimes I just need a few words of encouragement from you.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_10_19"
+            },
+            {
+                "id": "d_counseling_bay_10_19",
+                "type": "Narration",
+                "text": "I proceed to cheer Bay on several times in a row.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_11_1",
+                "type": "Speech",
+                "text": "There's nothing like a long shower after a strenuous session of practice.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_2",
+                "type": "Speech",
+                "text": "Even better if I've got some nice-smelling body wash on hand.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_3",
+                "type": "Speech",
+                "text": "On that note,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_4",
+                "type": "Speech",
+                "text": "I was wondering if you could recommend a particular scent that suits me?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_5",
+                "type": "Choice",
+                "text": "A strong and musky scent.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_11_7"
+            },
+            {
+                "id": "d_counseling_bay_11_6",
+                "type": "Choice",
+                "text": "Something sweet and sugary, like candy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_11_11"
+            },
+            {
+                "id": "d_counseling_bay_11_7",
+                "type": "Speech",
+                "text": "Strong and musky?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_8",
+                "type": "Speech",
+                "text": "You make it sound like I'm cut out of granite.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_10",
+                "type": "Speech",
+                "text": "I didn't realize that's the image you had of me in your mind.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_11_16"
+            },
+            {
+                "id": "d_counseling_bay_11_11",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_12",
+                "type": "Speech",
+                "text": "You think something sweet suits me?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_13",
+                "type": "Speech",
+                "text": "If anything, I'd say that more suits Clay.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_14",
+                "type": "Speech",
+                "text": "I'm not sure,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_11_15",
+                "type": "Speech",
+                "text": "but if that's what you recommend, I'll give it a try.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_11_16"
+            },
+            {
+                "id": "d_counseling_bay_11_16",
+                "type": "Narration",
+                "text": "Bay and I have a conversation about body wash scents.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_12_1",
+                "type": "Speech",
+                "text": "I really want to win first place in the upcoming cheerleading competition.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_12_2",
+                "type": "Speech",
+                "text": "What song do you think would leave a strong impression?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_12_3",
+                "type": "Choice",
+                "text": "An energetic pop song.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_12_5"
+            },
+            {
+                "id": "d_counseling_bay_12_4",
+                "type": "Choice",
+                "text": "A propulsive rock ballad.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_12_9"
+            },
+            {
+                "id": "d_counseling_bay_12_5",
+                "type": "Speech",
+                "text": "That seems good.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_12_6",
+                "type": "Speech",
+                "text": "I've already got several songs in mind.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_12_7",
+                "type": "Speech",
+                "text": "I should start practicing right away.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_12_8",
+                "type": "Speech",
+                "text": "Thanks, Coach.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_12_13"
+            },
+            {
+                "id": "d_counseling_bay_12_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_12_10",
+                "type": "Speech",
+                "text": "That might be a bit much for cheerleading.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_12_11",
+                "type": "Speech",
+                "text": "If we were to go with that style of song, we might leave an impression different from the one we want.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_12_12",
+                "type": "Speech",
+                "text": "Never mind. I'll discuss with Clay what song we want to use.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_12_13"
+            },
+            {
+                "id": "d_counseling_bay_12_13",
+                "type": "Narration",
+                "text": "I have a conversation with Bay about which song to use during cheerleading.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_13_1",
+                "type": "Speech",
+                "text": "*Sigh* I feel like my stamina has been really lacking lately.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_2",
+                "type": "Speech",
+                "text": "I need to get in better shape.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_3",
+                "type": "Speech",
+                "text": "What kind of exercises do you think would be good?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_4",
+                "type": "Choice",
+                "text": "Walking.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_13_6"
+            },
+            {
+                "id": "d_counseling_bay_13_5",
+                "type": "Choice",
+                "text": "Breathing exercises.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_13_11"
+            },
+            {
+                "id": "d_counseling_bay_13_6",
+                "type": "Speech",
+                "text": "Hmm... that could work.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_7",
+                "type": "Speech",
+                "text": "There's no better exercise than walking.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_8",
+                "type": "Self",
+                "text": "Would you like to do it together?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_10",
+                "type": "Speech",
+                "text": "I-if you don't mind, I would be happy to...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_13_17"
+            },
+            {
+                "id": "d_counseling_bay_13_11",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_12",
+                "type": "Speech",
+                "text": "Does that really count as exercising?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_13",
+                "type": "Speech",
+                "text": "If I lean on that, I'll end up so out of shape I won't be able to climb a flight of stairs.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_14",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_15",
+                "type": "Speech",
+                "text": "That's it, you and me. The practice room. Tomorrow.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_13_16",
+                "type": "Speech",
+                "text": "We're going to get some exercise.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_13_17"
+            },
+            {
+                "id": "d_counseling_bay_13_17",
+                "type": "Narration",
+                "text": "Bay lectures me on the importance of exercise.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_14_1",
+                "type": "Speech",
+                "text": "Coach, we have a big problem.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_2",
+                "type": "Speech",
+                "text": "We lost all the pompoms at the stadium.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_3",
+                "type": "Speech",
+                "text": "I'm taking this opportunity to buy new ones.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_4",
+                "type": "Speech",
+                "text": "What color do you think is best?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_5",
+                "type": "Choice",
+                "text": "Black, dark as the blackest night.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_14_7"
+            },
+            {
+                "id": "d_counseling_bay_14_6",
+                "type": "Choice",
+                "text": "Pink. It goes well with the Rewind uniform.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_14_11"
+            },
+            {
+                "id": "d_counseling_bay_14_7",
+                "type": "Speech",
+                "text": "... Have you been in touch with Guillotine by any chance?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_8",
+                "type": "Self",
+                "text": "A while ago, yeah...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_9",
+                "type": "Speech",
+                "text": "No wonder.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_10",
+                "type": "Speech",
+                "text": "*Sigh* I'll discuss which color we should use with the other team members.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_14_16"
+            },
+            {
+                "id": "d_counseling_bay_14_11",
+                "type": "Speech",
+                "text": "I figured you might say that.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_12",
+                "type": "Speech",
+                "text": "That is the safe choice.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_13",
+                "type": "Speech",
+                "text": "I was thinking about changing it to black to spice things up,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_14",
+                "type": "Speech",
+                "text": "but it's hard to imagine Rewind without pink pompoms.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_14_15",
+                "type": "Speech",
+                "text": "Very well, I'll follow your advice.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_14_16"
+            },
+            {
+                "id": "d_counseling_bay_14_16",
+                "type": "Narration",
+                "text": "I have a conversation with Bay about pompoms.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_15_1",
+                "type": "Speech",
+                "text": "Tomorrow is a rest day, and we don't have a match or practice.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_15_2",
+                "type": "Speech",
+                "text": "I want to take this opportunity to eat something delicious.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_15_3",
+                "type": "Speech",
+                "text": "What do you recommend I have for dinner?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_15_4",
+                "type": "Choice",
+                "text": "Foods that can replenish energy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_15_6"
+            },
+            {
+                "id": "d_counseling_bay_15_5",
+                "type": "Choice",
+                "text": "A salad with chicken.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_15_9"
+            },
+            {
+                "id": "d_counseling_bay_15_6",
+                "type": "Speech",
+                "text": "I don't know...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_15_7",
+                "type": "Speech",
+                "text": "Seems a bit high in calories.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_15_8",
+                "type": "Speech",
+                "text": "Can't you recommend something lighter?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_15_13"
+            },
+            {
+                "id": "d_counseling_bay_15_9",
+                "type": "Speech",
+                "text": "You're right.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_15_10",
+                "type": "Speech",
+                "text": "If I want my cheerleading to be flawless,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_15_11",
+                "type": "Speech",
+                "text": "I should maintain a healthy diet even on a rest day.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_15_12",
+                "type": "Speech",
+                "text": "I knew I could count on you for solid advice, Coach.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_15_13"
+            },
+            {
+                "id": "d_counseling_bay_15_13",
+                "type": "Narration",
+                "text": "Bay and I discuss dinner menus.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_16_1",
+                "type": "Speech",
+                "text": "Who do you think would be a good additional member of Rewind?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_16_2",
+                "type": "Speech",
+                "text": "Someone who would help us put on a truly amazing performance.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_16_3",
+                "type": "Choice",
+                "text": "Volume.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_16_5"
+            },
+            {
+                "id": "d_counseling_bay_16_4",
+                "type": "Choice",
+                "text": "What about me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_16_9"
+            },
+            {
+                "id": "d_counseling_bay_16_5",
+                "type": "Speech",
+                "text": "Volume?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_16_6",
+                "type": "Speech",
+                "text": "Coach,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_16_7",
+                "type": "Speech",
+                "text": "you do realize that teamwork is essential for a good cheerleading team, don't you?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_16_8",
+                "type": "Speech",
+                "text": "Volume is a solo act. Why don't you recommend someone else?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_16_13"
+            },
+            {
+                "id": "d_counseling_bay_16_9",
+                "type": "Speech",
+                "text": "You?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_16_10",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_16_11",
+                "type": "Speech",
+                "text": "That... might work.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_16_12",
+                "type": "Speech",
+                "text": "Would you like to stop by the practice room later tonight?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_16_13"
+            },
+            {
+                "id": "d_counseling_bay_16_13",
+                "type": "Narration",
+                "text": "Bay and I brainstorm about which new member to recruit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_17_1",
+                "type": "Speech",
+                "text": "Coach,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_2",
+                "type": "Speech",
+                "text": "have you ever envisioned how I would look in other clothes?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_3",
+                "type": "Speech",
+                "text": "What style do you think would suit me best?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_4",
+                "type": "Choice",
+                "text": "A sophisticated two-piece suit.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_17_6"
+            },
+            {
+                "id": "d_counseling_bay_17_5",
+                "type": "Choice",
+                "text": "A hip street look.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_17_11"
+            },
+            {
+                "id": "d_counseling_bay_17_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_7",
+                "type": "Speech",
+                "text": "You don't think I'd look too formal?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_8",
+                "type": "Speech",
+                "text": "What if I end up looking awkward and people stare?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_9",
+                "type": "Speech",
+                "text": "You know how I can't handle being stared at.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_10",
+                "type": "Speech",
+                "text": "It would be nice if you could recommend something more low-key.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_17_16"
+            },
+            {
+                "id": "d_counseling_bay_17_11",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_12",
+                "type": "Speech",
+                "text": "Hip...? Me?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_13",
+                "type": "Speech",
+                "text": "Do you really think that would suit me?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_14",
+                "type": "Speech",
+                "text": "I think it might look awkward on me, but if that's what you think,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_17_15",
+                "type": "Speech",
+                "text": "I'll try it once.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_17_16"
+            },
+            {
+                "id": "d_counseling_bay_17_16",
+                "type": "Narration",
+                "text": "Bay and I have a conversation about what fashions are trending.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_18_1",
+                "type": "Speech",
+                "text": "I can't stand rainy days!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_18_2",
+                "type": "Speech",
+                "text": "What about you, Coach? What kind of weather do you like the most?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_18_3",
+                "type": "Choice",
+                "text": "Cloudy weather.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_18_5"
+            },
+            {
+                "id": "d_counseling_bay_18_4",
+                "type": "Choice",
+                "text": "Sunny weather.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_18_9"
+            },
+            {
+                "id": "d_counseling_bay_18_5",
+                "type": "Speech",
+                "text": "I'm not a fan of cloudy weather either.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_18_6",
+                "type": "Speech",
+                "text": "Whenever it's overcast out, the crowd isn't as jazzed up.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_18_7",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_18_8",
+                "type": "Speech",
+                "text": "It's always tough to bring their energy back up.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_18_13"
+            },
+            {
+                "id": "d_counseling_bay_18_9",
+                "type": "Speech",
+                "text": "You're like me.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_18_10",
+                "type": "Speech",
+                "text": "The weather has to be nice for the crowd to get excited,",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_18_11",
+                "type": "Speech",
+                "text": "and that always feeds into our own energy.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_18_12",
+                "type": "Speech",
+                "text": "Of course, we always put our best foot forward regardless of the weather, but...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_18_13"
+            },
+            {
+                "id": "d_counseling_bay_18_13",
+                "type": "Narration",
+                "text": "I have a conversation with Bay about the weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_19_1",
+                "type": "Speech",
+                "text": "You must have already mastered the cheerleading skills, right, Coach?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_2",
+                "type": "Self",
+                "text": "??",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_3",
+                "type": "Speech",
+                "text": "How about I quiz you?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_4",
+                "type": "Speech",
+                "text": "What do you call when you stand on one leg and stretch your other leg out behind you?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_5",
+                "type": "Choice",
+                "text": "Absolute.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_19_7"
+            },
+            {
+                "id": "d_counseling_bay_19_6",
+                "type": "Choice",
+                "text": "Arabesque.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_19_12"
+            },
+            {
+                "id": "d_counseling_bay_19_7",
+                "type": "Speech",
+                "text": "... As expected.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_8",
+                "type": "Speech",
+                "text": "I knew you hadn't mastered your cheerleading knowledge yet.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_9",
+                "type": "Speech",
+                "text": "*Sigh* Fine.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_10",
+                "type": "Speech",
+                "text": "Starting today, I'm going to give you some special training on cheerleading theory.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_11",
+                "type": "Speech",
+                "text": "Let's head to the practice room, pronto.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_19_17"
+            },
+            {
+                "id": "d_counseling_bay_19_12",
+                "type": "Speech",
+                "text": "Wow, that's correct.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_13",
+                "type": "Speech",
+                "text": "I actually wasn't expecting you to get that right.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_14",
+                "type": "Speech",
+                "text": "I guess you really have been studying cheerleading.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_15",
+                "type": "Speech",
+                "text": "Then again, I should have expected that you would know everything.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_19_16",
+                "type": "Speech",
+                "text": "You're so cool.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_19_17"
+            },
+            {
+                "id": "d_counseling_bay_19_17",
+                "type": "Narration",
+                "text": "I have a conversation with Bay about cheerleading skills.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_bay_20_1",
+                "type": "Speech",
+                "text": "Sorry that I'm late.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_2",
+                "type": "Monologue",
+                "text": "As Bay frantically rushes in, I notice that she has bandages all over her leg.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_3",
+                "type": "Self",
+                "text": "What's wrong with your leg?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_4",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_5",
+                "type": "Speech",
+                "text": "Oh, it's nothing.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_6",
+                "type": "Speech",
+                "text": "This is just part of everyday life for a cheerleader.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_7",
+                "type": "Choice",
+                "text": "I see. So it's kind of like a badge of honor?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_bay_20_9"
+            },
+            {
+                "id": "d_counseling_bay_20_8",
+                "type": "Choice",
+                "text": "I hope you didn't get hurt.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_bay_20_12"
+            },
+            {
+                "id": "d_counseling_bay_20_9",
+                "type": "Speech",
+                "text": "I guess so...?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_11",
+                "type": "Speech",
+                "text": "But I still hope my teammates don't get hurt.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_20_18"
+            },
+            {
+                "id": "d_counseling_bay_20_12",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_13",
+                "type": "Speech",
+                "text": "You're not... worried about me, are you?",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_14",
+                "type": "Self",
+                "text": "Of course I am.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_15",
+                "type": "Speech",
+                "text": "Er...",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_16",
+                "type": "Speech",
+                "text": "... Thank you, Coach.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_bay_20_17",
+                "type": "Speech",
+                "text": "I'll practice more so I don't get hurt.",
+                "speaker": "Bay",
+                "points": null,
+                "jumpTo": "d_counseling_bay_20_18"
+            },
+            {
+                "id": "d_counseling_bay_20_18",
+                "type": "Narration",
+                "text": "Bay and I discuss the ways in which cheerleading can be done safely.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

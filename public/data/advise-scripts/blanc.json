@@ -1,0 +1,1861 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_blanc_01_1",
+                "type": "Speech",
+                "text": "Pit Boss,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_2",
+                "type": "Speech",
+                "text": "have you seen Noir?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_3",
+                "type": "Speech",
+                "text": "I fell asleep, and when I woke up, she was gone.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_4",
+                "type": "Speech",
+                "text": "I can't get in touch with her either...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_5",
+                "type": "Choice",
+                "text": "Maybe she went out on a date.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_01_7"
+            },
+            {
+                "id": "d_counseling_blanc_01_6",
+                "type": "Choice",
+                "text": "Maybe she left to practice pole dancing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_01_10"
+            },
+            {
+                "id": "d_counseling_blanc_01_7",
+                "type": "Speech",
+                "text": "Noir? On a date?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_8",
+                "type": "Speech",
+                "text": "That's impossible.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_9",
+                "type": "Speech",
+                "text": "I have to go find her right away.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_01_14"
+            },
+            {
+                "id": "d_counseling_blanc_01_10",
+                "type": "Speech",
+                "text": "Hmm, could be.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_11",
+                "type": "Speech",
+                "text": "Noir has been practicing hard for the performance recently.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_12",
+                "type": "Speech",
+                "text": "I should go check out the practice room.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_01_13",
+                "type": "Speech",
+                "text": "Wanna go with me?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_01_14"
+            },
+            {
+                "id": "d_counseling_blanc_01_14",
+                "type": "Narration",
+                "text": "Blanc and I leave to look for Noir.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_02_1",
+                "type": "Speech",
+                "text": "Pit Boss,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_02_2",
+                "type": "Speech",
+                "text": "What do you think is the best way for me to transmit happiness?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_02_3",
+                "type": "Choice",
+                "text": "By holding hands.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_02_5"
+            },
+            {
+                "id": "d_counseling_blanc_02_4",
+                "type": "Choice",
+                "text": "Any method is fine, as long as it brings luck.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_02_9"
+            },
+            {
+                "id": "d_counseling_blanc_02_5",
+                "type": "Speech",
+                "text": "Indeed...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_02_6",
+                "type": "Monologue",
+                "text": "Blanc holds my hand.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_02_7",
+                "type": "Speech",
+                "text": "I should have known that holding hands was the best method!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_02_8",
+                "type": "Speech",
+                "text": "The best part is that we can do this all day.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_02_11"
+            },
+            {
+                "id": "d_counseling_blanc_02_9",
+                "type": "Speech",
+                "text": "Could you... be more specific?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_02_10",
+                "type": "Speech",
+                "text": "I wanna find the best way to make you happy.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_02_11"
+            },
+            {
+                "id": "d_counseling_blanc_02_11",
+                "type": "Narration",
+                "text": "Throughout my entire session with Blanc, I feel elated.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_03_1",
+                "type": "Speech",
+                "text": "Um... Pit Boss.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_03_2",
+                "type": "Speech",
+                "text": "Could Noir come with me to our next session?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_03_3",
+                "type": "Speech",
+                "text": "It feels kinda lonely when I do it on my own.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_03_4",
+                "type": "Choice",
+                "text": "Counseling sessions are supposed to be one-on-one.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_03_6"
+            },
+            {
+                "id": "d_counseling_blanc_03_5",
+                "type": "Choice",
+                "text": "If that's what you want, go for it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_03_8"
+            },
+            {
+                "id": "d_counseling_blanc_03_6",
+                "type": "Speech",
+                "text": "... I see.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_03_7",
+                "type": "Speech",
+                "text": "That's too bad... I think it'd be fun to have Noir join.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_03_11"
+            },
+            {
+                "id": "d_counseling_blanc_03_8",
+                "type": "Speech",
+                "text": "Cool, I'll talk to Noir about it!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_03_9",
+                "type": "Speech",
+                "text": "The three of us can hang out afterwards...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_03_10",
+                "type": "Speech",
+                "text": "... in the Commander's Room.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_03_11"
+            },
+            {
+                "id": "d_counseling_blanc_03_11",
+                "type": "Narration",
+                "text": "I have a meaningful session with Blanc.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_04_1",
+                "type": "Speech",
+                "text": "I think Noir is the prettiest and most beautiful existence in this world.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_04_2",
+                "type": "Speech",
+                "text": "What do you think?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_04_3",
+                "type": "Choice",
+                "text": "You're awfully pretty yourself, Blanc.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_04_5"
+            },
+            {
+                "id": "d_counseling_blanc_04_4",
+                "type": "Choice",
+                "text": "I agree.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_04_8"
+            },
+            {
+                "id": "d_counseling_blanc_04_5",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_04_6",
+                "type": "Speech",
+                "text": "Thanks, but I still think Noir is prettier than me.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_04_7",
+                "type": "Speech",
+                "text": "I'm happy that you feel that way, though!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_04_12"
+            },
+            {
+                "id": "d_counseling_blanc_04_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_04_9",
+                "type": "Speech",
+                "text": "You think so too?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_04_10",
+                "type": "Speech",
+                "text": "I should have known we'd feel the same way about this.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_04_11",
+                "type": "Speech",
+                "text": "If only I was half as pretty as Noir...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_04_12"
+            },
+            {
+                "id": "d_counseling_blanc_04_12",
+                "type": "Narration",
+                "text": "I talk to Blanc about Noir.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_05_1",
+                "type": "Speech",
+                "text": "Sometimes, Rouge gets a bit blue because of her superstitions.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_05_2",
+                "type": "Speech",
+                "text": "Any idea on how we can help her?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_05_3",
+                "type": "Choice",
+                "text": "We can't help someone who can't help themselves.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_05_5"
+            },
+            {
+                "id": "d_counseling_blanc_05_4",
+                "type": "Choice",
+                "text": "You should hold her hand.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_05_7"
+            },
+            {
+                "id": "d_counseling_blanc_05_5",
+                "type": "Speech",
+                "text": "That makes sense...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_05_6",
+                "type": "Speech",
+                "text": "but surely it'd be easier for her if we lent a hand?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_05_12"
+            },
+            {
+                "id": "d_counseling_blanc_05_7",
+                "type": "Speech",
+                "text": "That's a good idea.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_05_8",
+                "type": "Speech",
+                "text": "Noir and I are always around Rouge.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_05_9",
+                "type": "Speech",
+                "text": "Whenever she's feeling down,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_05_10",
+                "type": "Speech",
+                "text": "we'll nuzzle up to her and hold her hand.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_05_11",
+                "type": "Speech",
+                "text": "That way, we'll get her out of her funk in no time.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_05_12"
+            },
+            {
+                "id": "d_counseling_blanc_05_12",
+                "type": "Narration",
+                "text": "Blac and I talk about ways to help alleviate Rouge's melancholy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_06_1",
+                "type": "Speech",
+                "text": "I have a question!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_06_2",
+                "type": "Speech",
+                "text": "What's your favorite type of girl, Pit Boss?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_06_3",
+                "type": "Choice",
+                "text": "Someone vivacious.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_06_5"
+            },
+            {
+                "id": "d_counseling_blanc_06_4",
+                "type": "Choice",
+                "text": "Someone taciturn.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_06_8"
+            },
+            {
+                "id": "d_counseling_blanc_06_5",
+                "type": "Speech",
+                "text": "In other words...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_06_6",
+                "type": "Speech",
+                "text": "Someone like me!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_06_7",
+                "type": "Speech",
+                "text": "Actually, you're my type as well, Pit Boss...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_06_11"
+            },
+            {
+                "id": "d_counseling_blanc_06_8",
+                "type": "Speech",
+                "text": "Oh, so you like quiet girls?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_06_9",
+                "type": "Speech",
+                "text": "Someone like Noir, then?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_06_10",
+                "type": "Speech",
+                "text": "Noir is as quiet as they come.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_06_11"
+            },
+            {
+                "id": "d_counseling_blanc_06_11",
+                "type": "Narration",
+                "text": "Blanc and I talk about what we look for in a partner.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_07_1",
+                "type": "Speech",
+                "text": "There are times when we come across rude customers.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_07_2",
+                "type": "Speech",
+                "text": "How do you think we should handle them?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_07_3",
+                "type": "Choice",
+                "text": "Treat them the same way they treat you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_07_5"
+            },
+            {
+                "id": "d_counseling_blanc_07_4",
+                "type": "Choice",
+                "text": "Let me take care of them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_07_8"
+            },
+            {
+                "id": "d_counseling_blanc_07_5",
+                "type": "Speech",
+                "text": "No way!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_07_6",
+                "type": "Speech",
+                "text": "At that the end of the day, they're still our customers.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_07_7",
+                "type": "Speech",
+                "text": "Don't you have a better suggestion?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_07_12"
+            },
+            {
+                "id": "d_counseling_blanc_07_8",
+                "type": "Speech",
+                "text": "Coin Rush's customers can be pretty intimidating. Are you sure you can handle them?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_07_9",
+                "type": "Speech",
+                "text": "Either way, hearing you say that makes me feel reassured.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_07_10",
+                "type": "Speech",
+                "text": "Don't worry though, I'll deal with them myself.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_07_11",
+                "type": "Speech",
+                "text": "Thanks for your concern, Pit Boss.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_07_12"
+            },
+            {
+                "id": "d_counseling_blanc_07_12",
+                "type": "Narration",
+                "text": "Blanc and I think about ways to deal with rude customers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_08_1",
+                "type": "Speech",
+                "text": "I like Noir so much.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_08_2",
+                "type": "Speech",
+                "text": "I want to do everything with her.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_08_3",
+                "type": "Choice",
+                "text": "Even going on a date?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_08_5"
+            },
+            {
+                "id": "d_counseling_blanc_08_4",
+                "type": "Choice",
+                "text": "What a great bond you two have.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_08_8"
+            },
+            {
+                "id": "d_counseling_blanc_08_5",
+                "type": "Speech",
+                "text": "How did you know?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_08_6",
+                "type": "Speech",
+                "text": "As long as neither party has any misgivings, I don't see any problem with it.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_08_7",
+                "type": "Speech",
+                "text": "I'm sure Noir is into the same things that I am.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_08_12"
+            },
+            {
+                "id": "d_counseling_blanc_08_8",
+                "type": "Speech",
+                "text": "I'm glad you think so too.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_08_9",
+                "type": "Speech",
+                "text": "It's probably because I'm with her every day.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_08_10",
+                "type": "Speech",
+                "text": "So, I like the things she likes,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_08_11",
+                "type": "Speech",
+                "text": "and hate the things she doesn't.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_08_12"
+            },
+            {
+                "id": "d_counseling_blanc_08_12",
+                "type": "Narration",
+                "text": "I have a meaningful session with Blanc.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_09_1",
+                "type": "Speech",
+                "text": "Pit Boss, is there any other way I can address you?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_09_2",
+                "type": "Speech",
+                "text": "Pit Boss sounds so... old-fashioned at times.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_09_3",
+                "type": "Choice",
+                "text": "Call me by my real name.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_09_5"
+            },
+            {
+                "id": "d_counseling_blanc_09_4",
+                "type": "Choice",
+                "text": "Call me \"Darling.\"",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_09_9"
+            },
+            {
+                "id": "d_counseling_blanc_09_5",
+                "type": "Speech",
+                "text": "{AccountData.NickName}.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_09_6",
+                "type": "Speech",
+                "text": "Like this?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_09_7",
+                "type": "Speech",
+                "text": "Ooh, I'm enjoying this!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_09_8",
+                "type": "Speech",
+                "text": "{AccountData.NickName}, make sure to watch my show today!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_09_12"
+            },
+            {
+                "id": "d_counseling_blanc_09_9",
+                "type": "Speech",
+                "text": "... Darling.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_09_10",
+                "type": "Speech",
+                "text": "Hmm... it feels a bit weird to me.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_09_11",
+                "type": "Speech",
+                "text": "How about I call you by your name instead?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_09_12"
+            },
+            {
+                "id": "d_counseling_blanc_09_12",
+                "type": "Narration",
+                "text": "I talk to Blanc about nicknames.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_10_1",
+                "type": "Speech",
+                "text": "I noticed Alice calls you \"Rabbity.\"",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_10_2",
+                "type": "Speech",
+                "text": "Would you be willing to try on my bunny ears?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_10_3",
+                "type": "Choice",
+                "text": "No thanks.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_10_5"
+            },
+            {
+                "id": "d_counseling_blanc_10_4",
+                "type": "Choice",
+                "text": "... Sure, I guess.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_10_7"
+            },
+            {
+                "id": "d_counseling_blanc_10_5",
+                "type": "Speech",
+                "text": "Are you sure? I think you'd be adorable in them.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_10_6",
+                "type": "Speech",
+                "text": "Can't you just try it once?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_10_10"
+            },
+            {
+                "id": "d_counseling_blanc_10_7",
+                "type": "Speech",
+                "text": "Really?!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_10_8",
+                "type": "Speech",
+                "text": "You'll make an adorable bunny, I'm sure of it.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_10_9",
+                "type": "Speech",
+                "text": "Now, which color would suit you best...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_10_10"
+            },
+            {
+                "id": "d_counseling_blanc_10_10",
+                "type": "Narration",
+                "text": "Blanc and I wear bunny ears and hang out for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_11_1",
+                "type": "Speech",
+                "text": "If I were to wear something aside from the bunny costume,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_11_2",
+                "type": "Speech",
+                "text": "what kind of outfit would be nice?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_11_3",
+                "type": "Choice",
+                "text": "You're perfect the way you look now.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_11_5"
+            },
+            {
+                "id": "d_counseling_blanc_11_4",
+                "type": "Choice",
+                "text": "A skin-tight dress.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_11_8"
+            },
+            {
+                "id": "d_counseling_blanc_11_5",
+                "type": "Speech",
+                "text": "I also think my current looks suit me nicely.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_11_6",
+                "type": "Speech",
+                "text": "Since you like it too,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_11_7",
+                "type": "Speech",
+                "text": "then I'll stay this way!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_11_11"
+            },
+            {
+                "id": "d_counseling_blanc_11_8",
+                "type": "Speech",
+                "text": "I dunno... tight-fitting clothes aren't the most convenient.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_11_9",
+                "type": "Speech",
+                "text": "I'd like to try wearing something really fancy for once,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_11_10",
+                "type": "Speech",
+                "text": "but if skin-tight is what interests you, I'll try wearing that next time.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_11_11"
+            },
+            {
+                "id": "d_counseling_blanc_11_11",
+                "type": "Narration",
+                "text": "I talk to Blanc about clothes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_12_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_12_2",
+                "type": "Monologue",
+                "text": "Blanc stares at me intently.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_12_3",
+                "type": "Choice",
+                "text": "Are you in love with me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_12_5"
+            },
+            {
+                "id": "d_counseling_blanc_12_4",
+                "type": "Choice",
+                "text": "... Can you stop staring?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_12_8"
+            },
+            {
+                "id": "d_counseling_blanc_12_5",
+                "type": "Speech",
+                "text": "Huh? How did you know?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_12_6",
+                "type": "Speech",
+                "text": "You're so handsome, Pit Boss. Not that I'm just now coming to this realization; I've felt this way for a while.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_12_7",
+                "type": "Speech",
+                "text": "I never get tired of looking at you.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_12_10"
+            },
+            {
+                "id": "d_counseling_blanc_12_8",
+                "type": "Speech",
+                "text": "Oh! Sorry.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_12_9",
+                "type": "Speech",
+                "text": "I didn't realize I was staring.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_12_10"
+            },
+            {
+                "id": "d_counseling_blanc_12_10",
+                "type": "Narration",
+                "text": "Blanc and I talk about my appearance.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_13_1",
+                "type": "Speech",
+                "text": "I've been busy as a bee lately.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_13_2",
+                "type": "Speech",
+                "text": "What would you like to do if you had a vacation, Pit Boss?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_13_3",
+                "type": "Choice",
+                "text": "Hang out with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_13_5"
+            },
+            {
+                "id": "d_counseling_blanc_13_4",
+                "type": "Choice",
+                "text": "Not budge an inch and have a nice staycation.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_13_8"
+            },
+            {
+                "id": "d_counseling_blanc_13_5",
+                "type": "Speech",
+                "text": "So, you like your vacations more on the adventurous side?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_13_6",
+                "type": "Speech",
+                "text": "Me too.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_13_7",
+                "type": "Speech",
+                "text": "Next time we both have some time off, we should go somewhere together.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_13_10"
+            },
+            {
+                "id": "d_counseling_blanc_13_8",
+                "type": "Speech",
+                "text": "That's a good way to rest.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_13_9",
+                "type": "Speech",
+                "text": "Are you sure it wouldn't be too boring, though?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_13_10"
+            },
+            {
+                "id": "d_counseling_blanc_13_10",
+                "type": "Narration",
+                "text": "I talk to Blanc about vacations.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_14_1",
+                "type": "Speech",
+                "text": "I want to make some lucky charms.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_14_2",
+                "type": "Speech",
+                "text": "What exactly should I make?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_14_3",
+                "type": "Choice",
+                "text": "How about pictures of you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_14_5"
+            },
+            {
+                "id": "d_counseling_blanc_14_4",
+                "type": "Choice",
+                "text": "How about drawings of four-leaf clovers?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_14_8"
+            },
+            {
+                "id": "d_counseling_blanc_14_5",
+                "type": "Speech",
+                "text": "Great idea!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_14_6",
+                "type": "Speech",
+                "text": "I'll use Noir's pictures too. That way, the luck will be doubled!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_14_7",
+                "type": "Speech",
+                "text": "I'll give you one when I'm done.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_14_11"
+            },
+            {
+                "id": "d_counseling_blanc_14_8",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_14_9",
+                "type": "Speech",
+                "text": "I'm not that great at drawing.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_14_10",
+                "type": "Speech",
+                "text": "Noir can draw pretty well, though. I'll ask her for help.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_14_11"
+            },
+            {
+                "id": "d_counseling_blanc_14_11",
+                "type": "Narration",
+                "text": "I talk to Blanc about lucky charms.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_15_1",
+                "type": "Speech",
+                "text": "I'm going to perform at the theater this weekend.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_15_2",
+                "type": "Speech",
+                "text": "You'll come and watch, won't you?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_15_3",
+                "type": "Choice",
+                "text": "Depends on my schedule that day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_15_5"
+            },
+            {
+                "id": "d_counseling_blanc_15_4",
+                "type": "Choice",
+                "text": "I'll be there, no matter what comes up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_15_7"
+            },
+            {
+                "id": "d_counseling_blanc_15_5",
+                "type": "Speech",
+                "text": "Oh... sounds like you may be busy.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_15_6",
+                "type": "Speech",
+                "text": "Noir and I worked really hard on this routine though...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_15_10"
+            },
+            {
+                "id": "d_counseling_blanc_15_7",
+                "type": "Speech",
+                "text": "If it's not convenient, you don't have to come.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_15_8",
+                "type": "Speech",
+                "text": "Having said that... we did work hard on preparing this performance for you,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_15_9",
+                "type": "Speech",
+                "text": "so it'd be great if you could drop by.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_15_10"
+            },
+            {
+                "id": "d_counseling_blanc_15_10",
+                "type": "Narration",
+                "text": "I talk to Blanc about the performance.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_16_1",
+                "type": "Speech",
+                "text": "One thing on my bucket list is to perform on the surface one day.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_16_2",
+                "type": "Speech",
+                "text": "What's something on your bucket list, Pit Boss?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_16_3",
+                "type": "Choice",
+                "text": "To perform with you on stage.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_16_5"
+            },
+            {
+                "id": "d_counseling_blanc_16_4",
+                "type": "Choice",
+                "text": "To watch your show up on the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_16_8"
+            },
+            {
+                "id": "d_counseling_blanc_16_5",
+                "type": "Speech",
+                "text": "You know you can do that now, don't you?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_16_6",
+                "type": "Speech",
+                "text": "If you want,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_16_7",
+                "type": "Speech",
+                "text": "I can arrange our choreography to include you in the next show.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_16_11"
+            },
+            {
+                "id": "d_counseling_blanc_16_8",
+                "type": "Speech",
+                "text": "I can't wait!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_16_9",
+                "type": "Speech",
+                "text": "The stage then will be way bigger than it is now, and there'll be way more people, too.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_16_10",
+                "type": "Speech",
+                "text": "I hope that day comes sooner rather than later.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_16_11"
+            },
+            {
+                "id": "d_counseling_blanc_16_11",
+                "type": "Narration",
+                "text": "I talk to Blanc about bucket lists.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_17_1",
+                "type": "Speech",
+                "text": "I feel so sad whenever I imagine being away from Noir.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_17_2",
+                "type": "Speech",
+                "text": "Just last night, I cried thinking about it.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_17_3",
+                "type": "Speech",
+                "text": "And I hate crying...",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_17_4",
+                "type": "Choice",
+                "text": "Noir will always be with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_17_6"
+            },
+            {
+                "id": "d_counseling_blanc_17_5",
+                "type": "Choice",
+                "text": "You shouldn't worry about something that hasn't happened yet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_17_9"
+            },
+            {
+                "id": "d_counseling_blanc_17_6",
+                "type": "Speech",
+                "text": "Thank you for saying that, Pit Boss.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_17_7",
+                "type": "Speech",
+                "text": "I don't think I could live without Noir.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_17_8",
+                "type": "Speech",
+                "text": "I value her life more than my own.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_17_11"
+            },
+            {
+                "id": "d_counseling_blanc_17_9",
+                "type": "Speech",
+                "text": "I know, but I can't help it sometimes.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_17_10",
+                "type": "Speech",
+                "text": "Even now, just thinking about it gets me all verklempt.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_17_11"
+            },
+            {
+                "id": "d_counseling_blanc_17_11",
+                "type": "Narration",
+                "text": "I try my best to calm down Blanc's overactive imagination.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_18_1",
+                "type": "Speech",
+                "text": "Pit Boss.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_18_2",
+                "type": "Speech",
+                "text": "A or B?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_18_3",
+                "type": "Choice",
+                "text": "A.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_18_5"
+            },
+            {
+                "id": "d_counseling_blanc_18_4",
+                "type": "Choice",
+                "text": "B.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_18_10"
+            },
+            {
+                "id": "d_counseling_blanc_18_5",
+                "type": "Speech",
+                "text": "Good choice!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_18_6",
+                "type": "Narration",
+                "text": "*Kiss*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_18_7",
+                "type": "Monologue",
+                "text": "Blanc gives me a peck on the cheek.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_18_8",
+                "type": "Speech",
+                "text": "A lucky kiss, for you.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_18_9",
+                "type": "Speech",
+                "text": "Something wonderful will happen to you today.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_18_13"
+            },
+            {
+                "id": "d_counseling_blanc_18_10",
+                "type": "Speech",
+                "text": "Aw shucks, I was thinking of A.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_18_11",
+                "type": "Speech",
+                "text": "I guess our minds are out of sync today.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_18_12",
+                "type": "Speech",
+                "text": "I'll still give you one of my drawings as a good luck charm. It's a four-leaf clover!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_18_13"
+            },
+            {
+                "id": "d_counseling_blanc_18_13",
+                "type": "Narration",
+                "text": "I have a particularly lucky counseling session with Blanc.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_19_1",
+                "type": "Speech",
+                "text": "Pit Boss, is there any chance we can end our session early today?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_19_2",
+                "type": "Speech",
+                "text": "I've got a date with Noir.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_19_3",
+                "type": "Choice",
+                "text": "All right.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_19_5"
+            },
+            {
+                "id": "d_counseling_blanc_19_4",
+                "type": "Choice",
+                "text": "Can you bring me with you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_19_8"
+            },
+            {
+                "id": "d_counseling_blanc_19_5",
+                "type": "Speech",
+                "text": "Thanks!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_19_6",
+                "type": "Speech",
+                "text": "I haven't decided where we should go.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_19_7",
+                "type": "Speech",
+                "text": "Can you help me make an itinerary?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_19_11"
+            },
+            {
+                "id": "d_counseling_blanc_19_8",
+                "type": "Speech",
+                "text": "Of course!",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_19_9",
+                "type": "Speech",
+                "text": "Noir will be thrilled.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_19_10",
+                "type": "Speech",
+                "text": "Where should we go, then?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_19_11"
+            },
+            {
+                "id": "d_counseling_blanc_19_11",
+                "type": "Narration",
+                "text": "I spend some time with Blanc thinking about an itinerary.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_blanc_20_1",
+                "type": "Speech",
+                "text": "Yesterday, Noir and I had fun making nicknames for each other.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_20_2",
+                "type": "Speech",
+                "text": "If you were to give me a nickname,",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_20_3",
+                "type": "Speech",
+                "text": "what would it be?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_20_4",
+                "type": "Choice",
+                "text": "Good luck bunny.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_blanc_20_6"
+            },
+            {
+                "id": "d_counseling_blanc_20_5",
+                "type": "Choice",
+                "text": "Hmm... Can you give me some time to think?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_blanc_20_9"
+            },
+            {
+                "id": "d_counseling_blanc_20_6",
+                "type": "Speech",
+                "text": "That's a nice nickname.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_20_7",
+                "type": "Speech",
+                "text": "But I've heard it too many times before.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_20_8",
+                "type": "Speech",
+                "text": "Can you think of another one?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_20_12"
+            },
+            {
+                "id": "d_counseling_blanc_20_9",
+                "type": "Speech",
+                "text": "Sure, no problem.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_20_10",
+                "type": "Speech",
+                "text": "I can't tell you how excited I am for you to come up with a unique nickname for me.",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_blanc_20_11",
+                "type": "Speech",
+                "text": "I wonder what it'll be?",
+                "speaker": "Blanc",
+                "points": null,
+                "jumpTo": "d_counseling_blanc_20_12"
+            },
+            {
+                "id": "d_counseling_blanc_20_12",
+                "type": "Narration",
+                "text": "I spend some time with Blanc brainstorming nicknames.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,1653 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_quency_01_1",
+                "type": "Speech",
+                "text": "Counselor.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_01_2",
+                "type": "Speech",
+                "text": "If you and I went on a date in the Ark,",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_01_3",
+                "type": "Speech",
+                "text": "what would you want to do?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_01_4",
+                "type": "Choice",
+                "text": "Take a walk while picking up bottle caps.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_01_6"
+            },
+            {
+                "id": "d_counseling_quency_01_5",
+                "type": "Choice",
+                "text": "Watch a movie.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_01_8"
+            },
+            {
+                "id": "d_counseling_quency_01_6",
+                "type": "Speech",
+                "text": "Oooh, such a unique date idea!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_01_7",
+                "type": "Speech",
+                "text": "If it were together with you, I suppose it'd be fun.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_01_10"
+            },
+            {
+                "id": "d_counseling_quency_01_8",
+                "type": "Speech",
+                "text": "Then we'd have to go to a movie theater...",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_01_9",
+                "type": "Speech",
+                "text": "I'm not a fan of enclosed spaces.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_01_10",
+                "type": "Narration",
+                "text": "Quency and I have a pleasurable time speaking with one another.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_02_1",
+                "type": "Speech",
+                "text": "Counselor!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_02_2",
+                "type": "Speech",
+                "text": "What would you do if you were trapped in an endless maze?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_02_3",
+                "type": "Choice",
+                "text": "I'd ask you to come save me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_02_5"
+            },
+            {
+                "id": "d_counseling_quency_02_4",
+                "type": "Choice",
+                "text": "I'd pick a spot and not move from there.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_02_8"
+            },
+            {
+                "id": "d_counseling_quency_02_5",
+                "type": "Speech",
+                "text": "You would?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_02_6",
+                "type": "Speech",
+                "text": "Plucking you out of a maze would be easy as pie for me.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_02_7",
+                "type": "Speech",
+                "text": "I'd get you out of there, no problem.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_02_10"
+            },
+            {
+                "id": "d_counseling_quency_02_8",
+                "type": "Speech",
+                "text": "What would you do if no one went looking for you though?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_02_9",
+                "type": "Speech",
+                "text": "... I guess I could come save you if you wanted.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_02_10",
+                "type": "Narration",
+                "text": "Quency and I talk more about mazes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_03_1",
+                "type": "Monologue",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_03_2",
+                "type": "Monologue",
+                "text": "Quency is nowhere to be seen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_03_3",
+                "type": "Speech",
+                "text": "Boo! Hehe, did I scare you?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_03_4",
+                "type": "Choice",
+                "text": "Pretend to be scared.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_03_6"
+            },
+            {
+                "id": "d_counseling_quency_03_5",
+                "type": "Choice",
+                "text": "Sorry, you didn't get me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_03_9"
+            },
+            {
+                "id": "d_counseling_quency_03_6",
+                "type": "Speech",
+                "text": "Oh jeez, are you okay?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_03_7",
+                "type": "Speech",
+                "text": "I didn't think you'd scare that easily.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_03_8",
+                "type": "Speech",
+                "text": "You're a bit of a scaredy-cat, aren't you?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_03_11"
+            },
+            {
+                "id": "d_counseling_quency_03_9",
+                "type": "Speech",
+                "text": "You can't fool me! I saw you jump.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_03_10",
+                "type": "Speech",
+                "text": "You were scared.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_03_11",
+                "type": "Narration",
+                "text": "Quency and I have a pleasant session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_04_1",
+                "type": "Speech",
+                "text": "Counselor, if I ever leave the rehabilitation center,",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_04_2",
+                "type": "Speech",
+                "text": "what's the first thing you'd want to do?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_04_3",
+                "type": "Choice",
+                "text": "I'd buy you some tofu.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_04_5"
+            },
+            {
+                "id": "d_counseling_quency_04_4",
+                "type": "Choice",
+                "text": "I'd buy you some light croquettes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_04_8"
+            },
+            {
+                "id": "d_counseling_quency_04_5",
+                "type": "Speech",
+                "text": "Tofu?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_04_6",
+                "type": "Speech",
+                "text": "Blech, I hate tofu.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_04_7",
+                "type": "Speech",
+                "text": "Something else, please.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_04_10"
+            },
+            {
+                "id": "d_counseling_quency_04_8",
+                "type": "Speech",
+                "text": "That'd be awesome!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_04_9",
+                "type": "Speech",
+                "text": "We can eat it together.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_04_10",
+                "type": "Narration",
+                "text": "Quency and I have a pleasant session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_05_1",
+                "type": "Speech",
+                "text": "I wonder what it feels like to be free?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_05_2",
+                "type": "Speech",
+                "text": "Freedom is a concept that I can't even fully comprehend.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_05_3",
+                "type": "Choice",
+                "text": "Aren't you free right now?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_05_5"
+            },
+            {
+                "id": "d_counseling_quency_05_4",
+                "type": "Choice",
+                "text": "If you were free, you could come see me whenever you wanted.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_05_7"
+            },
+            {
+                "id": "d_counseling_quency_05_5",
+                "type": "Speech",
+                "text": "That's true, but I'm not completely free.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_05_6",
+                "type": "Speech",
+                "text": "I wonder if it's any different from what I have now?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_05_9"
+            },
+            {
+                "id": "d_counseling_quency_05_7",
+                "type": "Speech",
+                "text": "Actually, I can do that now.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_05_8",
+                "type": "Speech",
+                "text": "For example, I'm going to come see you again tomorrow.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_05_9",
+                "type": "Narration",
+                "text": "I speak with Quency about freedom.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_06_1",
+                "type": "Speech",
+                "text": "Counselor.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_06_2",
+                "type": "Speech",
+                "text": "Help me come up with a nickname.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_06_3",
+                "type": "Speech",
+                "text": "I need to use an alias when I'm doing business.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_06_4",
+                "type": "Choice",
+                "text": "The Escape Artist.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_06_6"
+            },
+            {
+                "id": "d_counseling_quency_06_5",
+                "type": "Choice",
+                "text": "Why not use your name? Quency is a fine name.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_06_8"
+            },
+            {
+                "id": "d_counseling_quency_06_6",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_06_7",
+                "type": "Speech",
+                "text": "It's okay, but nothing special. Got anything else?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_06_10"
+            },
+            {
+                "id": "d_counseling_quency_06_8",
+                "type": "Speech",
+                "text": "Hehe. Really?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_06_9",
+                "type": "Speech",
+                "text": "All right, I'll just use my real name then.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_06_10",
+                "type": "Narration",
+                "text": "I spend time with Quency coming up with nicknames.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_07_1",
+                "type": "Speech",
+                "text": "I'm thinking of creating a new escape route.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_07_2",
+                "type": "Speech",
+                "text": "What kind should I make?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_07_3",
+                "type": "Choice",
+                "text": "One that leads to my heart.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_07_5"
+            },
+            {
+                "id": "d_counseling_quency_07_4",
+                "type": "Choice",
+                "text": "Don't you think you already have enough escape routes as is?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_07_7"
+            },
+            {
+                "id": "d_counseling_quency_07_5",
+                "type": "Speech",
+                "text": "Haha, I don't want to brag,",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_07_6",
+                "type": "Speech",
+                "text": "but I think I can get there easily enough already.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_07_9"
+            },
+            {
+                "id": "d_counseling_quency_07_7",
+                "type": "Speech",
+                "text": "You never know when they'll find one of them and block it off. The more routes you have, the better.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_07_8",
+                "type": "Speech",
+                "text": "Come on, this stuff is prison breaking 101!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_07_9",
+                "type": "Narration",
+                "text": "Quency and I contemplate new potential escape routes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_08_1",
+                "type": "Speech",
+                "text": "Counselor,",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_08_2",
+                "type": "Speech",
+                "text": "feel like bartering?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_08_3",
+                "type": "Speech",
+                "text": "Got any good items on you?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_08_4",
+                "type": "Choice",
+                "text": "A limited-edition Ark Ranger figurine.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_08_6"
+            },
+            {
+                "id": "d_counseling_quency_08_5",
+                "type": "Choice",
+                "text": "An adult magazine.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_08_8"
+            },
+            {
+                "id": "d_counseling_quency_08_6",
+                "type": "Speech",
+                "text": "Hmm, I'm not sure if that'd be a big hit in the rehabilitation center.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_08_7",
+                "type": "Speech",
+                "text": "Then again, maybe I'll take it just in case.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_08_11"
+            },
+            {
+                "id": "d_counseling_quency_08_8",
+                "type": "Speech",
+                "text": "*Gasp* Really? I'll take it!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_08_9",
+                "type": "Speech",
+                "text": "That'll sell like hot cakes in the rehabilitation center.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_08_10",
+                "type": "Speech",
+                "text": "Wait a minute... why do you even have that in the first place?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_08_11",
+                "type": "Narration",
+                "text": "I spend time exchanging items with Quency.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_09_1",
+                "type": "Speech",
+                "text": "I have to ask.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_09_2",
+                "type": "Speech",
+                "text": "Do you prefer Guilty, or Sin?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_09_3",
+                "type": "Choice",
+                "text": "None of them can beat you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_09_5"
+            },
+            {
+                "id": "d_counseling_quency_09_4",
+                "type": "Choice",
+                "text": "Let me think...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_09_8"
+            },
+            {
+                "id": "d_counseling_quency_09_5",
+                "type": "Speech",
+                "text": "Hey, I was asking about those two, not me!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_09_6",
+                "type": "Speech",
+                "text": "Hehe, very smooth, Counselor.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_09_7",
+                "type": "Speech",
+                "text": "You're number one in my book as well.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_09_11"
+            },
+            {
+                "id": "d_counseling_quency_09_8",
+                "type": "Speech",
+                "text": "Do you really need to think that hard about it?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_09_9",
+                "type": "Speech",
+                "text": "I'm going to tell Guilty and Sin.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_09_10",
+                "type": "Speech",
+                "text": "That is, unless you give me some bottle caps, then perhaps I'll be able to keep this between us.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_09_11",
+                "type": "Narration",
+                "text": "Quency and I have another pleasant session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_10_1",
+                "type": "Speech",
+                "text": "Counseling me must be a real challenge for you.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_10_2",
+                "type": "Speech",
+                "text": "Especially since I disappear pretty much on a daily basis.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_10_3",
+                "type": "Choice",
+                "text": "If I'm being honest, it can be trying.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_10_5"
+            },
+            {
+                "id": "d_counseling_quency_10_4",
+                "type": "Choice",
+                "text": "It's not hard at all.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_10_8"
+            },
+            {
+                "id": "d_counseling_quency_10_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_10_6",
+                "type": "Speech",
+                "text": "Is it really?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_10_7",
+                "type": "Speech",
+                "text": "Hmm... I didn't expect you to be so candid.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_10_10"
+            },
+            {
+                "id": "d_counseling_quency_10_8",
+                "type": "Speech",
+                "text": "Hehe, that's good then!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_10_9",
+                "type": "Speech",
+                "text": "I don't know if I've ever told you, but I really do enjoy our sessions together.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_10_10",
+                "type": "Narration",
+                "text": "Quency and I have another pleasant session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_11_1",
+                "type": "Speech",
+                "text": "I'm curious.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_11_2",
+                "type": "Speech",
+                "text": "What's the perfect woman, in your mind?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_11_3",
+                "type": "Choice",
+                "text": "Someone bright and bubbly, like you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_11_5"
+            },
+            {
+                "id": "d_counseling_quency_11_4",
+                "type": "Choice",
+                "text": "My lips are sealed.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_11_8"
+            },
+            {
+                "id": "d_counseling_quency_11_5",
+                "type": "Speech",
+                "text": "Do you really mean it?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_11_6",
+                "type": "Speech",
+                "text": "I asked that question because I was hoping that'd be your answer.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_11_7",
+                "type": "Speech",
+                "text": "As for me, you're very much my type as well.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_11_10"
+            },
+            {
+                "id": "d_counseling_quency_11_8",
+                "type": "Speech",
+                "text": "Aw, c'mon! That only makes me more curious!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_11_9",
+                "type": "Speech",
+                "text": "Can't you at least give me a hint? Just one word.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_11_10",
+                "type": "Narration",
+                "text": "I spend time with Quency talking about what we value in a partner.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_12_1",
+                "type": "Speech",
+                "text": "Just because I've always got a smile on my face,",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_12_2",
+                "type": "Speech",
+                "text": "people think they can take advantage of me.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_12_3",
+                "type": "Choice",
+                "text": "Start walking around looking scary.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_12_5"
+            },
+            {
+                "id": "d_counseling_quency_12_4",
+                "type": "Choice",
+                "text": "In the end, the person who is smiling is the real winner.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_12_7"
+            },
+            {
+                "id": "d_counseling_quency_12_5",
+                "type": "Speech",
+                "text": "I've considered that before.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_12_6",
+                "type": "Speech",
+                "text": "But I think it'd end up negatively affecting my mood.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_12_10"
+            },
+            {
+                "id": "d_counseling_quency_12_7",
+                "type": "Speech",
+                "text": "You're right,",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_12_8",
+                "type": "Speech",
+                "text": "but I just get so peeved sometimes.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_12_9",
+                "type": "Speech",
+                "text": "Then again, whoever is smiling in the end is the true victor.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_12_10",
+                "type": "Narration",
+                "text": "Quency and I have another pleasant session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_13_1",
+                "type": "Speech",
+                "text": "Hm...",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_13_2",
+                "type": "Speech",
+                "text": "What's your stance on hardened criminals?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_13_3",
+                "type": "Choice",
+                "text": "I don't have an opinion.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_13_5"
+            },
+            {
+                "id": "d_counseling_quency_13_4",
+                "type": "Choice",
+                "text": "They scare me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_13_8"
+            },
+            {
+                "id": "d_counseling_quency_13_5",
+                "type": "Speech",
+                "text": "You don't?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_13_6",
+                "type": "Speech",
+                "text": "You don't seem to have many preconceptions about other people.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_13_7",
+                "type": "Speech",
+                "text": "That's a relief. I thought you might be afraid of them right from the jump.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_13_10"
+            },
+            {
+                "id": "d_counseling_quency_13_8",
+                "type": "Speech",
+                "text": "They do?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_13_9",
+                "type": "Speech",
+                "text": "So... do you find me scary as well?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_13_10",
+                "type": "Narration",
+                "text": "Quency and I talk more about hardened criminals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_14_1",
+                "type": "Speech",
+                "text": "I've been wondering.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_14_2",
+                "type": "Speech",
+                "text": "What was your first impression of me?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_14_3",
+                "type": "Choice",
+                "text": "You seemed like you'd pose quite the challenge.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_14_5"
+            },
+            {
+                "id": "d_counseling_quency_14_4",
+                "type": "Choice",
+                "text": "I thought you were pretty.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_14_7"
+            },
+            {
+                "id": "d_counseling_quency_14_5",
+                "type": "Speech",
+                "text": "A challenge? How so?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_14_6",
+                "type": "Speech",
+                "text": "You mean it wouldn't be easy to win me over?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_14_9"
+            },
+            {
+                "id": "d_counseling_quency_14_7",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_14_8",
+                "type": "Speech",
+                "text": "I thought you were pretty good-looking too.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_14_9",
+                "type": "Narration",
+                "text": "I talk about first impressions with Quency.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_15_1",
+                "type": "Speech",
+                "text": "Apparently mint chocolate is all the rage in the Ark.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_15_2",
+                "type": "Speech",
+                "text": "Have you tried it?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_15_3",
+                "type": "Choice",
+                "text": "Heck no. Sounds like it'd taste like toothpaste.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_15_5"
+            },
+            {
+                "id": "d_counseling_quency_15_4",
+                "type": "Choice",
+                "text": "I've been trying to get my hands on some, but it's always sold out.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_15_7"
+            },
+            {
+                "id": "d_counseling_quency_15_5",
+                "type": "Speech",
+                "text": "I don't understand it myself either.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_15_6",
+                "type": "Speech",
+                "text": "Since it's popular, I thought about selling it at the rehabilitation center, but I'm not sure if it'll be a big seller.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_15_10"
+            },
+            {
+                "id": "d_counseling_quency_15_7",
+                "type": "Speech",
+                "text": "Yikes, is it really that bad?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_15_8",
+                "type": "Speech",
+                "text": "Certainly doesn't sound appetizing.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_15_9",
+                "type": "Speech",
+                "text": "Should I try selling it at the rehabilitation center?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_15_10",
+                "type": "Narration",
+                "text": "Quency and I converse a little more about supply and demand.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_16_1",
+                "type": "Speech",
+                "text": "Hey, Counselor.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_16_2",
+                "type": "Speech",
+                "text": "Do you have a girlfriend?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_16_3",
+                "type": "Speech",
+                "text": "I just thought it would be good to know.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_16_4",
+                "type": "Choice",
+                "text": "I don't.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_16_6"
+            },
+            {
+                "id": "d_counseling_quency_16_5",
+                "type": "Choice",
+                "text": "I do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_16_8"
+            },
+            {
+                "id": "d_counseling_quency_16_6",
+                "type": "Speech",
+                "text": "Phew, that's a relief!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_16_7",
+                "type": "Speech",
+                "text": "I thought you did.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_16_10"
+            },
+            {
+                "id": "d_counseling_quency_16_8",
+                "type": "Speech",
+                "text": "Liar!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_16_9",
+                "type": "Speech",
+                "text": "... You're not lying to me, are you?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_16_10",
+                "type": "Narration",
+                "text": "Quency and I have another pleasant session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_17_1",
+                "type": "Speech",
+                "text": "Counselor.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_17_2",
+                "type": "Speech",
+                "text": "Counselor! Counselor? Couuunnseellooorrrr!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_17_3",
+                "type": "Choice",
+                "text": "WHAT?!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_17_5"
+            },
+            {
+                "id": "d_counseling_quency_17_4",
+                "type": "Choice",
+                "text": "Quency! Quency? Quuiinncccyyyy!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_17_8"
+            },
+            {
+                "id": "d_counseling_quency_17_5",
+                "type": "Speech",
+                "text": "I was just trying to get your attention.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_17_6",
+                "type": "Speech",
+                "text": "You don't have to get nasty.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_17_7",
+                "type": "Speech",
+                "text": "Looks like someone got up on the wrong side of the bed this morning.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_17_10"
+            },
+            {
+                "id": "d_counseling_quency_17_8",
+                "type": "Speech",
+                "text": "Hehe, very funny.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_17_9",
+                "type": "Speech",
+                "text": "That's why I like you, Counselor. You've got a sense of humor.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_17_10",
+                "type": "Narration",
+                "text": "Quency and I have another pleasant session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_18_1",
+                "type": "Speech",
+                "text": "I haven't been able to get a wink of sleep for the past few days.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_18_2",
+                "type": "Speech",
+                "text": "Beats me as to why. It's not like anything has been weighing on my mind.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_18_3",
+                "type": "Choice",
+                "text": "We can try sleeping alongside each other.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_18_5"
+            },
+            {
+                "id": "d_counseling_quency_18_4",
+                "type": "Choice",
+                "text": "Try counting sheep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_18_8"
+            },
+            {
+                "id": "d_counseling_quency_18_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_18_6",
+                "type": "Speech",
+                "text": "You're not pulling my leg, are you?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_18_7",
+                "type": "Speech",
+                "text": "In that case, I'll come to your room later tonight.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_18_11"
+            },
+            {
+                "id": "d_counseling_quency_18_8",
+                "type": "Speech",
+                "text": "Already tried it.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_18_9",
+                "type": "Speech",
+                "text": "One sheep... Two sheep...",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_18_10",
+                "type": "Speech",
+                "text": "Ugh! So boring.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_18_11",
+                "type": "Narration",
+                "text": "Quency and I talk a little more about sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_19_1",
+                "type": "Speech",
+                "text": "Counselor,",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_19_2",
+                "type": "Speech",
+                "text": "do you have any nicknames?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_19_3",
+                "type": "Speech",
+                "text": "If you do, I'll call you that once I leave the rehabilitation center.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_19_4",
+                "type": "Choice",
+                "text": "Baby.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_19_6"
+            },
+            {
+                "id": "d_counseling_quency_19_5",
+                "type": "Choice",
+                "text": "{AccountData.NickName}.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_19_8"
+            },
+            {
+                "id": "d_counseling_quency_19_6",
+                "type": "Speech",
+                "text": "Baby? Okay!",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_19_7",
+                "type": "Speech",
+                "text": "That's what I'll call you once I'm out of here.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_19_10"
+            },
+            {
+                "id": "d_counseling_quency_19_8",
+                "type": "Speech",
+                "text": "{AccountData.NickName}?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_19_9",
+                "type": "Speech",
+                "text": "Nice! It feels like we've gotten closer to each other.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_19_10",
+                "type": "Narration",
+                "text": "I discuss more nicknames with Quency.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quency_20_1",
+                "type": "Speech",
+                "text": "If the day comes when you start living up on the surface,",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_20_2",
+                "type": "Speech",
+                "text": "what will become of me?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_20_3",
+                "type": "Choice",
+                "text": "You'd be in a rehabilitation center up on the surface.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quency_20_5"
+            },
+            {
+                "id": "d_counseling_quency_20_4",
+                "type": "Choice",
+                "text": "You'd be right there with me, roaming freely up on the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quency_20_7"
+            },
+            {
+                "id": "d_counseling_quency_20_5",
+                "type": "Speech",
+                "text": "*Gasp* You're not serious, are you?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_20_6",
+                "type": "Speech",
+                "text": "If that's a joke, it's not funny.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": "d_counseling_quency_20_10"
+            },
+            {
+                "id": "d_counseling_quency_20_7",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_20_8",
+                "type": "Speech",
+                "text": "I wonder what it would feel like living up on the surface.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_20_9",
+                "type": "Speech",
+                "text": "Whatever it would be like, I hope I get to experience it soon.",
+                "speaker": "Quency",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quency_20_10",
+                "type": "Narration",
+                "text": "Quency and I have another pleasant session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

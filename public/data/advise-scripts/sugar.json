@@ -1,0 +1,1677 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_sugar_01_1",
+                "type": "Speech",
+                "text": "Partner!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_01_2",
+                "type": "Speech",
+                "text": "I've been getting a lot of complaints at the office about my bike being too loud.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_01_3",
+                "type": "Speech",
+                "text": "What do you think I should do?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_01_4",
+                "type": "Choice",
+                "text": "Give a heartfelt apology.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_01_6"
+            },
+            {
+                "id": "d_counseling_sugar_01_5",
+                "type": "Choice",
+                "text": "Give them a swift kick in the rear.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_01_8"
+            },
+            {
+                "id": "d_counseling_sugar_01_6",
+                "type": "Speech",
+                "text": "... Hm.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_01_7",
+                "type": "Speech",
+                "text": "I'll think about it.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_01_11"
+            },
+            {
+                "id": "d_counseling_sugar_01_8",
+                "type": "Speech",
+                "text": "Nice!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_01_9",
+                "type": "Speech",
+                "text": "I was thinking the exact same thing.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_01_10",
+                "type": "Speech",
+                "text": "Good answer.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_01_11"
+            },
+            {
+                "id": "d_counseling_sugar_01_11",
+                "type": "Narration",
+                "text": "Sugar and I spend time talking about her bike.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_02_1",
+                "type": "Speech",
+                "text": "Milk says she would rather gargle bleach than drink coffee with sugar.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_02_2",
+                "type": "Speech",
+                "text": "What can you even say to such a flagrant insult?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_02_3",
+                "type": "Choice",
+                "text": "Give her some bleach.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_02_5"
+            },
+            {
+                "id": "d_counseling_sugar_02_4",
+                "type": "Choice",
+                "text": "Keep things cordial with your squadmates.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_02_8"
+            },
+            {
+                "id": "d_counseling_sugar_02_5",
+                "type": "Speech",
+                "text": "Genius!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_02_6",
+                "type": "Speech",
+                "text": "I knew you'd have my back, Partner.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_02_7",
+                "type": "Speech",
+                "text": "I'll stop by Yan's store on the way.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_02_10"
+            },
+            {
+                "id": "d_counseling_sugar_02_8",
+                "type": "Speech",
+                "text": "You want me to just... ignore her?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_02_9",
+                "type": "Speech",
+                "text": "Well, I guess that could be a solution.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_02_10"
+            },
+            {
+                "id": "d_counseling_sugar_02_10",
+                "type": "Narration",
+                "text": "Sugar and I have a relaxing tea time together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_03_1",
+                "type": "Speech",
+                "text": "I've told you how Black Typhoon is a real gas-guzzler, right?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_03_2",
+                "type": "Speech",
+                "text": "Any ideas?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_03_3",
+                "type": "Choice",
+                "text": "Do you feel that the fuel you put into Black Typhoon is a waste?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_03_5"
+            },
+            {
+                "id": "d_counseling_sugar_03_4",
+                "type": "Choice",
+                "text": "Change to cheaper fuel.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_03_8"
+            },
+            {
+                "id": "d_counseling_sugar_03_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_03_6",
+                "type": "Speech",
+                "text": "Nah. Not at all.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_03_7",
+                "type": "Speech",
+                "text": "... Thanks.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_03_10"
+            },
+            {
+                "id": "d_counseling_sugar_03_8",
+                "type": "Speech",
+                "text": "I'm not gonna shorten her life span.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_03_9",
+                "type": "Speech",
+                "text": "But thanks for trying, Partner.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_03_10"
+            },
+            {
+                "id": "d_counseling_sugar_03_10",
+                "type": "Narration",
+                "text": "I listen to Sugar brag about Black Typhoon for a long time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_04_1",
+                "type": "Speech",
+                "text": "I am working on a new sugar coffee recipe.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_04_2",
+                "type": "Speech",
+                "text": "How many scoops of sugar do you think is best?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_04_3",
+                "type": "Choice",
+                "text": "10 spoonfuls.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_04_5"
+            },
+            {
+                "id": "d_counseling_sugar_04_4",
+                "type": "Choice",
+                "text": "11 spoonfuls.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_04_7"
+            },
+            {
+                "id": "d_counseling_sugar_04_5",
+                "type": "Speech",
+                "text": "Nah, not enough.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_04_6",
+                "type": "Speech",
+                "text": "You wouldn't even be able to taste the sweetness.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_04_9"
+            },
+            {
+                "id": "d_counseling_sugar_04_7",
+                "type": "Speech",
+                "text": "Yeah, that should just about do it.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_04_8",
+                "type": "Speech",
+                "text": "Just enough to start tasting the sweetness.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_04_9",
+                "type": "Narration",
+                "text": "Sugar and I talk about coffee.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_05_1",
+                "type": "Speech",
+                "text": "You know Milk and Frima?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_05_2",
+                "type": "Speech",
+                "text": "They're a real pain in my neck. All they do is stand around.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_05_3",
+                "type": "Choice",
+                "text": "Why don't you just stand around, then? Someone else will do the work eventually.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_05_5"
+            },
+            {
+                "id": "d_counseling_sugar_05_4",
+                "type": "Choice",
+                "text": "Give them a kick in the pants.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_05_7"
+            },
+            {
+                "id": "d_counseling_sugar_05_5",
+                "type": "Speech",
+                "text": "Hey, not bad, Partner.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_05_6",
+                "type": "Speech",
+                "text": "I'll beat them at their own game!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_05_9"
+            },
+            {
+                "id": "d_counseling_sugar_05_7",
+                "type": "Speech",
+                "text": "I already tried that, but it didn't do any good.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_05_8",
+                "type": "Speech",
+                "text": "Maybe I should try running them over with Black Typhoon...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_05_9",
+                "type": "Narration",
+                "text": "Sugar and I have a discussion about the proper way to slack off.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_06_1",
+                "type": "Speech",
+                "text": "Sometimes Milk and Frima like to talk about music.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_06_2",
+                "type": "Speech",
+                "text": "What kind of music do you think suits my vibe?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_06_3",
+                "type": "Choice",
+                "text": "Hard-hitting heavy metal.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_06_5"
+            },
+            {
+                "id": "d_counseling_sugar_06_4",
+                "type": "Choice",
+                "text": "Graceful classical music.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_06_7"
+            },
+            {
+                "id": "d_counseling_sugar_06_5",
+                "type": "Speech",
+                "text": "Huh. You think so?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_06_6",
+                "type": "Speech",
+                "text": "I guess that's the easy answer considering how I look, but I'm a little disappointed to hear you say that...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_06_9"
+            },
+            {
+                "id": "d_counseling_sugar_06_7",
+                "type": "Speech",
+                "text": "Whoa! Are you some kind of mind reader?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_06_8",
+                "type": "Speech",
+                "text": "Musical taste has nothing to do with one's physical appearance, but a lot of people don't seem to know that.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_06_9",
+                "type": "Narration",
+                "text": "I discuss music with Sugar.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_07_1",
+                "type": "Speech",
+                "text": "I run into all sorts of shady characters when I'm on the job.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_07_2",
+                "type": "Speech",
+                "text": "But I've got to maintain my reputation as a problem-solver, so I can't turn anybody down. What should I do?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_07_3",
+                "type": "Choice",
+                "text": "Image is important. Learn to be patient.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_07_5"
+            },
+            {
+                "id": "d_counseling_sugar_07_4",
+                "type": "Choice",
+                "text": "Keep taking every job, no matter how shady.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_07_7"
+            },
+            {
+                "id": "d_counseling_sugar_07_5",
+                "type": "Speech",
+                "text": "Patience... that's the one thing I'll never be good at.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_07_6",
+                "type": "Speech",
+                "text": "Thanks anyway, though.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_07_9"
+            },
+            {
+                "id": "d_counseling_sugar_07_7",
+                "type": "Speech",
+                "text": "It's like they say, \"you've gotta walk a mile in someone else's shoes\".",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_07_8",
+                "type": "Speech",
+                "text": "All right. Next time I'll go ahead and take the jobs regardless.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_07_9",
+                "type": "Narration",
+                "text": "Sugar and I share our work-related grievances.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_08_1",
+                "type": "Speech",
+                "text": "Vroom, vroom.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_08_2",
+                "type": "Speech",
+                "text": "Vroom! Vroom, vroom!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_08_3",
+                "type": "Choice",
+                "text": "Vroooooom!!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_08_5"
+            },
+            {
+                "id": "d_counseling_sugar_08_4",
+                "type": "Choice",
+                "text": "Honk, honk!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_08_7"
+            },
+            {
+                "id": "d_counseling_sugar_08_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_08_6",
+                "type": "Speech",
+                "text": "Vroom, vroom! Vroooooom!!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_08_9"
+            },
+            {
+                "id": "d_counseling_sugar_08_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_08_8",
+                "type": "Speech",
+                "text": "Black Typhoon doesn't have a horn.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_08_9",
+                "type": "Narration",
+                "text": "Sugar and I spend time pretending to be motorcycles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_09_1",
+                "type": "Speech",
+                "text": "Once in a while, I go a bit overboard when I get caught up in the heat of battle.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_09_2",
+                "type": "Speech",
+                "text": "I'm a little worried that one day I might get myself into trouble.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_09_3",
+                "type": "Choice",
+                "text": "You just do you. I'll heal you whenever you need it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_09_5"
+            },
+            {
+                "id": "d_counseling_sugar_09_4",
+                "type": "Choice",
+                "text": "Cut loose if you want, just be sure to trust me and your other teammates.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_09_7"
+            },
+            {
+                "id": "d_counseling_sugar_09_5",
+                "type": "Speech",
+                "text": "Even if I might sustain some serious injuries?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_09_6",
+                "type": "Speech",
+                "text": "I don't want to get myself hurt.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_09_9"
+            },
+            {
+                "id": "d_counseling_sugar_09_7",
+                "type": "Speech",
+                "text": "... Right.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_09_8",
+                "type": "Speech",
+                "text": "I am not fighting alone. Thanks for reminding me.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_09_9",
+                "type": "Narration",
+                "text": "Sugar and I discuss what it's like on the battlefield.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_10_1",
+                "type": "Speech",
+                "text": "Whenever I go for a ride inside the Ark, there're too many people. It's hard to pick up any speed.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_10_2",
+                "type": "Speech",
+                "text": "I want to redline it! How can I do that?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_10_3",
+                "type": "Choice",
+                "text": "How about adding another 0 to the speedometer?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_10_5"
+            },
+            {
+                "id": "d_counseling_sugar_10_4",
+                "type": "Choice",
+                "text": "Honk the horn.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_10_7"
+            },
+            {
+                "id": "d_counseling_sugar_10_5",
+                "type": "Speech",
+                "text": "So even if I'm only going 30, it'll show up as 300.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_10_6",
+                "type": "Speech",
+                "text": "That could really help lift my spirits. I'll try it out next time.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_10_9"
+            },
+            {
+                "id": "d_counseling_sugar_10_7",
+                "type": "Speech",
+                "text": "You want me to scare people?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_10_8",
+                "type": "Speech",
+                "text": "I may be a speed demon, but I'm not rude.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_10_9",
+                "type": "Narration",
+                "text": "Sugar and I have an honest discussion about speed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_11_1",
+                "type": "Speech",
+                "text": "Black Typhoon has been making some strange noises lately.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_11_2",
+                "type": "Speech",
+                "text": "I wonder what's wrong...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_11_3",
+                "type": "Choice",
+                "text": "Let's inspect the engine.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_11_5"
+            },
+            {
+                "id": "d_counseling_sugar_11_4",
+                "type": "Choice",
+                "text": "Let's take it to the hospital.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_11_7"
+            },
+            {
+                "id": "d_counseling_sugar_11_5",
+                "type": "Speech",
+                "text": "Good idea.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_11_6",
+                "type": "Speech",
+                "text": "We can check if there are any other issues while we're at it.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_11_9"
+            },
+            {
+                "id": "d_counseling_sugar_11_7",
+                "type": "Speech",
+                "text": "The hospital?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_11_8",
+                "type": "Speech",
+                "text": "Somehow I don't think that's the right place to bring it...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_11_9",
+                "type": "Narration",
+                "text": "Sugar and I fret over what to do about Black Typhoon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_12_1",
+                "type": "Speech",
+                "text": "Every time I go up to the surface,",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_12_2",
+                "type": "Speech",
+                "text": "I feel this irresistible urge to go for a spin on my bike.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_12_3",
+                "type": "Choice",
+                "text": "Let's do it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_12_5"
+            },
+            {
+                "id": "d_counseling_sugar_12_4",
+                "type": "Choice",
+                "text": "Let's do it when we reclaim the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_12_8"
+            },
+            {
+                "id": "d_counseling_sugar_12_5",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_12_6",
+                "type": "Speech",
+                "text": "If we did that now, the Raptures would hear us and be on our tails in an instant.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_12_7",
+                "type": "Speech",
+                "text": "I don't want to throw my life away just because I've got a need for speed.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_12_11"
+            },
+            {
+                "id": "d_counseling_sugar_12_8",
+                "type": "Speech",
+                "text": "Fine...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_12_9",
+                "type": "Speech",
+                "text": "I can't wait for that day to come.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_12_10",
+                "type": "Speech",
+                "text": "When that time comes, you'll be there with me, right Partner?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_12_11",
+                "type": "Narration",
+                "text": "Sugar and I fantasize about burning rubber up on the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_13_1",
+                "type": "Speech",
+                "text": "I had a horrible nightmare.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_13_2",
+                "type": "Speech",
+                "text": "Someone had put milk and cream into a Sugar Coffee.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_13_3",
+                "type": "Choice",
+                "text": "It certainly sounds horrible.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_13_5"
+            },
+            {
+                "id": "d_counseling_sugar_13_4",
+                "type": "Choice",
+                "text": "That actually sounds kind of good to me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_13_8"
+            },
+            {
+                "id": "d_counseling_sugar_13_5",
+                "type": "Speech",
+                "text": "I know, right?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_13_6",
+                "type": "Speech",
+                "text": "Sullying a perfectly good sugar coffee with those filthy ingredients.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_13_7",
+                "type": "Speech",
+                "text": "Gives me chills just thinking about it.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_13_11"
+            },
+            {
+                "id": "d_counseling_sugar_13_8",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_13_9",
+                "type": "Speech",
+                "text": "Everybody knows you only put sugar in a Sugar Coffee.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_13_10",
+                "type": "Speech",
+                "text": "Don't joke around like that, this is no laughing matter!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_13_11",
+                "type": "Narration",
+                "text": "I have a conversation with Sugar about nightmares.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_14_1",
+                "type": "Speech",
+                "text": "Hey, what do you think about Frima?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_14_2",
+                "type": "Speech",
+                "text": "Do you think she has what it takes to be a leader?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_14_3",
+                "type": "Choice",
+                "text": "She's the de facto leader of Cafe Sweety.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_14_5"
+            },
+            {
+                "id": "d_counseling_sugar_14_4",
+                "type": "Choice",
+                "text": "I think she's a bit too apathetic for that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_14_6"
+            },
+            {
+                "id": "d_counseling_sugar_14_5",
+                "type": "Speech",
+                "text": "You know a lot about Frima.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_14_7"
+            },
+            {
+                "id": "d_counseling_sugar_14_6",
+                "type": "Speech",
+                "text": "You don't understand Frima at all.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_14_7",
+                "type": "Speech",
+                "text": "It may seem like she's always dragging her feet,",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_14_8",
+                "type": "Speech",
+                "text": "but in reality, she's incredibly thorough. That way, she can prevent any irritating complications from cropping up.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_14_9",
+                "type": "Speech",
+                "text": "Cafe Sweety would be nothing without her.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_14_10",
+                "type": "Narration",
+                "text": "I have a conversation with Sugar about Frima.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_15_1",
+                "type": "Speech",
+                "text": "Milk was telling me how fun Would You Rather is, and was asking me all sorts of hypotheticals.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_2",
+                "type": "Speech",
+                "text": "I didn't think it was very fun. All the options were too easy!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_3",
+                "type": "Speech",
+                "text": "Try and ask me a few questions.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_4",
+                "type": "Choice",
+                "text": "Would you rather only have Sugar Coffee, or Black Typhoon?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_15_6"
+            },
+            {
+                "id": "d_counseling_sugar_15_5",
+                "type": "Choice",
+                "text": "Would you rather only have Sugar Coffee, or me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_15_9"
+            },
+            {
+                "id": "d_counseling_sugar_15_6",
+                "type": "Speech",
+                "text": "...!!!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_8",
+                "type": "Speech",
+                "text": "... I can't choose. I lose.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_15_14"
+            },
+            {
+                "id": "d_counseling_sugar_15_9",
+                "type": "Speech",
+                "text": "Again, too easy.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_10",
+                "type": "Speech",
+                "text": "Of course, it's you, Partner.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_11",
+                "type": "Speech",
+                "text": "What could be more important than you?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_12",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_13",
+                "type": "Speech",
+                "text": "Is this the part where we kiss?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_15_14",
+                "type": "Narration",
+                "text": "Sugar and I play a bit more of Would You Rather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_16_1",
+                "type": "Speech",
+                "text": "Partner, do you have a habit that you can't tell anyone about?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_16_2",
+                "type": "Speech",
+                "text": "When I'm alone I mimic how Black Typhoon sounds.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_16_3",
+                "type": "Speech",
+                "text": "*Vroom-m-m*",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_16_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_16_6"
+            },
+            {
+                "id": "d_counseling_sugar_16_5",
+                "type": "Choice",
+                "text": "When I'm alone I mimic Frima's voice.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_16_9"
+            },
+            {
+                "id": "d_counseling_sugar_16_6",
+                "type": "Speech",
+                "text": "... Are you sure?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_16_7",
+                "type": "Speech",
+                "text": "You're not just saying that because you're embarrassed, are you?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_16_8",
+                "type": "Speech",
+                "text": "Be honest!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_16_12"
+            },
+            {
+                "id": "d_counseling_sugar_16_9",
+                "type": "Speech",
+                "text": "I guess there is a certain appeal",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_16_10",
+                "type": "Speech",
+                "text": "in trimming off all the fat when you're speaking.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_16_11",
+                "type": "Speech",
+                "text": "Maybe I'll try it out sometime.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_16_12",
+                "type": "Narration",
+                "text": "Sugar and I take turns imitating various sounds.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_17_1",
+                "type": "Speech",
+                "text": "I brought some coffee on my way here.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_17_2",
+                "type": "Speech",
+                "text": "Which one would you like?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_17_3",
+                "type": "Choice",
+                "text": "They're both Sugar Coffees... just give me whichever.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_17_5"
+            },
+            {
+                "id": "d_counseling_sugar_17_4",
+                "type": "Choice",
+                "text": "Which one is the Sugar Coffee?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_17_8"
+            },
+            {
+                "id": "d_counseling_sugar_17_5",
+                "type": "Speech",
+                "text": "Nicely done!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_17_6",
+                "type": "Speech",
+                "text": "It wasn't really a test, but I'm glad to see that you could tell.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_17_7",
+                "type": "Speech",
+                "text": "Here, have a drink.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_17_12"
+            },
+            {
+                "id": "d_counseling_sugar_17_8",
+                "type": "Speech",
+                "text": "Actually...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_17_9",
+                "type": "Speech",
+                "text": "Both of them are Sugar Coffees.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_17_10",
+                "type": "Speech",
+                "text": "I thought you'd be able to tell.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_17_11",
+                "type": "Speech",
+                "text": "Was it really that hard?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_17_12",
+                "type": "Narration",
+                "text": "Sugar and I sipped coffee as we had our discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_18_1",
+                "type": "Speech",
+                "text": "You wear a helmet whenever you ride a motorcycle, don't you?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_18_2",
+                "type": "Choice",
+                "text": "Of course.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_18_4"
+            },
+            {
+                "id": "d_counseling_sugar_18_3",
+                "type": "Choice",
+                "text": "You don't wear one though, isn't that right?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_18_6"
+            },
+            {
+                "id": "d_counseling_sugar_18_4",
+                "type": "Speech",
+                "text": "Good.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_18_5",
+                "type": "Speech",
+                "text": "It's okay for me not to since I'm a Nikke, but it's a must for you.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_18_9"
+            },
+            {
+                "id": "d_counseling_sugar_18_6",
+                "type": "Speech",
+                "text": "I'm a Nikke.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_18_7",
+                "type": "Speech",
+                "text": "This noggin of mine is tougher than any helmet.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_18_8",
+                "type": "Speech",
+                "text": "But you're a human being. No matter how skilled a rider you are, you could always get into an accident.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_18_9",
+                "type": "Speech",
+                "text": "Enjoying a nice ride is one thing, but safety comes first.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_18_10",
+                "type": "Narration",
+                "text": "Sugar and I talk about how to ride motorcycles safely.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_19_1",
+                "type": "Speech",
+                "text": "How come there aren't any motorcycle races around here?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_19_2",
+                "type": "Speech",
+                "text": "I'd crush it, I just know it.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_19_3",
+                "type": "Choice",
+                "text": "You should start one of your own.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_19_5"
+            },
+            {
+                "id": "d_counseling_sugar_19_4",
+                "type": "Choice",
+                "text": "It isn't popular enough.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_19_8"
+            },
+            {
+                "id": "d_counseling_sugar_19_5",
+                "type": "Speech",
+                "text": "I could name it whatever I want...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_19_6",
+                "type": "Speech",
+                "text": "This is so exciting!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_19_7",
+                "type": "Speech",
+                "text": "But how do I get started?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_19_11"
+            },
+            {
+                "id": "d_counseling_sugar_19_8",
+                "type": "Speech",
+                "text": "I guess you're right...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_19_9",
+                "type": "Speech",
+                "text": "If it were more popular, they would have already set up a racing circuit.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_19_10",
+                "type": "Speech",
+                "text": "What can I do to make more people aware of motorcycle racing?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_19_11",
+                "type": "Narration",
+                "text": "Sugar and I fantasize about a motorcycle racing competition.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sugar_20_1",
+                "type": "Speech",
+                "text": "We hit record numbers this month with Sugar Coffee sales.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_20_2",
+                "type": "Speech",
+                "text": "Do you know the reason?",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_20_3",
+                "type": "Choice",
+                "text": "That's because the population in the Outpost has increased.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sugar_20_5"
+            },
+            {
+                "id": "d_counseling_sugar_20_4",
+                "type": "Choice",
+                "text": "That's because the taste of the Sugar Coffee has improved.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sugar_20_8"
+            },
+            {
+                "id": "d_counseling_sugar_20_5",
+                "type": "Speech",
+                "text": "Hey, you're right!",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_20_6",
+                "type": "Speech",
+                "text": "More Nikkes are living here than ever before.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_20_7",
+                "type": "Speech",
+                "text": "That's a load off my mind. Thanks, Partner.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": "d_counseling_sugar_20_10"
+            },
+            {
+                "id": "d_counseling_sugar_20_8",
+                "type": "Speech",
+                "text": "Sugar Coffee's claim to fame is its perfect blend of various flavors.",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_20_9",
+                "type": "Speech",
+                "text": "The flavor hasn't changed at all...",
+                "speaker": "Sugar",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sugar_20_10",
+                "type": "Narration",
+                "text": "Sugar and I have a debate about coffee sales.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

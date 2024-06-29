@@ -1,0 +1,2181 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_guilty_01_1",
+                "type": "Speech",
+                "text": "Counselor, between me, Quency, and Sin...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_01_2",
+                "type": "Speech",
+                "text": "who do you think is the nicest?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_01_3",
+                "type": "Choice",
+                "text": "You.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_01_5"
+            },
+            {
+                "id": "d_counseling_guilty_01_4",
+                "type": "Choice",
+                "text": "I think you're all pretty much the same.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_01_8"
+            },
+            {
+                "id": "d_counseling_guilty_01_5",
+                "type": "Speech",
+                "text": "Thanks!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_01_6",
+                "type": "Speech",
+                "text": "Those other two are far too dangerous.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_01_7",
+                "type": "Speech",
+                "text": "I knew that I was the nicest.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_01_10"
+            },
+            {
+                "id": "d_counseling_guilty_01_8",
+                "type": "Speech",
+                "text": "The same? But we're all so different.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_01_9",
+                "type": "Speech",
+                "text": "Are you sure you thought it over properly before answering?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_01_10",
+                "type": "Narration",
+                "text": "I talk with Guilty about what it means to be nice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_02_1",
+                "type": "Speech",
+                "text": "Nobody ever listens to me.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_2",
+                "type": "Speech",
+                "text": "No matter how much I protest my innocence, they keep insisting that I'm a criminal.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_3",
+                "type": "Speech",
+                "text": "How can I get people to hear me out?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_4",
+                "type": "Choice",
+                "text": "Talk louder.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_02_6"
+            },
+            {
+                "id": "d_counseling_guilty_02_5",
+                "type": "Choice",
+                "text": "Speak with more conviction.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_02_9"
+            },
+            {
+                "id": "d_counseling_guilty_02_6",
+                "type": "Speech",
+                "text": "But I already feel like I'm shouting at the top of my lungs.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_7",
+                "type": "Speech",
+                "text": "How can I talk any louder than I already am?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_8",
+                "type": "Speech",
+                "text": "Are you even listening to me, Counselor?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_02_15"
+            },
+            {
+                "id": "d_counseling_guilty_02_9",
+                "type": "Speech",
+                "text": "More conviction?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_10",
+                "type": "Speech",
+                "text": "You mean like being more forceful?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_11",
+                "type": "Self",
+                "text": "I didn't say anything about using force...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_12",
+                "type": "Speech",
+                "text": "Oh... I like it...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_13",
+                "type": "Speech",
+                "text": "You know just how I feel, Counselor.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_14",
+                "type": "Speech",
+                "text": "I can use force to get people to listen to me.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_02_15",
+                "type": "Narration",
+                "text": "I practice speaking with Guilty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_03_1",
+                "type": "Speech",
+                "text": "Counselor, can you hold my hand?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_2",
+                "type": "Monologue",
+                "text": "I take Guilty's hand in mine.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_3",
+                "type": "Speech",
+                "text": "Your hand feels so nice... just as I thought it would.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_4",
+                "type": "Monologue",
+                "text": "Guilty clenches onto my hand more tightly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_5",
+                "type": "Choice",
+                "text": "Grip even tighter.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_03_7"
+            },
+            {
+                "id": "d_counseling_guilty_03_6",
+                "type": "Choice",
+                "text": "Try to remove her hand.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_03_10"
+            },
+            {
+                "id": "d_counseling_guilty_03_7",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_8",
+                "type": "Speech",
+                "text": "It feels even nicer when you hold my hand tightly.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_9",
+                "type": "Speech",
+                "text": "Whenever we hold hands, I want you to hold it like this.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_03_14"
+            },
+            {
+                "id": "d_counseling_guilty_03_10",
+                "type": "Speech",
+                "text": "Why are you taking your hand away?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_11",
+                "type": "Speech",
+                "text": "That only makes me want to hold it more tightly.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_12",
+                "type": "Monologue",
+                "text": "Guilty loosens her grip.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_13",
+                "type": "Speech",
+                "text": "But I suppose I shouldn't do that... at least not yet.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_03_14",
+                "type": "Narration",
+                "text": "I spend time with Guilty while holding hands.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_04_1",
+                "type": "Speech",
+                "text": "Sin said that lying is a skill in itself.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_2",
+                "type": "Speech",
+                "text": "But I don't like lying.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_3",
+                "type": "Speech",
+                "text": "Do you ever lie, Counselor?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_4",
+                "type": "Choice",
+                "text": "Never.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_04_6"
+            },
+            {
+                "id": "d_counseling_guilty_04_5",
+                "type": "Choice",
+                "text": "Sometimes, and I'm pretty good at it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_04_10"
+            },
+            {
+                "id": "d_counseling_guilty_04_6",
+                "type": "Speech",
+                "text": "... Really?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_7",
+                "type": "Speech",
+                "text": "Why does it feel like you're lying to me right now then...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_8",
+                "type": "Self",
+                "text": "I'm not, honestly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_9",
+                "type": "Speech",
+                "text": "... If you say so.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_04_15"
+            },
+            {
+                "id": "d_counseling_guilty_04_10",
+                "type": "Speech",
+                "text": "Why would you say that right after I mentioned how much I dislike lying?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_11",
+                "type": "Self",
+                "text": "It's precise because you detest lying that I had to tell the truth.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_12",
+                "type": "Speech",
+                "text": "I suppose you have a point...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_13",
+                "type": "Speech",
+                "text": "You really are an honest person, Counselor.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_14",
+                "type": "Speech",
+                "text": "I really like that about you.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_04_15",
+                "type": "Narration",
+                "text": "I have a bittersweet consultation with Guilty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_05_1",
+                "type": "Speech",
+                "text": "Counselor, didn't you say I was rehabilitated?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_05_2",
+                "type": "Speech",
+                "text": "If that's true, why am I still in these restraints?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_05_3",
+                "type": "Speech",
+                "text": "They're so annoying...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_05_4",
+                "type": "Choice",
+                "text": "Remove her restraints for a moment.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_05_6"
+            },
+            {
+                "id": "d_counseling_guilty_05_5",
+                "type": "Choice",
+                "text": "Ignore her pleas.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_05_9"
+            },
+            {
+                "id": "d_counseling_guilty_05_6",
+                "type": "Narration",
+                "text": "*Beep*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_05_7",
+                "type": "Monologue",
+                "text": "After pressing the release button, the restraints on Guilty's hand are unlocked.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_05_8",
+                "type": "Speech",
+                "text": "Only my hands? I guess it's better than nothing...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_05_12"
+            },
+            {
+                "id": "d_counseling_guilty_05_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_05_10",
+                "type": "Speech",
+                "text": "I thought you would release the restraints, but I guess not.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_05_11",
+                "type": "Speech",
+                "text": "That's too bad...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_05_12",
+                "type": "Narration",
+                "text": "I comfort the disappointed Guilty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_06_1",
+                "type": "Speech",
+                "text": "Counselor, why are you still having consultations with me?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_06_2",
+                "type": "Speech",
+                "text": "Didn't you say I was already rehabilitated?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_06_3",
+                "type": "Choice",
+                "text": "I'm your Counselor. It's my duty to continue these consultations.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_06_5"
+            },
+            {
+                "id": "d_counseling_guilty_06_4",
+                "type": "Choice",
+                "text": "I came because I wanted to spend time with you, that's all.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_06_9"
+            },
+            {
+                "id": "d_counseling_guilty_06_5",
+                "type": "Speech",
+                "text": "Is...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_06_6",
+                "type": "Speech",
+                "text": "is that the only reason?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_06_7",
+                "type": "Speech",
+                "text": "So, if you weren't my Counselor, you wouldn't come to see me?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_06_8",
+                "type": "Speech",
+                "text": "That's so sad...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_06_12"
+            },
+            {
+                "id": "d_counseling_guilty_06_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_06_10",
+                "type": "Speech",
+                "text": "Really? You came here to see me?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_06_11",
+                "type": "Speech",
+                "text": "That's so nice... I really look forward to seeing you as well, Counselor.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_06_12",
+                "type": "Narration",
+                "text": "Guilty and I have an emotional consultation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_07_1",
+                "type": "Speech",
+                "text": "Someone once told me that",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_2",
+                "type": "Speech",
+                "text": "Nikkes also need hobbies.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_3",
+                "type": "Speech",
+                "text": "I wonder, what kind of hobby should I pursue?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_4",
+                "type": "Choice",
+                "text": "Going for a walk while holding hands?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_07_6"
+            },
+            {
+                "id": "d_counseling_guilty_07_5",
+                "type": "Choice",
+                "text": "Exercising to gain better control over your strength?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_07_11"
+            },
+            {
+                "id": "d_counseling_guilty_07_6",
+                "type": "Speech",
+                "text": "But whose hand would I be holding?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_7",
+                "type": "Speech",
+                "text": "Could it... be yours, Counselor?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_8",
+                "type": "Monologue",
+                "text": "I nod my head.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_9",
+                "type": "Speech",
+                "text": "That...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_10",
+                "type": "Speech",
+                "text": "would be wonderful.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_07_14"
+            },
+            {
+                "id": "d_counseling_guilty_07_11",
+                "type": "Speech",
+                "text": "Exercising as a hobby?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_12",
+                "type": "Speech",
+                "text": "Counselor, actually...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_13",
+                "type": "Speech",
+                "text": "I don't like the sound of that...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_07_14",
+                "type": "Narration",
+                "text": "I brainstorm other possible hobbies Guilty could take up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_08_1",
+                "type": "Speech",
+                "text": "Whenever I'm with you Counselor, my mood just lifts.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_2",
+                "type": "Speech",
+                "text": "When are you the happiest, Counselor?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_3",
+                "type": "Choice",
+                "text": "When I'm alone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_08_5"
+            },
+            {
+                "id": "d_counseling_guilty_08_4",
+                "type": "Choice",
+                "text": "When I'm with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_08_11"
+            },
+            {
+                "id": "d_counseling_guilty_08_5",
+                "type": "Speech",
+                "text": "Alone?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_6",
+                "type": "Speech",
+                "text": "Does that mean whenever you're with me, you feel bad?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_7",
+                "type": "Self",
+                "text": "Not at all.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_8",
+                "type": "Speech",
+                "text": "Okay... I thought for a moment my feelings weren't reciprocated.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_9",
+                "type": "Speech",
+                "text": "All this is making me confused.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_10",
+                "type": "Speech",
+                "text": "You better stop pulling my leg, or I'm going to squeeze you as hard as I can.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_08_15"
+            },
+            {
+                "id": "d_counseling_guilty_08_11",
+                "type": "Speech",
+                "text": "Counselor, you too...?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_12",
+                "type": "Speech",
+                "text": "I'm glad... I would have felt bad if I was the only one who felt the way I do.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_13",
+                "type": "Speech",
+                "text": "If you had said you don't feel the same way, I don't know what I would have done to you.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_14",
+                "type": "Speech",
+                "text": "Either way, I'm glad that's not the case.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_08_15",
+                "type": "Narration",
+                "text": "I spend a somewhat hair-raising session with Guilty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_09_1",
+                "type": "Speech",
+                "text": "Counselor, what do you do when you're feeling overwhelmed?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_09_2",
+                "type": "Speech",
+                "text": "How do you get rid of stress?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_09_3",
+                "type": "Choice",
+                "text": "I sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_09_5"
+            },
+            {
+                "id": "d_counseling_guilty_09_4",
+                "type": "Choice",
+                "text": "I exercise.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_09_8"
+            },
+            {
+                "id": "d_counseling_guilty_09_5",
+                "type": "Speech",
+                "text": "Does sleeping help relieve stress for you?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_09_6",
+                "type": "Speech",
+                "text": "That doesn't work for me.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_09_7",
+                "type": "Speech",
+                "text": "You're certainly a unique person, Counselor.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_09_11"
+            },
+            {
+                "id": "d_counseling_guilty_09_8",
+                "type": "Speech",
+                "text": "Exercise?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_09_9",
+                "type": "Speech",
+                "text": "Right, physical activity always helps get rid of stress.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_09_10",
+                "type": "Speech",
+                "text": "If only I could be free of these restraints, then I could move around freely.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_09_11",
+                "type": "Narration",
+                "text": "I have a conversation with Guilty about relieving stress.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_10_1",
+                "type": "Speech",
+                "text": "I haven't been getting any good sleep lately.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_10_2",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_10_3",
+                "type": "Choice",
+                "text": "How about counting sheep?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_10_5"
+            },
+            {
+                "id": "d_counseling_guilty_10_4",
+                "type": "Choice",
+                "text": "Want me to hold your hand while you sleep?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_10_8"
+            },
+            {
+                "id": "d_counseling_guilty_10_5",
+                "type": "Speech",
+                "text": "Counting sheep?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_10_6",
+                "type": "Speech",
+                "text": "What good would that do me?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_10_7",
+                "type": "Speech",
+                "text": "I'd much rather you hold my hand...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_10_11"
+            },
+            {
+                "id": "d_counseling_guilty_10_8",
+                "type": "Speech",
+                "text": "That sounds nice...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_10_9",
+                "type": "Speech",
+                "text": "Then I'd be nice and warm, and I could fall asleep more easily.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_10_10",
+                "type": "Speech",
+                "text": "Do you think you could do that for me now?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_10_11",
+                "type": "Narration",
+                "text": "I hold Guilty's hand so she could get some sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_11_1",
+                "type": "Speech",
+                "text": "Sin always makes fun of me because I'm slow at texting.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_11_2",
+                "type": "Speech",
+                "text": "I always use voice-to-text, so I can't help that it's slow sometimes...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_11_3",
+                "type": "Choice",
+                "text": "You should try and learn to text faster.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_11_5"
+            },
+            {
+                "id": "d_counseling_guilty_11_4",
+                "type": "Choice",
+                "text": "Don't worry about Sin. She's in the wrong.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_11_8"
+            },
+            {
+                "id": "d_counseling_guilty_11_5",
+                "type": "Speech",
+                "text": "But how? I can't send them any faster than I already am.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_11_6",
+                "type": "Speech",
+                "text": "Voice-to-text always moves at a snail's pace.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_11_7",
+                "type": "Speech",
+                "text": "You could at least have a little sympathy, Counselor.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_11_11"
+            },
+            {
+                "id": "d_counseling_guilty_11_8",
+                "type": "Speech",
+                "text": "That's what I was saying!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_11_9",
+                "type": "Speech",
+                "text": "Sin wouldn't say that if she couldn't use her arms to text.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_11_10",
+                "type": "Speech",
+                "text": "She's so mean...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_11_11",
+                "type": "Narration",
+                "text": "I help Guilty practice how to send texts faster.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_12_1",
+                "type": "Speech",
+                "text": "Counselor, what do you think is worse?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_12_2",
+                "type": "Speech",
+                "text": "Hurting someone physically, or hurting their feelings?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_12_3",
+                "type": "Choice",
+                "text": "Hurting someone physically.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_12_5"
+            },
+            {
+                "id": "d_counseling_guilty_12_4",
+                "type": "Choice",
+                "text": "Hurting someone's feelings.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_12_7"
+            },
+            {
+                "id": "d_counseling_guilty_12_5",
+                "type": "Speech",
+                "text": "But why? The body heals quickly enough after being injured.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_12_6",
+                "type": "Speech",
+                "text": "I think hurting someone's feelings is way worse.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_12_9"
+            },
+            {
+                "id": "d_counseling_guilty_12_7",
+                "type": "Speech",
+                "text": "I agree.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_12_8",
+                "type": "Speech",
+                "text": "People who hurt your feelings are the worst.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_12_9"
+            },
+            {
+                "id": "d_counseling_guilty_12_9",
+                "type": "Speech",
+                "text": "So many people out there will betray your trust.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_12_10",
+                "type": "Speech",
+                "text": "Whenever I see people like that,",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_12_11",
+                "type": "Speech",
+                "text": "I just wanna grab them and squeeze...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_12_12",
+                "type": "Narration",
+                "text": "I have a conversation with Guilty about the importance of feelings.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_13_1",
+                "type": "Speech",
+                "text": "About Sin and Quency,",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_2",
+                "type": "Speech",
+                "text": "they are way more dangerous than me.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_3",
+                "type": "Speech",
+                "text": "Why am I under more heavy restraints than they are?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_4",
+                "type": "Choice",
+                "text": "Because being tied up is a look that really suits you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_13_6"
+            },
+            {
+                "id": "d_counseling_guilty_13_5",
+                "type": "Choice",
+                "text": "Because the crimes you committed were more serious.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_13_9"
+            },
+            {
+                "id": "d_counseling_guilty_13_6",
+                "type": "Speech",
+                "text": "So the more restraints I have... the more attractive I am?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_7",
+                "type": "Speech",
+                "text": "I don't understand what you're saying.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_8",
+                "type": "Speech",
+                "text": "I wish you'd take this a little more seriously and quit joking around.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_13_13"
+            },
+            {
+                "id": "d_counseling_guilty_13_9",
+                "type": "Speech",
+                "text": "So that means they think I'm more of a threat, right?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_10",
+                "type": "Speech",
+                "text": "Does that mean you think I'm more of a threat?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_11",
+                "type": "Monologue",
+                "text": "I nod my head.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_12",
+                "type": "Speech",
+                "text": "Hmm... not sure if any of this makes me feel any better, but okay...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_13_13",
+                "type": "Narration",
+                "text": "I listen to Guilty complain more about being tied up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_14_1",
+                "type": "Speech",
+                "text": "When I first entered the rehabilitation center, all the other Nikkes came over and were sizing me up.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_2",
+                "type": "Speech",
+                "text": "What do you think I did when that happened?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_3",
+                "type": "Choice",
+                "text": "You ignored them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_14_5"
+            },
+            {
+                "id": "d_counseling_guilty_14_4",
+                "type": "Choice",
+                "text": "You punched them out.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_14_8"
+            },
+            {
+                "id": "d_counseling_guilty_14_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_6",
+                "type": "Speech",
+                "text": "You really do understand me... good.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_7",
+                "type": "Speech",
+                "text": "That's right. I ignored them... at first.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_14_11"
+            },
+            {
+                "id": "d_counseling_guilty_14_8",
+                "type": "Speech",
+                "text": "Why would I do that?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_9",
+                "type": "Speech",
+                "text": "You really must think I'm some kind of depraved criminal.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_10",
+                "type": "Speech",
+                "text": "I just ignored them, since it was our first time meeting and all.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_14_11"
+            },
+            {
+                "id": "d_counseling_guilty_14_11",
+                "type": "Self",
+                "text": "Okay, but what did you do later on?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_12",
+                "type": "Speech",
+                "text": "Afterwards, I told them that if they were so interested, they should come in for a closer look.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_13",
+                "type": "Speech",
+                "text": "Then I gave a biiiiig ol' squeeze.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_14",
+                "type": "Speech",
+                "text": "To every last one of them.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_14_15",
+                "type": "Narration",
+                "text": "... I better tell the rest of the Nikkes at the Outpost not to stare at Guilty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_15_1",
+                "type": "Speech",
+                "text": "Do you like hugging other people,",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_15_2",
+                "type": "Speech",
+                "text": "or do you prefer being hugged?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_15_3",
+                "type": "Choice",
+                "text": "I like giving hugs.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_15_5"
+            },
+            {
+                "id": "d_counseling_guilty_15_4",
+                "type": "Choice",
+                "text": "I like being hugged.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_15_9"
+            },
+            {
+                "id": "d_counseling_guilty_15_5",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_15_6",
+                "type": "Speech",
+                "text": "That makes two of us then.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_15_7",
+                "type": "Speech",
+                "text": "So that's why you shied away from my hugs.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_15_8",
+                "type": "Speech",
+                "text": "It made me sad at the time, but at least now I understand why you did it.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_15_12"
+            },
+            {
+                "id": "d_counseling_guilty_15_9",
+                "type": "Speech",
+                "text": "You prefer being hugged?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_15_10",
+                "type": "Speech",
+                "text": "Then why didn't you let me hug you?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_15_11",
+                "type": "Speech",
+                "text": "I feel so sad now...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_15_12",
+                "type": "Narration",
+                "text": "I comfort the saddened Guilty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_16_1",
+                "type": "Speech",
+                "text": "Counselor...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_16_2",
+                "type": "Speech",
+                "text": "My hands...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_16_3",
+                "type": "Choice",
+                "text": "Are you asking me to untie your hands?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_16_5"
+            },
+            {
+                "id": "d_counseling_guilty_16_4",
+                "type": "Choice",
+                "text": "Are you asking me to hold your hand?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_16_9"
+            },
+            {
+                "id": "d_counseling_guilty_16_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_16_6",
+                "type": "Speech",
+                "text": "That's right! How did you know?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_16_7",
+                "type": "Speech",
+                "text": "I was hoping you'd pick up on how uncomfortable my hands felt.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_16_8",
+                "type": "Speech",
+                "text": "I'm glad that you noticed.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_16_12"
+            },
+            {
+                "id": "d_counseling_guilty_16_9",
+                "type": "Speech",
+                "text": "Um, that's nice too I suppose, but...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_16_10",
+                "type": "Speech",
+                "text": "my hands feel really uncomfortable right now. Can't you untie them?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_16_11",
+                "type": "Speech",
+                "text": "Just for a moment?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_16_12",
+                "type": "Narration",
+                "text": "I untie Guilty's hands.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_17_1",
+                "type": "Speech",
+                "text": "Counselor,",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_17_2",
+                "type": "Speech",
+                "text": "can you pass me the water bottle that's over there?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_17_3",
+                "type": "Choice",
+                "text": "Pour some water into a glass and hand it over.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_17_5"
+            },
+            {
+                "id": "d_counseling_guilty_17_4",
+                "type": "Choice",
+                "text": "Put a straw in the water bottle.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_17_8"
+            },
+            {
+                "id": "d_counseling_guilty_17_5",
+                "type": "Speech",
+                "text": "Are you being mean on purpose? How am I supposed to drink this with my hands tied?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_17_6",
+                "type": "Speech",
+                "text": "Do you enjoy seeing me suffer?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_17_7",
+                "type": "Speech",
+                "text": "Could you please put in a straw?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_17_11"
+            },
+            {
+                "id": "d_counseling_guilty_17_8",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_17_9",
+                "type": "Speech",
+                "text": "No one ever put in a straw for me without me having to ask them to...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_17_10",
+                "type": "Speech",
+                "text": "I'm touched...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_17_11",
+                "type": "Narration",
+                "text": "I help Guilty drink the water comfortably.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_18_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_2",
+                "type": "Monologue",
+                "text": "Guilty is staring intently at a bottle of hand lotion on the table.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_3",
+                "type": "Speech",
+                "text": "Counselor...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_4",
+                "type": "Speech",
+                "text": "Is this some kind of cruel joke?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_5",
+                "type": "Speech",
+                "text": "Quency said my hands are restrained, so they must be dried and cracked.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_6",
+                "type": "Speech",
+                "text": "So she left a bottle of hand lotion on the table to torment me with.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_7",
+                "type": "Choice",
+                "text": "Relax. I'll put it on for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_18_9"
+            },
+            {
+                "id": "d_counseling_guilty_18_8",
+                "type": "Choice",
+                "text": "Maybe?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_18_13"
+            },
+            {
+                "id": "d_counseling_guilty_18_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_10",
+                "type": "Speech",
+                "text": "I guess as long as you help me put it on...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_12",
+                "type": "Speech",
+                "text": "I won't be too angry.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_18_17"
+            },
+            {
+                "id": "d_counseling_guilty_18_13",
+                "type": "Speech",
+                "text": "Honestly, I didn't even realize how dry my hands were until I saw the lotion. But now that I see it, it's all I can think about.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_14",
+                "type": "Speech",
+                "text": "It's... frustrating.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_15",
+                "type": "Speech",
+                "text": "There's no way I can put it on myself...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_16",
+                "type": "Self",
+                "text": "I'll put it on for you.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_18_17",
+                "type": "Narration",
+                "text": "I apply some hand lotion on Guilty's hands.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_19_1",
+                "type": "Speech",
+                "text": "Can I tie you up? I can use a restraint strap like mine.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_2",
+                "type": "Speech",
+                "text": "Just once, pretty please?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_3",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_19_5"
+            },
+            {
+                "id": "d_counseling_guilty_19_4",
+                "type": "Choice",
+                "text": "Maybe next time... if we have a chance.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_19_10"
+            },
+            {
+                "id": "d_counseling_guilty_19_5",
+                "type": "Speech",
+                "text": "Jeez, you didn't have to be so blunt...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_6",
+                "type": "Speech",
+                "text": "Why are you so mean? Especially when I'm tied up like this...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_7",
+                "type": "Speech",
+                "text": "I can't even do the same to you. It's not fair.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_8",
+                "type": "Speech",
+                "text": "It's okay. Even if you say no now,",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_9",
+                "type": "Speech",
+                "text": "I'll try it one day.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_19_14"
+            },
+            {
+                "id": "d_counseling_guilty_19_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_11",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_12",
+                "type": "Speech",
+                "text": "Remember, you promised!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_13",
+                "type": "Speech",
+                "text": "No takebacks.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_19_14",
+                "type": "Narration",
+                "text": "Guilty and I talk about restraint methods.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_guilty_20_1",
+                "type": "Speech",
+                "text": "Sin brought me a mint chocolate soda.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_2",
+                "type": "Speech",
+                "text": "She said the color suited me.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_3",
+                "type": "Speech",
+                "text": "Apparently it's all the rage in the Ark at the moment.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_4",
+                "type": "Speech",
+                "text": "Is there any truth to that?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_5",
+                "type": "Choice",
+                "text": "Yeah, it's delicious.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_guilty_20_7"
+            },
+            {
+                "id": "d_counseling_guilty_20_6",
+                "type": "Choice",
+                "text": "No. Whatever you do, don't drink it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_guilty_20_10"
+            },
+            {
+                "id": "d_counseling_guilty_20_7",
+                "type": "Speech",
+                "text": "Okay, I was curious.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_8",
+                "type": "Speech",
+                "text": "I'll try it then...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_9",
+                "type": "Speech",
+                "text": "It's delicious!",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_20_15"
+            },
+            {
+                "id": "d_counseling_guilty_20_10",
+                "type": "Speech",
+                "text": "Don't drink it?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_11",
+                "type": "Speech",
+                "text": "Oh, so I should stay away from it?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_12",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_13",
+                "type": "Speech",
+                "text": "I'm still curious,",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_14",
+                "type": "Speech",
+                "text": "so I'm going to try it anyway.",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": "d_counseling_guilty_20_15"
+            },
+            {
+                "id": "d_counseling_guilty_20_15",
+                "type": "Monologue",
+                "text": "Guilty begins to drink the mint chocolate soda from a straw.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_16",
+                "type": "Narration",
+                "text": "*Slurp*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_17",
+                "type": "Self",
+                "text": "!!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_18",
+                "type": "Speech",
+                "text": "Hm...?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_19",
+                "type": "Speech",
+                "text": "It's sweet... refreshing... bitter... and tangy...",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_20",
+                "type": "Speech",
+                "text": "Very interesting flavor. I... think I like it?",
+                "speaker": "Guilty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_guilty_20_21",
+                "type": "Narration",
+                "text": "Guilty proceeds to finish the rest of the soda. It seems she enjoys it.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

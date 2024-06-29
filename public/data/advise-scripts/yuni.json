@@ -1,0 +1,1733 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_yuni_01_1",
+                "type": "Speech",
+                "text": "Commander, Mihara hasn't been spending as much time with me lately...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_01_2",
+                "type": "Speech",
+                "text": "Is she sick of me or something?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_01_3",
+                "type": "Choice",
+                "text": "Try throwing a hissy fit.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_01_5"
+            },
+            {
+                "id": "d_counseling_yuni_01_4",
+                "type": "Choice",
+                "text": "Use physical force to keep her with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_01_7"
+            },
+            {
+                "id": "d_counseling_yuni_01_5",
+                "type": "Speech",
+                "text": "I tried that already, but it didn't work...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_01_6",
+                "type": "Speech",
+                "text": "*Sigh* Whatever should I do...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_01_10"
+            },
+            {
+                "id": "d_counseling_yuni_01_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_01_8",
+                "type": "Speech",
+                "text": "Yes, that's it! It's time to get physical.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_01_9",
+                "type": "Speech",
+                "text": "I'll give Mihara a few good whacks.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_01_10"
+            },
+            {
+                "id": "d_counseling_yuni_01_10",
+                "type": "Narration",
+                "text": "I have a conversation with Yuni about Mihara.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_02_1",
+                "type": "Speech",
+                "text": "I'm in a real pickle.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_02_2",
+                "type": "Speech",
+                "text": "I want to buy some handcuffs and a whip,",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_02_3",
+                "type": "Speech",
+                "text": "but I don't have enough money to get both!",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_02_4",
+                "type": "Choice",
+                "text": "Tie Mihara up with the whip.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_02_6"
+            },
+            {
+                "id": "d_counseling_yuni_02_5",
+                "type": "Choice",
+                "text": "I'll buy them for you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_02_9"
+            },
+            {
+                "id": "d_counseling_yuni_02_6",
+                "type": "Speech",
+                "text": "Ah-ha!",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_02_7",
+                "type": "Speech",
+                "text": "Of course! How could I forget such a basic maneuver?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_02_8",
+                "type": "Speech",
+                "text": "Thanks for the advice, Commander.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_02_11"
+            },
+            {
+                "id": "d_counseling_yuni_02_9",
+                "type": "Speech",
+                "text": "I appreciate the offer, Commander...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_02_10",
+                "type": "Speech",
+                "text": "But if you did that, then they wouldn't truly belong to me.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_02_11"
+            },
+            {
+                "id": "d_counseling_yuni_02_11",
+                "type": "Narration",
+                "text": "Yuni lectures me about the uses of various instruments.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_03_1",
+                "type": "Speech",
+                "text": "Capturing Raptures is my job, but I'm no good at it.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_03_2",
+                "type": "Speech",
+                "text": "Commander, do you know what happens to a Rapture once it's captured?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_03_3",
+                "type": "Choice",
+                "text": "They're studied and then returned to their home.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_03_5"
+            },
+            {
+                "id": "d_counseling_yuni_03_4",
+                "type": "Choice",
+                "text": "... They probably get disposed of.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_03_8"
+            },
+            {
+                "id": "d_counseling_yuni_03_5",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_03_6",
+                "type": "Speech",
+                "text": "I'm not a child, you know.\nYou don't have to lie.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_03_7",
+                "type": "Speech",
+                "text": "Nevertheless, thank you for being so considerate.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_03_11"
+            },
+            {
+                "id": "d_counseling_yuni_03_8",
+                "type": "Speech",
+                "text": "... That's what I thought.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_03_9",
+                "type": "Speech",
+                "text": "Everyone else lies to me when I ask them that question.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_03_10",
+                "type": "Speech",
+                "text": "But not you, Commander. You're a good person.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_03_11"
+            },
+            {
+                "id": "d_counseling_yuni_03_11",
+                "type": "Narration",
+                "text": "I have a light-hearted conversation with Yuni about the Raptures.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_04_1",
+                "type": "Speech",
+                "text": "I want to use this whip to attack the Raptures,",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_04_2",
+                "type": "Speech",
+                "text": "but Mihara always stops me.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_04_3",
+                "type": "Speech",
+                "text": "Why? I'm much better with a whip than a gun.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_04_4",
+                "type": "Choice",
+                "text": "Because Raptures don't feel any pain.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_04_6"
+            },
+            {
+                "id": "d_counseling_yuni_04_5",
+                "type": "Choice",
+                "text": "Because the whip hurts more than the gun.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_04_9"
+            },
+            {
+                "id": "d_counseling_yuni_04_6",
+                "type": "Speech",
+                "text": "Ah...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_04_7",
+                "type": "Speech",
+                "text": "That's why... I guess even if I did use it, they wouldn't be able to appreciate it.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_04_8",
+                "type": "Speech",
+                "text": "You're so smart, Commander!",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_04_11"
+            },
+            {
+                "id": "d_counseling_yuni_04_9",
+                "type": "Speech",
+                "text": "No, Commander. That's not it.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_04_10",
+                "type": "Speech",
+                "text": "It's not a matter of which hurts more. It's something else entirely.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_04_11",
+                "type": "Narration",
+                "text": "Yuni teaches me how to use the whip.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_05_1",
+                "type": "Speech",
+                "text": "Mihara says that when I'm sleeping, I try to grab anything I can get my hands on.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_05_2",
+                "type": "Speech",
+                "text": "Not that long ago, I broke something of Mihara's that she cherished.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_05_3",
+                "type": "Speech",
+                "text": "Is there anything I can do to change my sleeping habits?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_05_4",
+                "type": "Choice",
+                "text": "What about tying up your hands before you go to sleep?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_05_6"
+            },
+            {
+                "id": "d_counseling_yuni_05_5",
+                "type": "Choice",
+                "text": "Find something to hold onto before you go to sleep.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_05_8"
+            },
+            {
+                "id": "d_counseling_yuni_05_6",
+                "type": "Speech",
+                "text": "Hmm... I'm not really into that.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_05_7",
+                "type": "Speech",
+                "text": "It sounds uncomfortable.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_05_10"
+            },
+            {
+                "id": "d_counseling_yuni_05_8",
+                "type": "Speech",
+                "text": "That's genius!",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_05_9",
+                "type": "Speech",
+                "text": "From now on, I'll find something that I can hold onto before I go to sleep.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_05_10",
+                "type": "Narration",
+                "text": "I have a conversation with Yuni about sleeping habits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_06_1",
+                "type": "Speech",
+                "text": "One day, if all the Raptures are gone,",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_06_2",
+                "type": "Speech",
+                "text": "and the world is peaceful once again...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_06_3",
+                "type": "Speech",
+                "text": "what should I do? I certainly won't be able to capture Raptures anymore.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_06_4",
+                "type": "Choice",
+                "text": "Just live out your days in peace.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_06_6"
+            },
+            {
+                "id": "d_counseling_yuni_06_5",
+                "type": "Choice",
+                "text": "How about running a club with Mihara?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_06_9"
+            },
+            {
+                "id": "d_counseling_yuni_06_6",
+                "type": "Speech",
+                "text": "Ha ha! Okay.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_06_7",
+                "type": "Speech",
+                "text": "That sounds nice.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_06_8",
+                "type": "Speech",
+                "text": "After all, we'd be living in a world where nothing in particular needs to be done, right?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_06_11"
+            },
+            {
+                "id": "d_counseling_yuni_06_9",
+                "type": "Speech",
+                "text": "That's a good idea, but...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_06_10",
+                "type": "Speech",
+                "text": "If the world changes, then I want to change along with it.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_06_11",
+                "type": "Narration",
+                "text": "I have a conversation with Yuni about the distant future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_07_1",
+                "type": "Speech",
+                "text": "Mihara really tore into me just now.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_07_2",
+                "type": "Speech",
+                "text": "I tied up the cookie bag so tightly that the cookies inside got crushed.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_07_3",
+                "type": "Speech",
+                "text": "But what's the point of tying a knot if you don't make it tight?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_07_4",
+                "type": "Choice",
+                "text": "Even if it breaks, the cookies are still cookies. No harm no foul.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_07_6"
+            },
+            {
+                "id": "d_counseling_yuni_07_5",
+                "type": "Choice",
+                "text": "You should tie Mihara up, too.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_07_8"
+            },
+            {
+                "id": "d_counseling_yuni_07_6",
+                "type": "Speech",
+                "text": "No, Commander. Once it breaks, it is no longer the same.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_07_7",
+                "type": "Speech",
+                "text": "It can never return to what it was before.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_07_10"
+            },
+            {
+                "id": "d_counseling_yuni_07_8",
+                "type": "Speech",
+                "text": "... Yes.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_07_9",
+                "type": "Speech",
+                "text": "Since Mihara punished me, I'll just have to punish her back.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_07_10",
+                "type": "Narration",
+                "text": "Yuni teaches me how to tie a knot.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_08_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_08_2",
+                "type": "Speech",
+                "text": "How would you feel if someone suddenly hit you, out of the blue?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_08_3",
+                "type": "Choice",
+                "text": "One-sided violence is never good.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_08_5"
+            },
+            {
+                "id": "d_counseling_yuni_08_4",
+                "type": "Choice",
+                "text": "I would want to retaliate.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_08_8"
+            },
+            {
+                "id": "d_counseling_yuni_08_5",
+                "type": "Speech",
+                "text": "Yes, I feel the same way.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_08_6",
+                "type": "Speech",
+                "text": "There needs to be mutual consent when it comes to these things.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_08_7",
+                "type": "Speech",
+                "text": "Speaking of, would you... consent to that kind of arrangement?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_08_10"
+            },
+            {
+                "id": "d_counseling_yuni_08_8",
+                "type": "Speech",
+                "text": "Ha ha! I see you're the type who doesn't like to lose.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_08_9",
+                "type": "Speech",
+                "text": "But, surely there's a better option than just retaliation?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_08_10",
+                "type": "Narration",
+                "text": "Yuni and I explore the philosophy behind hitting others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_09_1",
+                "type": "Speech",
+                "text": "My precious handcuffs! They're broken...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_09_2",
+                "type": "Speech",
+                "text": "I had them for so long...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_09_3",
+                "type": "Speech",
+                "text": "Should I buy a new pair?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_09_4",
+                "type": "Choice",
+                "text": "I'll buy you an identical pair.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_09_6"
+            },
+            {
+                "id": "d_counseling_yuni_09_5",
+                "type": "Choice",
+                "text": "Is it really that big a deal that the handcuffs are broken?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_09_9"
+            },
+            {
+                "id": "d_counseling_yuni_09_6",
+                "type": "Speech",
+                "text": "Hm... No. It's okay.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_09_7",
+                "type": "Speech",
+                "text": "It wouldn't be the same.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_09_8",
+                "type": "Speech",
+                "text": "I'll just have to fix these ones.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_09_12"
+            },
+            {
+                "id": "d_counseling_yuni_09_9",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_09_10",
+                "type": "Speech",
+                "text": "You're right! It doesn't really matter if the handcuffs work or not.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_09_11",
+                "type": "Speech",
+                "text": "They're just a prop. The important thing is who you put them on.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_09_12",
+                "type": "Narration",
+                "text": "Yuni tells me about her most treasured possessions.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_10_1",
+                "type": "Speech",
+                "text": "Commander, what kind of hit hurts the most?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_10_2",
+                "type": "Speech",
+                "text": "A hit to the shins? A punch to the gut? Stubbing your toe?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_10_3",
+                "type": "Choice",
+                "text": "I haven't been hit that much, so I really can't say.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_10_5"
+            },
+            {
+                "id": "d_counseling_yuni_10_4",
+                "type": "Choice",
+                "text": "It hurts no matter where you get hit.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_10_7"
+            },
+            {
+                "id": "d_counseling_yuni_10_5",
+                "type": "Speech",
+                "text": "Ha ha! You're right.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_10_6",
+                "type": "Speech",
+                "text": "Then, would you let me teach you...?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_10_10"
+            },
+            {
+                "id": "d_counseling_yuni_10_7",
+                "type": "Speech",
+                "text": "No way. They can't all be the same.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_10_8",
+                "type": "Speech",
+                "text": "Commander, you're either lying, or you really don't know anything.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_10_9",
+                "type": "Speech",
+                "text": "But that's not a problem. Just let me teach you...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_10_10",
+                "type": "Narration",
+                "text": "Yuni teaches me a lot of things.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_11_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_11_2",
+                "type": "Speech",
+                "text": "What would you say is my strong suit?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_11_3",
+                "type": "Choice",
+                "text": "You're pure of heart, and kind.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_11_5"
+            },
+            {
+                "id": "d_counseling_yuni_11_4",
+                "type": "Choice",
+                "text": "You're adorable.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_11_8"
+            },
+            {
+                "id": "d_counseling_yuni_11_5",
+                "type": "Speech",
+                "text": "Hehe,",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_11_6",
+                "type": "Speech",
+                "text": "Mihara said the same thing.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_11_7",
+                "type": "Speech",
+                "text": "I'm glad that you feel the same way she does.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_11_10"
+            },
+            {
+                "id": "d_counseling_yuni_11_8",
+                "type": "Speech",
+                "text": "Being cute is not a strength.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_11_9",
+                "type": "Speech",
+                "text": "It seems you don't know me that well.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_11_10",
+                "type": "Narration",
+                "text": "Yuni and I have a conversation about her strengths.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_12_1",
+                "type": "Speech",
+                "text": "Commander, have you ever drank a cocktail before?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_12_2",
+                "type": "Speech",
+                "text": "I really want to try one, but Mihara says I'm still too young.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_12_3",
+                "type": "Speech",
+                "text": "What does it taste like?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_12_4",
+                "type": "Choice",
+                "text": "When you're a little older, we can go try a few together.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_12_6"
+            },
+            {
+                "id": "d_counseling_yuni_12_5",
+                "type": "Choice",
+                "text": "They taste... as if they have an air of danger to them. It's all very adult.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_12_9"
+            },
+            {
+                "id": "d_counseling_yuni_12_6",
+                "type": "Speech",
+                "text": "That'd be great.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_12_7",
+                "type": "Speech",
+                "text": "Um...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_12_8",
+                "type": "Speech",
+                "text": "Could Mihara come with us too?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_12_11"
+            },
+            {
+                "id": "d_counseling_yuni_12_9",
+                "type": "Speech",
+                "text": "How intriguing...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_12_10",
+                "type": "Speech",
+                "text": "I'm not sure how I'd handle it.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_12_11",
+                "type": "Narration",
+                "text": "I explain more about cocktails to Yuni.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_13_1",
+                "type": "Speech",
+                "text": "Mihara...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_13_2",
+                "type": "Speech",
+                "text": "means the world to me.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_13_3",
+                "type": "Choice",
+                "text": "I'm sure Mihara likes you as well.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_13_5"
+            },
+            {
+                "id": "d_counseling_yuni_13_4",
+                "type": "Choice",
+                "text": "She means the world to me too.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_13_8"
+            },
+            {
+                "id": "d_counseling_yuni_13_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_13_6",
+                "type": "Speech",
+                "text": "Mihara likes me too...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_13_7",
+                "type": "Speech",
+                "text": "I'm happy to hear you say that.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_13_10"
+            },
+            {
+                "id": "d_counseling_yuni_13_8",
+                "type": "Speech",
+                "text": "Wait...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_13_9",
+                "type": "Speech",
+                "text": "You mean you like Mihara more than me?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_13_10",
+                "type": "Narration",
+                "text": "Yuni and I talk about Mihara.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_14_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_14_2",
+                "type": "Speech",
+                "text": "I'd prefer to be alone today.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_14_3",
+                "type": "Choice",
+                "text": "Caress her hair.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_14_5"
+            },
+            {
+                "id": "d_counseling_yuni_14_4",
+                "type": "Choice",
+                "text": "Take out a candy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_14_8"
+            },
+            {
+                "id": "d_counseling_yuni_14_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_14_6",
+                "type": "Speech",
+                "text": "Thank you, Commander.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_14_7",
+                "type": "Speech",
+                "text": "I feel much better.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_14_10"
+            },
+            {
+                "id": "d_counseling_yuni_14_8",
+                "type": "Speech",
+                "text": "I am not in the mood for candy.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_14_9",
+                "type": "Speech",
+                "text": "I'm feeling down today.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_14_10",
+                "type": "Narration",
+                "text": "I try my best to make Yuni feel better.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_15_1",
+                "type": "Speech",
+                "text": "Commander...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_15_2",
+                "type": "Speech",
+                "text": "I'm not bothering you by talking to you every day, am I?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_15_3",
+                "type": "Choice",
+                "text": "You've never bothered me, not even once.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_15_5"
+            },
+            {
+                "id": "d_counseling_yuni_15_4",
+                "type": "Choice",
+                "text": "Honestly, sometimes it's a bit too much.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_15_7"
+            },
+            {
+                "id": "d_counseling_yuni_15_5",
+                "type": "Speech",
+                "text": "Hehe, that's good.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_15_6",
+                "type": "Speech",
+                "text": "I was worried you might find it irritating...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_15_10"
+            },
+            {
+                "id": "d_counseling_yuni_15_7",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_15_8",
+                "type": "Speech",
+                "text": "So it's somewhat difficult for you to handle, is that it?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_15_9",
+                "type": "Speech",
+                "text": "But I like spending time with you.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_15_10",
+                "type": "Narration",
+                "text": "Yuni and I have a nice heart-to-heart.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_16_1",
+                "type": "Speech",
+                "text": "Commander, give me your hand.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_16_2",
+                "type": "Speech",
+                "text": "I want to show you something fun.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_16_3",
+                "type": "Choice",
+                "text": "You reach out your hand.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_16_5"
+            },
+            {
+                "id": "d_counseling_yuni_16_4",
+                "type": "Choice",
+                "text": "You reach out with your foot.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_16_8"
+            },
+            {
+                "id": "d_counseling_yuni_16_5",
+                "type": "Narration",
+                "text": "Yuni slaps your hand.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_16_6",
+                "type": "Narration",
+                "text": "*Wazzzzzzuuuuup*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_16_7",
+                "type": "Speech",
+                "text": "Hehe, isn't that great?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_16_10"
+            },
+            {
+                "id": "d_counseling_yuni_16_8",
+                "type": "Speech",
+                "text": "Commander, what are you doing?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_16_9",
+                "type": "Speech",
+                "text": "That's not your hand... is it?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_16_10",
+                "type": "Narration",
+                "text": "Yuni asked me again to reach out my hand, but I refused.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_17_1",
+                "type": "Speech",
+                "text": "Commander, I don't want to go to orientation.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_17_2",
+                "type": "Speech",
+                "text": "I pick things up by doing them, not hearing about them.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_17_3",
+                "type": "Speech",
+                "text": "Do I really have to go?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_17_4",
+                "type": "Choice",
+                "text": "It's important to read up on things you're learning as well.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_17_6"
+            },
+            {
+                "id": "d_counseling_yuni_17_5",
+                "type": "Choice",
+                "text": "Anything worth learning can be learned on the battlefield. You don't have to go.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_17_8"
+            },
+            {
+                "id": "d_counseling_yuni_17_6",
+                "type": "Speech",
+                "text": "... Mihara said the exact same thing...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_17_7",
+                "type": "Speech",
+                "text": "Fine, I'll go.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_17_12"
+            },
+            {
+                "id": "d_counseling_yuni_17_8",
+                "type": "Speech",
+                "text": "Really, I don't have to go?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_17_9",
+                "type": "Speech",
+                "text": "But Mihara said I had to...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_17_10",
+                "type": "Speech",
+                "text": "If I skip orientation, Syuen will...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_17_11",
+                "type": "Speech",
+                "text": "I'm so confused. I don't know what to do.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_17_12",
+                "type": "Narration",
+                "text": "Yuni suddenly seemed downcast, so I consoled her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_18_1",
+                "type": "Speech",
+                "text": "Hmm... Mmm...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_2",
+                "type": "Narration",
+                "text": "Yuni was fiddling around with the whip.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_3",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_4",
+                "type": "Speech",
+                "text": "Do you like me?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_5",
+                "type": "Choice",
+                "text": "Yes, I do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_18_7"
+            },
+            {
+                "id": "d_counseling_yuni_18_6",
+                "type": "Choice",
+                "text": "Before we talk... could you put the whip down?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_18_10"
+            },
+            {
+                "id": "d_counseling_yuni_18_7",
+                "type": "Speech",
+                "text": "That's a relief!",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_8",
+                "type": "Speech",
+                "text": "I thought you didn't like me. It felt like you were avoiding me.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_9",
+                "type": "Speech",
+                "text": "I like you as well, Commander.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_18_13"
+            },
+            {
+                "id": "d_counseling_yuni_18_10",
+                "type": "Speech",
+                "text": "Say what?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_11",
+                "type": "Speech",
+                "text": "What about the whip?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_12",
+                "type": "Speech",
+                "text": "I'm starting to think you care about this whip more than you do about me.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_18_13",
+                "type": "Narration",
+                "text": "I speak a little more with Yuni, attempting the entire time to convince her to drop the whip.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_19_1",
+                "type": "Speech",
+                "text": "I'm so exhausted...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_19_2",
+                "type": "Choice",
+                "text": "You can go and sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_19_4"
+            },
+            {
+                "id": "d_counseling_yuni_19_3",
+                "type": "Choice",
+                "text": "Do you want to sleep here?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_19_7"
+            },
+            {
+                "id": "d_counseling_yuni_19_4",
+                "type": "Speech",
+                "text": "I don't feel like leaving.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_19_5",
+                "type": "Speech",
+                "text": "I want to sleep here.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_19_6",
+                "type": "Speech",
+                "text": "Is it okay?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_19_9"
+            },
+            {
+                "id": "d_counseling_yuni_19_7",
+                "type": "Speech",
+                "text": "Hehe, you're the best, Commander.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_19_8",
+                "type": "Speech",
+                "text": "I'll sleep here.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_19_9",
+                "type": "Narration",
+                "text": "Yuni fell asleep on the sofa.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yuni_20_1",
+                "type": "Speech",
+                "text": "Mihara says a hobby is something that makes you happy.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_20_2",
+                "type": "Speech",
+                "text": "Commander, when are you most happy?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_20_3",
+                "type": "Choice",
+                "text": "When I'm spending time with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yuni_20_5"
+            },
+            {
+                "id": "d_counseling_yuni_20_4",
+                "type": "Choice",
+                "text": "When I'm spending time with Mihara.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yuni_20_7"
+            },
+            {
+                "id": "d_counseling_yuni_20_5",
+                "type": "Speech",
+                "text": "You enjoy spending time with me?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_20_6",
+                "type": "Speech",
+                "text": "I'm happiest when I'm around you and Mihara.",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": "d_counseling_yuni_20_10"
+            },
+            {
+                "id": "d_counseling_yuni_20_7",
+                "type": "Speech",
+                "text": "But...",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_20_8",
+                "type": "Speech",
+                "text": "What about me?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_20_9",
+                "type": "Speech",
+                "text": "Do you not enjoy spending time with me?",
+                "speaker": "Yuni",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yuni_20_10",
+                "type": "Narration",
+                "text": "I have a conversation with Yuni about what makes us happy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

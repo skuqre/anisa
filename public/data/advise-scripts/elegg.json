@@ -1,0 +1,1949 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_elegg_01_1",
+                "type": "Speech",
+                "text": "If you only had 50MB left on your computer,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_01_2",
+                "type": "Speech",
+                "text": "what would you do?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_01_3",
+                "type": "Speech",
+                "text": "I'm... asking for a friend.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_01_4",
+                "type": "Choice",
+                "text": "I'd go buy a new hard drive.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_01_6"
+            },
+            {
+                "id": "d_counseling_elegg_01_5",
+                "type": "Choice",
+                "text": "I'd use what little space was left to install a game with a smaller file size.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_01_9"
+            },
+            {
+                "id": "d_counseling_elegg_01_6",
+                "type": "Speech",
+                "text": "You what?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_01_7",
+                "type": "Speech",
+                "text": "Why would you have to buy a new hard drive?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_01_8",
+                "type": "Speech",
+                "text": "50MB is still plenty of space for a lot of things! Like BOOM, for one.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_01_12"
+            },
+            {
+                "id": "d_counseling_elegg_01_9",
+                "type": "Speech",
+                "text": "Hehe, that's a perfect answer.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_01_10",
+                "type": "Speech",
+                "text": "And of course, BOOM fits the bill perfectly, since it's just 28MB.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_01_11",
+                "type": "Speech",
+                "text": "In fact, I feel like installing it on something right now...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_01_12"
+            },
+            {
+                "id": "d_counseling_elegg_01_12",
+                "type": "Narration",
+                "text": "Elegg and I discuss the various ways to use up remaining computer memory.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_02_1",
+                "type": "Speech",
+                "text": "*Buzz*",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_02_2",
+                "type": "Speech",
+                "text": "*Buzzzzz*",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_02_3",
+                "type": "Choice",
+                "text": "*Zap*",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_02_5"
+            },
+            {
+                "id": "d_counseling_elegg_02_4",
+                "type": "Choice",
+                "text": "*Kaboom*",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_02_7"
+            },
+            {
+                "id": "d_counseling_elegg_02_5",
+                "type": "Speech",
+                "text": "Excellent,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_02_6",
+                "type": "Speech",
+                "text": "the electrical current is flowing smoothly.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_02_10"
+            },
+            {
+                "id": "d_counseling_elegg_02_7",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_02_8",
+                "type": "Speech",
+                "text": "Why did it explode? I'm pretty sure I sent the correct voltage.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_02_9",
+                "type": "Speech",
+                "text": "These wires must be defective.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_02_10"
+            },
+            {
+                "id": "d_counseling_elegg_02_10",
+                "type": "Narration",
+                "text": "Elegg and I spend time together playing with electricity.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_03_1",
+                "type": "Speech",
+                "text": "Mr. Commander,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_03_2",
+                "type": "Speech",
+                "text": "what do you think of Trony?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_03_3",
+                "type": "Choice",
+                "text": "She's great. Competent and cool.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_03_5"
+            },
+            {
+                "id": "d_counseling_elegg_03_4",
+                "type": "Choice",
+                "text": "Very taciturn.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_03_8"
+            },
+            {
+                "id": "d_counseling_elegg_03_5",
+                "type": "Speech",
+                "text": "You're pretty good at reading people,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_03_6",
+                "type": "Speech",
+                "text": "Mr. Commander.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_03_7",
+                "type": "Speech",
+                "text": "Without Trony, our squad wouldn't be able to function.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_03_11"
+            },
+            {
+                "id": "d_counseling_elegg_03_8",
+                "type": "Speech",
+                "text": "Well...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_03_9",
+                "type": "Speech",
+                "text": "While that may be true,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_03_10",
+                "type": "Speech",
+                "text": "she excels in plenty of other areas.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_03_11"
+            },
+            {
+                "id": "d_counseling_elegg_03_11",
+                "type": "Narration",
+                "text": "Elegg and I talk about Trony.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_04_1",
+                "type": "Speech",
+                "text": "Let me give you a hypothetical:",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_2",
+                "type": "Speech",
+                "text": "Say there are some guys who are giving you a hard time,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_3",
+                "type": "Speech",
+                "text": "but it turns out they've been financially supporting your family, who is hard up.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_4",
+                "type": "Speech",
+                "text": "Meanwhile, your parents have known about this the whole time and just never told you.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_5",
+                "type": "Speech",
+                "text": "How would you feel?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_6",
+                "type": "Choice",
+                "text": "I'd do what I have to to survive; I'd keep accepting the money.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_04_8"
+            },
+            {
+                "id": "d_counseling_elegg_04_7",
+                "type": "Choice",
+                "text": "If living meant having to accept dirty money, I'd rather die.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_04_11"
+            },
+            {
+                "id": "d_counseling_elegg_04_8",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_9",
+                "type": "Speech",
+                "text": "Yes, for some people, survival takes precedence above all else,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_10",
+                "type": "Speech",
+                "text": "but for me, how you live is even more important.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_04_15"
+            },
+            {
+                "id": "d_counseling_elegg_04_11",
+                "type": "Speech",
+                "text": "... I see.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_12",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_13",
+                "type": "Speech",
+                "text": "Some people may feel survival takes precedence above all else,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_04_14",
+                "type": "Speech",
+                "text": "but for me, how you live is even more important.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_04_15"
+            },
+            {
+                "id": "d_counseling_elegg_04_15",
+                "type": "Narration",
+                "text": "I have a serious conversation with Elegg.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_05_1",
+                "type": "Speech",
+                "text": "We all know BOOM is humanity's single greatest achievement,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_05_2",
+                "type": "Speech",
+                "text": "but what do you personally think is its best aspect?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_05_3",
+                "type": "Choice",
+                "text": "It has awesome graphics, despite the game taking up so little space.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_05_5"
+            },
+            {
+                "id": "d_counseling_elegg_05_4",
+                "type": "Choice",
+                "text": "It's big fun in a small package.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_05_9"
+            },
+            {
+                "id": "d_counseling_elegg_05_5",
+                "type": "Speech",
+                "text": "You're halfway there.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_05_6",
+                "type": "Speech",
+                "text": "Killer graphics are great and all.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_05_7",
+                "type": "Speech",
+                "text": "But!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_05_8",
+                "type": "Speech",
+                "text": "The most important thing about a game is how fun it is.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_05_13"
+            },
+            {
+                "id": "d_counseling_elegg_05_9",
+                "type": "Speech",
+                "text": "Couldn't have said it better myself!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_05_10",
+                "type": "Speech",
+                "text": "Usually, games with smaller file sizes are by necessity rather simple, which can sometimes hamper the enjoyment.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_05_11",
+                "type": "Speech",
+                "text": "But not with BOOM.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_05_12",
+                "type": "Speech",
+                "text": "It's got it all!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_05_13"
+            },
+            {
+                "id": "d_counseling_elegg_05_13",
+                "type": "Narration",
+                "text": "Elegg passionately tells me about her love for BOOM for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_06_1",
+                "type": "Speech",
+                "text": "Mr. Commander,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_06_2",
+                "type": "Speech",
+                "text": "do you think that our squad's name was chosen a bit hastily?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_06_3",
+                "type": "Speech",
+                "text": "Electric Shock seems a bit underwhelming.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_06_4",
+                "type": "Choice",
+                "text": "I think it sounds cool.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_06_6"
+            },
+            {
+                "id": "d_counseling_elegg_06_5",
+                "type": "Choice",
+                "text": "It doesn't really stand out from other squad names.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_06_9"
+            },
+            {
+                "id": "d_counseling_elegg_06_6",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_06_7",
+                "type": "Speech",
+                "text": "Well, as long as you think it sounds cool, I suppose that's all that matters, hehe.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_06_8",
+                "type": "Speech",
+                "text": "I'm happy if you're happy.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_06_13"
+            },
+            {
+                "id": "d_counseling_elegg_06_9",
+                "type": "Speech",
+                "text": "I  know a whole bunch of other squad names,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_06_10",
+                "type": "Speech",
+                "text": "and they all seem way cooler than ours.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_06_11",
+                "type": "Speech",
+                "text": "Despite that, I still don't think I'd want to change it.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_06_12",
+                "type": "Speech",
+                "text": "I've already grown attached to it.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_06_13"
+            },
+            {
+                "id": "d_counseling_elegg_06_13",
+                "type": "Narration",
+                "text": "Elegg and I talk more about squad names.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_07_1",
+                "type": "Speech",
+                "text": "What a thrill it is to harness electricity!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_07_2",
+                "type": "Speech",
+                "text": "Directly controlling an energy source invisible to the naked eye, to make it bend to your command...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_07_3",
+                "type": "Choice",
+                "text": "I don't see the appeal.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_07_5"
+            },
+            {
+                "id": "d_counseling_elegg_07_4",
+                "type": "Choice",
+                "text": "So cool!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_07_8"
+            },
+            {
+                "id": "d_counseling_elegg_07_5",
+                "type": "Speech",
+                "text": "Not many people do. It can be a hard concept to grasp.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_07_6",
+                "type": "Speech",
+                "text": "But I do take pleasure in it, and it's how I make a living.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_07_7",
+                "type": "Speech",
+                "text": "If you love what do you, you'll never work a day in your life!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_07_11"
+            },
+            {
+                "id": "d_counseling_elegg_07_8",
+                "type": "Speech",
+                "text": "Hehe, you're adorable, Mr. Commander.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_07_9",
+                "type": "Speech",
+                "text": "I realize that harnessing electricity may be a difficult concept to grasp, but once you take a closer look, it can be incredibly fun.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_07_10",
+                "type": "Speech",
+                "text": "If you ever want to learn more, I'd be more than happy to teach you, hehe.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_07_11"
+            },
+            {
+                "id": "d_counseling_elegg_07_11",
+                "type": "Narration",
+                "text": "Elegg and I enjoy our session together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_08_1",
+                "type": "Speech",
+                "text": "Let's see, first turn this...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_08_2",
+                "type": "Speech",
+                "text": "Then crank that, and...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_08_3",
+                "type": "Speech",
+                "text": "Tah-dah! BOOM is officially installed on your shower mirror!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_08_4",
+                "type": "Choice",
+                "text": "Now I'll be able to amuse myself while showering.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_08_6"
+            },
+            {
+                "id": "d_counseling_elegg_08_5",
+                "type": "Choice",
+                "text": "How did you install that game on a mirror?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_08_9"
+            },
+            {
+                "id": "d_counseling_elegg_08_6",
+                "type": "Speech",
+                "text": "Exactly!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_08_7",
+                "type": "Speech",
+                "text": "You can control it using the tap and shower head.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_08_8",
+                "type": "Speech",
+                "text": "Have fun playing!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_08_12"
+            },
+            {
+                "id": "d_counseling_elegg_08_9",
+                "type": "Speech",
+                "text": "Didn't you know?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_08_10",
+                "type": "Speech",
+                "text": "Your mirror is actually a high-tech display screen.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_08_11",
+                "type": "Speech",
+                "text": "Haven't you ever looked in the upper corner? It shows the news and weather reports.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_08_12"
+            },
+            {
+                "id": "d_counseling_elegg_08_12",
+                "type": "Narration",
+                "text": "I end the session feeling excited about playing games in the shower.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_09_1",
+                "type": "Speech",
+                "text": "I love winter.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_09_2",
+                "type": "Speech",
+                "text": "Nothing beats a clear winter day.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_09_3",
+                "type": "Speech",
+                "text": "Can you guess why?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_09_4",
+                "type": "Choice",
+                "text": "Because it's dry?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_09_6"
+            },
+            {
+                "id": "d_counseling_elegg_09_5",
+                "type": "Choice",
+                "text": "Because you like the cold?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_09_9"
+            },
+            {
+                "id": "d_counseling_elegg_09_6",
+                "type": "Speech",
+                "text": "Exactly!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_09_7",
+                "type": "Speech",
+                "text": "And dry weather means a whole lotta static electricity.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_09_8",
+                "type": "Speech",
+                "text": "That tingling sensation feels amazing! Hehehe!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_09_13"
+            },
+            {
+                "id": "d_counseling_elegg_09_9",
+                "type": "Speech",
+                "text": "Oh, I guess I never told you.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_09_10",
+                "type": "Speech",
+                "text": "I'm not a fan of the cold.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_09_11",
+                "type": "Speech",
+                "text": "I'm more into dry weather because that's when static electricity builds up.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_09_12",
+                "type": "Speech",
+                "text": "That tingling sensation is pure ecstasy! Hehehe!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_09_13"
+            },
+            {
+                "id": "d_counseling_elegg_09_13",
+                "type": "Narration",
+                "text": "I spend time with Elegg generating static electricity.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_10_1",
+                "type": "Speech",
+                "text": "Let's play a word game!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_10_2",
+                "type": "Speech",
+                "text": "Give me four words that start with the letter \"E\".",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_10_3",
+                "type": "Choice",
+                "text": "ElecTronycs, electricity, electrolyte, electromagnetic.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_10_5"
+            },
+            {
+                "id": "d_counseling_elegg_10_4",
+                "type": "Choice",
+                "text": "Enemies, extraction point, encirclement, exterminate.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_10_8"
+            },
+            {
+                "id": "d_counseling_elegg_10_5",
+                "type": "Speech",
+                "text": "Hehe,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_10_6",
+                "type": "Speech",
+                "text": "I'm a big fan of all those words.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_10_7",
+                "type": "Speech",
+                "text": "You pass!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_10_11"
+            },
+            {
+                "id": "d_counseling_elegg_10_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_10_9",
+                "type": "Speech",
+                "text": "You seem to be rather obsessed with war, Mr. Commander.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_10_10",
+                "type": "Speech",
+                "text": "Those are some awfully intense words you came up with...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_10_11"
+            },
+            {
+                "id": "d_counseling_elegg_10_11",
+                "type": "Narration",
+                "text": "Elegg and I spend time playing word games.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_11_1",
+                "type": "Speech",
+                "text": "Ah, lightning bolts, those searing flashes of light streaking across the night sky!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_11_2",
+                "type": "Speech",
+                "text": "Have you ever seen one in real life, Mr. Commander?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_11_3",
+                "type": "Choice",
+                "text": "I have.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_11_5"
+            },
+            {
+                "id": "d_counseling_elegg_11_4",
+                "type": "Choice",
+                "text": "Can't say I have.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_11_8"
+            },
+            {
+                "id": "d_counseling_elegg_11_5",
+                "type": "Speech",
+                "text": "Not entirely surprising, considering how often you go up to the surface.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_11_6",
+                "type": "Speech",
+                "text": "Lightning is an immense energy resource, \nbut it's still beyond human control.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_11_7",
+                "type": "Speech",
+                "text": "Someday, I want to hold lightning in my own two hands.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_11_12"
+            },
+            {
+                "id": "d_counseling_elegg_11_8",
+                "type": "Speech",
+                "text": "You haven't?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_11_9",
+                "type": "Speech",
+                "text": "I thought with how often you go up to the surface, you'd have seen some at some point.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_11_10",
+                "type": "Speech",
+                "text": "Well, I can tell you that it's a spectacular sight! First the flash, then the resounding BOOM!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_11_11",
+                "type": "Speech",
+                "text": "One day I want to be able to harness the power of lightning.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_11_12"
+            },
+            {
+                "id": "d_counseling_elegg_11_12",
+                "type": "Narration",
+                "text": "Elegg and I spend time talking about lightning.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_12_1",
+                "type": "Speech",
+                "text": "Hmm? It looks like your watch is broken.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_12_2",
+                "type": "Speech",
+                "text": "If you give it to me, I'll fix it for you in a jiffy.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_12_3",
+                "type": "Choice",
+                "text": "You're not going to try and install BOOM on it, are you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_12_5"
+            },
+            {
+                "id": "d_counseling_elegg_12_4",
+                "type": "Choice",
+                "text": "Thanks.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_12_8"
+            },
+            {
+                "id": "d_counseling_elegg_12_5",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_12_6",
+                "type": "Speech",
+                "text": "Of course not. There'd be no point.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_12_7",
+                "type": "Speech",
+                "text": "I already installed it on your watch a long time ago.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_12_11"
+            },
+            {
+                "id": "d_counseling_elegg_12_8",
+                "type": "Speech",
+                "text": "All right, give me a minute.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_12_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_12_10",
+                "type": "Speech",
+                "text": "All done!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_12_11"
+            },
+            {
+                "id": "d_counseling_elegg_12_11",
+                "type": "Narration",
+                "text": "I check out my newly repaired watch that Elegg fixed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_13_1",
+                "type": "Speech",
+                "text": "Apparently, when you're into someone, there's this tingling feeling in your body that feels like electricity coursing through you.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_13_2",
+                "type": "Speech",
+                "text": "Have you ever felt anything like that?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_13_3",
+                "type": "Choice",
+                "text": "I have.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_13_5"
+            },
+            {
+                "id": "d_counseling_elegg_13_4",
+                "type": "Choice",
+                "text": "No, I haven't.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_13_8"
+            },
+            {
+                "id": "d_counseling_elegg_13_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_13_6",
+                "type": "Speech",
+                "text": "How did it feel, exactly?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_13_7",
+                "type": "Speech",
+                "text": "Was it like an electrical surge rising from your toes and spreading to the rest of your body? Or like a massive burst that detonated inside your body all at once?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_13_11"
+            },
+            {
+                "id": "d_counseling_elegg_13_8",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_13_9",
+                "type": "Speech",
+                "text": "I thought for sure you would have.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_13_10",
+                "type": "Speech",
+                "text": "I'm sure it doesn't literally feel like getting shocked, but I am curious about what that feels like.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_13_11"
+            },
+            {
+                "id": "d_counseling_elegg_13_11",
+                "type": "Narration",
+                "text": "Elegg and I further discuss the tingling feeling that comes with love.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_14_1",
+                "type": "Speech",
+                "text": "Mr. Commander, which game is the G.O.A.T: BOOM, or Final Quest?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_14_2",
+                "type": "Speech",
+                "text": "Give it to me straight.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_14_3",
+                "type": "Choice",
+                "text": "That's not even a question. It's BOOM.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_14_5"
+            },
+            {
+                "id": "d_counseling_elegg_14_4",
+                "type": "Choice",
+                "text": "Final Quest, 'till I die!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_14_8"
+            },
+            {
+                "id": "d_counseling_elegg_14_5",
+                "type": "Speech",
+                "text": "You're darn right!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_14_6",
+                "type": "Speech",
+                "text": "Most of these games today wouldn't even exist if it weren't for BOOM.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_14_7",
+                "type": "Speech",
+                "text": "There's no comparing the two.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_14_12"
+            },
+            {
+                "id": "d_counseling_elegg_14_8",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_14_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_14_10",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_14_11",
+                "type": "Speech",
+                "text": "I... I can respect your opinion.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_14_12"
+            },
+            {
+                "id": "d_counseling_elegg_14_12",
+                "type": "Narration",
+                "text": "I spend time discussing games with Elegg.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_15_1",
+                "type": "Speech",
+                "text": "Mr. Commander,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_15_2",
+                "type": "Speech",
+                "text": "what do you think about \nusing glitches during speedruns?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_15_3",
+                "type": "Speech",
+                "text": "Like clipping through forbidden paths and the like.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_15_4",
+                "type": "Choice",
+                "text": "I personally consider it cheating.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_15_6"
+            },
+            {
+                "id": "d_counseling_elegg_15_5",
+                "type": "Choice",
+                "text": "As long as players are having fun, that's what's important, isn't it?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_15_9"
+            },
+            {
+                "id": "d_counseling_elegg_15_6",
+                "type": "Speech",
+                "text": "Hmm, I see.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_15_7",
+                "type": "Speech",
+                "text": "Personally, I don't see anything terribly wrong with it. It's just another way to enjoy the game.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_15_8",
+                "type": "Speech",
+                "text": "Although I do understand why others wouldn't want to use them.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_15_12"
+            },
+            {
+                "id": "d_counseling_elegg_15_9",
+                "type": "Speech",
+                "text": "I'm glad you feel the same way as me.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_15_10",
+                "type": "Speech",
+                "text": "For hardcore gamers, speedrunning is just another way to enjoy the game.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_15_11",
+                "type": "Speech",
+                "text": "While I can understand why some people would have a problem with it, I personally don't see anything wrong with it.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_15_12"
+            },
+            {
+                "id": "d_counseling_elegg_15_12",
+                "type": "Narration",
+                "text": "Elegg and I enjoy our session together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_16_1",
+                "type": "Speech",
+                "text": "Energy drinks are remarkable beverages.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_16_2",
+                "type": "Speech",
+                "text": "However!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_16_3",
+                "type": "Speech",
+                "text": "Trony chugs them like there's no tomorrow. It can't be good for her health...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_16_4",
+                "type": "Choice",
+                "text": "Let's confiscate her stash.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_16_6"
+            },
+            {
+                "id": "d_counseling_elegg_16_5",
+                "type": "Choice",
+                "text": "We'll have to restrict her to a set amount per day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_16_9"
+            },
+            {
+                "id": "d_counseling_elegg_16_6",
+                "type": "Speech",
+                "text": "I think that'd be a good idea.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_16_7",
+                "type": "Speech",
+                "text": "There's nothing wrong with one now and then, but Trony really is excessive.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_16_8",
+                "type": "Speech",
+                "text": "For the sake of her health, I'll keep the energy drinks under lock and key for a while.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_16_12"
+            },
+            {
+                "id": "d_counseling_elegg_16_9",
+                "type": "Speech",
+                "text": "Sure, but do you think she'll actually listen to us?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_16_10",
+                "type": "Speech",
+                "text": "It might be better to just confiscate all the energy drinks she has on hand.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_16_11",
+                "type": "Speech",
+                "text": "I'm sure she'll come to understand that we're doing it for her own good.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_16_12"
+            },
+            {
+                "id": "d_counseling_elegg_16_12",
+                "type": "Narration",
+                "text": "I have a discussion about energy drinks with Elegg.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_17_1",
+                "type": "Speech",
+                "text": "A lot of people say that my bangs make me look sulky because they cover my eyes.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_17_2",
+                "type": "Speech",
+                "text": "Is that what you think, Mr. Commander?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_17_3",
+                "type": "Choice",
+                "text": "A little bit, yeah.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_17_5"
+            },
+            {
+                "id": "d_counseling_elegg_17_4",
+                "type": "Choice",
+                "text": "I can't say I've given thought to your bangs.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_17_8"
+            },
+            {
+                "id": "d_counseling_elegg_17_5",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_17_6",
+                "type": "Speech",
+                "text": "I've kept my hair like this for so long, the thought of combing them back is a bit overwhelming.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_17_7",
+                "type": "Speech",
+                "text": "Sorry if you're not a fan, but you'll just have to put up with it.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_17_11"
+            },
+            {
+                "id": "d_counseling_elegg_17_8",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_17_9",
+                "type": "Speech",
+                "text": "Hmm... how should I put this...",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_17_10",
+                "type": "Speech",
+                "text": "I guess I feel a little hurt to hear you say that. It's like you're not interested in me at all.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_17_11"
+            },
+            {
+                "id": "d_counseling_elegg_17_11",
+                "type": "Narration",
+                "text": "I have a conversation about hairstyles with Elegg.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_18_1",
+                "type": "Speech",
+                "text": "I think all of us have people in our lives whom we respect more than others.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_18_2",
+                "type": "Speech",
+                "text": "With that in mind,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_18_3",
+                "type": "Speech",
+                "text": "who do you think I respect the most?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_18_4",
+                "type": "Choice",
+                "text": "BOOM Guy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_18_6"
+            },
+            {
+                "id": "d_counseling_elegg_18_5",
+                "type": "Choice",
+                "text": "Trony.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_18_9"
+            },
+            {
+                "id": "d_counseling_elegg_18_6",
+                "type": "Speech",
+                "text": "That's right!!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_18_7",
+                "type": "Speech",
+                "text": "BOOM Guy is so freakin' cool.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_18_8",
+                "type": "Speech",
+                "text": "He isn't afraid of anything and charges forward without any hesitation. If that isn't worthy of respect, I don't know what is.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_18_12"
+            },
+            {
+                "id": "d_counseling_elegg_18_9",
+                "type": "Speech",
+                "text": "I certainly respect Trony,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_18_10",
+                "type": "Speech",
+                "text": "but if I had to pick someone that I respect the most,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_18_11",
+                "type": "Speech",
+                "text": "it's probably BOOM Guy.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_18_12"
+            },
+            {
+                "id": "d_counseling_elegg_18_12",
+                "type": "Narration",
+                "text": "Throughout the rest of our session, Elegg continues to shower BOOM Guy with effusive praise.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_19_1",
+                "type": "Speech",
+                "text": "Mr. Commander, did you know that electricity can change color?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_19_2",
+                "type": "Speech",
+                "text": "Depending on the temperature and air composition, it can come in different hues.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_19_3",
+                "type": "Choice",
+                "text": "I didn't know that.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_19_5"
+            },
+            {
+                "id": "d_counseling_elegg_19_4",
+                "type": "Choice",
+                "text": "Actually, I did know that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_19_8"
+            },
+            {
+                "id": "d_counseling_elegg_19_5",
+                "type": "Speech",
+                "text": "This principle is actually something we see in our everyday lives, although you'd never guess where:",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_19_6",
+                "type": "Speech",
+                "text": "It's neon signs!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_19_7",
+                "type": "Speech",
+                "text": "The reason neon signs have various colors is because they use different combinations of gases.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_19_12"
+            },
+            {
+                "id": "d_counseling_elegg_19_8",
+                "type": "Speech",
+                "text": "No kidding!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_19_9",
+                "type": "Speech",
+                "text": "You know way more about this stuff than I thought you would.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_19_10",
+                "type": "Speech",
+                "text": "I won't lie, though; it is a little disappointing that I won't have much to teach you.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_19_11",
+                "type": "Speech",
+                "text": "Then... did you know that neon signs operate using these principles?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_19_12"
+            },
+            {
+                "id": "d_counseling_elegg_19_12",
+                "type": "Narration",
+                "text": "Elegg and I enthusiastically discuss how neon signs work.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_elegg_20_1",
+                "type": "Speech",
+                "text": "Do you have any idea what that thing Trony rides is? I can't decide whether it's a chair or a table.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_20_2",
+                "type": "Speech",
+                "text": "Either way, it looks super comfy.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_20_3",
+                "type": "Speech",
+                "text": "I'm thinking of making something similar. What are some special features I should integrate into the design?",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_20_4",
+                "type": "Choice",
+                "text": "Whenever you sit down, a small electrical current will run through it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_elegg_20_6"
+            },
+            {
+                "id": "d_counseling_elegg_20_5",
+                "type": "Choice",
+                "text": "Have BOOM installed on a display monitor.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_elegg_20_9"
+            },
+            {
+                "id": "d_counseling_elegg_20_6",
+                "type": "Speech",
+                "text": "Oooh, that'd be nice and tingly!",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_20_7",
+                "type": "Speech",
+                "text": "But for safety reasons, I'm not sure I'd be able to ride around with it.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_20_8",
+                "type": "Speech",
+                "text": "I'll have to leave it in my room.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_20_12"
+            },
+            {
+                "id": "d_counseling_elegg_20_9",
+                "type": "Speech",
+                "text": "Well duh,",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_20_10",
+                "type": "Speech",
+                "text": "that's a given, Mr. Commander.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_elegg_20_11",
+                "type": "Speech",
+                "text": "That's hardly what I'd call a special feature.",
+                "speaker": "Elegg",
+                "points": null,
+                "jumpTo": "d_counseling_elegg_20_12"
+            },
+            {
+                "id": "d_counseling_elegg_20_12",
+                "type": "Narration",
+                "text": "Elegg and I enjoy talking to each other during our session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

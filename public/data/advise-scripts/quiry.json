@@ -1,0 +1,2053 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_quiry_01_1",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_2",
+                "type": "Speech",
+                "text": "The left one is the cup, and the one on the right is the bowl.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_3",
+                "type": "Speech",
+                "text": "... Right?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_4",
+                "type": "Choice",
+                "text": "Correct!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_01_6"
+            },
+            {
+                "id": "d_counseling_quiry_01_5",
+                "type": "Choice",
+                "text": "Wrong.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_01_9"
+            },
+            {
+                "id": "d_counseling_quiry_01_6",
+                "type": "Speech",
+                "text": "Yahoo!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_7",
+                "type": "Speech",
+                "text": "That was a blind guess, but I think I can see it now.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_8",
+                "type": "Speech",
+                "text": "This is the cup handle, right?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_01_11"
+            },
+            {
+                "id": "d_counseling_quiry_01_9",
+                "type": "Speech",
+                "text": "It's not?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_10",
+                "type": "Speech",
+                "text": "But how?!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_01_11"
+            },
+            {
+                "id": "d_counseling_quiry_01_11",
+                "type": "Monologue",
+                "text": "As Quiry gesticulates wildly, her hands veer dangerously close to the cup...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_12",
+                "type": "Narration",
+                "text": "*Clank*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_13",
+                "type": "Speech",
+                "text": "Whoops!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_01_14",
+                "type": "Narration",
+                "text": "We end our session while cleaning up the shards of the broken cup.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_02_1",
+                "type": "Speech",
+                "text": "You know those documents you sent to me this morning?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_02_2",
+                "type": "Speech",
+                "text": "One of them is missing.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_02_3",
+                "type": "Speech",
+                "text": "Don't forget it next time.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_02_4",
+                "type": "Choice",
+                "text": "Are you sure that's right?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_02_6"
+            },
+            {
+                "id": "d_counseling_quiry_02_5",
+                "type": "Choice",
+                "text": "Will do. Good catch, Quiry.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_02_9"
+            },
+            {
+                "id": "d_counseling_quiry_02_6",
+                "type": "Speech",
+                "text": "I'm positive.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_02_7",
+                "type": "Speech",
+                "text": "I may not know much about a lot of things, but documentation is one thing I excel at.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_02_8",
+                "type": "Speech",
+                "text": "You have no idea how hard I've trained to be good at what I do.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_02_12"
+            },
+            {
+                "id": "d_counseling_quiry_02_9",
+                "type": "Speech",
+                "text": "No worries.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_02_10",
+                "type": "Speech",
+                "text": "I put a lot of effort into administrative work and handling documents.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_02_11",
+                "type": "Speech",
+                "text": "For example, if I put my face right up against the screen, I can see it way more clearly!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_02_12"
+            },
+            {
+                "id": "d_counseling_quiry_02_12",
+                "type": "Narration",
+                "text": "I have an enjoyable time with Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_03_1",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_03_2",
+                "type": "Speech",
+                "text": "I feel bad for making Poli's life so difficult.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_03_3",
+                "type": "Choice",
+                "text": "Did you mistake her for a towel again?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_03_5"
+            },
+            {
+                "id": "d_counseling_quiry_03_4",
+                "type": "Choice",
+                "text": "Did something happen?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_03_8"
+            },
+            {
+                "id": "d_counseling_quiry_03_5",
+                "type": "Speech",
+                "text": "No, she's gotten used to that by now.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_03_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_03_7",
+                "type": "Speech",
+                "text": "I really do feel terrible.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_03_12"
+            },
+            {
+                "id": "d_counseling_quiry_03_8",
+                "type": "Speech",
+                "text": "It's a bit embarrassing to admit this,",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_03_9",
+                "type": "Speech",
+                "text": "but I mistook a radio for a snack, and...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_03_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_03_11",
+                "type": "Speech",
+                "text": "Actually, telling someone else about it makes me feel a lot better.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_03_12"
+            },
+            {
+                "id": "d_counseling_quiry_03_12",
+                "type": "Narration",
+                "text": "I spend time consoling Quiry during our session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_04_1",
+                "type": "Speech",
+                "text": "How does it feel to see the world clearly?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_04_2",
+                "type": "Speech",
+                "text": "I can't begin to imagine what it's like. Everything is always so blurry for me.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_04_3",
+                "type": "Choice",
+                "text": "It's like looking at my face, but all the time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_04_5"
+            },
+            {
+                "id": "d_counseling_quiry_04_4",
+                "type": "Choice",
+                "text": "It's like a haze being cleared away.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_04_8"
+            },
+            {
+                "id": "d_counseling_quiry_04_5",
+                "type": "Speech",
+                "text": "Whoa...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_04_6",
+                "type": "Speech",
+                "text": "I totally get it!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_04_7",
+                "type": "Speech",
+                "text": "But I think if everything were always that clear, it'd hurt my eyes.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_04_11"
+            },
+            {
+                "id": "d_counseling_quiry_04_8",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_04_9",
+                "type": "Speech",
+                "text": "I can't really imagine it.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_04_10",
+                "type": "Speech",
+                "text": "Even if the haze clears away, I think it'd still be kinda blurry.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_04_11"
+            },
+            {
+                "id": "d_counseling_quiry_04_11",
+                "type": "Narration",
+                "text": "Quiry and I have a conversation about seeing clearly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_05_1",
+                "type": "Narration",
+                "text": "*Crash*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_05_2",
+                "type": "Speech",
+                "text": "Yikes!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_05_3",
+                "type": "Speech",
+                "text": "Sorry, Commander, I didn't see the door...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_05_4",
+                "type": "Choice",
+                "text": "It's okay, I planned on swapping it out for a new one anyway.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_05_6"
+            },
+            {
+                "id": "d_counseling_quiry_05_5",
+                "type": "Choice",
+                "text": "You're not hurt, are you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_05_8"
+            },
+            {
+                "id": "d_counseling_quiry_05_6",
+                "type": "Speech",
+                "text": "You're lying.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_05_7",
+                "type": "Speech",
+                "text": "I'm really sorry...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_05_10"
+            },
+            {
+                "id": "d_counseling_quiry_05_8",
+                "type": "Speech",
+                "text": "Awww, you're so kind. I'm okay.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_05_9",
+                "type": "Speech",
+                "text": "I can't say the same thing about the door though...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_05_10"
+            },
+            {
+                "id": "d_counseling_quiry_05_10",
+                "type": "Speech",
+                "text": "I'll pay for everything. Please don't tell Poli!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_05_11",
+                "type": "Narration",
+                "text": "I spend time with Quiry mourning about the broken door.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_06_1",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_06_2",
+                "type": "Speech",
+                "text": "this is a super big secret,",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_06_3",
+                "type": "Speech",
+                "text": "but Poli recently...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_06_4",
+                "type": "Speech",
+                "text": "was eating something she shouldn't have been. It was brown if you catch my drift...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_06_5",
+                "type": "Choice",
+                "text": "Actually, I enjoy eating that myself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_06_7"
+            },
+            {
+                "id": "d_counseling_quiry_06_6",
+                "type": "Choice",
+                "text": "It's not what you think. It's just Splendamin in sweet potato flavor.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_06_10"
+            },
+            {
+                "id": "d_counseling_quiry_06_7",
+                "type": "Speech",
+                "text": "?!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_06_8",
+                "type": "Speech",
+                "text": "What?!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_06_9",
+                "type": "Speech",
+                "text": "Has everyone lost their minds?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_06_13"
+            },
+            {
+                "id": "d_counseling_quiry_06_10",
+                "type": "Speech",
+                "text": "Oh!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_06_11",
+                "type": "Speech",
+                "text": "Phew...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_06_12",
+                "type": "Speech",
+                "text": "I need to apologize to Poli. I had the completely wrong idea...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_06_13"
+            },
+            {
+                "id": "d_counseling_quiry_06_13",
+                "type": "Narration",
+                "text": "I have a conversation with Quiry about Splendamin in sweet potato flavor.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_07_1",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_2",
+                "type": "Speech",
+                "text": "There are times where I feel my bad eyesight is actually a blessing,",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_3",
+                "type": "Speech",
+                "text": "especially since my line of work is being a police officer.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_4",
+                "type": "Choice",
+                "text": "Because you can't see certain things you'd rather not see anyway?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_07_6"
+            },
+            {
+                "id": "d_counseling_quiry_07_5",
+                "type": "Choice",
+                "text": "Really?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_07_11"
+            },
+            {
+                "id": "d_counseling_quiry_07_6",
+                "type": "Speech",
+                "text": "Exactly!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_7",
+                "type": "Speech",
+                "text": "There are some things that throw even Poli and Miranda for a loop.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_8",
+                "type": "Speech",
+                "text": "I feel bad when they have to cover up for my deficiencies,",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_9",
+                "type": "Speech",
+                "text": "but I still feel glad that I can't see certain things.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_10",
+                "type": "Speech",
+                "text": "... It's a bit selfish of me, isn't it?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_07_14"
+            },
+            {
+                "id": "d_counseling_quiry_07_11",
+                "type": "Speech",
+                "text": "Yep.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_12",
+                "type": "Speech",
+                "text": "There are moments where I'd rather not see certain things.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_07_13",
+                "type": "Speech",
+                "text": "In those moments, I feel like I'm using my eyesight as a crutch though.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_07_14"
+            },
+            {
+                "id": "d_counseling_quiry_07_14",
+                "type": "Narration",
+                "text": "Quiry and I have a serious conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_08_1",
+                "type": "Speech",
+                "text": "Poli says that during work, I should try to stay away from Miranda as much as possible.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_08_2",
+                "type": "Speech",
+                "text": "I know that we both get into a lot of accidents, but still...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_08_3",
+                "type": "Speech",
+                "text": "I think we complement each other, don't you?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_08_4",
+                "type": "Choice",
+                "text": "No way. You'd only end up with accidents twice as big.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_08_6"
+            },
+            {
+                "id": "d_counseling_quiry_08_5",
+                "type": "Choice",
+                "text": "Definitely. You two could help each other out.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_08_9"
+            },
+            {
+                "id": "d_counseling_quiry_08_6",
+                "type": "Speech",
+                "text": "A bit harsh...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_08_7",
+                "type": "Speech",
+                "text": "But thank you anyway for the constructive criticism.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_08_8",
+                "type": "Speech",
+                "text": "Poli said the same thing, probably because she was worried.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_08_12"
+            },
+            {
+                "id": "d_counseling_quiry_08_9",
+                "type": "Speech",
+                "text": "Exactly!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_08_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_08_11",
+                "type": "Speech",
+                "text": "But I'm sure Poli had a good reason for telling us to stay apart.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_08_12"
+            },
+            {
+                "id": "d_counseling_quiry_08_12",
+                "type": "Speech",
+                "text": "I should try to keep away from Miranda as much as possible.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_08_13",
+                "type": "Narration",
+                "text": "I spend a meaningful time with Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_09_1",
+                "type": "Speech",
+                "text": "Agh!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_2",
+                "type": "Speech",
+                "text": "Commander! There's a bug on the desk!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_3",
+                "type": "Choice",
+                "text": "I'll catch it for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_09_5"
+            },
+            {
+                "id": "d_counseling_quiry_09_4",
+                "type": "Choice",
+                "text": "Eeek! A bug!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_09_12"
+            },
+            {
+                "id": "d_counseling_quiry_09_5",
+                "type": "Narration",
+                "text": "*Crash*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_6",
+                "type": "Speech",
+                "text": "Whoa! Did you just catch a bug with your bare hands?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_7",
+                "type": "Speech",
+                "text": "Cool!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_8",
+                "type": "Self",
+                "text": "*Gulp*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_9",
+                "type": "Speech",
+                "text": "...?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_10",
+                "type": "Speech",
+                "text": "Did you... just eat it?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_11",
+                "type": "Speech",
+                "text": "I see you're brave in more ways than one...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_09_16"
+            },
+            {
+                "id": "d_counseling_quiry_09_12",
+                "type": "Speech",
+                "text": "... I-I'll catch it.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_13",
+                "type": "Speech",
+                "text": "Stay still!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_14",
+                "type": "Speech",
+                "text": "Oh jeez...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_09_15",
+                "type": "Narration",
+                "text": "*Crash*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_quiry_09_16"
+            },
+            {
+                "id": "d_counseling_quiry_09_16",
+                "type": "Narration",
+                "text": "What Quiry took for a bug, was in fact, a cookie.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_10_1",
+                "type": "Speech",
+                "text": "This just came to me,",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_10_2",
+                "type": "Speech",
+                "text": "but why am I able to see you so clearly?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_10_3",
+                "type": "Speech",
+                "text": "This has never happened with anyone else.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_10_4",
+                "type": "Choice",
+                "text": "Could it be because of my rank?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_10_6"
+            },
+            {
+                "id": "d_counseling_quiry_10_5",
+                "type": "Choice",
+                "text": "Because I'm special.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_10_9"
+            },
+            {
+                "id": "d_counseling_quiry_10_6",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_10_7",
+                "type": "Speech",
+                "text": "Other commanders still look blurry to me.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_10_8",
+                "type": "Speech",
+                "text": "There must be another reason.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_10_12"
+            },
+            {
+                "id": "d_counseling_quiry_10_9",
+                "type": "Speech",
+                "text": "Special...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_10_10",
+                "type": "Speech",
+                "text": "That is true...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_10_11",
+                "type": "Speech",
+                "text": "Hehe. I'm not sure if I can see you clearly because you're special, or if you're special because I can see you clearly.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_10_12"
+            },
+            {
+                "id": "d_counseling_quiry_10_12",
+                "type": "Narration",
+                "text": "Quiry and I have a fun counseling session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_11_1",
+                "type": "Speech",
+                "text": "I want to be a capable police officer like Poli.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_11_2",
+                "type": "Speech",
+                "text": "Someone who recognizes danger at a moment's notice and saves people.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_11_3",
+                "type": "Speech",
+                "text": "A calm, cool, and collected officer of the law who can handle any situation.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_11_4",
+                "type": "Choice",
+                "text": "You can do it, I'm sure of it!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_11_6"
+            },
+            {
+                "id": "d_counseling_quiry_11_5",
+                "type": "Choice",
+                "text": "... Do you really think that's possible?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_11_9"
+            },
+            {
+                "id": "d_counseling_quiry_11_6",
+                "type": "Speech",
+                "text": "You really think so?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_11_7",
+                "type": "Speech",
+                "text": "I'll never give up!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_11_8",
+                "type": "Speech",
+                "text": "It's just that a lot of people will have to put up with me during the process...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_11_13"
+            },
+            {
+                "id": "d_counseling_quiry_11_9",
+                "type": "Speech",
+                "text": "I-it won't be easy but...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_11_10",
+                "type": "Speech",
+                "text": "I don't want to give up.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_11_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_11_12",
+                "type": "Speech",
+                "text": "Do you think I don't have it in me?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_11_13"
+            },
+            {
+                "id": "d_counseling_quiry_11_13",
+                "type": "Narration",
+                "text": "I try to encourage the dejected Quiry before ending the session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_12_1",
+                "type": "Speech",
+                "text": "I wish I had a hobby.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_12_2",
+                "type": "Speech",
+                "text": "My vision is so terrible that even that's hard.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_12_3",
+                "type": "Speech",
+                "text": "Do you know of any new pastimes I can get into?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_12_4",
+                "type": "Choice",
+                "text": "Swimming.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_12_6"
+            },
+            {
+                "id": "d_counseling_quiry_12_5",
+                "type": "Choice",
+                "text": "Listening to music.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_12_10"
+            },
+            {
+                "id": "d_counseling_quiry_12_6",
+                "type": "Speech",
+                "text": "Oh, good idea!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_12_7",
+                "type": "Speech",
+                "text": "It's not like you can see far ahead of you when you're underwater anyway.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_12_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_12_9",
+                "type": "Speech",
+                "text": "But I can't swim.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_12_13"
+            },
+            {
+                "id": "d_counseling_quiry_12_10",
+                "type": "Speech",
+                "text": "Oh, good idea!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_12_11",
+                "type": "Speech",
+                "text": "You don't need good eyesight to listen to music.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_12_12",
+                "type": "Speech",
+                "text": "Can you recommend some songs that I should listen to?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_12_13"
+            },
+            {
+                "id": "d_counseling_quiry_12_13",
+                "type": "Narration",
+                "text": "I have a fun counseling session with Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_13_1",
+                "type": "Speech",
+                "text": "Oh boy.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_13_2",
+                "type": "Speech",
+                "text": "I followed someone thinking it was Miranda, but it was a stranger.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_13_3",
+                "type": "Speech",
+                "text": "I thought for sure that I saw brown pigtails.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_13_4",
+                "type": "Speech",
+                "text": "Is there any other way I can better pinpoint that it's Miranda?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_13_5",
+                "type": "Choice",
+                "text": "Look carefully at how she walks.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_13_7"
+            },
+            {
+                "id": "d_counseling_quiry_13_6",
+                "type": "Choice",
+                "text": "Call out her name first.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_13_10"
+            },
+            {
+                "id": "d_counseling_quiry_13_7",
+                "type": "Speech",
+                "text": "How she walks?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_13_8",
+                "type": "Speech",
+                "text": "Hmm, she definitely does have a distinctive bounce in her step.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_13_9",
+                "type": "Speech",
+                "text": "Still, I don't know if that'll work.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_13_13"
+            },
+            {
+                "id": "d_counseling_quiry_13_10",
+                "type": "Speech",
+                "text": "Oh, that's a great idea!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_13_11",
+                "type": "Speech",
+                "text": "If it really is Miranda, she'll either respond or come closer to me.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_13_12",
+                "type": "Speech",
+                "text": "Thanks for the tip, Commander!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_13_13"
+            },
+            {
+                "id": "d_counseling_quiry_13_13",
+                "type": "Narration",
+                "text": "I have a discussion with Quiry about how to tell Miranda apart from others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_14_1",
+                "type": "Speech",
+                "text": "Commander, do I have a sullen face?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_14_2",
+                "type": "Speech",
+                "text": "People keep asking me if I'm irritated.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_14_3",
+                "type": "Choice",
+                "text": "I think it's because you're always frowning.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_14_5"
+            },
+            {
+                "id": "d_counseling_quiry_14_4",
+                "type": "Choice",
+                "text": "Your expression looks normal to me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_14_9"
+            },
+            {
+                "id": "d_counseling_quiry_14_5",
+                "type": "Speech",
+                "text": "I do?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_14_6",
+                "type": "Speech",
+                "text": "I guess it's because I'm always scrunching up my face since I can't see well.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_14_7",
+                "type": "Speech",
+                "text": "I'll try and smile a bit more.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_14_8",
+                "type": "Speech",
+                "text": "Thanks for letting me know, Commander!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_14_12"
+            },
+            {
+                "id": "d_counseling_quiry_14_9",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_14_10",
+                "type": "Speech",
+                "text": "Then how come everyone keeps telling me that I look so upset?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_14_11",
+                "type": "Speech",
+                "text": "Is my expression that bad...?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_14_12"
+            },
+            {
+                "id": "d_counseling_quiry_14_12",
+                "type": "Narration",
+                "text": "I have a fun time advising Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_15_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_15_2",
+                "type": "Narration",
+                "text": "Despite standing upright, Quiry keeps nodding off.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_15_3",
+                "type": "Choice",
+                "text": "Wake her up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_15_5"
+            },
+            {
+                "id": "d_counseling_quiry_15_4",
+                "type": "Choice",
+                "text": "Don't wake her up.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_15_9"
+            },
+            {
+                "id": "d_counseling_quiry_15_5",
+                "type": "Speech",
+                "text": "Agh...!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_15_6",
+                "type": "Speech",
+                "text": "Sorry...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_15_7",
+                "type": "Speech",
+                "text": "I had a ton of work to do last night, so I didn't get any sleep.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_15_8",
+                "type": "Speech",
+                "text": "That's no excuse for me to check out during our session, though!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_15_13"
+            },
+            {
+                "id": "d_counseling_quiry_15_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_15_10",
+                "type": "Speech",
+                "text": "... Ah!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_15_11",
+                "type": "Narration",
+                "text": "*Crash*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_15_12",
+                "type": "Speech",
+                "text": "Ow, my head...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_15_13"
+            },
+            {
+                "id": "d_counseling_quiry_15_13",
+                "type": "Narration",
+                "text": "I have a fun time advising Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_16_1",
+                "type": "Speech",
+                "text": "I had a lot of worries when I first came to the Outpost.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_16_2",
+                "type": "Speech",
+                "text": "Now though, I realize this place is far more peaceful than I thought it'd be.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_16_3",
+                "type": "Speech",
+                "text": "In fact, it feels like there isn't much that I need to do.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_16_4",
+                "type": "Choice",
+                "text": "That's because the A.C.P.U. upholds the law.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_16_6"
+            },
+            {
+                "id": "d_counseling_quiry_16_5",
+                "type": "Choice",
+                "text": "So you should take a well-deserved break.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_16_9"
+            },
+            {
+                "id": "d_counseling_quiry_16_6",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_16_7",
+                "type": "Speech",
+                "text": "Thank you for saying that.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_16_8",
+                "type": "Speech",
+                "text": "I was always proud to be part of the A.C.P.U., but now I'm super proud!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_16_11"
+            },
+            {
+                "id": "d_counseling_quiry_16_9",
+                "type": "Speech",
+                "text": "No, I can't do that.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_16_10",
+                "type": "Speech",
+                "text": "If something were to happen while I was on vacation, I'd never forgive myself.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_16_11"
+            },
+            {
+                "id": "d_counseling_quiry_16_11",
+                "type": "Narration",
+                "text": "I have a constructive time with Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_17_1",
+                "type": "Speech",
+                "text": "I took a day off today,",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_17_2",
+                "type": "Speech",
+                "text": "but I'm not exactly sure what to do with myself.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_17_3",
+                "type": "Choice",
+                "text": "Why don't you take a nap?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_17_5"
+            },
+            {
+                "id": "d_counseling_quiry_17_4",
+                "type": "Choice",
+                "text": "Treat yourself to a nice meal.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_17_8"
+            },
+            {
+                "id": "d_counseling_quiry_17_5",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_17_6",
+                "type": "Speech",
+                "text": "It'd be a waste to sleep the day away.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_17_7",
+                "type": "Speech",
+                "text": "Isn't there something else I can do?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_17_11"
+            },
+            {
+                "id": "d_counseling_quiry_17_8",
+                "type": "Speech",
+                "text": "Oooh, I like the sound of that!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_17_9",
+                "type": "Speech",
+                "text": "But it won't be easy with me being blind as a bat.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_17_10",
+                "type": "Speech",
+                "text": "Are you busy, Commander?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_17_11"
+            },
+            {
+                "id": "d_counseling_quiry_17_11",
+                "type": "Narration",
+                "text": "Quiry and I plan how we'll spend her day off together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_18_1",
+                "type": "Speech",
+                "text": "Poli?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_18_2",
+                "type": "Speech",
+                "text": "What are you doing here?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_18_3",
+                "type": "Speech",
+                "text": "Are we having a joint counseling session today?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_18_4",
+                "type": "Choice",
+                "text": "That's just a doll.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_18_6"
+            },
+            {
+                "id": "d_counseling_quiry_18_5",
+                "type": "Choice",
+                "text": "That's right.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_18_9"
+            },
+            {
+                "id": "d_counseling_quiry_18_6",
+                "type": "Speech",
+                "text": "Ah!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_18_7",
+                "type": "Speech",
+                "text": "So it wasn't Poli?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_18_8",
+                "type": "Speech",
+                "text": "Oh right, Poli said she'd be going to the Ark on business today.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_18_13"
+            },
+            {
+                "id": "d_counseling_quiry_18_9",
+                "type": "Speech",
+                "text": "Okay!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_18_10",
+                "type": "Speech",
+                "text": "Wait a minute...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_18_11",
+                "type": "Speech",
+                "text": "Poli said she'd be going to the Ark on business today.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_18_12",
+                "type": "Speech",
+                "text": "You're not teasing me, are you, Commander?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_18_13"
+            },
+            {
+                "id": "d_counseling_quiry_18_13",
+                "type": "Narration",
+                "text": "I have a fun session with Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_19_1",
+                "type": "Speech",
+                "text": "I'm not really sure about this, so I wanted to ask you:",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_19_2",
+                "type": "Speech",
+                "text": "Am I a bit stronger than other people?",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_19_3",
+                "type": "Choice",
+                "text": "You're certainly good at breaking things.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_19_5"
+            },
+            {
+                "id": "d_counseling_quiry_19_4",
+                "type": "Choice",
+                "text": "Yes, I think so.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_19_8"
+            },
+            {
+                "id": "d_counseling_quiry_19_5",
+                "type": "Speech",
+                "text": "That...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_19_6",
+                "type": "Speech",
+                "text": "that is true.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_19_7",
+                "type": "Speech",
+                "text": "But that wasn't exactly what I meant...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_19_11"
+            },
+            {
+                "id": "d_counseling_quiry_19_8",
+                "type": "Speech",
+                "text": "I knew it!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_19_9",
+                "type": "Speech",
+                "text": "It feels good to find a new positive trait about yourself.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_19_10",
+                "type": "Speech",
+                "text": "With this strength, I'll be able to help more people.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_19_11"
+            },
+            {
+                "id": "d_counseling_quiry_19_11",
+                "type": "Narration",
+                "text": "I have a fun time advising Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_quiry_20_1",
+                "type": "Speech",
+                "text": "Commander! I finally did it!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_20_2",
+                "type": "Speech",
+                "text": "I'm nearly done memorizing all the roadways in the Outpost.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_20_3",
+                "type": "Speech",
+                "text": "Now I won't get lost or break down any more doors.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_20_4",
+                "type": "Choice",
+                "text": "Congrats!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_quiry_20_6"
+            },
+            {
+                "id": "d_counseling_quiry_20_5",
+                "type": "Choice",
+                "text": "Did you say \"nearly done\"?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_quiry_20_10"
+            },
+            {
+                "id": "d_counseling_quiry_20_6",
+                "type": "Speech",
+                "text": "Thank you!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_20_7",
+                "type": "Speech",
+                "text": "I couldn't have done it without everyone's help.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_20_8",
+                "type": "Speech",
+                "text": "Especially you, Commander. Thank you so much.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_20_9",
+                "type": "Speech",
+                "text": "I'll keep at it and make sure I memorize every last path there is!",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_20_13"
+            },
+            {
+                "id": "d_counseling_quiry_20_10",
+                "type": "Speech",
+                "text": "Yeah, almost...",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_20_11",
+                "type": "Speech",
+                "text": "I've improved tremendously compared to last time, but I'm still bumping into things.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_quiry_20_12",
+                "type": "Speech",
+                "text": "I know I've got to keep at it.",
+                "speaker": "Quiry",
+                "points": null,
+                "jumpTo": "d_counseling_quiry_20_13"
+            },
+            {
+                "id": "d_counseling_quiry_20_13",
+                "type": "Narration",
+                "text": "I have a meaningful time with Quiry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

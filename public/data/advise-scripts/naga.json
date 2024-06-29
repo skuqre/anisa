@@ -1,0 +1,2013 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_naga_01_1",
+                "type": "Speech",
+                "text": "Isn't my daughter adorable?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_2",
+                "type": "Speech",
+                "text": "It brings a smile to my face every time I look at her, hehe.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_3",
+                "type": "Choice",
+                "text": "You have a kid?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_01_5"
+            },
+            {
+                "id": "d_counseling_naga_01_4",
+                "type": "Choice",
+                "text": "Totally. She's adorable.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_01_9"
+            },
+            {
+                "id": "d_counseling_naga_01_5",
+                "type": "Speech",
+                "text": "What? Of course I don't!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_6",
+                "type": "Speech",
+                "text": "I'm still a student.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_7",
+                "type": "Speech",
+                "text": "That's just how I refer to Tia sometimes.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_8",
+                "type": "Speech",
+                "text": "Hilarious that you got the wrong idea!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_01_14"
+            },
+            {
+                "id": "d_counseling_naga_01_9",
+                "type": "Speech",
+                "text": "I figured you would agree.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_10",
+                "type": "Speech",
+                "text": "Tia is always running up and giving me hugs, going on about how I feel like a mom to her.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_11",
+                "type": "Speech",
+                "text": "You take such good care of her, that you're like a father figure as well,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_12",
+                "type": "Speech",
+                "text": "so that's why I brought it up.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_01_13",
+                "type": "Speech",
+                "text": "I hope you can continue to look after her.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_01_14"
+            },
+            {
+                "id": "d_counseling_naga_01_14",
+                "type": "Narration",
+                "text": "Naga and I have a conversation about how cute Tia is.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_02_1",
+                "type": "Speech",
+                "text": "All the underclassmen were badgering me yesterday.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_02_2",
+                "type": "Speech",
+                "text": "They were wondering if I was in the graduating class because I looked old.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_02_3",
+                "type": "Speech",
+                "text": "I hate it when they tease me for looking older.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_02_4",
+                "type": "Choice",
+                "text": "Maybe it's because you in fact look so young, and they're just jealous.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_02_6"
+            },
+            {
+                "id": "d_counseling_naga_02_5",
+                "type": "Choice",
+                "text": "That's terrible...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_02_9"
+            },
+            {
+                "id": "d_counseling_naga_02_6",
+                "type": "Speech",
+                "text": "You always know what to say, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_02_7",
+                "type": "Speech",
+                "text": "And it's all the better because I know they're not just empty words.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_02_8",
+                "type": "Speech",
+                "text": "Thanks.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_02_13"
+            },
+            {
+                "id": "d_counseling_naga_02_9",
+                "type": "Speech",
+                "text": "I'm sorry,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_02_10",
+                "type": "Speech",
+                "text": "I didn't mean to bum you out.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_02_11",
+                "type": "Speech",
+                "text": "Don't let it get you down, okay?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_02_12",
+                "type": "Speech",
+                "text": "Keep your chin up.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_02_13"
+            },
+            {
+                "id": "d_counseling_naga_02_13",
+                "type": "Narration",
+                "text": "I tell Naga that age is just a number.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_03_1",
+                "type": "Speech",
+                "text": "What do you think of this new bracelet I bought?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_03_2",
+                "type": "Choice",
+                "text": "Did you pick it yourself? You have good taste.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_03_4"
+            },
+            {
+                "id": "d_counseling_naga_03_3",
+                "type": "Choice",
+                "text": "It suits you well. You look mature.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_03_6"
+            },
+            {
+                "id": "d_counseling_naga_03_4",
+                "type": "Speech",
+                "text": "What a wonderful compliment.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_03_5",
+                "type": "Speech",
+                "text": "Keep 'em coming.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_03_9"
+            },
+            {
+                "id": "d_counseling_naga_03_6",
+                "type": "Speech",
+                "text": "So, in other words...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_03_7",
+                "type": "Speech",
+                "text": "I look old, is that it?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_03_8",
+                "type": "Speech",
+                "text": "Haha, gotcha! I'm just joking. You should have seen your face.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_03_9"
+            },
+            {
+                "id": "d_counseling_naga_03_9",
+                "type": "Narration",
+                "text": "We look at Naga's bracelet together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_04_1",
+                "type": "Speech",
+                "text": "Once in a while, I get a bit frustrated.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_04_2",
+                "type": "Speech",
+                "text": "At times like that, I just want to get as far away from the school as I can.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_04_3",
+                "type": "Choice",
+                "text": "You're more than welcome to come hang out with me anytime you want.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_04_5"
+            },
+            {
+                "id": "d_counseling_naga_04_4",
+                "type": "Choice",
+                "text": "No matter how bad you feel, you can't forget your responsibilities as a student.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_04_8"
+            },
+            {
+                "id": "d_counseling_naga_04_5",
+                "type": "Speech",
+                "text": "I thought you'd say something like that,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_04_6",
+                "type": "Speech",
+                "text": "but it feels nice to hear you really say it.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_04_7",
+                "type": "Speech",
+                "text": "I might just take you up on that offer sometime.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_04_11"
+            },
+            {
+                "id": "d_counseling_naga_04_8",
+                "type": "Speech",
+                "text": "A truly professional answer if there ever was one. I expected no less from you, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_04_9",
+                "type": "Speech",
+                "text": "It might not be easy, but I feel like I'm back on track.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_04_10",
+                "type": "Speech",
+                "text": "And it's thanks to you.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_04_11"
+            },
+            {
+                "id": "d_counseling_naga_04_11",
+                "type": "Narration",
+                "text": "I speak with Naga about the difficulties of attending school.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_05_1",
+                "type": "Speech",
+                "text": "I was wondering why everyone around me has been so glum lately,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_2",
+                "type": "Speech",
+                "text": "and it turns out exams are approaching.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_3",
+                "type": "Speech",
+                "text": "My stomach is always in knots during this time of the school year.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_4",
+                "type": "Choice",
+                "text": "Have you not studied properly for your exams?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_05_6"
+            },
+            {
+                "id": "d_counseling_naga_05_5",
+                "type": "Choice",
+                "text": "Your expression is telling me you're worried about something other than exams.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_05_9"
+            },
+            {
+                "id": "d_counseling_naga_05_6",
+                "type": "Speech",
+                "text": "You caught me!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_7",
+                "type": "Speech",
+                "text": "I'll take my studying more seriously from here on out.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_8",
+                "type": "Speech",
+                "text": "Don't forget to cheer me on!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_05_14"
+            },
+            {
+                "id": "d_counseling_naga_05_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_10",
+                "type": "Speech",
+                "text": "Hehe, you're pretty astute, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_11",
+                "type": "Speech",
+                "text": "I'm a bit worried that",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_12",
+                "type": "Speech",
+                "text": "a bunch of my friends are gonna flunk the exam.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_05_13",
+                "type": "Speech",
+                "text": "If that happens, then I won't be able to see them, and I don't want that...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_05_14"
+            },
+            {
+                "id": "d_counseling_naga_05_14",
+                "type": "Narration",
+                "text": "I share some tips with Naga on how to reduce stress during exams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_06_1",
+                "type": "Speech",
+                "text": "I bought another hair tie.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_06_2",
+                "type": "Speech",
+                "text": "It was so darned cute, that I just couldn't pass it up.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_06_3",
+                "type": "Choice",
+                "text": "No wonder you have so many hair ties.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_06_5"
+            },
+            {
+                "id": "d_counseling_naga_06_4",
+                "type": "Choice",
+                "text": "Is it the one you've got on your wrist?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_06_8"
+            },
+            {
+                "id": "d_counseling_naga_06_5",
+                "type": "Speech",
+                "text": "You know it!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_06_6",
+                "type": "Speech",
+                "text": "I've got a bunch in my bag,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_06_7",
+                "type": "Speech",
+                "text": "and there's a veritable mountain of them piled up in my room.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_06_11"
+            },
+            {
+                "id": "d_counseling_naga_06_8",
+                "type": "Speech",
+                "text": "Very impressive!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_06_9",
+                "type": "Speech",
+                "text": "How did you realize this was the one I just bought?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_06_10",
+                "type": "Speech",
+                "text": "You're very attentive, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_06_11"
+            },
+            {
+                "id": "d_counseling_naga_06_11",
+                "type": "Narration",
+                "text": "I check out Naga's hair tie collection.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_07_1",
+                "type": "Speech",
+                "text": "Whenever I see underclassmen talking about all their dreams,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_07_2",
+                "type": "Speech",
+                "text": "I'm not sure how to feel.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_07_3",
+                "type": "Speech",
+                "text": "On one hand, it's endearing, but on the other, it can be kind of sad.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_07_4",
+                "type": "Choice",
+                "text": "Mostly endearing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_07_6"
+            },
+            {
+                "id": "d_counseling_naga_07_5",
+                "type": "Choice",
+                "text": "Mostly sad.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_07_8"
+            },
+            {
+                "id": "d_counseling_naga_07_6",
+                "type": "Speech",
+                "text": "I hope they never lose that side of them,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_07_7",
+                "type": "Speech",
+                "text": "I really do.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_07_12"
+            },
+            {
+                "id": "d_counseling_naga_07_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_07_9",
+                "type": "Speech",
+                "text": "I can't say that",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_07_10",
+                "type": "Speech",
+                "text": "I expected that to be your answer.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_07_11",
+                "type": "Speech",
+                "text": "I'm glad that you understand where I'm coming from.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_07_12"
+            },
+            {
+                "id": "d_counseling_naga_07_12",
+                "type": "Narration",
+                "text": "Naga and I continue talking about the underclassmen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_08_1",
+                "type": "Speech",
+                "text": "I've seen Marciana a couple of times outside of school.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_08_2",
+                "type": "Speech",
+                "text": "She's quite charming.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_08_3",
+                "type": "Choice",
+                "text": "What makes you say that?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_08_5"
+            },
+            {
+                "id": "d_counseling_naga_08_4",
+                "type": "Choice",
+                "text": "She's a real charmer, that's for sure.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_08_9"
+            },
+            {
+                "id": "d_counseling_naga_08_5",
+                "type": "Speech",
+                "text": "I'm not sure.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_08_6",
+                "type": "Speech",
+                "text": "How should I put it...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_08_7",
+                "type": "Speech",
+                "text": "She seems... very secretive.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_08_8",
+                "type": "Speech",
+                "text": "Like she was hiding a lot from me.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_08_12"
+            },
+            {
+                "id": "d_counseling_naga_08_9",
+                "type": "Speech",
+                "text": "I see that you've already experienced that side of her.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_08_10",
+                "type": "Speech",
+                "text": "You seem awfully interested in her.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_08_11",
+                "type": "Speech",
+                "text": "I'm starting to get a little envious of her!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_08_12"
+            },
+            {
+                "id": "d_counseling_naga_08_12",
+                "type": "Narration",
+                "text": "Naga and I talk more about Marciana.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_09_1",
+                "type": "Speech",
+                "text": "I want to correct Tia's slouching.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_09_2",
+                "type": "Speech",
+                "text": "Whenever she sits down at her desk, she hunches over. It looks terrible.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_09_3",
+                "type": "Speech",
+                "text": "Do you know any good ways to fix bad posture?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_09_4",
+                "type": "Choice",
+                "text": "Let's buy her a posture correction device.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_09_6"
+            },
+            {
+                "id": "d_counseling_naga_09_5",
+                "type": "Choice",
+                "text": "We can try to convince her to change using desserts as a reward.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_09_9"
+            },
+            {
+                "id": "d_counseling_naga_09_6",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_09_7",
+                "type": "Speech",
+                "text": "I'm not so sure that's a good idea.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_09_8",
+                "type": "Speech",
+                "text": "I've already given her some pointers on proper posture during our breaks.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_09_12"
+            },
+            {
+                "id": "d_counseling_naga_09_9",
+                "type": "Speech",
+                "text": "That's a great idea!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_09_10",
+                "type": "Speech",
+                "text": "Tia even mentioned to me that she's a bit short on credits for desserts this month.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_09_11",
+                "type": "Speech",
+                "text": "Thanks, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_09_12"
+            },
+            {
+                "id": "d_counseling_naga_09_12",
+                "type": "Narration",
+                "text": "As I converse with Naga, we wonder about the parts for Tia's future waist.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_10_1",
+                "type": "Speech",
+                "text": "Teacher, what do you think about lying?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_10_2",
+                "type": "Speech",
+                "text": "Do you think all lies are bad?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_10_3",
+                "type": "Choice",
+                "text": "There's nothing wrong with a little white lie.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_10_5"
+            },
+            {
+                "id": "d_counseling_naga_10_4",
+                "type": "Choice",
+                "text": "I think all lies are bad.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_10_10"
+            },
+            {
+                "id": "d_counseling_naga_10_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_10_6",
+                "type": "Self",
+                "text": "What about you, Naga? What do you think?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_10_7",
+                "type": "Speech",
+                "text": "Me?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_10_8",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_10_9",
+                "type": "Speech",
+                "text": "It's a secret.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_10_13"
+            },
+            {
+                "id": "d_counseling_naga_10_10",
+                "type": "Speech",
+                "text": "You're nothing if not firm, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_10_11",
+                "type": "Speech",
+                "text": "I better watch myself from now on.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_10_12",
+                "type": "Speech",
+                "text": "I'd hate to get on your bad side.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_10_13"
+            },
+            {
+                "id": "d_counseling_naga_10_13",
+                "type": "Narration",
+                "text": "Naga and I have a discussion about lies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_11_1",
+                "type": "Speech",
+                "text": "You've really got it rough, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_2",
+                "type": "Speech",
+                "text": "You've got to care for so many Nikkes all by yourself.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_3",
+                "type": "Speech",
+                "text": "That can't be an easy job.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_4",
+                "type": "Choice",
+                "text": "I can't complain. It's part of my job.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_11_6"
+            },
+            {
+                "id": "d_counseling_naga_11_5",
+                "type": "Choice",
+                "text": "It can be rough. Any chance I can have a breather?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_11_10"
+            },
+            {
+                "id": "d_counseling_naga_11_6",
+                "type": "Speech",
+                "text": "Your professionalism is admirable,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_7",
+                "type": "Speech",
+                "text": "but rest is important too.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_8",
+                "type": "Speech",
+                "text": "You're not looking so hot, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_9",
+                "type": "Speech",
+                "text": "You've got to remember to take care of yourself while you're working.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_11_14"
+            },
+            {
+                "id": "d_counseling_naga_11_10",
+                "type": "Speech",
+                "text": "Of course.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_11",
+                "type": "Speech",
+                "text": "You don't look so good anyway.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_12",
+                "type": "Speech",
+                "text": "I think lying down for a bit might be a good idea.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_11_13",
+                "type": "Speech",
+                "text": "Come, you can rest your head on my lap.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_11_14"
+            },
+            {
+                "id": "d_counseling_naga_11_14",
+                "type": "Narration",
+                "text": "I accept Naga's suggestion and take a short rest.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_12_1",
+                "type": "Speech",
+                "text": "Teacher, is there any chance you",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_12_2",
+                "type": "Speech",
+                "text": "could teach me how to refrain from impulse buying?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_12_3",
+                "type": "Choice",
+                "text": "You bought some more accessories, didn't you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_12_5"
+            },
+            {
+                "id": "d_counseling_naga_12_4",
+                "type": "Choice",
+                "text": "You bought some more desserts, didn't you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_12_9"
+            },
+            {
+                "id": "d_counseling_naga_12_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_12_6",
+                "type": "Speech",
+                "text": "But this stud was so shiny! I absolutely\u00a0had\u00a0to buy it.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_12_7",
+                "type": "Speech",
+                "text": "Honestly, I must've been over 30 feet away and I could still see it twinkling.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_12_8",
+                "type": "Speech",
+                "text": "... Yeah, avoiding jewelry shops for the time being might be a good idea.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_12_12"
+            },
+            {
+                "id": "d_counseling_naga_12_9",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_12_10",
+                "type": "Speech",
+                "text": "I think you've got me mixed up with Tia.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_12_11",
+                "type": "Speech",
+                "text": "I never buy desserts on a whim.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_12_12"
+            },
+            {
+                "id": "d_counseling_naga_12_12",
+                "type": "Narration",
+                "text": "Naga and I ponder about impulse buying and how to curb it.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_13_1",
+                "type": "Speech",
+                "text": "When I graduate, there are two things I'll miss.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_13_2",
+                "type": "Speech",
+                "text": "One is not being able to see Tia every day like I do now.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_13_3",
+                "type": "Speech",
+                "text": "What do you think the other one is?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_13_4",
+                "type": "Choice",
+                "text": "Not being able to see your other friends?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_13_6"
+            },
+            {
+                "id": "d_counseling_naga_13_5",
+                "type": "Choice",
+                "text": "Not being able to wear your uniform?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_13_8"
+            },
+            {
+                "id": "d_counseling_naga_13_6",
+                "type": "Speech",
+                "text": "Sorry, but that's not it.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_13_7",
+                "type": "Speech",
+                "text": "You oughta study more, hehe.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_13_13"
+            },
+            {
+                "id": "d_counseling_naga_13_8",
+                "type": "Speech",
+                "text": "You're as sharp as a tack, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_13_9",
+                "type": "Speech",
+                "text": "That's correct.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_13_10",
+                "type": "Speech",
+                "text": "Whenever I think about not being able to wear the school uniform any longer,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_13_11",
+                "type": "Speech",
+                "text": "I get bummed.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_13_12",
+                "type": "Speech",
+                "text": "So I'll try to enjoy it as much as possible while I still can.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_13_13"
+            },
+            {
+                "id": "d_counseling_naga_13_13",
+                "type": "Narration",
+                "text": "I spend time with Naga talking about graduation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_14_1",
+                "type": "Speech",
+                "text": "Teacher! Teacher!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_14_2",
+                "type": "Self",
+                "text": "What is it?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_14_3",
+                "type": "Monologue",
+                "text": "I turn in the direction of Naga's shouting.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_14_4",
+                "type": "Narration",
+                "text": "*Poke*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_14_5",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_14_6",
+                "type": "Monologue",
+                "text": "Naga pokes me on the cheek with her finger.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_14_7",
+                "type": "Choice",
+                "text": "I can't believe I fell for that.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_14_9"
+            },
+            {
+                "id": "d_counseling_naga_14_8",
+                "type": "Choice",
+                "text": "What was that for?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_14_11"
+            },
+            {
+                "id": "d_counseling_naga_14_9",
+                "type": "Speech",
+                "text": "You should see your face!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_14_10",
+                "type": "Speech",
+                "text": "Just a moment ago, I got Tia pretty good as well.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_14_13"
+            },
+            {
+                "id": "d_counseling_naga_14_11",
+                "type": "Speech",
+                "text": "Just a little prank.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_14_12",
+                "type": "Speech",
+                "text": "That you totally fell for! Hehe.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_14_13"
+            },
+            {
+                "id": "d_counseling_naga_14_13",
+                "type": "Narration",
+                "text": "Naga goes on to tell me about more of the latest pranks that are trending at school.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_15_1",
+                "type": "Speech",
+                "text": "Among those who give off dog or cat vibes,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_15_2",
+                "type": "Speech",
+                "text": "which do you prefer?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_15_3",
+                "type": "Choice",
+                "text": "Dog vibes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_15_5"
+            },
+            {
+                "id": "d_counseling_naga_15_4",
+                "type": "Choice",
+                "text": "Cat vibes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_15_7"
+            },
+            {
+                "id": "d_counseling_naga_15_5",
+                "type": "Speech",
+                "text": "So you prefer people who are more soft and cuddly?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_15_6",
+                "type": "Speech",
+                "text": "That's too bad.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_15_9"
+            },
+            {
+                "id": "d_counseling_naga_15_7",
+                "type": "Speech",
+                "text": "So you prefer people who are a bit more sassy?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_15_8",
+                "type": "Speech",
+                "text": "That's encouraging.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_15_9"
+            },
+            {
+                "id": "d_counseling_naga_15_9",
+                "type": "Narration",
+                "text": "Naga and I discuss whether other people around us resemble cats or dogs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_16_1",
+                "type": "Speech",
+                "text": "I want to add another keyring to my bag.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_16_2",
+                "type": "Speech",
+                "text": "What kind do you think would look best?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_16_3",
+                "type": "Choice",
+                "text": "A purple one shaped like a ribbon.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_16_5"
+            },
+            {
+                "id": "d_counseling_naga_16_4",
+                "type": "Choice",
+                "text": "It doesn't look like you have room for any more keyrings.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_16_8"
+            },
+            {
+                "id": "d_counseling_naga_16_5",
+                "type": "Speech",
+                "text": "Right! How come I didn't think of that?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_16_6",
+                "type": "Speech",
+                "text": "You clearly know what you're talking about.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_16_7",
+                "type": "Speech",
+                "text": "Thanks for the suggestion. I'll go with this one.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_16_11"
+            },
+            {
+                "id": "d_counseling_naga_16_8",
+                "type": "Speech",
+                "text": "What are you talking about?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_16_9",
+                "type": "Speech",
+                "text": "There's plenty of space to add more.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_16_10",
+                "type": "Speech",
+                "text": "Hurry up and pick one.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_16_11"
+            },
+            {
+                "id": "d_counseling_naga_16_11",
+                "type": "Narration",
+                "text": "I help Naga attach the keyring to her bag.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_17_1",
+                "type": "Speech",
+                "text": "Here, take these.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_2",
+                "type": "Self",
+                "text": "What are they?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_3",
+                "type": "Speech",
+                "text": "Some vitamins.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_4",
+                "type": "Speech",
+                "text": "You've been pushing yourself hard lately.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_5",
+                "type": "Speech",
+                "text": "I know it's not much, but I prepared this for you.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_6",
+                "type": "Choice",
+                "text": "Thank you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_17_8"
+            },
+            {
+                "id": "d_counseling_naga_17_7",
+                "type": "Choice",
+                "text": "Thanks, but the fact you're concerned about me is more than enough.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_17_12"
+            },
+            {
+                "id": "d_counseling_naga_17_8",
+                "type": "Speech",
+                "text": "I'm the one who should be thankful.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_9",
+                "type": "Speech",
+                "text": "You always take care of me.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_10",
+                "type": "Speech",
+                "text": "Take one in the morning and one at night.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_11",
+                "type": "Speech",
+                "text": "Don't forget.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_17_15"
+            },
+            {
+                "id": "d_counseling_naga_17_12",
+                "type": "Speech",
+                "text": "Please, I insist.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_13",
+                "type": "Speech",
+                "text": "If you feel I'm pressuring you, I'll take them back.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_17_14",
+                "type": "Speech",
+                "text": "But you better accept them next time!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_17_15"
+            },
+            {
+                "id": "d_counseling_naga_17_15",
+                "type": "Narration",
+                "text": "I express my gratitude to Naga.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_18_1",
+                "type": "Speech",
+                "text": "Teacher, I'm here.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_2",
+                "type": "Narration",
+                "text": "*Thud*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_3",
+                "type": "Monologue",
+                "text": "Naga drops her bag, which lands on the ground with a resounding thud.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_4",
+                "type": "Choice",
+                "text": "What's that bag made of?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_18_6"
+            },
+            {
+                "id": "d_counseling_naga_18_5",
+                "type": "Choice",
+                "text": "What do you have in that bag?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_18_9"
+            },
+            {
+                "id": "d_counseling_naga_18_6",
+                "type": "Speech",
+                "text": "This bag?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_7",
+                "type": "Speech",
+                "text": "Just ordinary fabric.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_8",
+                "type": "Speech",
+                "text": "Is there a problem?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_18_14"
+            },
+            {
+                "id": "d_counseling_naga_18_9",
+                "type": "Speech",
+                "text": "You wanna see?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_10",
+                "type": "Speech",
+                "text": "*Ziiiip*",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_11",
+                "type": "Speech",
+                "text": "These are an extra pair of stockings for Tia and a spare textbook for her...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_12",
+                "type": "Speech",
+                "text": "A backup set of gym clothes for Tia... some extra desserts for Tia...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_18_13",
+                "type": "Speech",
+                "text": "This is Tia's spare tablet... oh, and then there's this...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_18_14"
+            },
+            {
+                "id": "d_counseling_naga_18_14",
+                "type": "Narration",
+                "text": "I watch Naga unpack her bag for what feels like forever.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_19_1",
+                "type": "Speech",
+                "text": "No matter how much I try not to think about some unpleasant memories,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_19_2",
+                "type": "Speech",
+                "text": "they keep popping up.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_19_3",
+                "type": "Speech",
+                "text": "What would you do whenever that happens?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_19_4",
+                "type": "Choice",
+                "text": "I'd listen to soothing music and meditate.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_19_6"
+            },
+            {
+                "id": "d_counseling_naga_19_5",
+                "type": "Choice",
+                "text": "I shout at the top of my voice to release the stress.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_19_9"
+            },
+            {
+                "id": "d_counseling_naga_19_6",
+                "type": "Speech",
+                "text": "That's an awesome idea!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_19_7",
+                "type": "Speech",
+                "text": "I'll give that a try next time.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_19_8",
+                "type": "Speech",
+                "text": "Thanks, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_19_12"
+            },
+            {
+                "id": "d_counseling_naga_19_9",
+                "type": "Speech",
+                "text": "Hehe, that's a funny image.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_19_10",
+                "type": "Speech",
+                "text": "It really cheers me up.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_19_11",
+                "type": "Speech",
+                "text": "Thanks, Teacher.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_19_12"
+            },
+            {
+                "id": "d_counseling_naga_19_12",
+                "type": "Narration",
+                "text": "I comfort Naga, who seems less peppy than usual.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_naga_20_1",
+                "type": "Speech",
+                "text": "Whenever I do a group project,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_20_2",
+                "type": "Speech",
+                "text": "I end up being the group leader.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_20_3",
+                "type": "Speech",
+                "text": "It's not like I forced anyone, either. It's all decided fair and square through a vote.",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_20_4",
+                "type": "Speech",
+                "text": "Why do you think that happens?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_20_5",
+                "type": "Choice",
+                "text": "People see you as a natural-born leader.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_naga_20_7"
+            },
+            {
+                "id": "d_counseling_naga_20_6",
+                "type": "Choice",
+                "text": "Maybe they see you as a mature and sensible figure.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_naga_20_9"
+            },
+            {
+                "id": "d_counseling_naga_20_7",
+                "type": "Speech",
+                "text": "Is that what the others think of me?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_20_8",
+                "type": "Speech",
+                "text": "I'll have to continue brushing up on my leadership skills going forward then!",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_20_12"
+            },
+            {
+                "id": "d_counseling_naga_20_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_20_10",
+                "type": "Speech",
+                "text": "Teacher,",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_naga_20_11",
+                "type": "Speech",
+                "text": "are you saying I look old?",
+                "speaker": "Naga",
+                "points": null,
+                "jumpTo": "d_counseling_naga_20_12"
+            },
+            {
+                "id": "d_counseling_naga_20_12",
+                "type": "Narration",
+                "text": "I have a conversation about group projects with Naga.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

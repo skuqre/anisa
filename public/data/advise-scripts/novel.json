@@ -1,0 +1,1917 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_novel_01_1",
+                "type": "Speech",
+                "text": "Watson! We have a problem...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_2",
+                "type": "Speech",
+                "text": "I recently accepted a case,",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_3",
+                "type": "Speech",
+                "text": "but my detective senses just aren't coming to me.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_4",
+                "type": "Choice",
+                "text": "Why not do a rain dance?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_01_6"
+            },
+            {
+                "id": "d_counseling_novel_01_5",
+                "type": "Choice",
+                "text": "Try going to the scene of the crime.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_01_10"
+            },
+            {
+                "id": "d_counseling_novel_01_6",
+                "type": "Speech",
+                "text": "W-Watson...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_7",
+                "type": "Speech",
+                "text": "I don't think you know what rain dances are for... Let me explain it to you.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_8",
+                "type": "Speech",
+                "text": "You do a rain dance to make it rain...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_9",
+                "type": "Self",
+                "text": "Just kidding.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_novel_01_13"
+            },
+            {
+                "id": "d_counseling_novel_01_10",
+                "type": "Speech",
+                "text": "I'm actually on my way back from the crime scene...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_11",
+                "type": "Speech",
+                "text": "But maybe if I took you, I would notice something else.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_12",
+                "type": "Speech",
+                "text": "Let's go there right away! Carriage!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_01_13",
+                "type": "Narration",
+                "text": "I spend time talking with Novel about a case.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_02_1",
+                "type": "Speech",
+                "text": "I have a serious problem.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_02_2",
+                "type": "Speech",
+                "text": "For today's lunch...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_02_3",
+                "type": "Speech",
+                "text": "Should I have pizza-flavored Splendamin or the chicken-flavored Splendamin?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_02_4",
+                "type": "Choice",
+                "text": "Of course, pizza. Pizza is life.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_02_6"
+            },
+            {
+                "id": "d_counseling_novel_02_5",
+                "type": "Choice",
+                "text": "If you are a citizen of the Ark, chicken is best.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_02_10"
+            },
+            {
+                "id": "d_counseling_novel_02_6",
+                "type": "Narration",
+                "text": "Beep beep beep beep beep!!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_02_7",
+                "type": "Speech",
+                "text": "My detective sense just went off!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_02_8",
+                "type": "Speech",
+                "text": "I'll choose the opposite of Watson's recommendation.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_02_12"
+            },
+            {
+                "id": "d_counseling_novel_02_10",
+                "type": "Speech",
+                "text": "Yeah, well.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_02_11",
+                "type": "Speech",
+                "text": "To be honest, I don't think it was worth getting worried about in the first place.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_02_12",
+                "type": "Narration",
+                "text": "Turns out she'd already decided even before I answered.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_03_1",
+                "type": "Speech",
+                "text": "With Exia's knack for obtaining information...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_2",
+                "type": "Speech",
+                "text": "and my unbelievably accurate analyses...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_3",
+                "type": "Speech",
+                "text": "Protocol should be the best squad in the Ark!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_4",
+                "type": "Speech",
+                "text": "So, why isn't that the case?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_5",
+                "type": "Choice",
+                "text": "Who said it's not?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_03_7"
+            },
+            {
+                "id": "d_counseling_novel_03_6",
+                "type": "Choice",
+                "text": "Because your squad's talents aren't all about firepower.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_03_10"
+            },
+            {
+                "id": "d_counseling_novel_03_7",
+                "type": "Speech",
+                "text": "When I asked people on the street who the strongest squad was...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_8",
+                "type": "Speech",
+                "text": "... approximately 95% replied Matis or Absolute.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_9",
+                "type": "Speech",
+                "text": "With results like that, I can't even claim a mental victory...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_03_13"
+            },
+            {
+                "id": "d_counseling_novel_03_10",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_11",
+                "type": "Speech",
+                "text": "That makes sense.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_12",
+                "type": "Speech",
+                "text": "The pen is mightier than the sword. Hahaha!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_03_13",
+                "type": "Narration",
+                "text": "I comfort Novel, who is down in the dumps about her squad's ranking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_04_1",
+                "type": "Speech",
+                "text": "Watson.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_04_2",
+                "type": "Speech",
+                "text": "I'd like to try out this new add-on I got for my watch.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_04_3",
+                "type": "Speech",
+                "text": "Can you help me, as my assistant?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_04_4",
+                "type": "Choice",
+                "text": "Of course.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_04_6"
+            },
+            {
+                "id": "d_counseling_novel_04_5",
+                "type": "Choice",
+                "text": "(Make a run for it.)",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_04_7"
+            },
+            {
+                "id": "d_counseling_novel_04_6",
+                "type": "Speech",
+                "text": "You agreed!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_04_8"
+            },
+            {
+                "id": "d_counseling_novel_04_7",
+                "type": "Speech",
+                "text": "Hey! Where are you running off to?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_04_8"
+            },
+            {
+                "id": "d_counseling_novel_04_8",
+                "type": "Narration",
+                "text": "*Whoosh* *Zap*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_04_9",
+                "type": "Monologue",
+                "text": "All of a sudden, my mind starts to become blurry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_04_10",
+                "type": "Speech",
+                "text": "Haha... Sedating Watson, success!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_04_11",
+                "type": "Speech",
+                "text": "In the future, when necessary, I will pretend to be you and give myself excellent performance reviews...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_04_12",
+                "type": "Narration",
+                "text": "I was unconscious for the entire discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_05_1",
+                "type": "Speech",
+                "text": "I need to send a text message to a client.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_05_2",
+                "type": "Speech",
+                "text": "But, I just can't seem to get it right! What should I do?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_05_3",
+                "type": "Choice",
+                "text": "I'll send it for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_05_5"
+            },
+            {
+                "id": "d_counseling_novel_05_4",
+                "type": "Choice",
+                "text": "You just have to keep practicing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_05_8"
+            },
+            {
+                "id": "d_counseling_novel_05_5",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_05_6",
+                "type": "Speech",
+                "text": "Watson, you are really...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_05_7",
+                "type": "Speech",
+                "text": "... on the road to becoming the perfect assistant!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_05_12"
+            },
+            {
+                "id": "d_counseling_novel_05_8",
+                "type": "Narration",
+                "text": "*Beep*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_05_9",
+                "type": "Narration",
+                "text": "... Text from Novel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_05_10",
+                "type": "Narration",
+                "text": "no,matter,how,much,I,practice",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_05_11",
+                "type": "Narration",
+                "text": "this,is,the,best,I,could,do,,,",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_05_12",
+                "type": "Narration",
+                "text": "I help Novel send a text.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_06_1",
+                "type": "Speech",
+                "text": "I have something on my mind.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_06_2",
+                "type": "Speech",
+                "text": "I want to dig through all the unsolved cases of the Ark...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_06_3",
+                "type": "Speech",
+                "text": "But, due to tight security, it's difficult to get my hands on even just one.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_06_4",
+                "type": "Choice",
+                "text": "Sounds dangerous. You should stop before you run into trouble.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_06_6"
+            },
+            {
+                "id": "d_counseling_novel_06_5",
+                "type": "Choice",
+                "text": "Let's ask Exia for help.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_06_9"
+            },
+            {
+                "id": "d_counseling_novel_06_6",
+                "type": "Speech",
+                "text": "Watson...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_06_7",
+                "type": "Speech",
+                "text": "That's not an option for me.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_06_8",
+                "type": "Speech",
+                "text": "A detective's heart dies the moment they stop seeking the truth.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_06_12"
+            },
+            {
+                "id": "d_counseling_novel_06_9",
+                "type": "Speech",
+                "text": "!! It was right under our noses all along!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_06_10",
+                "type": "Speech",
+                "text": "Exia is the top hacker in the Ark.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_06_11",
+                "type": "Speech",
+                "text": "I'm sure she will be able to get around the Ark's security, easy-peasy!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_06_12",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Novel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_07_1",
+                "type": "Speech",
+                "text": "These past few days...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_07_2",
+                "type": "Speech",
+                "text": "I've had absolutely no cases.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_07_3",
+                "type": "Speech",
+                "text": "In fact, it's been a little too quiet.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_07_4",
+                "type": "Speech",
+                "text": "If this keeps up, the unemployment rate for detectives will reach 100%.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_07_5",
+                "type": "Choice",
+                "text": "There are cases everywhere. You just have to go and look for them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_07_7"
+            },
+            {
+                "id": "d_counseling_novel_07_6",
+                "type": "Choice",
+                "text": "It's nice to take a break once in a while.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_07_10"
+            },
+            {
+                "id": "d_counseling_novel_07_7",
+                "type": "Speech",
+                "text": "!! By that, you mean...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_07_8",
+                "type": "Speech",
+                "text": "Real detectives don't sit around waiting for a good mystery.\nThey have to get out there and find them!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_07_9",
+                "type": "Speech",
+                "text": "Thank you, Watson! This is a real epiphany!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_07_12"
+            },
+            {
+                "id": "d_counseling_novel_07_10",
+                "type": "Speech",
+                "text": "Argh...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_07_11",
+                "type": "Speech",
+                "text": "How can unemployment be peaceful...?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_07_12",
+                "type": "Narration",
+                "text": "I share my thoughts on unemployment rates for detectives.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_08_1",
+                "type": "Speech",
+                "text": "There are closed-room murder cases, and then there are serial killer cases.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_2",
+                "type": "Speech",
+                "text": "If you had to choose one,",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_3",
+                "type": "Speech",
+                "text": "which would you choose, Watson?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_4",
+                "type": "Choice",
+                "text": "A closed-room murder case.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_08_6"
+            },
+            {
+                "id": "d_counseling_novel_08_5",
+                "type": "Choice",
+                "text": "A serial killer case.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_08_10"
+            },
+            {
+                "id": "d_counseling_novel_08_6",
+                "type": "Speech",
+                "text": "A sealed room.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_7",
+                "type": "Speech",
+                "text": "Tight surveillance that prevents anyone from going in or out without being seen.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_8",
+                "type": "Speech",
+                "text": "But, a truly genius criminal can make it happen!!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_9",
+                "type": "Speech",
+                "text": "Like detective, like assistant! We are interested in the same crimes!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_08_14"
+            },
+            {
+                "id": "d_counseling_novel_08_10",
+                "type": "Speech",
+                "text": "Many victims.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_11",
+                "type": "Speech",
+                "text": "By finding vague commonalities between them,",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_12",
+                "type": "Speech",
+                "text": "we eventually catch the killer!!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_13",
+                "type": "Speech",
+                "text": "... They're interesting, indeed, but it seems that we have slight difference in taste.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_08_14",
+                "type": "Narration",
+                "text": "I have a conversation about cases with Novel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_09_1",
+                "type": "Speech",
+                "text": "A rival...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_09_2",
+                "type": "Speech",
+                "text": "I think I need a rival.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_09_3",
+                "type": "Speech",
+                "text": "Just like how Sherlock Holmes had Professor Moriarty and Arsene Lupin.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_09_4",
+                "type": "Choice",
+                "text": "I can be your rival.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_09_6"
+            },
+            {
+                "id": "d_counseling_novel_09_5",
+                "type": "Choice",
+                "text": "Why not ask Exotic to be your archenemy?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_09_8"
+            },
+            {
+                "id": "d_counseling_novel_09_6",
+                "type": "Speech",
+                "text": "Uh... That's a bit...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_09_7",
+                "type": "Speech",
+                "text": "I think it would be best if you stay as my assistant, my dear Watson.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_09_11"
+            },
+            {
+                "id": "d_counseling_novel_09_8",
+                "type": "Speech",
+                "text": "Oh! By Exotic, you mean...?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_09_9",
+                "type": "Speech",
+                "text": "The outlaws of the Outer Rim! Heinous criminals, sought after even by Missilis!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_09_10",
+                "type": "Speech",
+                "text": "They seem formidable enough to become my rival.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_09_11",
+                "type": "Narration",
+                "text": "I talk with Novel about rivals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_10_1",
+                "type": "Speech",
+                "text": "I'm curious.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_2",
+                "type": "Speech",
+                "text": "Well, actually, more like concerned.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_3",
+                "type": "Speech",
+                "text": "Why are you not wearing your usual clothes?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_4",
+                "type": "Choice",
+                "text": "I have a date.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_10_6"
+            },
+            {
+                "id": "d_counseling_novel_10_5",
+                "type": "Choice",
+                "text": "Because today is the day I consult with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_10_9"
+            },
+            {
+                "id": "d_counseling_novel_10_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_7",
+                "type": "Speech",
+                "text": "Who... With who?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_8",
+                "type": "Speech",
+                "text": "No, wait. Don't tell me. Suddenly, I'm not curious about it.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_10_13"
+            },
+            {
+                "id": "d_counseling_novel_10_9",
+                "type": "Speech",
+                "text": "Uh...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_10",
+                "type": "Speech",
+                "text": "Is that true?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_11",
+                "type": "Speech",
+                "text": "Thank you. And, Watson...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_12",
+                "type": "Speech",
+                "text": "You look really cool today.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_10_13",
+                "type": "Narration",
+                "text": "I share some small talk with Novel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_11_1",
+                "type": "Speech",
+                "text": "Why are people losing their minds over mint chocolate?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_11_2",
+                "type": "Speech",
+                "text": "I can't wrap my brain around it.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_11_3",
+                "type": "Choice",
+                "text": "Because they don't have to brush their teeth after eating that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_11_5"
+            },
+            {
+                "id": "d_counseling_novel_11_4",
+                "type": "Choice",
+                "text": "Because of a desire to be special.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_11_8"
+            },
+            {
+                "id": "d_counseling_novel_11_5",
+                "type": "Speech",
+                "text": "Brush teeth...?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_11_6",
+                "type": "Speech",
+                "text": "If you don't brush your teeth, you will have to frequently visit the dentist...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_11_7",
+                "type": "Speech",
+                "text": "I don't think there is a reason to like mint chocolate that much while losing out.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_11_12"
+            },
+            {
+                "id": "d_counseling_novel_11_8",
+                "type": "Speech",
+                "text": "Desire to be special?!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_11_9",
+                "type": "Speech",
+                "text": "Oh... That is interesting.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_11_10",
+                "type": "Speech",
+                "text": "How does mint chocolate satisfy that desire!!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_11_11",
+                "type": "Speech",
+                "text": "I need to investigate this a little deeper!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_11_12",
+                "type": "Narration",
+                "text": "I reasoned why people are crazy about mint chocolate with Novel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_12_1",
+                "type": "Speech",
+                "text": "Hahaha! We finally managed to crack the case and apprehend the criminal!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_12_2",
+                "type": "Speech",
+                "text": "In my dreams, that is...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_12_3",
+                "type": "Choice",
+                "text": "You're a super sleuth even when you're dreaming!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_12_5"
+            },
+            {
+                "id": "d_counseling_novel_12_4",
+                "type": "Choice",
+                "text": "Who did the criminal turn out to be?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_12_10"
+            },
+            {
+                "id": "d_counseling_novel_12_5",
+                "type": "Speech",
+                "text": "Thank you, Watson!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_12_6",
+                "type": "Speech",
+                "text": "No rest for the wicked, not even when you're in dreamland!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_12_7",
+                "type": "Speech",
+                "text": "I grabbed the fiend by the arm,",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_12_8",
+                "type": "Speech",
+                "text": "and said, \"You sir, are the criminal! And here is the evidence!\" And then...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_12_9",
+                "type": "Speech",
+                "text": "I woke up. But it sure was a fun dream.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_12_12"
+            },
+            {
+                "id": "d_counseling_novel_12_10",
+                "type": "Speech",
+                "text": "... Honestly, I don't remember.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_12_11",
+                "type": "Speech",
+                "text": "As soon as I woke up from my dream, it was all a bit of a blur.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_12_12",
+                "type": "Narration",
+                "text": "Novel and I talk more about other unsolved cases.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_13_1",
+                "type": "Speech",
+                "text": "My powers of deduction haven't been firing on all cylinders lately.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_13_2",
+                "type": "Speech",
+                "text": "If this keeps up, I'm concerned I'll even start forgetting about key evidence.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_13_3",
+                "type": "Choice",
+                "text": "I'll come with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_13_5"
+            },
+            {
+                "id": "d_counseling_novel_13_4",
+                "type": "Choice",
+                "text": "Let's go to the hospital.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_13_7"
+            },
+            {
+                "id": "d_counseling_novel_13_5",
+                "type": "Speech",
+                "text": "You truly are a trustworthy sidekick!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_13_6",
+                "type": "Speech",
+                "text": "Very trustworthy indeed!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_13_10"
+            },
+            {
+                "id": "d_counseling_novel_13_7",
+                "type": "Speech",
+                "text": "Hmm... It's not bad enough to warrant a hospital visit.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_13_8",
+                "type": "Speech",
+                "text": "But if you insist, I'll consider it...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_13_9",
+                "type": "Speech",
+                "text": "I can't stand hospitals.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_13_10",
+                "type": "Narration",
+                "text": "Novel and I tried to come up with ways to improve her memory.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_14_1",
+                "type": "Speech",
+                "text": "Hey, have you heard this line before? \"The criminal is you!\"",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_14_2",
+                "type": "Speech",
+                "text": "What a cool line.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_14_3",
+                "type": "Speech",
+                "text": "I want to come up with my own catchphrase,",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_14_4",
+                "type": "Speech",
+                "text": "but I'm not sure what it should be.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_14_5",
+                "type": "Choice",
+                "text": "In the name of justice, you will not go unpunished!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_14_7"
+            },
+            {
+                "id": "d_counseling_novel_14_6",
+                "type": "Choice",
+                "text": "You don't need a catchphrase, you're already cool as is.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_14_9"
+            },
+            {
+                "id": "d_counseling_novel_14_7",
+                "type": "Speech",
+                "text": "I'm pretty sure I've heard that somewhere before.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_14_8",
+                "type": "Speech",
+                "text": "I want something new.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_14_11"
+            },
+            {
+                "id": "d_counseling_novel_14_9",
+                "type": "Speech",
+                "text": "Haha, you think so?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_14_10",
+                "type": "Speech",
+                "text": "I certainly wasn't expecting an answer like that, but thank you, Watson.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_14_11",
+                "type": "Narration",
+                "text": "Novel and I try to formulate some cool one-liners for her during our discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_15_1",
+                "type": "Speech",
+                "text": "Watson, if there a job you would want to continue doing,",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_15_2",
+                "type": "Speech",
+                "text": "even if you become a millionaire?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_15_3",
+                "type": "Choice",
+                "text": "Having discussions with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_15_5"
+            },
+            {
+                "id": "d_counseling_novel_15_4",
+                "type": "Choice",
+                "text": "Being a Commander.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_15_8"
+            },
+            {
+                "id": "d_counseling_novel_15_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_15_6",
+                "type": "Speech",
+                "text": "I didn't realize these talks meant that much to you.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_15_7",
+                "type": "Speech",
+                "text": "I hope they don't end anytime soon either.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_15_10"
+            },
+            {
+                "id": "d_counseling_novel_15_8",
+                "type": "Speech",
+                "text": "Wow...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_15_9",
+                "type": "Speech",
+                "text": "I expected an answer along those lines.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_15_10",
+                "type": "Narration",
+                "text": "Novel and I fantasize about what we would do if we became millionaires.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_16_1",
+                "type": "Speech",
+                "text": "Hmm... I'm trying to come up with a word that'll go well with my name.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_16_2",
+                "type": "Speech",
+                "text": "But I'm struggling to find the right term.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_16_3",
+                "type": "Speech",
+                "text": "Do you have any ideas?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_16_4",
+                "type": "Choice",
+                "text": "Super Sleuth.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_16_6"
+            },
+            {
+                "id": "d_counseling_novel_16_5",
+                "type": "Choice",
+                "text": "Exuberant.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_16_9"
+            },
+            {
+                "id": "d_counseling_novel_16_6",
+                "type": "Speech",
+                "text": "Novel the Super Sleuth...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_16_7",
+                "type": "Speech",
+                "text": "That sounds great!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_16_8",
+                "type": "Speech",
+                "text": "I'll go with that!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_16_12"
+            },
+            {
+                "id": "d_counseling_novel_16_9",
+                "type": "Speech",
+                "text": "Novel the Exuberant...?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_16_10",
+                "type": "Speech",
+                "text": "I'm not so sure about that one...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_16_11",
+                "type": "Speech",
+                "text": "Do you have anything else?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_16_12",
+                "type": "Narration",
+                "text": "I help Novel come up with a new nickname.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_17_1",
+                "type": "Speech",
+                "text": "Watson, are there any Nikkes you're particularly close with?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_17_2",
+                "type": "Speech",
+                "text": "If there are, I'm curious who it is.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_17_3",
+                "type": "Choice",
+                "text": "Well, you, for one.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_17_5"
+            },
+            {
+                "id": "d_counseling_novel_17_4",
+                "type": "Choice",
+                "text": "No one yet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_17_8"
+            },
+            {
+                "id": "d_counseling_novel_17_5",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_17_6",
+                "type": "Speech",
+                "text": "I'm honored!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_17_7",
+                "type": "Speech",
+                "text": "I can't believe you think so highly of me!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_17_12"
+            },
+            {
+                "id": "d_counseling_novel_17_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_17_9",
+                "type": "Speech",
+                "text": "Are you sure?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_17_10",
+                "type": "Speech",
+                "text": "I thought we had become fairly close, but...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_17_11",
+                "type": "Speech",
+                "text": "The higher your expectations, the greater the disappointment.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_17_12",
+                "type": "Narration",
+                "text": "Novel and I share a casual conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_18_1",
+                "type": "Speech",
+                "text": "Watson, how do you relieve stress?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_18_2",
+                "type": "Speech",
+                "text": "Whenever my sleuthing skills elude me,",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_18_3",
+                "type": "Speech",
+                "text": "I get really stressed out.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_18_4",
+                "type": "Choice",
+                "text": "You can try having a go at a logic puzzle.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_18_6"
+            },
+            {
+                "id": "d_counseling_novel_18_5",
+                "type": "Choice",
+                "text": "I turn my brain off and try to get some sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_18_8"
+            },
+            {
+                "id": "d_counseling_novel_18_6",
+                "type": "Speech",
+                "text": "Hey, that sounds like it'd be fun!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_18_7",
+                "type": "Speech",
+                "text": "I'll go see if Exia has anything she can recommend.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_18_10"
+            },
+            {
+                "id": "d_counseling_novel_18_8",
+                "type": "Speech",
+                "text": "Even if I sleep, my stress doesn't go away.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_18_9",
+                "type": "Speech",
+                "text": "If anything, it only gets worse.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_18_10",
+                "type": "Narration",
+                "text": "I have a conversation with Novel about stress.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_19_1",
+                "type": "Speech",
+                "text": "Today is one of those days...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_19_2",
+                "type": "Speech",
+                "text": "I feel down in the dumps. I'd prefer to be alone.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_19_3",
+                "type": "Choice",
+                "text": "Get up to leave.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_19_5"
+            },
+            {
+                "id": "d_counseling_novel_19_4",
+                "type": "Choice",
+                "text": "Sit down beside her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_19_8"
+            },
+            {
+                "id": "d_counseling_novel_19_5",
+                "type": "Speech",
+                "text": "...?!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_19_6",
+                "type": "Speech",
+                "text": "You're actually leaving?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_19_7",
+                "type": "Speech",
+                "text": "All that stuff about wanting to be alone... I didn't really mean it...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_19_11"
+            },
+            {
+                "id": "d_counseling_novel_19_8",
+                "type": "Speech",
+                "text": "Thank you, Watson.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_19_9",
+                "type": "Speech",
+                "text": "I thought I wanted to be alone, but...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_19_10",
+                "type": "Speech",
+                "text": "it's comforting having you beside me.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_19_11",
+                "type": "Narration",
+                "text": "I quietly sat and comforted Novel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_novel_20_1",
+                "type": "Speech",
+                "text": "Um... Hypothetically speaking, if you were to go on a date",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_20_2",
+                "type": "Speech",
+                "text": "with your future girlfriend, what would you like to do?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_20_3",
+                "type": "Choice",
+                "text": "Do an escape room.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_novel_20_5"
+            },
+            {
+                "id": "d_counseling_novel_20_4",
+                "type": "Choice",
+                "text": "Watch a movie.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_novel_20_9"
+            },
+            {
+                "id": "d_counseling_novel_20_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_20_6",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_20_7",
+                "type": "Speech",
+                "text": "I'd love to do an escape room with my future boyfriend!",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_20_8",
+                "type": "Speech",
+                "text": "So... um... would you be interested in going with...",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": "d_counseling_novel_20_11"
+            },
+            {
+                "id": "d_counseling_novel_20_9",
+                "type": "Speech",
+                "text": "Oh, so you're a cinephile.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_20_10",
+                "type": "Speech",
+                "text": "I have a hard time sitting in one spot for too long.",
+                "speaker": "Novel",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_novel_20_11",
+                "type": "Narration",
+                "text": "I spend some time with Novel discussing our perfect dates.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

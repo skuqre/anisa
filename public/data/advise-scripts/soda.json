@@ -1,0 +1,1757 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_soda_01_1",
+                "type": "Speech",
+                "text": "Oh boy...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_01_2",
+                "type": "Speech",
+                "text": "I screwed up again today.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_01_3",
+                "type": "Choice",
+                "text": "It's okay. Everyone makes mistakes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_01_5"
+            },
+            {
+                "id": "d_counseling_soda_01_4",
+                "type": "Choice",
+                "text": "How about you just stick to cleaning?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_01_8"
+            },
+            {
+                "id": "d_counseling_soda_01_5",
+                "type": "Speech",
+                "text": "You say that so easily, but I really don't want to make any more mistakes.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_01_6",
+                "type": "Speech",
+                "text": "Either way, thanks for the encouraging words. I feel better already.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_01_7",
+                "type": "Speech",
+                "text": "I've gotta cheer myself up and keep taking orders!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_01_10"
+            },
+            {
+                "id": "d_counseling_soda_01_8",
+                "type": "Speech",
+                "text": "No way! No can do!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_01_9",
+                "type": "Speech",
+                "text": "I'm much too busy working at the Maid Cafe.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_01_10",
+                "type": "Narration",
+                "text": "I practice taking orders with Soda.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_02_1",
+                "type": "Speech",
+                "text": "Cleaning is the bee's knees!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_02_2",
+                "type": "Speech",
+                "text": "Clean clean, squeaky clean!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_02_3",
+                "type": "Choice",
+                "text": "Want to clean together?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_02_5"
+            },
+            {
+                "id": "d_counseling_soda_02_4",
+                "type": "Choice",
+                "text": "Cleaning is such a hassle.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_02_8"
+            },
+            {
+                "id": "d_counseling_soda_02_5",
+                "type": "Speech",
+                "text": "Sure!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_02_6",
+                "type": "Speech",
+                "text": "It'll be great having someone else join me!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_02_7",
+                "type": "Speech",
+                "text": "What should we start with? How about the table?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_02_10"
+            },
+            {
+                "id": "d_counseling_soda_02_8",
+                "type": "Speech",
+                "text": "*Gasp* Do you hate cleaning, Master?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_02_9",
+                "type": "Speech",
+                "text": "Whenever I clean, it feels like I've been cleansed myself!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_02_10",
+                "type": "Narration",
+                "text": "Soda and I chat about cleaning for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_03_1",
+                "type": "Speech",
+                "text": "Master!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_03_2",
+                "type": "Speech",
+                "text": "Do you prefer sunny or rainy days?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_03_3",
+                "type": "Choice",
+                "text": "I like sunny days.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_03_5"
+            },
+            {
+                "id": "d_counseling_soda_03_4",
+                "type": "Choice",
+                "text": "I like rainy days.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_03_7"
+            },
+            {
+                "id": "d_counseling_soda_03_5",
+                "type": "Speech",
+                "text": "Me too!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_03_6",
+                "type": "Speech",
+                "text": "Nothing beats the smell of a freshly sun-dried quilt.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_03_9"
+            },
+            {
+                "id": "d_counseling_soda_03_7",
+                "type": "Speech",
+                "text": "I can't clean most places when it's raining, so I can get a bit down in the dumps.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_03_8",
+                "type": "Speech",
+                "text": "But there must be something to them if you like them.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_03_9",
+                "type": "Narration",
+                "text": "Soda and I discuss our favorite types of weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_04_1",
+                "type": "Speech",
+                "text": "Aw man...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_04_2",
+                "type": "Speech",
+                "text": "I broke a glass while I was cleaning today.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_04_3",
+                "type": "Choice",
+                "text": "Were you hurt?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_04_5"
+            },
+            {
+                "id": "d_counseling_soda_04_4",
+                "type": "Choice",
+                "text": "Let's go buy another one.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_04_7"
+            },
+            {
+                "id": "d_counseling_soda_04_5",
+                "type": "Speech",
+                "text": "No, I'm okay.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_04_6",
+                "type": "Speech",
+                "text": "I appreciate your concern though!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_04_10"
+            },
+            {
+                "id": "d_counseling_soda_04_7",
+                "type": "Speech",
+                "text": "Well, it's just that...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_04_8",
+                "type": "Speech",
+                "text": "it was a limited edition cup. I'm not sure buying another one will be so easy.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_04_9",
+                "type": "Speech",
+                "text": "*Sigh* I really liked that cup...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_04_10",
+                "type": "Narration",
+                "text": "Soda and I discuss the type of new cup we want to buy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_05_1",
+                "type": "Speech",
+                "text": "I really like you, Master!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_05_2",
+                "type": "Speech",
+                "text": "Maybe even more than cleaning.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_05_3",
+                "type": "Choice",
+                "text": "I prefer you over cleaning as well, Soda.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_05_5"
+            },
+            {
+                "id": "d_counseling_soda_05_4",
+                "type": "Choice",
+                "text": "... Okay.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_05_7"
+            },
+            {
+                "id": "d_counseling_soda_05_5",
+                "type": "Speech",
+                "text": "Wow! Really?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_05_6",
+                "type": "Speech",
+                "text": "You and I are made for each other!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_05_9"
+            },
+            {
+                "id": "d_counseling_soda_05_7",
+                "type": "Speech",
+                "text": "Um... don't you like me, Master?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_05_8",
+                "type": "Speech",
+                "text": "If you prefer Cocoa and Ade over me, just say so...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_05_9",
+                "type": "Narration",
+                "text": "Soda and I have a nice heart-to-heart.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_06_1",
+                "type": "Speech",
+                "text": "We're doing some spring cleaning at the Maid Cafe today.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_06_2",
+                "type": "Speech",
+                "text": "Do you think we should start with the kitchen or the lobby?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_06_3",
+                "type": "Choice",
+                "text": "The kitchen.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_06_5"
+            },
+            {
+                "id": "d_counseling_soda_06_4",
+                "type": "Choice",
+                "text": "The lobby.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_06_7"
+            },
+            {
+                "id": "d_counseling_soda_06_5",
+                "type": "Speech",
+                "text": "I was thinking the same thing.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_06_6",
+                "type": "Speech",
+                "text": "If there's anywhere you want to keep clean at all times, it's where you cook!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_06_10"
+            },
+            {
+                "id": "d_counseling_soda_06_7",
+                "type": "Speech",
+                "text": "Okay, but the lobby is full of customers...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_06_8",
+                "type": "Speech",
+                "text": "If we go in there and start cleaning, we'll kick up dust everywhere.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_06_9",
+                "type": "Speech",
+                "text": "Why don't we clean the kitchen first, and move on to the lobby after the customers are gone?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_06_10",
+                "type": "Narration",
+                "text": "Soda tells me more about the plan to clean the Maid Cafe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_07_1",
+                "type": "Speech",
+                "text": "Master!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_07_2",
+                "type": "Speech",
+                "text": "What's your favorite food? Tell me and I'll make it for you.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_07_3",
+                "type": "Choice",
+                "text": "Anything you make is my favorite.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_07_5"
+            },
+            {
+                "id": "d_counseling_soda_07_4",
+                "type": "Choice",
+                "text": "I'm not really hungry.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_07_8"
+            },
+            {
+                "id": "d_counseling_soda_07_5",
+                "type": "Speech",
+                "text": "Wow, really?!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_07_6",
+                "type": "Speech",
+                "text": "That's so nice of you, Master.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_07_7",
+                "type": "Speech",
+                "text": "I'll cook something up for you right away. You're gonna love it!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_07_11"
+            },
+            {
+                "id": "d_counseling_soda_07_8",
+                "type": "Speech",
+                "text": "Oh... really?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_07_9",
+                "type": "Speech",
+                "text": "I was going to make you something super delicious...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_07_10",
+                "type": "Speech",
+                "text": "Well, let me know whenever you get hungry.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_07_11",
+                "type": "Narration",
+                "text": "Time passes pleasantly as Soda whips up a storm for me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_08_1",
+                "type": "Speech",
+                "text": "Master, you look beat.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_08_2",
+                "type": "Speech",
+                "text": "Would you like a massage?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_08_3",
+                "type": "Choice",
+                "text": "If it's not too much trouble...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_08_5"
+            },
+            {
+                "id": "d_counseling_soda_08_4",
+                "type": "Choice",
+                "text": "Actually, I feel fine.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_08_8"
+            },
+            {
+                "id": "d_counseling_soda_08_5",
+                "type": "Speech",
+                "text": "Of course it's not!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_08_6",
+                "type": "Speech",
+                "text": "Hmm, where should I start? Shoulders? Arms? Legs?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_08_7",
+                "type": "Speech",
+                "text": "Why don't you lie in bed first?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_08_10"
+            },
+            {
+                "id": "d_counseling_soda_08_8",
+                "type": "Speech",
+                "text": "Oh... you're not?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_08_9",
+                "type": "Speech",
+                "text": "It's just that you've got those dark circles under your eyes... I was worried about you.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_08_10",
+                "type": "Narration",
+                "text": "Soda gives me a massage.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_09_1",
+                "type": "Speech",
+                "text": "I want to put a cute pattern on top of your parfait.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_09_2",
+                "type": "Speech",
+                "text": "What should I draw?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_09_3",
+                "type": "Choice",
+                "text": "Cocoa's face.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_09_5"
+            },
+            {
+                "id": "d_counseling_soda_09_4",
+                "type": "Choice",
+                "text": "Your face.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_09_7"
+            },
+            {
+                "id": "d_counseling_soda_09_5",
+                "type": "Speech",
+                "text": "Hee hee, Cocoa is awfully cute I suppose.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_09_6",
+                "type": "Speech",
+                "text": "I'll start with her mouth.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_09_9"
+            },
+            {
+                "id": "d_counseling_soda_09_7",
+                "type": "Speech",
+                "text": "M-me?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_09_8",
+                "type": "Speech",
+                "text": "But I'm not that cute... well, I'll try my best.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_09_9",
+                "type": "Narration",
+                "text": "Soda and I have a blast decorating our parfaits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_10_1",
+                "type": "Narration",
+                "text": "*Crunch crunch*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_3",
+                "type": "Monologue",
+                "text": "Soda is cleaning every nook and cranny of the Commander's Room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_4",
+                "type": "Choice",
+                "text": "Is my room really that dirty?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_10_6"
+            },
+            {
+                "id": "d_counseling_soda_10_5",
+                "type": "Choice",
+                "text": "Is something on your mind?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_10_9"
+            },
+            {
+                "id": "d_counseling_soda_10_6",
+                "type": "Speech",
+                "text": "Oh, hey Master.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_7",
+                "type": "Speech",
+                "text": "No, it's not that. It's just...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_8",
+                "type": "Speech",
+                "text": "I'm feeling a bit blue today, so I was just doing some cleaning.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_10_13"
+            },
+            {
+                "id": "d_counseling_soda_10_9",
+                "type": "Speech",
+                "text": "Oh, hey Master. H-how did you know?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_10",
+                "type": "Speech",
+                "text": "I'm feeling a bit blue today, so I was just doing some cleaning.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_11",
+                "type": "Speech",
+                "text": "Cleaning always helps lift my spirits.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_12",
+                "type": "Speech",
+                "text": "That's so great that you can understand how I feel!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_10_13",
+                "type": "Narration",
+                "text": "Soda tells me more about her thoughts and feelings.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_11_1",
+                "type": "Speech",
+                "text": "I want to serve our customers meals, but I want to make it special.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_2",
+                "type": "Speech",
+                "text": "Do you have any suggestions?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_3",
+                "type": "Choice",
+                "text": "Try and make your eyes twinkle.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_11_5"
+            },
+            {
+                "id": "d_counseling_soda_11_4",
+                "type": "Choice",
+                "text": "You're already special as is.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_11_10"
+            },
+            {
+                "id": "d_counseling_soda_11_5",
+                "type": "Speech",
+                "text": "Hmm... like this?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_6",
+                "type": "Self",
+                "text": "It's... gorgeous.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_8",
+                "type": "Speech",
+                "text": "Really? Heh heh.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_9",
+                "type": "Speech",
+                "text": "Then I'll give them service with a smile every day.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_11_13"
+            },
+            {
+                "id": "d_counseling_soda_11_10",
+                "type": "Speech",
+                "text": "Y-you really think that?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_11",
+                "type": "Speech",
+                "text": "But I want to be more special...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_12",
+                "type": "Speech",
+                "text": "Hmm, how about if I try and smile like this?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_11_13",
+                "type": "Narration",
+                "text": "Soda practices smiling for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_12_1",
+                "type": "Speech",
+                "text": "Maid For You!\u266a Maid For You!\u266a",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_12_2",
+                "type": "Speech",
+                "text": "Guess what the lyrics are after that!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_12_3",
+                "type": "Choice",
+                "text": "Meet your special maid!\u266a",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_12_5"
+            },
+            {
+                "id": "d_counseling_soda_12_4",
+                "type": "Choice",
+                "text": "Meet your special Soda!\u266a",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_12_8"
+            },
+            {
+                "id": "d_counseling_soda_12_5",
+                "type": "Speech",
+                "text": "Bingo!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_12_6",
+                "type": "Speech",
+                "text": "I knew you'd get it right away.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_12_7",
+                "type": "Speech",
+                "text": "I've been humming this tune quite often lately while I've been cleaning.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_12_10"
+            },
+            {
+                "id": "d_counseling_soda_12_8",
+                "type": "Speech",
+                "text": "Hee hee! It's nice to hear my name inserted into the lyrics,",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_12_9",
+                "type": "Speech",
+                "text": "but they technically go, \"Meet your special maid!\"",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_12_10",
+                "type": "Narration",
+                "text": "Soda and I sing together for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_13_1",
+                "type": "Speech",
+                "text": "Cocoa gave me a big compliment today!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_13_2",
+                "type": "Speech",
+                "text": "Guess what she said.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_13_3",
+                "type": "Choice",
+                "text": "That you were the best cleaner around.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_13_5"
+            },
+            {
+                "id": "d_counseling_soda_13_4",
+                "type": "Choice",
+                "text": "That you were the best cook around.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_13_7"
+            },
+            {
+                "id": "d_counseling_soda_13_5",
+                "type": "Speech",
+                "text": "Although I often get praised for my cleaning,",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_13_6",
+                "type": "Speech",
+                "text": "today she said the omurice I made was killer!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_13_10"
+            },
+            {
+                "id": "d_counseling_soda_13_7",
+                "type": "Speech",
+                "text": "That's right!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_13_8",
+                "type": "Speech",
+                "text": "I made some omurice today, and you should have seen Cocoa's face.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_13_9",
+                "type": "Speech",
+                "text": "She was practically beaming! Once she put some ketchup on it, it was second-to-none.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_13_10",
+                "type": "Narration",
+                "text": "I listen to Soda's secret recipe for omurice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_14_1",
+                "type": "Speech",
+                "text": "Master!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_14_2",
+                "type": "Speech",
+                "text": "Is there anything you'd like to see me in other than a maid outfit?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_14_3",
+                "type": "Choice",
+                "text": "You look nice in maid costumes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_14_5"
+            },
+            {
+                "id": "d_counseling_soda_14_4",
+                "type": "Choice",
+                "text": "It'd be interesting to see you in some casual clothes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_14_7"
+            },
+            {
+                "id": "d_counseling_soda_14_5",
+                "type": "Speech",
+                "text": "I like maid outfits too,",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_14_6",
+                "type": "Speech",
+                "text": "but I'd like to try a new look every once in a while.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_14_10"
+            },
+            {
+                "id": "d_counseling_soda_14_7",
+                "type": "Speech",
+                "text": "That's exactly what I was thinking!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_14_8",
+                "type": "Speech",
+                "text": "I've been wanting to try some more casual styles, but can't decide on what to wear.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_14_9",
+                "type": "Speech",
+                "text": "Would you like to go shopping with me?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_14_10",
+                "type": "Narration",
+                "text": "I go shopping with Soda for suitable clothes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_15_1",
+                "type": "Speech",
+                "text": "I want work smarter, not harder, just like Ade.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_15_2",
+                "type": "Speech",
+                "text": "But all I ever seem to do is make mistakes. I'm so sad...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_15_3",
+                "type": "Choice",
+                "text": "That's what makes you so endearing, Soda.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_15_5"
+            },
+            {
+                "id": "d_counseling_soda_15_4",
+                "type": "Choice",
+                "text": "No need to be a perfectionist.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_15_7"
+            },
+            {
+                "id": "d_counseling_soda_15_5",
+                "type": "Speech",
+                "text": "Really? That kind of thing can be endearing?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_15_6",
+                "type": "Speech",
+                "text": "I'm glad to hear that people think that way, especially you, Master.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_15_9"
+            },
+            {
+                "id": "d_counseling_soda_15_7",
+                "type": "Speech",
+                "text": "I suppose that's true.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_15_8",
+                "type": "Speech",
+                "text": "Still though, I want to be a perfect maid like Ade!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_15_9",
+                "type": "Narration",
+                "text": "I discuss with Soda how to be a perfect maid.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_16_1",
+                "type": "Speech",
+                "text": "One, two...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_2",
+                "type": "Speech",
+                "text": "Nice to have you back, Master!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_3",
+                "type": "Choice",
+                "text": "... Hello.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_16_5"
+            },
+            {
+                "id": "d_counseling_soda_16_4",
+                "type": "Choice",
+                "text": "What's up with the bizarre greeting?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_16_9"
+            },
+            {
+                "id": "d_counseling_soda_16_5",
+                "type": "Speech",
+                "text": "Hee hee, thanks for playing along.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_6",
+                "type": "Speech",
+                "text": "I wanted to see what it'd be like greeting you like a customer at the Maid Cafe.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_7",
+                "type": "Speech",
+                "text": "I've gotta say, it felt pretty good.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_8",
+                "type": "Speech",
+                "text": "It was like I became your own private maid, hee hee!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_16_13"
+            },
+            {
+                "id": "d_counseling_soda_16_9",
+                "type": "Speech",
+                "text": "I wanted to see what it'd be like greeting you like we do with customers at the Maid Cafe.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_10",
+                "type": "Self",
+                "text": "And? What's the verdict?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_11",
+                "type": "Speech",
+                "text": "Let me think...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_12",
+                "type": "Speech",
+                "text": "I'm not telling! Hee hee!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_16_13",
+                "type": "Narration",
+                "text": "Soda and I act as if we are in the Maid Cafe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_17_1",
+                "type": "Speech",
+                "text": "I went to Talentum Mall earlier today.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_17_2",
+                "type": "Speech",
+                "text": "They had a sponge that can clear away old stains on sale! It was going for half-price.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_17_3",
+                "type": "Speech",
+                "text": "But I've already bought a lot of cleaning tools... What should I do?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_17_4",
+                "type": "Choice",
+                "text": "A craftsman does not rely on their tools.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_17_6"
+            },
+            {
+                "id": "d_counseling_soda_17_5",
+                "type": "Choice",
+                "text": "Consider it an investment towards your own happiness. Go for it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_17_8"
+            },
+            {
+                "id": "d_counseling_soda_17_6",
+                "type": "Speech",
+                "text": "Is that really true?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_17_7",
+                "type": "Speech",
+                "text": "But how else am I going to get rid of those ketchup stains in the kitchen?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_17_11"
+            },
+            {
+                "id": "d_counseling_soda_17_8",
+                "type": "Speech",
+                "text": "Now that you mention it...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_17_9",
+                "type": "Speech",
+                "text": "That's a great point! And so true!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_17_10",
+                "type": "Speech",
+                "text": "Cleaning is what brings me the most joy. If I should splurge on anything, this is it.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_17_11",
+                "type": "Narration",
+                "text": "I help Soda balance the books for the cafe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_18_1",
+                "type": "Speech",
+                "text": "Today we've got some cute cuddly bunny omurice hopping your way!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_2",
+                "type": "Speech",
+                "text": "I figured that since we're not in the cafe, giving the dish a cute name might help give it that special something.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_3",
+                "type": "Speech",
+                "text": "By the magic invested in me, I command you to be delicious! Moe moe kyun!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_4",
+                "type": "Choice",
+                "text": "Alakazam!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_18_6"
+            },
+            {
+                "id": "d_counseling_soda_18_5",
+                "type": "Choice",
+                "text": "??",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_18_9"
+            },
+            {
+                "id": "d_counseling_soda_18_6",
+                "type": "Speech",
+                "text": "Looks like my magic spell worked.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_7",
+                "type": "Speech",
+                "text": "You look pretty cute when you're doing magic, Master.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_8",
+                "type": "Speech",
+                "text": "Do it again for me! Just once more. Hee hee!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_18_13"
+            },
+            {
+                "id": "d_counseling_soda_18_9",
+                "type": "Speech",
+                "text": "It's a magic spell.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_10",
+                "type": "Self",
+                "text": "??",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_11",
+                "type": "Speech",
+                "text": "To make your food more delicious...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_12",
+                "type": "Speech",
+                "text": "I thought you'd join in...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_18_13",
+                "type": "Narration",
+                "text": "Soda teaches me several pre-meal magic spells.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_19_1",
+                "type": "Speech",
+                "text": "Once in a lifetime opportunity! Get your photo taken with a maid!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_2",
+                "type": "Speech",
+                "text": "Wanna try it, Master?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_3",
+                "type": "Speech",
+                "text": "You can choose your own theme.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_4",
+                "type": "Choice",
+                "text": "Secret agents going undercover as cleaners.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_19_6"
+            },
+            {
+                "id": "d_counseling_soda_19_5",
+                "type": "Choice",
+                "text": "The climactic scene of a romantic-comedy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_19_8"
+            },
+            {
+                "id": "d_counseling_soda_19_6",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_7",
+                "type": "Speech",
+                "text": "Perhaps Cocoa would be better suited for something like that.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_19_14"
+            },
+            {
+                "id": "d_counseling_soda_19_8",
+                "type": "Speech",
+                "text": "Sounds intriguing!",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_9",
+                "type": "Speech",
+                "text": "What exactly do people do during a scene like that?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_10",
+                "type": "Self",
+                "text": "Kiss, usually.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_11",
+                "type": "Speech",
+                "text": "Wh-wha?! Really?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_12",
+                "type": "Speech",
+                "text": "I had no idea...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_13",
+                "type": "Speech",
+                "text": "Well, if that's what you want, erm...",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_19_14",
+                "type": "Narration",
+                "text": "I have a wonderful time taking selfies with Soda.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soda_20_1",
+                "type": "Speech",
+                "text": "The shop window was all fogged up yesterday, so I doodled the password on there when no one was looking.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_20_2",
+                "type": "Speech",
+                "text": "Did you see what it was?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_20_3",
+                "type": "Choice",
+                "text": "A heart.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soda_20_5"
+            },
+            {
+                "id": "d_counseling_soda_20_4",
+                "type": "Choice",
+                "text": "A mathematical formula.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soda_20_8"
+            },
+            {
+                "id": "d_counseling_soda_20_5",
+                "type": "Speech",
+                "text": "Perfect! Password sent successfully.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_20_6",
+                "type": "Speech",
+                "text": "The next time the window fogs up,",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_20_7",
+                "type": "Speech",
+                "text": "maybe you could draw a password for me to memorize.",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": "d_counseling_soda_20_10"
+            },
+            {
+                "id": "d_counseling_soda_20_8",
+                "type": "Speech",
+                "text": "A mathematical formula?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_20_9",
+                "type": "Speech",
+                "text": "Am I a secret genius without even knowing it?",
+                "speaker": "Soda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soda_20_10",
+                "type": "Narration",
+                "text": "Soda and I look into why the window keeps fogging up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

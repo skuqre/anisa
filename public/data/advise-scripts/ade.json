@@ -1,0 +1,2261 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_ade_01_1",
+                "type": "Speech",
+                "text": "Welcome, Master.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_2",
+                "type": "Speech",
+                "text": "What kind of tea would you like today?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_3",
+                "type": "Choice",
+                "text": "Give me the usual, if you would.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_01_5"
+            },
+            {
+                "id": "d_counseling_ade_01_4",
+                "type": "Choice",
+                "text": "I'd like a nice hot cup of iced milk tea.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_01_12"
+            },
+            {
+                "id": "d_counseling_ade_01_5",
+                "type": "Speech",
+                "text": "Got it!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_6",
+                "type": "Self",
+                "text": "Do you remember what I usually order?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_7",
+                "type": "Speech",
+                "text": "Of course.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_8",
+                "type": "Speech",
+                "text": "You like the Maid For You special blend,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_9",
+                "type": "Speech",
+                "text": "served nice and hot, but not piping hot to the point that it burns your tongue.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_10",
+                "type": "Speech",
+                "text": "Is that correct?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_11",
+                "type": "Self",
+                "text": "Perfect.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_ade_01_18"
+            },
+            {
+                "id": "d_counseling_ade_01_12",
+                "type": "Speech",
+                "text": "Got it!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_13",
+                "type": "Self",
+                "text": "Uh... you're actually going to make that?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_14",
+                "type": "Speech",
+                "text": "Of course!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_15",
+                "type": "Speech",
+                "text": "Don't you worry, I'll have that ready for you in just a minute.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_16",
+                "type": "Speech",
+                "text": "You won't be disappointed.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_17",
+                "type": "Monologue",
+                "text": "I don't have the heart to tell Ade that I was just messing around.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_ade_01_18"
+            },
+            {
+                "id": "d_counseling_ade_01_18",
+                "type": "Speech",
+                "text": "Wait right here.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_01_19",
+                "type": "Narration",
+                "text": "I sip on the tea Ade made for me, and we have an enjoyable session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_02_1",
+                "type": "Speech",
+                "text": "What do you feel is the most important aspect of good service?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_02_2",
+                "type": "Choice",
+                "text": "That you put your heart and soul into it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_02_4"
+            },
+            {
+                "id": "d_counseling_ade_02_3",
+                "type": "Choice",
+                "text": "Professionalism and skill.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_02_7"
+            },
+            {
+                "id": "d_counseling_ade_02_4",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_02_5",
+                "type": "Speech",
+                "text": "I still think that I'm a bit lacking in that area.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_02_6",
+                "type": "Speech",
+                "text": "I'll try to remedy that going forward.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_02_11"
+            },
+            {
+                "id": "d_counseling_ade_02_7",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_02_8",
+                "type": "Speech",
+                "text": "That's a relief, since that's more in my wheelhouse.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_02_9",
+                "type": "Speech",
+                "text": "I guess I'll just keep at it!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_02_10",
+                "type": "Speech",
+                "text": "That way, you'll keep getting the finest service that you can enjoy.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_02_11"
+            },
+            {
+                "id": "d_counseling_ade_02_11",
+                "type": "Speech",
+                "text": "The important thing is that you're satisfied.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_02_12",
+                "type": "Narration",
+                "text": "I have a conversation with Ade about service.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_03_1",
+                "type": "Speech",
+                "text": "Master.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_2",
+                "type": "Speech",
+                "text": "Do you prefer sunny or rainy days?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_3",
+                "type": "Choice",
+                "text": "You can't beat sunny days. What about you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_03_5"
+            },
+            {
+                "id": "d_counseling_ade_03_4",
+                "type": "Choice",
+                "text": "You can't beat rainy days. What about you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_03_9"
+            },
+            {
+                "id": "d_counseling_ade_03_5",
+                "type": "Speech",
+                "text": "If you ask me...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_6",
+                "type": "Speech",
+                "text": "I like them both,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_7",
+                "type": "Speech",
+                "text": "but customers who visit the cafe usually have brighter expressions on their faces when it's sunny out.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_8",
+                "type": "Speech",
+                "text": "So I think I find sunny days more enjoyable.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_03_14"
+            },
+            {
+                "id": "d_counseling_ade_03_9",
+                "type": "Speech",
+                "text": "If you ask me...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_10",
+                "type": "Speech",
+                "text": "I like them both,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_11",
+                "type": "Speech",
+                "text": "but I always get bummed out when I see people all out of sorts",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_12",
+                "type": "Speech",
+                "text": "because they got caught in the rain and their clothes are drenched.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_03_13",
+                "type": "Speech",
+                "text": "So I think I find sunny days more enjoyable.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_03_14"
+            },
+            {
+                "id": "d_counseling_ade_03_14",
+                "type": "Narration",
+                "text": "I have a conversation with Ade about the weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_04_1",
+                "type": "Speech",
+                "text": "In a book I read recently,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_2",
+                "type": "Speech",
+                "text": "one of the characters asks, \"What is happiness\"?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_3",
+                "type": "Speech",
+                "text": "That got me thinking:",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_4",
+                "type": "Speech",
+                "text": "When you feel the happiest, Master?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_5",
+                "type": "Choice",
+                "text": "When I'm alone in my room, quietly resting.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_04_7"
+            },
+            {
+                "id": "d_counseling_ade_04_6",
+                "type": "Choice",
+                "text": "When I'm spending time with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_04_11"
+            },
+            {
+                "id": "d_counseling_ade_04_7",
+                "type": "Speech",
+                "text": "Sure, getting sufficient rest is important",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_8",
+                "type": "Speech",
+                "text": "to have a fulfilling day,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_9",
+                "type": "Speech",
+                "text": "but don't forget to visit the cafe once in a while.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_10",
+                "type": "Speech",
+                "text": "Otherwise, I'll worry about you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_04_15"
+            },
+            {
+                "id": "d_counseling_ade_04_11",
+                "type": "Speech",
+                "text": "Hehe,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_12",
+                "type": "Speech",
+                "text": "I feel the same way when I'm around you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_13",
+                "type": "Speech",
+                "text": "I love spending time with you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_04_14",
+                "type": "Speech",
+                "text": "Nothing makes me happier than seeing you happy.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_04_15"
+            },
+            {
+                "id": "d_counseling_ade_04_15",
+                "type": "Narration",
+                "text": "Ade and I spend an amiable session together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_05_1",
+                "type": "Monologue",
+                "text": "The Commander's Room is so immaculate, it's practically sparkling.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_05_2",
+                "type": "Speech",
+                "text": "I tidied up a bit before you arrived.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_05_3",
+                "type": "Speech",
+                "text": "What do you think?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_05_4",
+                "type": "Choice",
+                "text": "I like it. Thanks.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_05_6"
+            },
+            {
+                "id": "d_counseling_ade_05_5",
+                "type": "Choice",
+                "text": "It doesn't even feel like my room anymore.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_05_8"
+            },
+            {
+                "id": "d_counseling_ade_05_6",
+                "type": "Speech",
+                "text": "Hehe, I'm glad you like it.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_05_7",
+                "type": "Speech",
+                "text": "You can always call on me whenever you need some cleaning done.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_05_13"
+            },
+            {
+                "id": "d_counseling_ade_05_8",
+                "type": "Speech",
+                "text": "Oh no! I'm sorry.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_05_9",
+                "type": "Speech",
+                "text": "Did I go a little overboard?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_05_10",
+                "type": "Speech",
+                "text": "If you don't feel comfortable in here, I can change it back to the way it was.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_05_11",
+                "type": "Self",
+                "text": "No, I just meant that it's very clean.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_05_12",
+                "type": "Speech",
+                "text": "Oh, haha! So that's what you meant.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_05_13"
+            },
+            {
+                "id": "d_counseling_ade_05_13",
+                "type": "Narration",
+                "text": "Ade gives me some pointers on how to properly clean a room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_06_1",
+                "type": "Speech",
+                "text": "I prepared dessert for you, Master.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_2",
+                "type": "Speech",
+                "text": "I hope you enjoy it.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_3",
+                "type": "Monologue",
+                "text": "Ade presents me with a three-tiered dessert tray filled with colorful and appetizing treats.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_4",
+                "type": "Choice",
+                "text": "Isn't it hard whipping up so many different desserts?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_06_6"
+            },
+            {
+                "id": "d_counseling_ade_06_5",
+                "type": "Choice",
+                "text": "It looks delicious. Thank you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_06_9"
+            },
+            {
+                "id": "d_counseling_ade_06_6",
+                "type": "Speech",
+                "text": "Not at all. Nothing is hard when I'm doing it for you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_7",
+                "type": "Speech",
+                "text": "Did I look like I was unhappy somehow?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_8",
+                "type": "Speech",
+                "text": "If so, I apologize for giving off the wrong impression and making you worry.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_06_14"
+            },
+            {
+                "id": "d_counseling_ade_06_9",
+                "type": "Speech",
+                "text": "Wait one moment, Master.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_10",
+                "type": "Narration",
+                "text": "*Clatter*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_11",
+                "type": "Monologue",
+                "text": "Ade deftly takes out the dish at the very bottom.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_12",
+                "type": "Speech",
+                "text": "You can start from level 1.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_06_13",
+                "type": "Speech",
+                "text": "Let me know when you're done or if you want to switch to one of the other plates.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_06_14"
+            },
+            {
+                "id": "d_counseling_ade_06_14",
+                "type": "Narration",
+                "text": "Thanks to Ade, I enjoy a sumptuous afternoon tea.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_07_1",
+                "type": "Speech",
+                "text": "The wheel on the trolly that I use is broken.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_2",
+                "type": "Speech",
+                "text": "I've sent it in for repairs, but it looks like I won't be able to use it today.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_3",
+                "type": "Speech",
+                "text": "What a pain...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_4",
+                "type": "Choice",
+                "text": "Indeed.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_07_6"
+            },
+            {
+                "id": "d_counseling_ade_07_5",
+                "type": "Choice",
+                "text": "You must be worried for your faithful trolley.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_07_9"
+            },
+            {
+                "id": "d_counseling_ade_07_6",
+                "type": "Speech",
+                "text": "It'll be fine.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_7",
+                "type": "Speech",
+                "text": "I'll just have to work a little harder.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_8",
+                "type": "Speech",
+                "text": "Sorry to bother you with my problems.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_07_17"
+            },
+            {
+                "id": "d_counseling_ade_07_9",
+                "type": "Speech",
+                "text": "Ha,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_10",
+                "type": "Speech",
+                "text": "I didn't expect you to be so thoughtful, Master.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_11",
+                "type": "Speech",
+                "text": "That's quite considerate of you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_12",
+                "type": "Speech",
+                "text": "Yes, in a way, that trolley is my most trusted partner,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_13",
+                "type": "Speech",
+                "text": "so I am rather concerned about how it's doing.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_14",
+                "type": "Speech",
+                "text": "More than that though, without that trolley,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_15",
+                "type": "Speech",
+                "text": "I can't bring you dessert and tea at the same time.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_07_16",
+                "type": "Speech",
+                "text": "To be honest, that's what I find most upsetting.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_07_17"
+            },
+            {
+                "id": "d_counseling_ade_07_17",
+                "type": "Narration",
+                "text": "Ade and I have a conversation about how efficient trolleys can be.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_08_1",
+                "type": "Speech",
+                "text": "This is something of a random question,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_08_2",
+                "type": "Speech",
+                "text": "but what kind of girls are you into?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_08_3",
+                "type": "Choice",
+                "text": "Someone who is reliable and professional.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_08_5"
+            },
+            {
+                "id": "d_counseling_ade_08_4",
+                "type": "Choice",
+                "text": "Someone cute and bubbly.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_08_10"
+            },
+            {
+                "id": "d_counseling_ade_08_5",
+                "type": "Speech",
+                "text": "So you like people who share the same traits as yourself.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_08_6",
+                "type": "Speech",
+                "text": "I've always considered you both reliable and professional.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_08_7",
+                "type": "Self",
+                "text": "You are as well, Ade.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_08_8",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_08_9",
+                "type": "Speech",
+                "text": "Hehe, I'm glad you see me that way.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_08_13"
+            },
+            {
+                "id": "d_counseling_ade_08_10",
+                "type": "Speech",
+                "text": "Sounds like Soda is more your type.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_08_11",
+                "type": "Speech",
+                "text": "Cute and bubbly would certainly be apt descriptors for her.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_08_12",
+                "type": "Speech",
+                "text": "It's too bad I'm not like that...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_08_13"
+            },
+            {
+                "id": "d_counseling_ade_08_13",
+                "type": "Narration",
+                "text": "Ade and I have a conversation about our ideal partners.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_09_1",
+                "type": "Speech",
+                "text": "One of our customers professed that he was a diehard fan, and asked for an autograph.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_2",
+                "type": "Speech",
+                "text": "I've never given an autograph before, though.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_3",
+                "type": "Speech",
+                "text": "How should I sign my name?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_4",
+                "type": "Choice",
+                "text": "Write it down neatly, in block letters.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_09_6"
+            },
+            {
+                "id": "d_counseling_ade_09_5",
+                "type": "Choice",
+                "text": "Write it down in flowing cursive.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_09_11"
+            },
+            {
+                "id": "d_counseling_ade_09_6",
+                "type": "Speech",
+                "text": "That should be simple enough.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_7",
+                "type": "Speech",
+                "text": "Just a moment.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_8",
+                "type": "Narration",
+                "text": "*Scribble scribble*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_9",
+                "type": "Speech",
+                "text": "Like this?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_10",
+                "type": "Self",
+                "text": "Perfect.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_ade_09_16"
+            },
+            {
+                "id": "d_counseling_ade_09_11",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_12",
+                "type": "Speech",
+                "text": "I've never tried writing like that before, but I'll give it a try.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_13",
+                "type": "Narration",
+                "text": "*Scribble scribble*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_14",
+                "type": "Speech",
+                "text": "Like this?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_09_15",
+                "type": "Self",
+                "text": "Er... maybe we can try another way.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_ade_09_16"
+            },
+            {
+                "id": "d_counseling_ade_09_16",
+                "type": "Narration",
+                "text": "I help Ade figure out a pleasing signature.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_10_1",
+                "type": "Speech",
+                "text": "Watching Cocoa do her ketchup dance",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_10_2",
+                "type": "Speech",
+                "text": "always lifts my spirits, hehe.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_10_3",
+                "type": "Speech",
+                "text": "Do you like it too, Master?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_10_4",
+                "type": "Choice",
+                "text": "I'm not a fan. She always splashes ketchup all over the place.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_10_6"
+            },
+            {
+                "id": "d_counseling_ade_10_5",
+                "type": "Choice",
+                "text": "Of course, I love it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_10_10"
+            },
+            {
+                "id": "d_counseling_ade_10_6",
+                "type": "Speech",
+                "text": "Oh dear...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_10_7",
+                "type": "Speech",
+                "text": "I suppose you're right, she does tend to make a mess.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_10_8",
+                "type": "Speech",
+                "text": "I should have been faster cleaning it up.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_10_9",
+                "type": "Speech",
+                "text": "It's my fault, I apologize.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_10_13"
+            },
+            {
+                "id": "d_counseling_ade_10_10",
+                "type": "Speech",
+                "text": "Hehe, I knew that's what you'd say, but I still wanted to ask.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_10_11",
+                "type": "Speech",
+                "text": "I've seen you grinning from ear to ear whenever you watch her dance.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_10_12",
+                "type": "Speech",
+                "text": "Cocoa will be delighted to hear that's how you feel.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_10_13"
+            },
+            {
+                "id": "d_counseling_ade_10_13",
+                "type": "Narration",
+                "text": "Ade and I have a conversation about Cocoa's ketchup dance.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_11_1",
+                "type": "Speech",
+                "text": "Do you prefer food",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_2",
+                "type": "Speech",
+                "text": "that you have to dip in sauce,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_3",
+                "type": "Speech",
+                "text": "or ones with sauce drizzled on top?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_4",
+                "type": "Choice",
+                "text": "I prefer dipping.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_11_6"
+            },
+            {
+                "id": "d_counseling_ade_11_5",
+                "type": "Choice",
+                "text": "I prefer to have sauce drizzled on top.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_11_10"
+            },
+            {
+                "id": "d_counseling_ade_11_6",
+                "type": "Speech",
+                "text": "That's perfect,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_7",
+                "type": "Speech",
+                "text": "because I prepared a fondue.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_8",
+                "type": "Speech",
+                "text": "If you want the full flavor experience, you should dip the baguette into the cheese before digging in.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_9",
+                "type": "Speech",
+                "text": "I hope you enjoy it.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_11_14"
+            },
+            {
+                "id": "d_counseling_ade_11_10",
+                "type": "Speech",
+                "text": "Oh...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_11",
+                "type": "Speech",
+                "text": "Well, I prepared a fondue, but it might be difficult to eat it if you pour the cheese.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_12",
+                "type": "Speech",
+                "text": "Sorry to disappoint you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_11_13",
+                "type": "Self",
+                "text": "No need to apologize. I'm sure I'll enjoy it.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_ade_11_14"
+            },
+            {
+                "id": "d_counseling_ade_11_14",
+                "type": "Narration",
+                "text": "I finished the fondue that Ade had prepared.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_12_1",
+                "type": "Speech",
+                "text": "Where does Soda get all her energy?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_12_2",
+                "type": "Choice",
+                "text": "Maybe it's because she's so happy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_12_4"
+            },
+            {
+                "id": "d_counseling_ade_12_3",
+                "type": "Choice",
+                "text": "Because she's a straightforward person.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_12_7"
+            },
+            {
+                "id": "d_counseling_ade_12_4",
+                "type": "Speech",
+                "text": "Hehe, that's an interesting thought.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_12_5",
+                "type": "Speech",
+                "text": "Maybe I'll ask Soda about it next time.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_12_6",
+                "type": "Speech",
+                "text": "I wonder how she'll react.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_12_10"
+            },
+            {
+                "id": "d_counseling_ade_12_7",
+                "type": "Speech",
+                "text": "Is that what you think?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_12_8",
+                "type": "Speech",
+                "text": "I thought it was just because",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_12_9",
+                "type": "Speech",
+                "text": "she's such a positive person.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_12_10"
+            },
+            {
+                "id": "d_counseling_ade_12_10",
+                "type": "Narration",
+                "text": "Ade and I find ourselves both thinking about Soda, which puts us in a good mood.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_13_1",
+                "type": "Speech",
+                "text": "Master,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_13_2",
+                "type": "Speech",
+                "text": "when you've visited the Maid Cafe,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_13_3",
+                "type": "Speech",
+                "text": "has there ever been anything that made you feel uncomfortable?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_13_4",
+                "type": "Choice",
+                "text": "One time, Soda tripped and spilled a tray full of drinks on my lap.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_13_6"
+            },
+            {
+                "id": "d_counseling_ade_13_5",
+                "type": "Choice",
+                "text": "Nope. It's perfect every time I visit.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_13_9"
+            },
+            {
+                "id": "d_counseling_ade_13_6",
+                "type": "Speech",
+                "text": "Oh my goodness!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_13_7",
+                "type": "Speech",
+                "text": "That must have been a real hassle for you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_13_8",
+                "type": "Speech",
+                "text": "Allow me to apologize on her behalf.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_13_13"
+            },
+            {
+                "id": "d_counseling_ade_13_9",
+                "type": "Speech",
+                "text": "You're too kind.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_13_10",
+                "type": "Speech",
+                "text": "Thank you for always seeing us in a positive way.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_13_11",
+                "type": "Speech",
+                "text": "I hope you'll continue to visit us often!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_13_12",
+                "type": "Speech",
+                "text": "We'll be waiting.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_13_13"
+            },
+            {
+                "id": "d_counseling_ade_13_13",
+                "type": "Narration",
+                "text": "I have a conversation with Ade about the service at the cafe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_14_1",
+                "type": "Speech",
+                "text": "I'm a perfectionist when it comes to providing flawless service.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_14_2",
+                "type": "Speech",
+                "text": "Oftentimes, however, Cocoa and Soda seem to have a hard time with this.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_14_3",
+                "type": "Speech",
+                "text": "There are moments when I worry that I may be demanding too much from them.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_14_4",
+                "type": "Speech",
+                "text": "What do you think, Master?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_14_5",
+                "type": "Choice",
+                "text": "Having that attitude might make them feel a bit stressed.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_14_7"
+            },
+            {
+                "id": "d_counseling_ade_14_6",
+                "type": "Choice",
+                "text": "I also won't accept anything less than perfect.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_14_10"
+            },
+            {
+                "id": "d_counseling_ade_14_7",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_14_8",
+                "type": "Speech",
+                "text": "I suppose I haven't been terribly considerate of their feelings.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_14_9",
+                "type": "Speech",
+                "text": "Thank you for the advice, Master. You've been very helpful.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_14_13"
+            },
+            {
+                "id": "d_counseling_ade_14_10",
+                "type": "Speech",
+                "text": "I'm glad we're on the same page.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_14_11",
+                "type": "Speech",
+                "text": "It's nice to know that you're on my side, hehe.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_14_12",
+                "type": "Speech",
+                "text": "You're such a kind person, Master.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_14_13"
+            },
+            {
+                "id": "d_counseling_ade_14_13",
+                "type": "Narration",
+                "text": "Ade heads back to the cafe with a satisfied expression.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_15_1",
+                "type": "Speech",
+                "text": "It's rather peculiar...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_15_2",
+                "type": "Speech",
+                "text": "Whenever I'm with you, I always feel at peace.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_15_3",
+                "type": "Speech",
+                "text": "Why do you think that is?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_15_4",
+                "type": "Choice",
+                "text": "Maybe it's because we're such good friends.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_15_6"
+            },
+            {
+                "id": "d_counseling_ade_15_5",
+                "type": "Choice",
+                "text": "Maybe it's because you feel you can trust me completely.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_15_9"
+            },
+            {
+                "id": "d_counseling_ade_15_6",
+                "type": "Speech",
+                "text": "I can tell you for certain that",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_15_7",
+                "type": "Speech",
+                "text": "that is not the case.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_15_8",
+                "type": "Speech",
+                "text": "I've never considered you to be just a friend.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_15_13"
+            },
+            {
+                "id": "d_counseling_ade_15_9",
+                "type": "Speech",
+                "text": "Wow!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_15_10",
+                "type": "Speech",
+                "text": "It's like you're peering straight into my mind.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_15_11",
+                "type": "Speech",
+                "text": "I've always trusted and relied on you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_15_12",
+                "type": "Speech",
+                "text": "There's no one else I would wish to serve more than you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_15_13"
+            },
+            {
+                "id": "d_counseling_ade_15_13",
+                "type": "Narration",
+                "text": "I spend a peaceful moment with Ade.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_16_1",
+                "type": "Speech",
+                "text": "I'm always so grateful to make your acquaintance, Master.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_2",
+                "type": "Speech",
+                "text": "I really would like to be able to show you my gratitude.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_3",
+                "type": "Speech",
+                "text": "Is there perhaps something that you want in particular?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_4",
+                "type": "Choice",
+                "text": "I'd like to take you out.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_16_6"
+            },
+            {
+                "id": "d_counseling_ade_16_5",
+                "type": "Choice",
+                "text": "I'd like a coupon for some free food at the Maid Cafe.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_16_11"
+            },
+            {
+                "id": "d_counseling_ade_16_6",
+                "type": "Speech",
+                "text": "Would that be enough?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_7",
+                "type": "Speech",
+                "text": "Very well, I'll try and arrange for some time off as soon as I can.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_8",
+                "type": "Speech",
+                "text": "I'll let you know as soon as I find out.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_9",
+                "type": "Speech",
+                "text": "This is so exciting, hehe!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_10",
+                "type": "Speech",
+                "text": "I'm looking forward to it.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_16_14"
+            },
+            {
+                "id": "d_counseling_ade_16_11",
+                "type": "Speech",
+                "text": "Oh, well... sorry, that's not really something I can decide on my own.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_12",
+                "type": "Speech",
+                "text": "Soda, Cocoa and I all manage the Maid Cafe together,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_16_13",
+                "type": "Speech",
+                "text": "so I'll have to go back and discuss it with them.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_16_14"
+            },
+            {
+                "id": "d_counseling_ade_16_14",
+                "type": "Narration",
+                "text": "Ade and I continue our conversation, with me offering more ideas on things I want.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_17_1",
+                "type": "Narration",
+                "text": "*Rustle*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_2",
+                "type": "Self",
+                "text": "...!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_3",
+                "type": "Speech",
+                "text": "I'm sorry, Master.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_4",
+                "type": "Speech",
+                "text": "I didn't mean to wake you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_5",
+                "type": "Speech",
+                "text": "I was trying to cover you with a blanket, but...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_6",
+                "type": "Choice",
+                "text": "Sorry, I must have dozed off.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_17_8"
+            },
+            {
+                "id": "d_counseling_ade_17_7",
+                "type": "Choice",
+                "text": "I was in the middle of a wonderful dream...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_17_13"
+            },
+            {
+                "id": "d_counseling_ade_17_8",
+                "type": "Speech",
+                "text": "Hehe, it's all right.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_9",
+                "type": "Speech",
+                "text": "You're more than welcome to sleep here whenever you're tired.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_10",
+                "type": "Speech",
+                "text": "Getting proper rest is important.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_11",
+                "type": "Speech",
+                "text": "Why don't you head over to your bed, though?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_12",
+                "type": "Speech",
+                "text": "I'll go get you some fresh sheets.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_17_16"
+            },
+            {
+                "id": "d_counseling_ade_17_13",
+                "type": "Speech",
+                "text": "I really am sorry for disrupting your sleep.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_14",
+                "type": "Speech",
+                "text": "I'll be more careful next time.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_17_15",
+                "type": "Speech",
+                "text": "You don't quite look well-rested yet. Why don't you sleep a little longer?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_17_16"
+            },
+            {
+                "id": "d_counseling_ade_17_16",
+                "type": "Narration",
+                "text": "We end our session prematurely, due to my fatigue.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_18_1",
+                "type": "Speech",
+                "text": "I've just drizzled some ketchup on the omurice.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_2",
+                "type": "Speech",
+                "text": "Would you like me to say the delicious spell?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_3",
+                "type": "Choice",
+                "text": "Wait for Ade to enchant the spell.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_18_5"
+            },
+            {
+                "id": "d_counseling_ade_18_4",
+                "type": "Choice",
+                "text": "Recite the spell yourself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_18_9"
+            },
+            {
+                "id": "d_counseling_ade_18_5",
+                "type": "Speech",
+                "text": "May this dish be delicious\u266a May this dish be delicious\u266a",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_6",
+                "type": "Speech",
+                "text": "Thump thump boing\u2661",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_8",
+                "type": "Speech",
+                "text": "Hehe, I kind of thought that you would join in.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_18_14"
+            },
+            {
+                "id": "d_counseling_ade_18_9",
+                "type": "Self",
+                "text": "May this dish be delicious\u266a May this dish be delicious\u266a",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_10",
+                "type": "Self",
+                "text": "Thump thump boing\u2661",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_11",
+                "type": "Speech",
+                "text": "Oh my goodness,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_12",
+                "type": "Speech",
+                "text": "you memorized the entire thing.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_18_13",
+                "type": "Speech",
+                "text": "Well, I'm sure your omurice will be extra delicious now, hehe.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_18_14"
+            },
+            {
+                "id": "d_counseling_ade_18_14",
+                "type": "Narration",
+                "text": "Indeed, the omurice proved to be exceptionally delicious.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_19_1",
+                "type": "Speech",
+                "text": "One of our regular customers said that",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_19_2",
+                "type": "Speech",
+                "text": "he wanted to see us in different uniforms.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_19_3",
+                "type": "Speech",
+                "text": "What do you think of that?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_19_4",
+                "type": "Choice",
+                "text": "I don't think anything can top your maid uniforms.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_19_6"
+            },
+            {
+                "id": "d_counseling_ade_19_5",
+                "type": "Choice",
+                "text": "Actually, I'm curious to see what you'd look like in casual clothes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_19_10"
+            },
+            {
+                "id": "d_counseling_ade_19_6",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_19_7",
+                "type": "Speech",
+                "text": "A maid uniform goes hand in hand with providing the best service.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_19_8",
+                "type": "Speech",
+                "text": "It's the look that I personally prefer.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_19_9",
+                "type": "Speech",
+                "text": "I'm glad you understand that.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_19_13"
+            },
+            {
+                "id": "d_counseling_ade_19_10",
+                "type": "Speech",
+                "text": "So you're curious as well?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_19_11",
+                "type": "Speech",
+                "text": "All right, I'll try on something different next time.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_19_12",
+                "type": "Speech",
+                "text": "I'm a bit worried though, because I'm not used to wearing something casual.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_19_13"
+            },
+            {
+                "id": "d_counseling_ade_19_13",
+                "type": "Narration",
+                "text": "I have a conversation with Ade about outfits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ade_20_1",
+                "type": "Speech",
+                "text": "What do you usually do on your days off, Master?",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_20_2",
+                "type": "Choice",
+                "text": "I usually hang out in my room and relax.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ade_20_4"
+            },
+            {
+                "id": "d_counseling_ade_20_3",
+                "type": "Choice",
+                "text": "I go out and about.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ade_20_7"
+            },
+            {
+                "id": "d_counseling_ade_20_4",
+                "type": "Speech",
+                "text": "It's nice to have a relaxing day in,",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_20_5",
+                "type": "Speech",
+                "text": "but I hope that you'll find it in you to visit our cafe sometimes.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_20_6",
+                "type": "Speech",
+                "text": "Things always seem a bit dreary here without you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_20_11"
+            },
+            {
+                "id": "d_counseling_ade_20_7",
+                "type": "Speech",
+                "text": "Then you can drop by the cafe",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_20_8",
+                "type": "Speech",
+                "text": "on your next day off!",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_20_9",
+                "type": "Speech",
+                "text": "I guarantee that we'll provide you with the best service you've ever experienced.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ade_20_10",
+                "type": "Speech",
+                "text": "I'm looking forward to seeing you.",
+                "speaker": "Ade",
+                "points": null,
+                "jumpTo": "d_counseling_ade_20_11"
+            },
+            {
+                "id": "d_counseling_ade_20_11",
+                "type": "Narration",
+                "text": "Ade and I have a conversation about the importance of rest.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

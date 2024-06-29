@@ -1,0 +1,1933 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_noise_01_1",
+                "type": "Speech",
+                "text": "My throat's been really sore lately.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_01_2",
+                "type": "Speech",
+                "text": "Do you know any tricks to keep your throat in good shape?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_01_3",
+                "type": "Choice",
+                "text": "Drink a lot of warm water.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_01_5"
+            },
+            {
+                "id": "d_counseling_noise_01_4",
+                "type": "Choice",
+                "text": "Relax your throat before singing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_01_8"
+            },
+            {
+                "id": "d_counseling_noise_01_5",
+                "type": "Speech",
+                "text": "I actually prefer cold drinks,",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_01_6",
+                "type": "Speech",
+                "text": "but as long as it's good for the throat, I can try something different.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_01_7",
+                "type": "Speech",
+                "text": "Thanks for the tip.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_01_10"
+            },
+            {
+                "id": "d_counseling_noise_01_8",
+                "type": "Speech",
+                "text": "Thanks for the tip, but relaxing too much can actually be detrimental to your throat.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_01_9",
+                "type": "Speech",
+                "text": "Isn't there any other way?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_01_10",
+                "type": "Narration",
+                "text": "Noise and I discuss ways a singer can take care of their throat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_02_1",
+                "type": "Speech",
+                "text": "Did you see my comeback show several days ago?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_02_2",
+                "type": "Speech",
+                "text": "What'd you think?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_02_3",
+                "type": "Choice",
+                "text": "Sorry, I was out on a mission.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_02_5"
+            },
+            {
+                "id": "d_counseling_noise_02_4",
+                "type": "Choice",
+                "text": "I'm not so sure about the lighting at the end.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_02_8"
+            },
+            {
+                "id": "d_counseling_noise_02_5",
+                "type": "Speech",
+                "text": "Oh, I see.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_02_6",
+                "type": "Speech",
+                "text": "It's okay, duty calls, after all. I appreciate you being honest.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_02_7",
+                "type": "Speech",
+                "text": "You can watch a rerun of it whenever you have time.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_02_12"
+            },
+            {
+                "id": "d_counseling_noise_02_8",
+                "type": "Speech",
+                "text": "The lighting?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_02_9",
+                "type": "Speech",
+                "text": "The last song was a ballad. They only used 3 fixed lights the entire time.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_02_10",
+                "type": "Speech",
+                "text": "... Did you actually watch the show?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_02_11",
+                "type": "Speech",
+                "text": "If you didn't, just say so.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_02_12",
+                "type": "Narration",
+                "text": "Noise and I discussed her show.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_03_1",
+                "type": "Speech",
+                "text": "I'm curious about your taste in music.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_03_2",
+                "type": "Speech",
+                "text": "Whose songs do you usually listen to?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_03_3",
+                "type": "Choice",
+                "text": "Your songs.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_03_5"
+            },
+            {
+                "id": "d_counseling_noise_03_4",
+                "type": "Choice",
+                "text": "Aria's songs.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_03_8"
+            },
+            {
+                "id": "d_counseling_noise_03_5",
+                "type": "Speech",
+                "text": "Oh... you listen to my songs more?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_03_6",
+                "type": "Speech",
+                "text": "I'm touched!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_03_7",
+                "type": "Speech",
+                "text": "I'll have to put even more effort into my next song.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_03_11"
+            },
+            {
+                "id": "d_counseling_noise_03_8",
+                "type": "Speech",
+                "text": "Oh... so you prefer operas?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_03_9",
+                "type": "Speech",
+                "text": "That's a completely different genre, so I don't know much about it. Aria's performances are really beautiful though.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_03_10",
+                "type": "Speech",
+                "text": "Well, looks like I'll need to work harder to make you listen to my songs more often.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_03_11",
+                "type": "Narration",
+                "text": "Noise and I discussed music for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_04_1",
+                "type": "Speech",
+                "text": "Someone asked me about commercial jingles not long ago.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_04_2",
+                "type": "Speech",
+                "text": "To be honest, I know next to nothing about them.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_04_3",
+                "type": "Speech",
+                "text": "Do you think I could pull it off?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_04_4",
+                "type": "Choice",
+                "text": "Of course you could.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_04_6"
+            },
+            {
+                "id": "d_counseling_noise_04_5",
+                "type": "Choice",
+                "text": "There's a first time for everything. Just give it your best shot.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_04_9"
+            },
+            {
+                "id": "d_counseling_noise_04_6",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_04_7",
+                "type": "Speech",
+                "text": "I appreciate your confidence in me, but what makes you so sure?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_04_8",
+                "type": "Speech",
+                "text": "I don't believe anything in this world is an absolute certainty.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_04_12"
+            },
+            {
+                "id": "d_counseling_noise_04_9",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_04_10",
+                "type": "Speech",
+                "text": "Thank you, Producer.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_04_11",
+                "type": "Speech",
+                "text": "I'll do my best.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_04_12",
+                "type": "Narration",
+                "text": "I spend some time giving Noise earnest advice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_05_1",
+                "type": "Speech",
+                "text": "Hey, check this out.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_05_2",
+                "type": "Speech",
+                "text": "What do you think?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_05_3",
+                "type": "Monologue",
+                "text": "Noise plays a song that sounds eerily familiar to one of her own.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_05_4",
+                "type": "Choice",
+                "text": "Did someone rip off your song?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_05_6"
+            },
+            {
+                "id": "d_counseling_noise_05_5",
+                "type": "Choice",
+                "text": "Is this a cover of one of your songs?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_05_9"
+            },
+            {
+                "id": "d_counseling_noise_05_6",
+                "type": "Speech",
+                "text": "That's right! It's blatant plagiarism.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_05_7",
+                "type": "Speech",
+                "text": "Completely unacceptable.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_05_8",
+                "type": "Speech",
+                "text": "Can you help me take legal action against them?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_05_12"
+            },
+            {
+                "id": "d_counseling_noise_05_9",
+                "type": "Speech",
+                "text": "More like a note-for-note imitation.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_05_10",
+                "type": "Speech",
+                "text": "The only thing different is the title.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_05_11",
+                "type": "Speech",
+                "text": "This is plagiarism, plain and simple.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_05_12",
+                "type": "Narration",
+                "text": "Noise and I examine the copycat song further.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_06_1",
+                "type": "Speech",
+                "text": "I've been thinking about writing a song that really represents the Prima Donna group.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_06_2",
+                "type": "Speech",
+                "text": "Do you think that'd be a good idea?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_06_3",
+                "type": "Choice",
+                "text": "You three all have wildly different styles. You'd end up with a discordant mess.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_06_5"
+            },
+            {
+                "id": "d_counseling_noise_06_4",
+                "type": "Choice",
+                "text": "You three all have wildly different styles. You'd end up with a song that's full of twists and turns.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_06_8"
+            },
+            {
+                "id": "d_counseling_noise_06_5",
+                "type": "Speech",
+                "text": "Yeah, that's what I was worried about...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_06_6",
+                "type": "Speech",
+                "text": "I was just hoping something good might come out of it by chance.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_06_7",
+                "type": "Speech",
+                "text": "But now that you've confirmed my suspicions, I'll lay this idea to rest.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_06_11"
+            },
+            {
+                "id": "d_counseling_noise_06_8",
+                "type": "Speech",
+                "text": "That's exactly what I was thinking!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_06_9",
+                "type": "Speech",
+                "text": "I'll have to look into this further...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_06_10",
+                "type": "Speech",
+                "text": "Just imagine, what if it suddenly becomes a smash hit?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_06_11",
+                "type": "Narration",
+                "text": "Noise and I discussed group songs for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_07_1",
+                "type": "Speech",
+                "text": "I wrote a new song.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_07_2",
+                "type": "Speech",
+                "text": "I want to release it on the day we take back the surface.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_07_3",
+                "type": "Speech",
+                "text": "I just don't know what the title should be.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_07_4",
+                "type": "Choice",
+                "text": "Homecoming.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_07_6"
+            },
+            {
+                "id": "d_counseling_noise_07_5",
+                "type": "Choice",
+                "text": "Until That Day Comes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_07_9"
+            },
+            {
+                "id": "d_counseling_noise_07_6",
+                "type": "Speech",
+                "text": "Short and sweet.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_07_7",
+                "type": "Speech",
+                "text": "I like it.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_07_8",
+                "type": "Speech",
+                "text": "That truly will be the day that we come home.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_07_12"
+            },
+            {
+                "id": "d_counseling_noise_07_9",
+                "type": "Speech",
+                "text": "Hmm, I think that title puts a little too much emphasis on waiting.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_07_10",
+                "type": "Speech",
+                "text": "It's supposed to be released on the day when it all really comes true.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_07_11",
+                "type": "Speech",
+                "text": "How about we call it \"That Day\"?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_07_12",
+                "type": "Narration",
+                "text": "Noise and I discussed song titles as well as our anticipation for the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_08_1",
+                "type": "Speech",
+                "text": "Ugh...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_08_2",
+                "type": "Speech",
+                "text": "I don't know how many days I've been staying up late to practice.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_08_3",
+                "type": "Choice",
+                "text": "You should take a nap.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_08_5"
+            },
+            {
+                "id": "d_counseling_noise_08_4",
+                "type": "Choice",
+                "text": "I'll get you some mint-flavored Splendamin.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_08_7"
+            },
+            {
+                "id": "d_counseling_noise_08_5",
+                "type": "Speech",
+                "text": "You're probably right.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_08_6",
+                "type": "Speech",
+                "text": "I'll just leave for a moment...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_08_10"
+            },
+            {
+                "id": "d_counseling_noise_08_7",
+                "type": "Speech",
+                "text": "Thanks, but no thanks.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_08_8",
+                "type": "Speech",
+                "text": "I feel bad cutting into our precious discussion time,",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_08_9",
+                "type": "Speech",
+                "text": "but could I go sleep for a while?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_08_10",
+                "type": "Narration",
+                "text": "Since Noise went off to bed, I spent some quiet time by myself.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_09_1",
+                "type": "Speech",
+                "text": "Producer, can I ask you something?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_2",
+                "type": "Speech",
+                "text": "My fans are always writing letters to me and sending gifts.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_3",
+                "type": "Speech",
+                "text": "How should I express my appreciation? What should I do to repay these fans?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_4",
+                "type": "Choice",
+                "text": "Shout \"I love you guys!\" to them while on stage.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_09_6"
+            },
+            {
+                "id": "d_counseling_noise_09_5",
+                "type": "Choice",
+                "text": "Send gifts back to them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_09_11"
+            },
+            {
+                "id": "d_counseling_noise_09_6",
+                "type": "Speech",
+                "text": "Are you sure \"love\" isn't too strong?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_7",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_8",
+                "type": "Speech",
+                "text": "I love you guys! Everyone can have a piece of me!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_9",
+                "type": "Self",
+                "text": "Um... yeah, that's good...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_10",
+                "type": "Speech",
+                "text": "It's a little awkward. I'll think of something else.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_09_14"
+            },
+            {
+                "id": "d_counseling_noise_09_11",
+                "type": "Speech",
+                "text": "That's a great idea!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_12",
+                "type": "Speech",
+                "text": "What do you think the fans would like to get?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_13",
+                "type": "Speech",
+                "text": "How about some of my merch? They'd probably enjoy that, right?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_09_14",
+                "type": "Narration",
+                "text": "Noise and I discussed how she could better appreciate her fans.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_10_1",
+                "type": "Speech",
+                "text": "Doesn't being a part-time producer weigh down on you? You already have your hands full being a Commander.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_10_2",
+                "type": "Speech",
+                "text": "You can take a rest if you need to. Don't worry about me.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_10_3",
+                "type": "Choice",
+                "text": "I'm totally fine, really.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_10_5"
+            },
+            {
+                "id": "d_counseling_noise_10_4",
+                "type": "Choice",
+                "text": "I'm a little tired, but it's okay.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_10_8"
+            },
+            {
+                "id": "d_counseling_noise_10_5",
+                "type": "Speech",
+                "text": "You don't look fine to me...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_10_6",
+                "type": "Speech",
+                "text": "You can be honest with me if you're tired.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_10_7",
+                "type": "Speech",
+                "text": "You don't need to push yourself.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_10_11"
+            },
+            {
+                "id": "d_counseling_noise_10_8",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_10_9",
+                "type": "Speech",
+                "text": "I appreciate you being honest with me.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_10_10",
+                "type": "Speech",
+                "text": "I'll do my best to make it all worth your while.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_10_11",
+                "type": "Narration",
+                "text": "Noise and I had a heartfelt conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_11_1",
+                "type": "Speech",
+                "text": "How would you feel about someone admitting their feelings",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_11_2",
+                "type": "Speech",
+                "text": "for you during a concert?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_11_3",
+                "type": "Choice",
+                "text": "I'd feel happy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_11_5"
+            },
+            {
+                "id": "d_counseling_noise_11_4",
+                "type": "Choice",
+                "text": "I'd feel awkward.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_11_8"
+            },
+            {
+                "id": "d_counseling_noise_11_5",
+                "type": "Speech",
+                "text": "Yeah, if two people really like each other,",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_11_6",
+                "type": "Speech",
+                "text": "it shouldn't matter when or how you announce it.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_11_7",
+                "type": "Speech",
+                "text": "So... at the concert next month...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_11_11"
+            },
+            {
+                "id": "d_counseling_noise_11_8",
+                "type": "Speech",
+                "text": "I guess you're right.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_11_9",
+                "type": "Speech",
+                "text": "It should be on an occasion when both sides are ready.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_11_10",
+                "type": "Speech",
+                "text": "... I guess the concert next month isn't the proper time.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_11_11",
+                "type": "Narration",
+                "text": "Noise and I discuss different ways to tell someone that you like them.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_12_1",
+                "type": "Speech",
+                "text": "I appreciate that people are interested in me,",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_12_2",
+                "type": "Speech",
+                "text": "but I often have people recording me without asking permission.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_12_3",
+                "type": "Speech",
+                "text": "What am I supposed to do in that kind of situation?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_12_4",
+                "type": "Choice",
+                "text": "Chew them out.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_12_6"
+            },
+            {
+                "id": "d_counseling_noise_12_5",
+                "type": "Choice",
+                "text": "Make a funny face.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_12_8"
+            },
+            {
+                "id": "d_counseling_noise_12_6",
+                "type": "Speech",
+                "text": "... You know I'm not Volume, right?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_12_7",
+                "type": "Speech",
+                "text": "Volume can do whatever she wants...I envy her sometimes.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_12_11"
+            },
+            {
+                "id": "d_counseling_noise_12_8",
+                "type": "Speech",
+                "text": "Aha! Are you saying I should deliberately sabotage their photo?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_12_9",
+                "type": "Speech",
+                "text": "All right, I'll start practicing today.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_12_10",
+                "type": "Speech",
+                "text": "Can you make a face to me? Show me how to do it.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_12_11",
+                "type": "Narration",
+                "text": "Noise and I discussed paparazzi for a while longer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_13_1",
+                "type": "Speech",
+                "text": "I'm practicing my new signature.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_2",
+                "type": "Speech",
+                "text": "I've been using this current one for a few years now, so I need to switch things up",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_3",
+                "type": "Speech",
+                "text": "These are the top contenders, could you take a look?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_4",
+                "type": "Choice",
+                "text": "What if people can't recognize your new signature?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_13_6"
+            },
+            {
+                "id": "d_counseling_noise_13_5",
+                "type": "Choice",
+                "text": "Let me see.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_13_9"
+            },
+            {
+                "id": "d_counseling_noise_13_6",
+                "type": "Speech",
+                "text": "Hmm, that's a good point.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_7",
+                "type": "Speech",
+                "text": "It'd be unfair to anyone who's gotten an autograph from me in the past.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_8",
+                "type": "Speech",
+                "text": "All right, I'll go with something a bit more streamlined and recognizable instead.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_13_13"
+            },
+            {
+                "id": "d_counseling_noise_13_9",
+                "type": "Speech",
+                "text": "I've prepared five different examples.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_10",
+                "type": "Speech",
+                "text": "This one incorporates some stars, this one has musical notes, this one has a mic...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_11",
+                "type": "Monologue",
+                "text": "... They all look the same to me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_12",
+                "type": "Speech",
+                "text": "You don't have to say anything. It's written on your face.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_13_13",
+                "type": "Narration",
+                "text": "Noise and I had a fun time going out to buy some pens for her new signature.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_14_1",
+                "type": "Speech",
+                "text": "Someone said one of my songs is a rip-off of theirs!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_2",
+                "type": "Speech",
+                "text": "What is this, some kind of cruel joke?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_3",
+                "type": "Speech",
+                "text": "I nearly fainted when they told me that.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_4",
+                "type": "Choice",
+                "text": "You've got to believe in yourself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_14_6"
+            },
+            {
+                "id": "d_counseling_noise_14_5",
+                "type": "Choice",
+                "text": "So...who plagiarized who?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_14_9"
+            },
+            {
+                "id": "d_counseling_noise_14_6",
+                "type": "Speech",
+                "text": "You're right.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_7",
+                "type": "Speech",
+                "text": "I only acted that way because I was too self-conscious.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_8",
+                "type": "Speech",
+                "text": "I need to have more faith in myself.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_14_13"
+            },
+            {
+                "id": "d_counseling_noise_14_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_12",
+                "type": "Self",
+                "text": "... Sorry.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_14_13",
+                "type": "Narration",
+                "text": "Noise and I discussed the tortuous process of musical creation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_15_1",
+                "type": "Speech",
+                "text": "Um... this is embarrassing to admit...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_15_2",
+                "type": "Speech",
+                "text": "but... there seem to be pictures of me circling around the internet.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_15_3",
+                "type": "Speech",
+                "text": "... Not entirely wholesome images at that.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_15_4",
+                "type": "Choice",
+                "text": "Must be a twisted admirer of yours.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_15_6"
+            },
+            {
+                "id": "d_counseling_noise_15_5",
+                "type": "Choice",
+                "text": "You need to report them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_15_9"
+            },
+            {
+                "id": "d_counseling_noise_15_6",
+                "type": "Speech",
+                "text": "Yes, perhaps they were just expressing their fondness for me, albeit in a perverse fashion.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_15_7",
+                "type": "Speech",
+                "text": "But it still makes me feel uncomfortable.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_15_8",
+                "type": "Speech",
+                "text": "I can't let this sort of thing slide.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_15_12"
+            },
+            {
+                "id": "d_counseling_noise_15_9",
+                "type": "Speech",
+                "text": "My thoughts exactly.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_15_10",
+                "type": "Speech",
+                "text": "I've considered it from every angle, and this seems to be the best way of handling it.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_15_11",
+                "type": "Speech",
+                "text": "Thanks for helping me make up my mind.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_15_12",
+                "type": "Narration",
+                "text": "Noise and I talked more about cybercrimes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_16_1",
+                "type": "Speech",
+                "text": "I have a diehard fan who's supported me ever since I was a busker.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_16_2",
+                "type": "Speech",
+                "text": "He's been spending so much money on my limited-edition merchandise, that his financial situation has gotten precarious.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_16_3",
+                "type": "Speech",
+                "text": "I'm happy that someone likes me so much, but I hate to see their life being negatively impacted because of it.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_16_4",
+                "type": "Choice",
+                "text": "Make some exclusive merch just for him.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_16_6"
+            },
+            {
+                "id": "d_counseling_noise_16_5",
+                "type": "Choice",
+                "text": "He could be perfectly happy living like this.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_16_9"
+            },
+            {
+                "id": "d_counseling_noise_16_6",
+                "type": "Speech",
+                "text": "Wow, that's a great idea!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_16_7",
+                "type": "Speech",
+                "text": "If he and I took a photo together, that'd be the ultimate piece of memorabilia for him.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_16_8",
+                "type": "Speech",
+                "text": "I'm putting it in my schedule now.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_16_12"
+            },
+            {
+                "id": "d_counseling_noise_16_9",
+                "type": "Speech",
+                "text": "I don't know about you,",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_16_10",
+                "type": "Speech",
+                "text": "but to me, nothing about that is normal. Taking care of yourself should take priority above anything else.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_16_11",
+                "type": "Speech",
+                "text": "Sacrificing or compromising your own life so that you can follow someone else's is no way to live.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_16_12",
+                "type": "Narration",
+                "text": "Noise shared more memorable fan interactions with me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_17_1",
+                "type": "Speech",
+                "text": "Someone knocked off one of my songs, and they're actually making money off of it!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_17_2",
+                "type": "Speech",
+                "text": "They had the nerve to say it was one of my unpublished B-sides.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_17_3",
+                "type": "Speech",
+                "text": "I don't want to say it was someone working for me, but...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_17_4",
+                "type": "Choice",
+                "text": "How is that possible?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_17_6"
+            },
+            {
+                "id": "d_counseling_noise_17_5",
+                "type": "Choice",
+                "text": "It's unfortunate, but I think you're right.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_17_9"
+            },
+            {
+                "id": "d_counseling_noise_17_6",
+                "type": "Speech",
+                "text": "I hate to suspect my staff, but it's the only logical explanation.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_17_7",
+                "type": "Speech",
+                "text": "In this line of work, these kinds of unfortunate situations are inevitable.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_17_8",
+                "type": "Speech",
+                "text": "It just breaks my heart.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_17_12"
+            },
+            {
+                "id": "d_counseling_noise_17_9",
+                "type": "Speech",
+                "text": "It's hard to let it go.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_17_10",
+                "type": "Speech",
+                "text": "Being betrayed by someone you know",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_17_11",
+                "type": "Speech",
+                "text": "is something you never get used to.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_17_12",
+                "type": "Narration",
+                "text": "For a long time, Noise and I quietly looked up at the sky.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_18_1",
+                "type": "Speech",
+                "text": "Someone told me I should try out a sexy look for once.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_2",
+                "type": "Speech",
+                "text": "It's not that I lack confidence or anything, I just don't want people gossiping about me.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_3",
+                "type": "Speech",
+                "text": "What do you think, Producer?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_4",
+                "type": "Choice",
+                "text": "Are you not sexy already?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_18_6"
+            },
+            {
+                "id": "d_counseling_noise_18_5",
+                "type": "Choice",
+                "text": "I don't think it suits you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_18_9"
+            },
+            {
+                "id": "d_counseling_noise_18_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_7",
+                "type": "Speech",
+                "text": "... I swear...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_8",
+                "type": "Speech",
+                "text": "You don't have to say it like that!",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_18_13"
+            },
+            {
+                "id": "d_counseling_noise_18_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_10",
+                "type": "Speech",
+                "text": "You're right. I'm just a frumpy singer-songwriter.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_11",
+                "type": "Self",
+                "text": "That's not what I meant...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_12",
+                "type": "Speech",
+                "text": "We're done here.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_18_13",
+                "type": "Narration",
+                "text": "Noise and I discussed different looks for singers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_19_1",
+                "type": "Speech",
+                "text": "I got an offer from this reality show. They follow you around recording your daily life with next to no editing.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_2",
+                "type": "Speech",
+                "text": "I'll be able to show the audience the real me.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_3",
+                "type": "Speech",
+                "text": "But I'm still a little hesitant.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_4",
+                "type": "Choice",
+                "text": "Only do it if you're willing to be completely open and honest.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_19_6"
+            },
+            {
+                "id": "d_counseling_noise_19_5",
+                "type": "Choice",
+                "text": "A little mystery can be a good thing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_19_9"
+            },
+            {
+                "id": "d_counseling_noise_19_6",
+                "type": "Speech",
+                "text": "In that case... I won't do it.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_7",
+                "type": "Speech",
+                "text": "Not everything should be made public.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_8",
+                "type": "Speech",
+                "text": "... Such as group photos with others and so on.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_19_13"
+            },
+            {
+                "id": "d_counseling_noise_19_9",
+                "type": "Speech",
+                "text": "Oh, I see.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_10",
+                "type": "Speech",
+                "text": "I'm an entertainer first and foremost.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_11",
+                "type": "Speech",
+                "text": "It's good if I maintain a slight mystique.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_12",
+                "type": "Speech",
+                "text": "I'd better not go.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_19_13",
+                "type": "Narration",
+                "text": "Noise and I discussed popular shows for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_noise_20_1",
+                "type": "Speech",
+                "text": "If you ask me, I think you're ready for your own debut, Producer.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_20_2",
+                "type": "Speech",
+                "text": "You've easy on the eyes, and you're in good shape. You're a little reserved, but that can have its own charm too.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_20_3",
+                "type": "Speech",
+                "text": "I'm sure you'd have plenty of fans.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_20_4",
+                "type": "Choice",
+                "text": "I have more important things to do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_noise_20_6"
+            },
+            {
+                "id": "d_counseling_noise_20_5",
+                "type": "Choice",
+                "text": "I'd end up offending many people, racking up scandals.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_noise_20_9"
+            },
+            {
+                "id": "d_counseling_noise_20_6",
+                "type": "Speech",
+                "text": "?",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_20_7",
+                "type": "Speech",
+                "text": "Oh, right.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_20_8",
+                "type": "Speech",
+                "text": "I almost forgot that you're a commander as well.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": "d_counseling_noise_20_11"
+            },
+            {
+                "id": "d_counseling_noise_20_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_20_10",
+                "type": "Speech",
+                "text": "Don't you dare.",
+                "speaker": "Noise",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_noise_20_11",
+                "type": "Narration",
+                "text": "Noise told me stories about when she made her debut.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

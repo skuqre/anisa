@@ -1,0 +1,1837 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_marian_p_01_1",
+                "type": "Speech",
+                "text": "Commander!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_2",
+                "type": "Speech",
+                "text": "Neon keeps yelling out \"Firepower!\" every time she sees me.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_3",
+                "type": "Speech",
+                "text": "But my name is not firepower.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_4",
+                "type": "Speech",
+                "text": "Maybe she doesn't know my name?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_5",
+                "type": "Choice",
+                "text": "She's just a nut for firepower.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_01_7"
+            },
+            {
+                "id": "d_counseling_marian_p_01_6",
+                "type": "Choice",
+                "text": "She may not have memorized your name yet. You should repeat it to her more often.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_01_10"
+            },
+            {
+                "id": "d_counseling_marian_p_01_7",
+                "type": "Speech",
+                "text": "Is that so?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_8",
+                "type": "Speech",
+                "text": "Then, she does know my name!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_9",
+                "type": "Speech",
+                "text": "That's a relief.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_01_13"
+            },
+            {
+                "id": "d_counseling_marian_p_01_10",
+                "type": "Speech",
+                "text": "But, I know Neon's name...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_11",
+                "type": "Speech",
+                "text": "Fine.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_12",
+                "type": "Speech",
+                "text": "When I see her, I'll keep repeating my own name.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_01_13",
+                "type": "Narration",
+                "text": "I talk with Marian about the correlation between Neon and firepower.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_02_1",
+                "type": "Speech",
+                "text": "I was hungry, so I ate some food from the fridge.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_2",
+                "type": "Speech",
+                "text": "Then, Anis got really mad at me!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_3",
+                "type": "Speech",
+                "text": "Apparently, what I ate belonged to her.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_4",
+                "type": "Speech",
+                "text": "So... does everything in the fridge belong to Anis?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_5",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_02_7"
+            },
+            {
+                "id": "d_counseling_marian_p_02_6",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_02_10"
+            },
+            {
+                "id": "d_counseling_marian_p_02_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_8",
+                "type": "Speech",
+                "text": "Wow! She must be so rich!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_9",
+                "type": "Speech",
+                "text": "Now that I know, I'll be asking her for more freebies!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_02_13"
+            },
+            {
+                "id": "d_counseling_marian_p_02_10",
+                "type": "Speech",
+                "text": "What is that?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_11",
+                "type": "Speech",
+                "text": "But then, how can you tell what's hers and what isn't?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_12",
+                "type": "Speech",
+                "text": "Should I just ask the food who it belongs to?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_02_13",
+                "type": "Narration",
+                "text": "I teach Marian how to discern which food items belong to Anis.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_03_1",
+                "type": "Speech",
+                "text": "Every time I play around in the flour,",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_03_2",
+                "type": "Speech",
+                "text": "Rapi just sighs and turns away.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_03_3",
+                "type": "Speech",
+                "text": "Is she sick or something?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_03_4",
+                "type": "Choice",
+                "text": "Maybe her head hurts.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_03_6"
+            },
+            {
+                "id": "d_counseling_marian_p_03_5",
+                "type": "Choice",
+                "text": "The problem isn't her head. It's her heart.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_03_8"
+            },
+            {
+                "id": "d_counseling_marian_p_03_6",
+                "type": "Speech",
+                "text": "Really? That's a big problem!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_03_7",
+                "type": "Speech",
+                "text": "We should get a bandage for her head, then!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_03_11"
+            },
+            {
+                "id": "d_counseling_marian_p_03_8",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_03_9",
+                "type": "Speech",
+                "text": "Can we... put a bandage on her heart?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_03_10",
+                "type": "Speech",
+                "text": "I don't know how to make her feel better.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_03_11",
+                "type": "Narration",
+                "text": "Marian and I talk about Rapi, concerned for her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_04_1",
+                "type": "Speech",
+                "text": "Commander. I will protect you.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_2",
+                "type": "Speech",
+                "text": "I won't fail you this time!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_3",
+                "type": "Speech",
+                "text": "Huh? ... Why did I say \"this time\"?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_4",
+                "type": "Speech",
+                "text": "Did I... fail to protect you before?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_5",
+                "type": "Choice",
+                "text": "No. You've always protected me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_04_7"
+            },
+            {
+                "id": "d_counseling_marian_p_04_6",
+                "type": "Choice",
+                "text": "This time, I'll protect you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_04_10"
+            },
+            {
+                "id": "d_counseling_marian_p_04_7",
+                "type": "Speech",
+                "text": "Commander?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_8",
+                "type": "Speech",
+                "text": "What's that sad look on your face?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_9",
+                "type": "Speech",
+                "text": "Don't do that. You'll make me sad, too.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_04_13"
+            },
+            {
+                "id": "d_counseling_marian_p_04_10",
+                "type": "Speech",
+                "text": "What? No! I should be the one who protects you...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_11",
+                "type": "Speech",
+                "text": "Oh! That's it! We can protect each other.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_12",
+                "type": "Speech",
+                "text": "How about it? I think it'll work out great!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_04_13",
+                "type": "Narration",
+                "text": "I talk with Marian, thinking about a time long since passed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_05_1",
+                "type": "Speech",
+                "text": "Neon keeps teasing me because I like bandages.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_05_2",
+                "type": "Speech",
+                "text": "She says if I like them so much, I should be a mummy.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_05_3",
+                "type": "Speech",
+                "text": "What should I say to her?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_05_4",
+                "type": "Choice",
+                "text": "Dress up as a mummy and scare her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_05_6"
+            },
+            {
+                "id": "d_counseling_marian_p_05_5",
+                "type": "Choice",
+                "text": "Cover her in bandages.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_05_9"
+            },
+            {
+                "id": "d_counseling_marian_p_05_6",
+                "type": "Speech",
+                "text": "No, thanks! Being a mummy sounds like a real hassle.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_05_7",
+                "type": "Speech",
+                "text": "I don't want to scare her, either.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_05_8",
+                "type": "Speech",
+                "text": "Anis says getting scared is bad for your heart.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_05_12"
+            },
+            {
+                "id": "d_counseling_marian_p_05_9",
+                "type": "Speech",
+                "text": "Cover her in bandages...?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_05_10",
+                "type": "Speech",
+                "text": "Yeah! That way I'd have another friend who loves bandages!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_05_11",
+                "type": "Speech",
+                "text": "Nice!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_05_12",
+                "type": "Narration",
+                "text": "I spend some enjoyable time together with Marian thinking about Neon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_06_1",
+                "type": "Speech",
+                "text": "Commander, do you hurt anywhere?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_06_2",
+                "type": "Choice",
+                "text": "My leg has been hurting since last night.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_06_4"
+            },
+            {
+                "id": "d_counseling_marian_p_06_3",
+                "type": "Choice",
+                "text": "Nope.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_06_7"
+            },
+            {
+                "id": "d_counseling_marian_p_06_4",
+                "type": "Speech",
+                "text": "Your leg hurts?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_06_5",
+                "type": "Speech",
+                "text": "Oh, no! Oh, no!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_06_6",
+                "type": "Speech",
+                "text": "Here, let me put a bandage on it for you.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_06_10"
+            },
+            {
+                "id": "d_counseling_marian_p_06_7",
+                "type": "Speech",
+                "text": "You sure?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_06_8",
+                "type": "Speech",
+                "text": "Aww... I wanted to bandage you up...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_06_9",
+                "type": "Speech",
+                "text": "But then again, I guess it's good that you're feeling all right...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_06_10",
+                "type": "Narration",
+                "text": "Marian and I play with bandages together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_07_1",
+                "type": "Speech",
+                "text": "It feels so good to live here in the Outpost!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_07_2",
+                "type": "Speech",
+                "text": "Your room is the best of all.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_07_3",
+                "type": "Speech",
+                "text": "Rapi, Anis, Neon all live here... And you too, Commander!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_07_4",
+                "type": "Speech",
+                "text": "Commander, what's your favorite place to be?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_07_5",
+                "type": "Choice",
+                "text": "In the Commander's Room along with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_07_7"
+            },
+            {
+                "id": "d_counseling_marian_p_07_6",
+                "type": "Choice",
+                "text": "Anywhere in the Outpost.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_07_9"
+            },
+            {
+                "id": "d_counseling_marian_p_07_7",
+                "type": "Speech",
+                "text": "I like being there with you, too.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_07_8",
+                "type": "Speech",
+                "text": "It's better than being by myself!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_07_11"
+            },
+            {
+                "id": "d_counseling_marian_p_07_9",
+                "type": "Speech",
+                "text": "You like the entire Outpost?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_07_10",
+                "type": "Speech",
+                "text": "You sure like a lot of places, Commander!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_07_11",
+                "type": "Narration",
+                "text": "I talk about the Outpost with Marian.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_08_1",
+                "type": "Speech",
+                "text": "Commander, which flavor do you prefer? Grape or apple?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_08_2",
+                "type": "Choice",
+                "text": "Grape.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_08_4"
+            },
+            {
+                "id": "d_counseling_marian_p_08_3",
+                "type": "Choice",
+                "text": "Apple.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_08_8"
+            },
+            {
+                "id": "d_counseling_marian_p_08_4",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_08_5",
+                "type": "Speech",
+                "text": "Grape?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_08_6",
+                "type": "Speech",
+                "text": "I wanted to eat the grape one...\nBut you can have it.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_08_7",
+                "type": "Speech",
+                "text": "I like Commander more than I like grape Splendamin, anyway!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_08_12"
+            },
+            {
+                "id": "d_counseling_marian_p_08_8",
+                "type": "Speech",
+                "text": "Really? You prefer apple?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_08_9",
+                "type": "Speech",
+                "text": "That's good.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_08_10",
+                "type": "Speech",
+                "text": "It's good because I want to eat the grape Splendamin myself!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_08_11",
+                "type": "Speech",
+                "text": "The apple Splendamin is all yours!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_08_12",
+                "type": "Narration",
+                "text": "I spend time sharing some Splendamin with Marian.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_09_1",
+                "type": "Speech",
+                "text": "Commander, what type person do you like?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_09_2",
+                "type": "Choice",
+                "text": "The person in front of me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_09_4"
+            },
+            {
+                "id": "d_counseling_marian_p_09_3",
+                "type": "Choice",
+                "text": "That's a secret.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_09_7"
+            },
+            {
+                "id": "d_counseling_marian_p_09_4",
+                "type": "Speech",
+                "text": "In front of you? You mean me?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_09_5",
+                "type": "Speech",
+                "text": "I like you too!\nBecause you are warm and kind!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_09_6",
+                "type": "Speech",
+                "text": "You're the best!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_09_10"
+            },
+            {
+                "id": "d_counseling_marian_p_09_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_09_8",
+                "type": "Speech",
+                "text": "Why is it a secret?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_09_9",
+                "type": "Speech",
+                "text": "Is it something I shouldn't know?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_09_10",
+                "type": "Narration",
+                "text": "I talk with Marian about what type of people we are into.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_10_1",
+                "type": "Speech",
+                "text": "Whenever I go up to the surface, I enjoy getting to see the bright blue sky.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_10_2",
+                "type": "Speech",
+                "text": "What kind of sky do you like, Commander?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_10_3",
+                "type": "Speech",
+                "text": "A blue sky, or the night sky?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_10_4",
+                "type": "Choice",
+                "text": "Blue.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_10_6"
+            },
+            {
+                "id": "d_counseling_marian_p_10_5",
+                "type": "Choice",
+                "text": "Night sky.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_10_9"
+            },
+            {
+                "id": "d_counseling_marian_p_10_6",
+                "type": "Speech",
+                "text": "Same here!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_10_7",
+                "type": "Speech",
+                "text": "I love to look at all the pretty clouds while the sun shines down on me.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_10_8",
+                "type": "Speech",
+                "text": "The sunlight feels so warm. Just like you, Commander. That's why I like it.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_10_12"
+            },
+            {
+                "id": "d_counseling_marian_p_10_9",
+                "type": "Speech",
+                "text": "I like the night sky too, when it's twinkling with stars.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_10_10",
+                "type": "Speech",
+                "text": "But, I prefer a bright blue sky.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_10_11",
+                "type": "Speech",
+                "text": "Feeling the warmth of the sunlight on my skin always makes me think of you...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_10_12",
+                "type": "Narration",
+                "text": "I talk about the sky up on the surface with Marian.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_11_1",
+                "type": "Speech",
+                "text": "Anis wants to shower together later.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_11_2",
+                "type": "Speech",
+                "text": "Would you like to join us?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_11_3",
+                "type": "Choice",
+                "text": "Absolutely not.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_11_5"
+            },
+            {
+                "id": "d_counseling_marian_p_11_4",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_11_8"
+            },
+            {
+                "id": "d_counseling_marian_p_11_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_11_6",
+                "type": "Speech",
+                "text": "How come?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_11_7",
+                "type": "Speech",
+                "text": "Is it because the shower stall is too small?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_11_11"
+            },
+            {
+                "id": "d_counseling_marian_p_11_8",
+                "type": "Speech",
+                "text": "Commander, your face is beet red!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_11_9",
+                "type": "Speech",
+                "text": "Are you sick?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_11_10",
+                "type": "Speech",
+                "text": "Do you need a bandage?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_11_11",
+                "type": "Narration",
+                "text": "As we continued our discussion, I quickly changed the topic.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_12_1",
+                "type": "Speech",
+                "text": "I'm afraid that won't be easy, Commander.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_12_2",
+                "type": "Speech",
+                "text": "Commander, you should turn back.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_12_3",
+                "type": "Choice",
+                "text": "... Rapi?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_12_5"
+            },
+            {
+                "id": "d_counseling_marian_p_12_4",
+                "type": "Choice",
+                "text": "What are you doing?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_12_8"
+            },
+            {
+                "id": "d_counseling_marian_p_12_5",
+                "type": "Speech",
+                "text": "Correct!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_12_6",
+                "type": "Speech",
+                "text": "I've been practicing talking like Rapi.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_12_7",
+                "type": "Speech",
+                "text": "How did it sound? Was I close?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_12_10"
+            },
+            {
+                "id": "d_counseling_marian_p_12_8",
+                "type": "Speech",
+                "text": "I'm trying to talk like Rapi.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_12_9",
+                "type": "Speech",
+                "text": "How did it sound? Was I close?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_12_10",
+                "type": "Narration",
+                "text": "I help Marian try to imitate Rapi's tone of voice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_13_1",
+                "type": "Speech",
+                "text": "Commander, could I have that pen that you're using?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_13_2",
+                "type": "Choice",
+                "text": "Sure, I don't need it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_13_4"
+            },
+            {
+                "id": "d_counseling_marian_p_13_3",
+                "type": "Choice",
+                "text": "I'll buy you a new one.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_13_7"
+            },
+            {
+                "id": "d_counseling_marian_p_13_4",
+                "type": "Speech",
+                "text": "Wow! Thanks!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_13_5",
+                "type": "Speech",
+                "text": "Neon says I might enjoy collecting.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_13_6",
+                "type": "Speech",
+                "text": "I'm really fond of you, so I decided I'm going to collect things related to you!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_13_10"
+            },
+            {
+                "id": "d_counseling_marian_p_13_7",
+                "type": "Speech",
+                "text": "I don't want a new one.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_13_8",
+                "type": "Speech",
+                "text": "It has to be a pen that you've used before...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_13_9",
+                "type": "Speech",
+                "text": "Neon says I might enjoy collecting, so I've decided to collect things related to you!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_13_10",
+                "type": "Narration",
+                "text": "I spend time with Marian listing off all the different items I've used.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_14_1",
+                "type": "Speech",
+                "text": "I had a really weird dream last night.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_14_2",
+                "type": "Speech",
+                "text": "In the dream, you were pointing a gun at me.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_14_3",
+                "type": "Choice",
+                "text": "And you weren't scared?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_14_5"
+            },
+            {
+                "id": "d_counseling_marian_p_14_4",
+                "type": "Choice",
+                "text": "Then what happened?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_14_7"
+            },
+            {
+                "id": "d_counseling_marian_p_14_5",
+                "type": "Speech",
+                "text": "Of course not!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_14_6",
+                "type": "Speech",
+                "text": "I know you'd never shoot me, not even in a dream.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_14_10"
+            },
+            {
+                "id": "d_counseling_marian_p_14_7",
+                "type": "Speech",
+                "text": "I can't remember the rest.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_14_8",
+                "type": "Speech",
+                "text": "But I was happy to see you in the dream!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_14_9",
+                "type": "Speech",
+                "text": "Hopefully I can see you in my dream tonight as well.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_14_10",
+                "type": "Narration",
+                "text": "Marian and I talk more while recollecting some of our past dreams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_15_1",
+                "type": "Speech",
+                "text": "I was reading a book today, and it said that mermaids live in the ocean.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_15_2",
+                "type": "Speech",
+                "text": "Have you ever seen a mermaid?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_15_3",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_15_5"
+            },
+            {
+                "id": "d_counseling_marian_p_15_4",
+                "type": "Choice",
+                "text": "Mermaids only exist in books.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_15_7"
+            },
+            {
+                "id": "d_counseling_marian_p_15_5",
+                "type": "Speech",
+                "text": "Maybe we'll be able to see one someday!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_15_6",
+                "type": "Speech",
+                "text": "According to the book, they have a beautiful singing voice.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_15_10"
+            },
+            {
+                "id": "d_counseling_marian_p_15_7",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_15_8",
+                "type": "Speech",
+                "text": "I really wanted to meet her. That's too bad.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_15_9",
+                "type": "Speech",
+                "text": "Then do you think we can meet Snow White?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_15_10",
+                "type": "Narration",
+                "text": "Marian and I have fun talking about different fairy tales.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_16_1",
+                "type": "Speech",
+                "text": "Before I go to bed every night,",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_16_2",
+                "type": "Speech",
+                "text": "Rapi sings Twinkle Twinkle Little Star to me.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_16_3",
+                "type": "Speech",
+                "text": "Do you listen to any songs before you go to sleep?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_16_4",
+                "type": "Choice",
+                "text": "The same song.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_16_6"
+            },
+            {
+                "id": "d_counseling_marian_p_16_5",
+                "type": "Choice",
+                "text": "Tears, Love, Break up, And Sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_16_9"
+            },
+            {
+                "id": "d_counseling_marian_p_16_6",
+                "type": "Speech",
+                "text": "Wow, what a coincidence!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_16_7",
+                "type": "Speech",
+                "text": "I can barely get to the end of the song before I'm fast asleep.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_16_8",
+                "type": "Speech",
+                "text": "Twinkle twinkle little star...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_16_11"
+            },
+            {
+                "id": "d_counseling_marian_p_16_9",
+                "type": "Speech",
+                "text": "Hmm, I've never heard of that one.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_16_10",
+                "type": "Speech",
+                "text": "I'll try and give it a listen one of these nights before I go to sleep!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_16_11",
+                "type": "Narration",
+                "text": "Marian and I talk about other music that puts you to sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_17_1",
+                "type": "Speech",
+                "text": "Commander, let's play rock paper scissors!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_2",
+                "type": "Speech",
+                "text": "You have to choose one, or you lose!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_3",
+                "type": "Speech",
+                "text": "Rock...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_4",
+                "type": "Speech",
+                "text": "Paper...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_5",
+                "type": "Speech",
+                "text": "Scissor!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_6",
+                "type": "Choice",
+                "text": "Show scissors.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_17_8"
+            },
+            {
+                "id": "d_counseling_marian_p_17_7",
+                "type": "Choice",
+                "text": "Don't show anything.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_17_11"
+            },
+            {
+                "id": "d_counseling_marian_p_17_8",
+                "type": "Speech",
+                "text": "Shoot!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_9",
+                "type": "Speech",
+                "text": "I lost.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_10",
+                "type": "Speech",
+                "text": "Congrats, Commander!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_17_14"
+            },
+            {
+                "id": "d_counseling_marian_p_17_11",
+                "type": "Speech",
+                "text": "Umm...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_12",
+                "type": "Speech",
+                "text": "Since you didn't do anything, does that mean I win?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_13",
+                "type": "Speech",
+                "text": "That's not very exciting...",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_17_14",
+                "type": "Narration",
+                "text": "Marian and I spend some time playing rock paper scissors.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_18_1",
+                "type": "Speech",
+                "text": "I really enjoy our discussions together.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_18_2",
+                "type": "Speech",
+                "text": "I'm happy to be talking with you right now!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_18_3",
+                "type": "Choice",
+                "text": "Me too.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_18_5"
+            },
+            {
+                "id": "d_counseling_marian_p_18_4",
+                "type": "Choice",
+                "text": "I'm glad that you are happy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_18_7"
+            },
+            {
+                "id": "d_counseling_marian_p_18_5",
+                "type": "Speech",
+                "text": "That makes me even happier knowing that you feel that way!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_18_6",
+                "type": "Speech",
+                "text": "Today is just the best!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_18_10"
+            },
+            {
+                "id": "d_counseling_marian_p_18_7",
+                "type": "Speech",
+                "text": "I'm glad too!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_18_8",
+                "type": "Speech",
+                "text": "How about you, Commander? Are you happy today?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_18_9",
+                "type": "Speech",
+                "text": "I hope you're as happy as I am!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_18_10",
+                "type": "Narration",
+                "text": "Marian and I have a great time talking to each other.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_19_1",
+                "type": "Speech",
+                "text": "We all underwent some additional training a while ago.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_19_2",
+                "type": "Speech",
+                "text": "Rapi came in first, but I was second!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_19_3",
+                "type": "Choice",
+                "text": "Good job.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_19_5"
+            },
+            {
+                "id": "d_counseling_marian_p_19_4",
+                "type": "Choice",
+                "text": "Try and finish on top next time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_19_8"
+            },
+            {
+                "id": "d_counseling_marian_p_19_5",
+                "type": "Speech",
+                "text": "Thanks!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_19_6",
+                "type": "Speech",
+                "text": "But next time I want to be first.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_19_7",
+                "type": "Speech",
+                "text": "If I'm going to protect you, then I need to be stronger.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_19_10"
+            },
+            {
+                "id": "d_counseling_marian_p_19_8",
+                "type": "Speech",
+                "text": "I will!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_19_9",
+                "type": "Speech",
+                "text": "If I'm going to protect you, then I need to be stronger.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_19_10",
+                "type": "Narration",
+                "text": "Marian and I talk about ways for her to get stronger.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_marian_p_20_1",
+                "type": "Speech",
+                "text": "Did you know if you shake a can of carbonated water",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_20_2",
+                "type": "Speech",
+                "text": "and then open it, it gushes out like a fountain!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_20_3",
+                "type": "Choice",
+                "text": "How do you know that?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_marian_p_20_5"
+            },
+            {
+                "id": "d_counseling_marian_p_20_4",
+                "type": "Choice",
+                "text": "I can't say I do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_marian_p_20_8"
+            },
+            {
+                "id": "d_counseling_marian_p_20_5",
+                "type": "Speech",
+                "text": "Neon said that Anis is a big fan of water fountains,",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_20_6",
+                "type": "Speech",
+                "text": "so I shook up all the carbonated water we have in the fridge.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_20_7",
+                "type": "Speech",
+                "text": "When Anis opens them, it'll be like a fountain in her own home! She'll love it!",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": "d_counseling_marian_p_20_11"
+            },
+            {
+                "id": "d_counseling_marian_p_20_8",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_20_9",
+                "type": "Speech",
+                "text": "Well... I just shook up all the carbonated water we have in the fridge.",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_20_10",
+                "type": "Speech",
+                "text": "Why don't you go and try opening one up now?",
+                "speaker": "Marian",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_marian_p_20_11",
+                "type": "Narration",
+                "text": "As we ended our discussion, I started planning how to clean up the impending flood of carbonated water.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

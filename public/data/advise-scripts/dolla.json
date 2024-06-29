@@ -1,0 +1,1677 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_dolla_01_1",
+                "type": "Speech",
+                "text": "Client.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_01_2",
+                "type": "Speech",
+                "text": "Do you invest in stocks?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_01_3",
+                "type": "Choice",
+                "text": "I'm investing long-term in Missilis.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_01_5"
+            },
+            {
+                "id": "d_counseling_dolla_01_4",
+                "type": "Choice",
+                "text": "Are there any good stocks to invest in?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_01_8"
+            },
+            {
+                "id": "d_counseling_dolla_01_5",
+                "type": "Speech",
+                "text": "Oh. I'm surprised.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_01_6",
+                "type": "Speech",
+                "text": "I thought you disliked Syuen too much to invest in Missilis.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_01_7",
+                "type": "Speech",
+                "text": "Well, I admire you for separating business from personal matters.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_01_12"
+            },
+            {
+                "id": "d_counseling_dolla_01_8",
+                "type": "Speech",
+                "text": "Of course.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_01_9",
+                "type": "Speech",
+                "text": "Allow me to recommend a company that will collaborate with us to launch a new product by the end of this month.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_01_10",
+                "type": "Speech",
+                "text": "The product isn't bad. I expect the stock price to skyrocket in the next few weeks.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_01_11",
+                "type": "Speech",
+                "text": "Now's your chance to get in on the ground level...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_01_12",
+                "type": "Narration",
+                "text": "I talk business with Dolla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_02_1",
+                "type": "Speech",
+                "text": "Client.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_02_2",
+                "type": "Speech",
+                "text": "[The end justifies the means.] What do you think of this saying?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_02_3",
+                "type": "Choice",
+                "text": "I agree.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_02_5"
+            },
+            {
+                "id": "d_counseling_dolla_02_4",
+                "type": "Choice",
+                "text": "I can't agree.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_02_8"
+            },
+            {
+                "id": "d_counseling_dolla_02_5",
+                "type": "Speech",
+                "text": "Haha.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_02_6",
+                "type": "Speech",
+                "text": "Indeed, it's true.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_02_7",
+                "type": "Speech",
+                "text": "If the result is good, who cares about the process?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_02_10"
+            },
+            {
+                "id": "d_counseling_dolla_02_8",
+                "type": "Speech",
+                "text": "Haha! Well said, Client. I expected you to answer something like that.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_02_9",
+                "type": "Speech",
+                "text": "Though, my personal point of view does differ substantially from yours...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_02_10",
+                "type": "Narration",
+                "text": "I spend a meaningful time with Dolla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_03_1",
+                "type": "Speech",
+                "text": "Sometimes, I'm not so sure about my colleagues in the squad.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_03_2",
+                "type": "Speech",
+                "text": "Rupee is completely stupid, and Yan is pretty annoying.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_03_3",
+                "type": "Choice",
+                "text": "Yet you still trust them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_03_5"
+            },
+            {
+                "id": "d_counseling_dolla_03_4",
+                "type": "Choice",
+                "text": "You should be nicer to them, since you guys are working together.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_03_7"
+            },
+            {
+                "id": "d_counseling_dolla_03_5",
+                "type": "Speech",
+                "text": "... How odd.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_03_6",
+                "type": "Speech",
+                "text": "You're kinda slow but you always see right through me, Client.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_03_9"
+            },
+            {
+                "id": "d_counseling_dolla_03_7",
+                "type": "Speech",
+                "text": "For the last time...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_03_8",
+                "type": "Speech",
+                "text": "We do not 'work together.' We simply have a business relationship.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_03_9",
+                "type": "Narration",
+                "text": "I listen to Dolla's banter and give some advice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_04_1",
+                "type": "Speech",
+                "text": "Client, I want to ask you something...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_04_2",
+                "type": "Speech",
+                "text": "What's your ideal type?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_04_3",
+                "type": "Choice",
+                "text": "Someone with ambition...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_04_5"
+            },
+            {
+                "id": "d_counseling_dolla_04_4",
+                "type": "Choice",
+                "text": "Why you would ask such an odd question?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_04_7"
+            },
+            {
+                "id": "d_counseling_dolla_04_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_04_6",
+                "type": "Speech",
+                "text": "Are you... are you just messing with me?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_04_9"
+            },
+            {
+                "id": "d_counseling_dolla_04_7",
+                "type": "Speech",
+                "text": "Isn't it obvious?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_04_8",
+                "type": "Speech",
+                "text": "I want to introduce someone special to you, Client.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_04_9",
+                "type": "Narration",
+                "text": "I have an awkward conversation with Dolla about my ideal type.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_05_1",
+                "type": "Speech",
+                "text": "... Client, I'm going to ask you something, but keep in mind that it's merely a question.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_05_2",
+                "type": "Speech",
+                "text": "Have you ever broken the law?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_05_3",
+                "type": "Choice",
+                "text": "Nope. I'm innocent.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_05_5"
+            },
+            {
+                "id": "d_counseling_dolla_05_4",
+                "type": "Choice",
+                "text": "Hasn't everyone?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_05_7"
+            },
+            {
+                "id": "d_counseling_dolla_05_5",
+                "type": "Speech",
+                "text": "Haha. Just as I thought.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_05_6",
+                "type": "Speech",
+                "text": "A truly Client-like answer.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_05_9"
+            },
+            {
+                "id": "d_counseling_dolla_05_7",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_05_8",
+                "type": "Speech",
+                "text": "It seems you and I have more in common than I thought.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_05_9",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Dolla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_06_1",
+                "type": "Speech",
+                "text": "An odd question just occurred to me...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_06_2",
+                "type": "Speech",
+                "text": "What will I be in 10 years?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_06_3",
+                "type": "Choice",
+                "text": "The CEO of a monopoly.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_06_5"
+            },
+            {
+                "id": "d_counseling_dolla_06_4",
+                "type": "Choice",
+                "text": "The leader of a charity organization.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_06_8"
+            },
+            {
+                "id": "d_counseling_dolla_06_5",
+                "type": "Speech",
+                "text": "... What?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_06_6",
+                "type": "Speech",
+                "text": "You really think so?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_06_7",
+                "type": "Speech",
+                "text": "Oh my. My heart is pounding right now.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_06_11"
+            },
+            {
+                "id": "d_counseling_dolla_06_8",
+                "type": "Speech",
+                "text": "... Seriously?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_06_9",
+                "type": "Speech",
+                "text": "I know, you just wanted me to change my mind, but what you said has the opposite effect.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_06_10",
+                "type": "Speech",
+                "text": "I'll be a selfish, money-grubbing capitalist to the end.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_06_11",
+                "type": "Narration",
+                "text": "I discuss Dolla's future with her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_07_1",
+                "type": "Speech",
+                "text": "I've always wanted to know...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_07_2",
+                "type": "Speech",
+                "text": "How can people be content with the things they already have?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_07_3",
+                "type": "Choice",
+                "text": "They find meaning in something other than possessions.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_07_5"
+            },
+            {
+                "id": "d_counseling_dolla_07_4",
+                "type": "Choice",
+                "text": "What good is feeling satisfied, anyway?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_07_7"
+            },
+            {
+                "id": "d_counseling_dolla_07_5",
+                "type": "Speech",
+                "text": "I acknowledge that this is good advice...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_07_6",
+                "type": "Speech",
+                "text": "But, no matter what I do, it just doesn't work for me.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_07_10"
+            },
+            {
+                "id": "d_counseling_dolla_07_7",
+                "type": "Speech",
+                "text": "... Yeah, right?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_07_8",
+                "type": "Speech",
+                "text": "Sorry. I knew the answer, and yet I still asked.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_07_9",
+                "type": "Speech",
+                "text": "I just need to hear those words right now.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_07_10",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Dolla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_08_1",
+                "type": "Speech",
+                "text": "I've been working nonstop recently so I decided to take on vacation.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_08_2",
+                "type": "Speech",
+                "text": "Any places you recommend?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_08_3",
+                "type": "Choice",
+                "text": "The Commander's Room.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_08_5"
+            },
+            {
+                "id": "d_counseling_dolla_08_4",
+                "type": "Choice",
+                "text": "The hot springs.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_08_7"
+            },
+            {
+                "id": "d_counseling_dolla_08_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_08_6",
+                "type": "Speech",
+                "text": "You think there is anything helpful for relaxation beside the air conditioner?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_08_9"
+            },
+            {
+                "id": "d_counseling_dolla_08_7",
+                "type": "Speech",
+                "text": "Haha. Not a bad idea.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_08_8",
+                "type": "Speech",
+                "text": "Especially if I had someone to go with me and keep me safe...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_08_9",
+                "type": "Narration",
+                "text": "I talk to Dolla about vacation plans.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_09_1",
+                "type": "Speech",
+                "text": "Is there any kind of gadget you've been wanting lately?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_09_2",
+                "type": "Speech",
+                "text": "Ah. Don't get me wrong. Just asking for market research.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_09_3",
+                "type": "Choice",
+                "text": "A smartwatch for everyday wear.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_09_5"
+            },
+            {
+                "id": "d_counseling_dolla_09_4",
+                "type": "Choice",
+                "text": "A cutting-edge computer.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_09_7"
+            },
+            {
+                "id": "d_counseling_dolla_09_5",
+                "type": "Speech",
+                "text": "Oh, you mean the kind that monitors your health and fitness?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_09_6",
+                "type": "Speech",
+                "text": "Seems like you enjoy taking care of yourself, Client.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_09_10"
+            },
+            {
+                "id": "d_counseling_dolla_09_7",
+                "type": "Speech",
+                "text": "Hmm... The computer in the Commander's Room is outdated?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_09_8",
+                "type": "Speech",
+                "text": "Ah. Are you going to get a gaming rig? I've seen you hang out with Exia more often these days.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_09_9",
+                "type": "Speech",
+                "text": "Either way, thanks. That's very helpful.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_09_10",
+                "type": "Narration",
+                "text": "I help Dolla with her market research.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_10_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_10_2",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_10_3",
+                "type": "Choice",
+                "text": "What's wrong?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_10_5"
+            },
+            {
+                "id": "d_counseling_dolla_10_4",
+                "type": "Choice",
+                "text": "Did something go wrong with a transaction?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_10_7"
+            },
+            {
+                "id": "d_counseling_dolla_10_5",
+                "type": "Speech",
+                "text": "Ah. It's nothing you can help me with, Client.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_10_6",
+                "type": "Speech",
+                "text": "... But thank you for asking, anyway.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_10_10"
+            },
+            {
+                "id": "d_counseling_dolla_10_7",
+                "type": "Speech",
+                "text": "Yeah... One of our suppliers got delayed.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_10_8",
+                "type": "Speech",
+                "text": "This could jeopardize one of our biggest deals.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_10_9",
+                "type": "Speech",
+                "text": "So, I've been thinking. How should I teach these bastards a lesson?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_10_10",
+                "type": "Narration",
+                "text": "I spend some quiet time with Dolla, who seems anxious.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_11_1",
+                "type": "Speech",
+                "text": "This question just popped up in my head all of a sudden.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_11_2",
+                "type": "Speech",
+                "text": "Tell me, how does it feel to never have the upper hand in any relationship you have with others?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_11_3",
+                "type": "Choice",
+                "text": "I consider it an investment that could potentially pay off big down the line.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_11_5"
+            },
+            {
+                "id": "d_counseling_dolla_11_4",
+                "type": "Choice",
+                "text": "I'm willing to tolerate it if it's for the sake of my friends and squadmates.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_11_7"
+            },
+            {
+                "id": "d_counseling_dolla_11_5",
+                "type": "Speech",
+                "text": "I'm not so convinced the payout will be as big as you think.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_11_6",
+                "type": "Speech",
+                "text": "Despite that, I somewhat understand where you're coming from. It's hard for me to relate to it however",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_11_9"
+            },
+            {
+                "id": "d_counseling_dolla_11_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_11_8",
+                "type": "Speech",
+                "text": "So are your friends going to support you financially when you get old and decrepit?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_11_9",
+                "type": "Narration",
+                "text": "Dolla and I have a conversation about life.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_12_1",
+                "type": "Speech",
+                "text": "There are some beautiful views in the Ark.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_12_2",
+                "type": "Speech",
+                "text": "Especially when you're looking down on the city from a skyscraper in the city center.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_12_3",
+                "type": "Speech",
+                "text": "If you want, you could come to my office someday and we can look at it together.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_12_4",
+                "type": "Choice",
+                "text": "You're not going to make me work overtime or anything, are you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_12_6"
+            },
+            {
+                "id": "d_counseling_dolla_12_5",
+                "type": "Choice",
+                "text": "Anytime.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_12_8"
+            },
+            {
+                "id": "d_counseling_dolla_12_6",
+                "type": "Speech",
+                "text": "A romantic, you most surely are not...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_12_7",
+                "type": "Speech",
+                "text": "but you are pretty sharp.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_12_11"
+            },
+            {
+                "id": "d_counseling_dolla_12_8",
+                "type": "Speech",
+                "text": "Perfect. Come to the roof of the New Wave building one of these evenings.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_12_9",
+                "type": "Speech",
+                "text": "While we're at it, you could help me with some unfinished tasks.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_12_10",
+                "type": "Speech",
+                "text": "The view may be spectacular, but we still have work to do.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_12_11",
+                "type": "Narration",
+                "text": "I made a promise to work late with Dolla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_13_1",
+                "type": "Speech",
+                "text": "When the competition has a leg up on you,",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_13_2",
+                "type": "Speech",
+                "text": "does it stress you out? Or do you just ignore it?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_13_3",
+                "type": "Choice",
+                "text": "I don't let it faze me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_13_5"
+            },
+            {
+                "id": "d_counseling_dolla_13_4",
+                "type": "Choice",
+                "text": "It lights a fire underneath me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_13_7"
+            },
+            {
+                "id": "d_counseling_dolla_13_5",
+                "type": "Speech",
+                "text": "Oh, I see.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_13_6",
+                "type": "Speech",
+                "text": "Nothing wrong with going at your own pace.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_13_10"
+            },
+            {
+                "id": "d_counseling_dolla_13_7",
+                "type": "Speech",
+                "text": "That's one thing you and I see eye-to-eye on.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_13_8",
+                "type": "Speech",
+                "text": "Cutthroat competition is a blessing.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_13_9",
+                "type": "Speech",
+                "text": "That way, you feel even more alive when you eventually come out on top.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_13_10",
+                "type": "Narration",
+                "text": "Dolla and I have a conversation about values.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_14_1",
+                "type": "Speech",
+                "text": "You work under Deputy Chief Andersen, right?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_14_2",
+                "type": "Speech",
+                "text": "You don't know what he's into by any chance, do you?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_14_3",
+                "type": "Choice",
+                "text": "Why? Do you need something from him?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_14_5"
+            },
+            {
+                "id": "d_counseling_dolla_14_4",
+                "type": "Choice",
+                "text": "Why? Are you interested in him?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_14_8"
+            },
+            {
+                "id": "d_counseling_dolla_14_5",
+                "type": "Speech",
+                "text": "... Fine. I suppose I don't have to hide anything from you.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_14_6",
+                "type": "Speech",
+                "text": "It's nothing much, but there's a business opportunity I would like him to invest in.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_14_7",
+                "type": "Speech",
+                "text": "But I can't go about it in any old way.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_14_11"
+            },
+            {
+                "id": "d_counseling_dolla_14_8",
+                "type": "Speech",
+                "text": "Me?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_14_9",
+                "type": "Speech",
+                "text": "Of course I am.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_14_10",
+                "type": "Speech",
+                "text": "He'd make a fine business partner.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_14_11",
+                "type": "Narration",
+                "text": "Dolla and I talk more about how to give off signals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_15_1",
+                "type": "Speech",
+                "text": "Do you like going for a drive?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_15_2",
+                "type": "Speech",
+                "text": "If you were to go with me, where would you go?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_15_3",
+                "type": "Choice",
+                "text": "To the Outpost.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_15_5"
+            },
+            {
+                "id": "d_counseling_dolla_15_4",
+                "type": "Choice",
+                "text": "To Royal Road.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_15_8"
+            },
+            {
+                "id": "d_counseling_dolla_15_5",
+                "type": "Speech",
+                "text": "On purpose? During your free time? In a sports car?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_15_6",
+                "type": "Speech",
+                "text": "... Why on earth would you go there?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_15_7",
+                "type": "Speech",
+                "text": "That's absurd. If this was an interview, I'd be showing you the door.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_15_10"
+            },
+            {
+                "id": "d_counseling_dolla_15_8",
+                "type": "Speech",
+                "text": "A safe choice if there ever was one.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_15_9",
+                "type": "Speech",
+                "text": "Very well then. I'll come to pick you up once I'm done with everything over here.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_15_10",
+                "type": "Narration",
+                "text": "I spoke with Dolla and gave suggestions about where we could go for a drive.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_16_1",
+                "type": "Speech",
+                "text": "Hypothetically speaking, let's say there's a business that's raking in a massive profit.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_16_2",
+                "type": "Speech",
+                "text": "But there is someone interfering with the business.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_16_3",
+                "type": "Speech",
+                "text": "If this person were to say... disappear, everything would be peachy keen.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_16_4",
+                "type": "Speech",
+                "text": "What would you do? Hypothetically.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_16_5",
+                "type": "Choice",
+                "text": "Do what has to be done.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_16_7"
+            },
+            {
+                "id": "d_counseling_dolla_16_6",
+                "type": "Choice",
+                "text": "I'd convince them to get with the program.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_16_9"
+            },
+            {
+                "id": "d_counseling_dolla_16_7",
+                "type": "Speech",
+                "text": "That's what I thought too.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_16_8",
+                "type": "Speech",
+                "text": "But it's more easily said than done.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_16_11"
+            },
+            {
+                "id": "d_counseling_dolla_16_9",
+                "type": "Speech",
+                "text": "If I thought they could be convinced, I wouldn't be here contemplating more drastic measures.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_16_10",
+                "type": "Speech",
+                "text": "I suppose it's not a bad answer. You're just being honest.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_16_11",
+                "type": "Narration",
+                "text": "Dolla and I watched a documentary about an ancient group of assassins.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_17_1",
+                "type": "Speech",
+                "text": "If you, hypothetically speaking, made a minor error...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_17_2",
+                "type": "Speech",
+                "text": "and ended up losing half of the money an investor gave you...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_17_3",
+                "type": "Speech",
+                "text": "What kind of excuse would you use?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_17_4",
+                "type": "Choice",
+                "text": "I'd go gambling and win back what I lost.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_17_6"
+            },
+            {
+                "id": "d_counseling_dolla_17_5",
+                "type": "Choice",
+                "text": "There's still half left, so I wouldn't lose my head.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_17_8"
+            },
+            {
+                "id": "d_counseling_dolla_17_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_17_7",
+                "type": "Speech",
+                "text": "If I were the investor, I'd string you up by your toes.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_17_11"
+            },
+            {
+                "id": "d_counseling_dolla_17_8",
+                "type": "Speech",
+                "text": "Such confidence!",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_17_9",
+                "type": "Speech",
+                "text": "You're right. I still have half left.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_17_10",
+                "type": "Speech",
+                "text": "We're not in the red yet, so there's still a chance. I've got to make it happen.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_17_11",
+                "type": "Narration",
+                "text": "As I spoke with Dolla, she gave me some investment tips.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_18_1",
+                "type": "Speech",
+                "text": "I found the whereabouts of those who hacked my account.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_18_2",
+                "type": "Speech",
+                "text": "That little punk is barely 15.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_18_3",
+                "type": "Speech",
+                "text": "So I'm a little conflicted. What I should do?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_18_4",
+                "type": "Speech",
+                "text": "I just want to rough him up a bit...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_18_5",
+                "type": "Choice",
+                "text": "What he did was unforgivable.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_18_7"
+            },
+            {
+                "id": "d_counseling_dolla_18_6",
+                "type": "Choice",
+                "text": "He's young and stupid. He made a mistake.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_18_9"
+            },
+            {
+                "id": "d_counseling_dolla_18_7",
+                "type": "Speech",
+                "text": "Exactly! I can't let him get off scot-free.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_18_8",
+                "type": "Speech",
+                "text": "The sooner he learns it's a dog-eat-dog world out there, the better.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_18_12"
+            },
+            {
+                "id": "d_counseling_dolla_18_9",
+                "type": "Speech",
+                "text": "I don't care how young he is.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_18_10",
+                "type": "Speech",
+                "text": "He committed a crime; a premeditated crime at that.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_18_11",
+                "type": "Speech",
+                "text": "I'll take what you said into consideration... but at the end of the day, I'll handle this my way.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_18_12",
+                "type": "Narration",
+                "text": "Dolla and I exchange views on juvenile crime.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_19_1",
+                "type": "Speech",
+                "text": "I'm curious about how you handle your finances.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_19_2",
+                "type": "Speech",
+                "text": "Would you rather save your money, or invest it?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_19_3",
+                "type": "Choice",
+                "text": "Save.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_19_5"
+            },
+            {
+                "id": "d_counseling_dolla_19_4",
+                "type": "Choice",
+                "text": "Invest.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_19_8"
+            },
+            {
+                "id": "d_counseling_dolla_19_5",
+                "type": "Speech",
+                "text": "So you like to play it safe.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_19_6",
+                "type": "Speech",
+                "text": "But as they say...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_19_7",
+                "type": "Speech",
+                "text": "no risk, no reward.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_19_11"
+            },
+            {
+                "id": "d_counseling_dolla_19_8",
+                "type": "Speech",
+                "text": "Brilliant.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_19_9",
+                "type": "Speech",
+                "text": "No risk, no reward.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_19_10",
+                "type": "Speech",
+                "text": "How about we team up and make some investments together?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_19_11",
+                "type": "Narration",
+                "text": "I listen as Dolla gives me a lecture about investment.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_dolla_20_1",
+                "type": "Speech",
+                "text": "How much money do you think it takes before you're satisfied?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_20_2",
+                "type": "Choice",
+                "text": "You'll never be satisfied, no matter how much money you have.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_dolla_20_4"
+            },
+            {
+                "id": "d_counseling_dolla_20_3",
+                "type": "Choice",
+                "text": "It's all about making money, not how much of it you have.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_dolla_20_7"
+            },
+            {
+                "id": "d_counseling_dolla_20_4",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_20_5",
+                "type": "Speech",
+                "text": "You're probably right.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_20_6",
+                "type": "Speech",
+                "text": "I'll probably never be satisfied at any point in my life.",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": "d_counseling_dolla_20_9"
+            },
+            {
+                "id": "d_counseling_dolla_20_7",
+                "type": "Speech",
+                "text": "Client,",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_20_8",
+                "type": "Speech",
+                "text": "what are you on about?",
+                "speaker": "Dolla",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_dolla_20_9",
+                "type": "Narration",
+                "text": "Dolla and I talk about finding satisfaction in life.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

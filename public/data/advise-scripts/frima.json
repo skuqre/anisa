@@ -1,0 +1,1789 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_frima_01_1",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_01_2",
+                "type": "Speech",
+                "text": "Tired now. Sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_01_3",
+                "type": "Choice",
+                "text": "You're tired because you sleep too much.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_01_5"
+            },
+            {
+                "id": "d_counseling_frima_01_4",
+                "type": "Choice",
+                "text": "If you're tired, then you should sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_01_8"
+            },
+            {
+                "id": "d_counseling_frima_01_5",
+                "type": "Speech",
+                "text": "Yes.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_01_6",
+                "type": "Speech",
+                "text": "Slept too much. Tired.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_01_7",
+                "type": "Speech",
+                "text": "Tired. Going to sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_01_10"
+            },
+            {
+                "id": "d_counseling_frima_01_8",
+                "type": "Speech",
+                "text": "Slept too much. Tired.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_01_9",
+                "type": "Speech",
+                "text": "Tired. Going to sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_01_10",
+                "type": "Narration",
+                "text": "I watch Frima as she drifts off to sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_02_1",
+                "type": "Speech",
+                "text": "Food.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_02_2",
+                "type": "Speech",
+                "text": "Which?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_02_3",
+                "type": "Choice",
+                "text": "Steak.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_02_5"
+            },
+            {
+                "id": "d_counseling_frima_02_4",
+                "type": "Choice",
+                "text": "Sandwich.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_02_8"
+            },
+            {
+                "id": "d_counseling_frima_02_5",
+                "type": "Speech",
+                "text": "Steak.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_02_6",
+                "type": "Speech",
+                "text": "Hard to eat.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_02_7",
+                "type": "Speech",
+                "text": "No like.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_02_11"
+            },
+            {
+                "id": "d_counseling_frima_02_8",
+                "type": "Speech",
+                "text": "Sandwich.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_02_9",
+                "type": "Speech",
+                "text": "Simple.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_02_10",
+                "type": "Speech",
+                "text": "I like.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_02_11",
+                "type": "Narration",
+                "text": "I have a very quiet dinner with Frima.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_03_1",
+                "type": "Speech",
+                "text": "Coffee. Cream.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_03_2",
+                "type": "Speech",
+                "text": "More?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_03_3",
+                "type": "Choice",
+                "text": "Keep it coming until there's more cream than coffee.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_03_5"
+            },
+            {
+                "id": "d_counseling_frima_03_4",
+                "type": "Choice",
+                "text": "Just enough so I can taste it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_03_8"
+            },
+            {
+                "id": "d_counseling_frima_03_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_03_6",
+                "type": "Speech",
+                "text": "Satisfied.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_03_7",
+                "type": "Speech",
+                "text": "Pleased.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_03_11"
+            },
+            {
+                "id": "d_counseling_frima_03_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_03_9",
+                "type": "Speech",
+                "text": "That won't...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_03_10",
+                "type": "Speech",
+                "text": "Not good.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_03_11",
+                "type": "Narration",
+                "text": "I spend an extremely relaxed tea time with Frima.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_04_1",
+                "type": "Speech",
+                "text": "Today. Orders. Outside.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_04_2",
+                "type": "Speech",
+                "text": "Annoying.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_04_3",
+                "type": "Speech",
+                "text": "Instead?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_04_4",
+                "type": "Choice",
+                "text": "What are you scheduled to do? I'll do it for you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_04_6"
+            },
+            {
+                "id": "d_counseling_frima_04_5",
+                "type": "Choice",
+                "text": "You need to do your own work.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_04_9"
+            },
+            {
+                "id": "d_counseling_frima_04_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_04_7",
+                "type": "Speech",
+                "text": "Explain is boring.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_04_8",
+                "type": "Speech",
+                "text": "Will do.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_04_12"
+            },
+            {
+                "id": "d_counseling_frima_04_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_04_10",
+                "type": "Speech",
+                "text": "True.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_04_11",
+                "type": "Speech",
+                "text": "Going now.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_04_12",
+                "type": "Narration",
+                "text": "I help Frima prepare.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_05_1",
+                "type": "Speech",
+                "text": "Sleep. Place.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_05_2",
+                "type": "Speech",
+                "text": "Want... nice place.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_05_3",
+                "type": "Choice",
+                "text": "Just sleep here.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_05_5"
+            },
+            {
+                "id": "d_counseling_frima_05_4",
+                "type": "Choice",
+                "text": "Hospital beds are nice.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_05_8"
+            },
+            {
+                "id": "d_counseling_frima_05_5",
+                "type": "Speech",
+                "text": "Yes.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_05_6",
+                "type": "Speech",
+                "text": "Sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_05_7",
+                "type": "Speech",
+                "text": "Hold hand.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_05_11"
+            },
+            {
+                "id": "d_counseling_frima_05_8",
+                "type": "Speech",
+                "text": "Like bed.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_05_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_05_10",
+                "type": "Speech",
+                "text": "Mary. Scary.\nWon't go.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_05_11",
+                "type": "Narration",
+                "text": "I watch Frima sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_06_1",
+                "type": "Speech",
+                "text": "Sugar. Milk. Noisy.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_06_2",
+                "type": "Speech",
+                "text": "Can't sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_06_3",
+                "type": "Speech",
+                "text": "Annoyed.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_06_4",
+                "type": "Choice",
+                "text": "I'll talk to them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_06_6"
+            },
+            {
+                "id": "d_counseling_frima_06_5",
+                "type": "Choice",
+                "text": "But you'd be bored without them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_06_8"
+            },
+            {
+                "id": "d_counseling_frima_06_6",
+                "type": "Speech",
+                "text": "No.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_06_7",
+                "type": "Speech",
+                "text": "My problem. I solve.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_06_11"
+            },
+            {
+                "id": "d_counseling_frima_06_8",
+                "type": "Speech",
+                "text": "True.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_06_9",
+                "type": "Speech",
+                "text": "Can handle noise.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_06_10",
+                "type": "Speech",
+                "text": "... But still annoyed.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_06_11",
+                "type": "Narration",
+                "text": "I talk with Frima about the members of Cafe Sweety.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_07_1",
+                "type": "Speech",
+                "text": "Orders came.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_07_2",
+                "type": "Speech",
+                "text": "Hard.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_07_3",
+                "type": "Speech",
+                "text": "Bothersome.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_07_4",
+                "type": "Choice",
+                "text": "But you'll do it because you enjoy it, right?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_07_6"
+            },
+            {
+                "id": "d_counseling_frima_07_5",
+                "type": "Choice",
+                "text": "Then take the day off.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_07_8"
+            },
+            {
+                "id": "d_counseling_frima_07_6",
+                "type": "Speech",
+                "text": "Right.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_07_7",
+                "type": "Speech",
+                "text": "Worth it.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_07_10"
+            },
+            {
+                "id": "d_counseling_frima_07_8",
+                "type": "Speech",
+                "text": "No.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_07_9",
+                "type": "Speech",
+                "text": "Trouble for client.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_07_10",
+                "type": "Narration",
+                "text": "I plan out the assignment with Frima.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_08_1",
+                "type": "Speech",
+                "text": "Sleep. Now.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_08_2",
+                "type": "Speech",
+                "text": "Music. Recommend?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_08_3",
+                "type": "Choice",
+                "text": "Classical music with a slow tempo.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_08_5"
+            },
+            {
+                "id": "d_counseling_frima_08_4",
+                "type": "Choice",
+                "text": "No music. Noise canceling headphones instead.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_08_8"
+            },
+            {
+                "id": "d_counseling_frima_08_5",
+                "type": "Speech",
+                "text": "Classical.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_08_6",
+                "type": "Speech",
+                "text": "Too loud.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_08_7",
+                "type": "Speech",
+                "text": "Can't sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_08_11"
+            },
+            {
+                "id": "d_counseling_frima_08_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_08_9",
+                "type": "Speech",
+                "text": "Idea. New.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_08_10",
+                "type": "Speech",
+                "text": "Satisfied.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_08_11",
+                "type": "Narration",
+                "text": "Frima and I drift off to a world of tranquility.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_09_1",
+                "type": "Speech",
+                "text": "My sleep habits.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_09_2",
+                "type": "Speech",
+                "text": "Good?\nBad?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_09_3",
+                "type": "Choice",
+                "text": "I'm not sure. I think you look kinda cute when you're asleep.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_09_5"
+            },
+            {
+                "id": "d_counseling_frima_09_4",
+                "type": "Choice",
+                "text": "They're fine. You sleep quietly enough.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_09_8"
+            },
+            {
+                "id": "d_counseling_frima_09_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_09_6",
+                "type": "Speech",
+                "text": "Awkward.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_09_7",
+                "type": "Speech",
+                "text": "Sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_09_12"
+            },
+            {
+                "id": "d_counseling_frima_09_8",
+                "type": "Speech",
+                "text": "... Nice.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_09_9",
+                "type": "Speech",
+                "text": "...?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_09_10",
+                "type": "Speech",
+                "text": "You watch?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_09_11",
+                "type": "Speech",
+                "text": "Strange feeling.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_09_12",
+                "type": "Narration",
+                "text": "I talk with Frima about sleeping habits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_10_1",
+                "type": "Speech",
+                "text": "Strange dream.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_10_2",
+                "type": "Speech",
+                "text": "World. Bed. Sofa. All gone.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_10_3",
+                "type": "Speech",
+                "text": "Nightmare. Terrible.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_10_4",
+                "type": "Choice",
+                "text": "Indeed. Sleeping on the floor is uncomfortable.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_10_6"
+            },
+            {
+                "id": "d_counseling_frima_10_5",
+                "type": "Choice",
+                "text": "But you could sleep on literally anything, right?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_10_8"
+            },
+            {
+                "id": "d_counseling_frima_10_6",
+                "type": "Speech",
+                "text": "Right.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_10_7",
+                "type": "Speech",
+                "text": "So. Nightmare.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_10_12"
+            },
+            {
+                "id": "d_counseling_frima_10_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_10_9",
+                "type": "Speech",
+                "text": "Right.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_10_10",
+                "type": "Speech",
+                "text": "Any place good. Can sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_10_11",
+                "type": "Speech",
+                "text": "Just. Random dream.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_10_12",
+                "type": "Narration",
+                "text": "I talk with Frima about nightmares.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_11_1",
+                "type": "Speech",
+                "text": "This week.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_11_2",
+                "type": "Speech",
+                "text": "Milk Coffee. Better sales.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_11_3",
+                "type": "Speech",
+                "text": "Don't understand.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_11_4",
+                "type": "Choice",
+                "text": "I'm sure Cream Coffee will sell better next week.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_11_6"
+            },
+            {
+                "id": "d_counseling_frima_11_5",
+                "type": "Choice",
+                "text": "Let's forget about Cream Coffee and develop a new recipe.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_11_8"
+            },
+            {
+                "id": "d_counseling_frima_11_6",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_11_7",
+                "type": "Speech",
+                "text": "You will buy?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_11_10"
+            },
+            {
+                "id": "d_counseling_frima_11_8",
+                "type": "Speech",
+                "text": "No, I won't.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_11_9",
+                "type": "Speech",
+                "text": "Cream Coffee. My thing.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_11_10",
+                "type": "Narration",
+                "text": "Frima and I talk about ways to increase Cream Coffee sales.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_12_1",
+                "type": "Speech",
+                "text": "Extra credits.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_12_2",
+                "type": "Speech",
+                "text": "How to use?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_12_3",
+                "type": "Choice",
+                "text": "They'll go towards reclaiming the surface.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_12_5"
+            },
+            {
+                "id": "d_counseling_frima_12_4",
+                "type": "Choice",
+                "text": "They'll go towards renovating some facilities in the Outpost.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_12_7"
+            },
+            {
+                "id": "d_counseling_frima_12_5",
+                "type": "Speech",
+                "text": "Honorable.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_12_6",
+                "type": "Speech",
+                "text": "No fun.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_12_10"
+            },
+            {
+                "id": "d_counseling_frima_12_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_12_8",
+                "type": "Speech",
+                "text": "Better bed?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_12_9",
+                "type": "Speech",
+                "text": "Pillow. Blankets too?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_12_10",
+                "type": "Narration",
+                "text": "Frima and I dream of ways to spend all our newly earned credits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_13_1",
+                "type": "Speech",
+                "text": "Can't sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_13_2",
+                "type": "Speech",
+                "text": "What now?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_13_3",
+                "type": "Choice",
+                "text": "Try looking at your phone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_13_5"
+            },
+            {
+                "id": "d_counseling_frima_13_4",
+                "type": "Choice",
+                "text": "Try counting sheep.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_13_7"
+            },
+            {
+                "id": "d_counseling_frima_13_5",
+                "type": "Speech",
+                "text": "Dangerous.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_13_6",
+                "type": "Speech",
+                "text": "Drop phone. Hurt nose.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_13_11"
+            },
+            {
+                "id": "d_counseling_frima_13_7",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_13_8",
+                "type": "Speech",
+                "text": "Effective?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_13_9",
+                "type": "Speech",
+                "text": "One sheep. Two sh...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_13_10",
+                "type": "Speech",
+                "text": "Zzz.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_13_11",
+                "type": "Narration",
+                "text": "Frima and I talk about ways to help with sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_14_1",
+                "type": "Speech",
+                "text": "Customer today.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_14_2",
+                "type": "Speech",
+                "text": "Difficult. Annoying.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_14_3",
+                "type": "Choice",
+                "text": "What did they want?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_14_5"
+            },
+            {
+                "id": "d_counseling_frima_14_4",
+                "type": "Choice",
+                "text": "Let them have it next time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_14_8"
+            },
+            {
+                "id": "d_counseling_frima_14_5",
+                "type": "Speech",
+                "text": "Refused vending machine.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_14_6",
+                "type": "Speech",
+                "text": "Requested coffee machine.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_14_7",
+                "type": "Speech",
+                "text": "Kicked them out.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_14_10"
+            },
+            {
+                "id": "d_counseling_frima_14_8",
+                "type": "Speech",
+                "text": "I will.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_14_9",
+                "type": "Speech",
+                "text": "Shoot blank. Show him.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_14_10",
+                "type": "Narration",
+                "text": "Frima and I have a conversation on how to deal with difficult customers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_15_1",
+                "type": "Speech",
+                "text": "Account. Confirmed.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_15_2",
+                "type": "Speech",
+                "text": "Amount. Not enough.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_15_3",
+                "type": "Speech",
+                "text": "Why?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_15_4",
+                "type": "Choice",
+                "text": "It's because you've been putting off going to work.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_15_6"
+            },
+            {
+                "id": "d_counseling_frima_15_5",
+                "type": "Choice",
+                "text": "It's because of the economic recession.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_15_8"
+            },
+            {
+                "id": "d_counseling_frima_15_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_15_7",
+                "type": "Speech",
+                "text": "Maybe.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_15_11"
+            },
+            {
+                "id": "d_counseling_frima_15_8",
+                "type": "Speech",
+                "text": "What is that?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_15_9",
+                "type": "Speech",
+                "text": "So... not my fault?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_15_10",
+                "type": "Speech",
+                "text": "Feel better.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_15_11",
+                "type": "Narration",
+                "text": "Frima talks to me about her financial situation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_16_1",
+                "type": "Speech",
+                "text": "Boss. Scary.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_16_2",
+                "type": "Choice",
+                "text": "The clothes?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_16_4"
+            },
+            {
+                "id": "d_counseling_frima_16_3",
+                "type": "Choice",
+                "text": "Bothersome?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_16_8"
+            },
+            {
+                "id": "d_counseling_frima_16_4",
+                "type": "Speech",
+                "text": "?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_16_5",
+                "type": "Speech",
+                "text": "That. Boss. Hobby.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_16_6",
+                "type": "Speech",
+                "text": "My preference. NO.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_16_7",
+                "type": "Speech",
+                "text": "But. Not scary.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_16_12"
+            },
+            {
+                "id": "d_counseling_frima_16_8",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_16_9",
+                "type": "Speech",
+                "text": "Bingo.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_16_10",
+                "type": "Speech",
+                "text": "Boss. Noisy. Bothersome?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_16_11",
+                "type": "Speech",
+                "text": "Sleep can't. Scary.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_16_12",
+                "type": "Narration",
+                "text": "Felt uncomfortable with Frima thinking of Mustang.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_17_1",
+                "type": "Speech",
+                "text": "Get rich.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_17_2",
+                "type": "Speech",
+                "text": "How?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_17_3",
+                "type": "Choice",
+                "text": "Sleep more and cut back on your spending.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_17_5"
+            },
+            {
+                "id": "d_counseling_frima_17_4",
+                "type": "Choice",
+                "text": "Work more and make an extra coin.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_17_8"
+            },
+            {
+                "id": "d_counseling_frima_17_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_17_6",
+                "type": "Speech",
+                "text": "Yes! Smart!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_17_7",
+                "type": "Speech",
+                "text": "Genius!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_17_10"
+            },
+            {
+                "id": "d_counseling_frima_17_8",
+                "type": "Speech",
+                "text": "Too hard.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_17_9",
+                "type": "Speech",
+                "text": "Impossible.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_17_10",
+                "type": "Narration",
+                "text": "While studying the ways to become rich, Frima and I gradually drift off to sleep together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_18_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_18_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_18_3",
+                "type": "Choice",
+                "text": "Are you not feeling well?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_18_5"
+            },
+            {
+                "id": "d_counseling_frima_18_4",
+                "type": "Choice",
+                "text": "Do you not want to talk since you don't feel well?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_18_7"
+            },
+            {
+                "id": "d_counseling_frima_18_5",
+                "type": "Narration",
+                "text": "Frima shakes her head left and right.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_18_6",
+                "type": "Speech",
+                "text": "Tired.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_18_9"
+            },
+            {
+                "id": "d_counseling_frima_18_7",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_18_8",
+                "type": "Narration",
+                "text": "Frima nods her head.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_frima_18_9"
+            },
+            {
+                "id": "d_counseling_frima_18_9",
+                "type": "Speech",
+                "text": "Sleep? Yes? No?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_18_10",
+                "type": "Monologue",
+                "text": "I nodded.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_18_11",
+                "type": "Speech",
+                "text": "Thanks.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_18_12",
+                "type": "Narration",
+                "text": "Frima fell asleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_19_1",
+                "type": "Speech",
+                "text": "Raining. Can do what?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_19_2",
+                "type": "Choice",
+                "text": "Head back to bed.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_19_4"
+            },
+            {
+                "id": "d_counseling_frima_19_3",
+                "type": "Choice",
+                "text": "Go to drink a Cream Coffee.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_19_7"
+            },
+            {
+                "id": "d_counseling_frima_19_4",
+                "type": "Speech",
+                "text": "Yes.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_19_5",
+                "type": "Speech",
+                "text": "Raining, so fall asleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_19_6",
+                "type": "Speech",
+                "text": "Zzz.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_19_11"
+            },
+            {
+                "id": "d_counseling_frima_19_7",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_19_8",
+                "type": "Speech",
+                "text": "Good.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_19_9",
+                "type": "Speech",
+                "text": "But too sleepy.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_19_10",
+                "type": "Speech",
+                "text": "Sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_19_11",
+                "type": "Narration",
+                "text": "I fell asleep with Frima while listening to the rain.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_frima_20_1",
+                "type": "Speech",
+                "text": "Sofa. Soft. Hard.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_20_2",
+                "type": "Speech",
+                "text": "Which?",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_20_3",
+                "type": "Choice",
+                "text": "Why does it matter?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_frima_20_5"
+            },
+            {
+                "id": "d_counseling_frima_20_4",
+                "type": "Choice",
+                "text": "A nice and soft sofa is the only way to go.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_frima_20_7"
+            },
+            {
+                "id": "d_counseling_frima_20_5",
+                "type": "Speech",
+                "text": "Important.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_20_6",
+                "type": "Speech",
+                "text": "Sofa good, more sleep.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": "d_counseling_frima_20_10"
+            },
+            {
+                "id": "d_counseling_frima_20_7",
+                "type": "Speech",
+                "text": "Wow.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_20_8",
+                "type": "Speech",
+                "text": "You smart.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_20_9",
+                "type": "Speech",
+                "text": "Soft good.",
+                "speaker": "Frima",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_frima_20_10",
+                "type": "Narration",
+                "text": "Frima and I browsed the new sofa catalog.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

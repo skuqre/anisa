@@ -1,0 +1,1781 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_belorta_01_1",
+                "type": "Speech",
+                "text": "Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_01_2",
+                "type": "Speech",
+                "text": "Who do you like better, me or Mica?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_01_3",
+                "type": "Choice",
+                "text": "You.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_01_5"
+            },
+            {
+                "id": "d_counseling_belorta_01_4",
+                "type": "Choice",
+                "text": "Mica.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_01_8"
+            },
+            {
+                "id": "d_counseling_belorta_01_5",
+                "type": "Speech",
+                "text": "Me? Really?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_01_6",
+                "type": "Speech",
+                "text": "In that case, you're not allowed to get mad at me when I play tricks on Mica!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_01_7",
+                "type": "Speech",
+                "text": "Oh, who am I kidding? You never do, anyway! Tee-hee!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_01_12"
+            },
+            {
+                "id": "d_counseling_belorta_01_8",
+                "type": "Speech",
+                "text": "Huh, really?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_01_9",
+                "type": "Speech",
+                "text": "Since Old-Timer has a soft spot for Mica...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_01_10",
+                "type": "Speech",
+                "text": "You're willing to let me play pranks on you instead of her, right?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_01_11",
+                "type": "Speech",
+                "text": "It'll be loads of fun, I promise! Tee-hee!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_01_12",
+                "type": "Narration",
+                "text": "I try to appease Belorta, who is way too excited about her trick ideas.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_02_1",
+                "type": "Speech",
+                "text": "Old-Timer! I think I'm in trouble!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_02_2",
+                "type": "Speech",
+                "text": "I have no idea which one to eat first! Should I eat the apple-flavored Splendamin...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_02_3",
+                "type": "Speech",
+                "text": "or the strawberry-flavored Splendamin?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_02_4",
+                "type": "Speech",
+                "text": "Which one would you choose, Old-Timer?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_02_5",
+                "type": "Choice",
+                "text": "Apple.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_02_7"
+            },
+            {
+                "id": "d_counseling_belorta_02_6",
+                "type": "Choice",
+                "text": "Strawberry.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_02_9"
+            },
+            {
+                "id": "d_counseling_belorta_02_7",
+                "type": "Speech",
+                "text": "What a coincidence!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_02_8",
+                "type": "Speech",
+                "text": "I must have read your mind, because that's the one I'm already eating!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_02_11"
+            },
+            {
+                "id": "d_counseling_belorta_02_9",
+                "type": "Speech",
+                "text": "Strawberry? Didn't expect that.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_02_10",
+                "type": "Speech",
+                "text": "Boo-hoo! I thought for sure you'd choose apple. That's why I went ahead and ate it all up!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_02_11",
+                "type": "Narration",
+                "text": "I buy some more Splendamin and share with Belorta.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_03_1",
+                "type": "Speech",
+                "text": "I want to show off our firecrackers for Neon.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_03_2",
+                "type": "Speech",
+                "text": "What kind of firecracker you think is better?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_03_3",
+                "type": "Choice",
+                "text": "Big, powerful ones?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_03_5"
+            },
+            {
+                "id": "d_counseling_belorta_03_4",
+                "type": "Choice",
+                "text": "Or those pretty ones that the Carronades like so much?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_03_8"
+            },
+            {
+                "id": "d_counseling_belorta_03_5",
+                "type": "Speech",
+                "text": "Big ones?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_03_6",
+                "type": "Speech",
+                "text": "All our firecrackers go off with big BOOM!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_03_7",
+                "type": "Speech",
+                "text": "You don't seem to know much about our firecrackers, huh?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_03_11"
+            },
+            {
+                "id": "d_counseling_belorta_03_8",
+                "type": "Speech",
+                "text": "Yeah! Obviously we have to choose the gorgeous ones!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_03_9",
+                "type": "Speech",
+                "text": "They are the pride of the Carronades!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_03_10",
+                "type": "Speech",
+                "text": "Old-Timer, you know us well!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_03_11",
+                "type": "Narration",
+                "text": "Belorta tells me quite a lot about the Carronades' firecrackers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_04_1",
+                "type": "Speech",
+                "text": "I haven't seen Mica this angry in a long time!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_2",
+                "type": "Speech",
+                "text": "I should do something to put a smile back on her face. But what?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_3",
+                "type": "Choice",
+                "text": "Buy her something yummy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_04_5"
+            },
+            {
+                "id": "d_counseling_belorta_04_4",
+                "type": "Choice",
+                "text": "Stop playing tricks on her, just for one day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_04_10"
+            },
+            {
+                "id": "d_counseling_belorta_04_5",
+                "type": "Speech",
+                "text": "Something yummy?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_6",
+                "type": "Speech",
+                "text": "Hmm... Generally, I don't share my food with others.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_7",
+                "type": "Speech",
+                "text": "But, then again,\nMica is a special person to me.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_8",
+                "type": "Speech",
+                "text": "So, Old-Timer,",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_9",
+                "type": "Speech",
+                "text": "let's all go out for a great meal together, shall we?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_04_13"
+            },
+            {
+                "id": "d_counseling_belorta_04_10",
+                "type": "Speech",
+                "text": "How could you say that?!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_11",
+                "type": "Speech",
+                "text": "A day without playing tricks? Impossible!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_12",
+                "type": "Speech",
+                "text": "Forget it. I'll just treat her to a great meal.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_04_13",
+                "type": "Narration",
+                "text": "I talk with Belorta about Mica.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_05_1",
+                "type": "Speech",
+                "text": "Heeey, Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_05_2",
+                "type": "Speech",
+                "text": "I want to give Mica a good scare.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_05_3",
+                "type": "Speech",
+                "text": "Should I dress up as a ghost,",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_05_4",
+                "type": "Speech",
+                "text": "or as a Rapture?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_05_5",
+                "type": "Choice",
+                "text": "How about a Rapture ghost?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_05_7"
+            },
+            {
+                "id": "d_counseling_belorta_05_6",
+                "type": "Choice",
+                "text": "Neither one is very scary.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_05_9"
+            },
+            {
+                "id": "d_counseling_belorta_05_7",
+                "type": "Speech",
+                "text": "A Rapture ghost?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_05_8",
+                "type": "Speech",
+                "text": "Hmm... Mica isn't afraid of ghosts or Raptures on their own.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_05_12"
+            },
+            {
+                "id": "d_counseling_belorta_05_9",
+                "type": "Speech",
+                "text": "Great idea, Old-Timer.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_05_10",
+                "type": "Speech",
+                "text": "Oh, you're saying that Mica won't be afraid of either of them?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_05_11",
+                "type": "Speech",
+                "text": "Good job! You can join my tricks on Mica in the future, Old-Timer.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_05_12",
+                "type": "Narration",
+                "text": "Belorta and I come up with an idea that is sure to scare Mica.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_06_1",
+                "type": "Speech",
+                "text": "Nobody ever comes to our Toy Store. I'm so bored, Old-Timer.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_06_2",
+                "type": "Speech",
+                "text": "Maybe holding an interesting event could bring in more people.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_06_3",
+                "type": "Speech",
+                "text": "What kind of events should we hold?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_06_4",
+                "type": "Choice",
+                "text": "A two-for-one offer on toys?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_06_6"
+            },
+            {
+                "id": "d_counseling_belorta_06_5",
+                "type": "Choice",
+                "text": "A two-for-one offer on tricks?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_06_8"
+            },
+            {
+                "id": "d_counseling_belorta_06_6",
+                "type": "Speech",
+                "text": "No! That's too boring!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_06_7",
+                "type": "Speech",
+                "text": "Come up with something funnier!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_06_12"
+            },
+            {
+                "id": "d_counseling_belorta_06_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_06_9",
+                "type": "Speech",
+                "text": "You're a genius, Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_06_10",
+                "type": "Speech",
+                "text": "One trick on the way in, and another on the way out!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_06_11",
+                "type": "Speech",
+                "text": "Yeah! This is gonna be great!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_06_12",
+                "type": "Narration",
+                "text": "Belorta and I make a plan to revitalize the Toy Store.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_07_1",
+                "type": "Speech",
+                "text": "You're always so busy, Old-Timer.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_07_2",
+                "type": "Speech",
+                "text": "What do you even do on the holidays?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_07_3",
+                "type": "Choice",
+                "text": "Rest at home.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_07_5"
+            },
+            {
+                "id": "d_counseling_belorta_07_4",
+                "type": "Choice",
+                "text": "Head out and have some fun.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_07_8"
+            },
+            {
+                "id": "d_counseling_belorta_07_5",
+                "type": "Speech",
+                "text": "Come on! Seriously?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_07_6",
+                "type": "Speech",
+                "text": "Staying at home is SO boring.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_07_7",
+                "type": "Speech",
+                "text": "Let's have some fun together!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_07_11"
+            },
+            {
+                "id": "d_counseling_belorta_07_8",
+                "type": "Speech",
+                "text": "I knew it! I knew you were the outdoorsy type!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_07_9",
+                "type": "Speech",
+                "text": "Woo-hoo!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_07_10",
+                "type": "Speech",
+                "text": "Next time you have time off, let's go out and play together! Pinky swear!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_07_11",
+                "type": "Narration",
+                "text": "I have a great time with Belorta while making holiday plans.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_08_1",
+                "type": "Speech",
+                "text": "Hey, Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_08_2",
+                "type": "Speech",
+                "text": "I have a question for you.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_08_3",
+                "type": "Speech",
+                "text": "If you had the choice between getting eternal life but always being hungry...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_08_4",
+                "type": "Speech",
+                "text": "and a place where you are not hungry but can only live for a while,",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_08_5",
+                "type": "Speech",
+                "text": "What would you choose?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_08_6",
+                "type": "Choice",
+                "text": "A short life with no hunger.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_08_8"
+            },
+            {
+                "id": "d_counseling_belorta_08_7",
+                "type": "Choice",
+                "text": "An eternal, hungry life.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_08_10"
+            },
+            {
+                "id": "d_counseling_belorta_08_8",
+                "type": "Speech",
+                "text": "Aha! We're the same, Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_08_9",
+                "type": "Speech",
+                "text": "The most important thing in life is not to suffer from hunger, right?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_08_12"
+            },
+            {
+                "id": "d_counseling_belorta_08_10",
+                "type": "Speech",
+                "text": "What? Really?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_08_11",
+                "type": "Speech",
+                "text": "I thought you would make the same choice I did.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_08_12",
+                "type": "Narration",
+                "text": "Belorta tells me many horrible stories about hunger.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_09_1",
+                "type": "Speech",
+                "text": "So, what's your favorite meal?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_09_2",
+                "type": "Speech",
+                "text": "Breakfast, lunch, or dinner?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_09_3",
+                "type": "Choice",
+                "text": "The important thing is what you eat, not when you eat.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_09_5"
+            },
+            {
+                "id": "d_counseling_belorta_09_4",
+                "type": "Choice",
+                "text": "I like every meal.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_09_8"
+            },
+            {
+                "id": "d_counseling_belorta_09_5",
+                "type": "Speech",
+                "text": "Whoa! I never thought about it that way.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_09_6",
+                "type": "Speech",
+                "text": "What a brilliant idea!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_09_7",
+                "type": "Speech",
+                "text": "No matter what time I eat, I'm always happy!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_09_10"
+            },
+            {
+                "id": "d_counseling_belorta_09_8",
+                "type": "Speech",
+                "text": "I feel the same way. I was kind of hoping for a new answer, though.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_09_9",
+                "type": "Speech",
+                "text": "Anyway, it's great that we're on the same page!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_09_10",
+                "type": "Narration",
+                "text": "I have a nice and lively discussion with Belorta about food.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_10_1",
+                "type": "Speech",
+                "text": "Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_10_2",
+                "type": "Speech",
+                "text": "They say the weather is gonna be beautiful tomorrow! What kind of things should I do?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_10_3",
+                "type": "Choice",
+                "text": "Light up some firecrackers with Mica.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_10_5"
+            },
+            {
+                "id": "d_counseling_belorta_10_4",
+                "type": "Choice",
+                "text": "Play tricks on Mica.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_10_8"
+            },
+            {
+                "id": "d_counseling_belorta_10_5",
+                "type": "Speech",
+                "text": "Tomorrow morning?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_10_6",
+                "type": "Speech",
+                "text": "Hmm... Firecrackers may be fun at any time of day...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_10_7",
+                "type": "Speech",
+                "text": "But they look better at night. So, I'll wait until nighttime, then light up the sky!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_10_10"
+            },
+            {
+                "id": "d_counseling_belorta_10_8",
+                "type": "Speech",
+                "text": "You got me, Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_10_9",
+                "type": "Speech",
+                "text": "I was already planning to \"play\" with Mica tomorrow morning!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_10_10",
+                "type": "Narration",
+                "text": "I chat with Belorta for a while and look forward to a nice day tomorrow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_11_1",
+                "type": "Speech",
+                "text": "Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_11_2",
+                "type": "Speech",
+                "text": "If you could take just one thing to a deserted island,",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_11_3",
+                "type": "Speech",
+                "text": "what would it be?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_11_4",
+                "type": "Choice",
+                "text": "Sustenance is paramount, so large quantities of canned food.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_11_6"
+            },
+            {
+                "id": "d_counseling_belorta_11_5",
+                "type": "Choice",
+                "text": "I can't stand being bored, so probably a cellphone or laptop.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_11_8"
+            },
+            {
+                "id": "d_counseling_belorta_11_6",
+                "type": "Speech",
+                "text": "You put eating above all else as well?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_11_7",
+                "type": "Speech",
+                "text": "You and I think alike!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_11_10"
+            },
+            {
+                "id": "d_counseling_belorta_11_8",
+                "type": "Speech",
+                "text": "But what would happen when you got hungry?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_11_9",
+                "type": "Speech",
+                "text": "You can't eat a laptop...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_11_10",
+                "type": "Narration",
+                "text": "Belorta and I talk about our desert island survival strategies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_12_1",
+                "type": "Speech",
+                "text": "Hey, how do you relieve stress?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_12_2",
+                "type": "Choice",
+                "text": "Eating something delicious.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_12_4"
+            },
+            {
+                "id": "d_counseling_belorta_12_3",
+                "type": "Choice",
+                "text": "I meditate.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_12_8"
+            },
+            {
+                "id": "d_counseling_belorta_12_4",
+                "type": "Speech",
+                "text": "Too right!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_12_5",
+                "type": "Speech",
+                "text": "Eating is the ultimate stress reliever.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_12_6",
+                "type": "Speech",
+                "text": "Whenever you're starting to feel the pressure, give me a call.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_12_7",
+                "type": "Speech",
+                "text": "We can go hog wild on some delicious grub together!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_12_10"
+            },
+            {
+                "id": "d_counseling_belorta_12_8",
+                "type": "Speech",
+                "text": "Sounds kinda boring...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_12_9",
+                "type": "Speech",
+                "text": "I feel like it'd only add more stress on top of how you're already feeling.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_12_10",
+                "type": "Narration",
+                "text": "Belorta and I talk about ways to relieve stress.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_13_1",
+                "type": "Speech",
+                "text": "Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_13_2",
+                "type": "Speech",
+                "text": "Do you prefer night or day?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_13_3",
+                "type": "Choice",
+                "text": "Day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_13_5"
+            },
+            {
+                "id": "d_counseling_belorta_13_4",
+                "type": "Choice",
+                "text": "Night.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_13_7"
+            },
+            {
+                "id": "d_counseling_belorta_13_5",
+                "type": "Speech",
+                "text": "Daytime can be nice, but",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_13_6",
+                "type": "Speech",
+                "text": "I prefer nighttime, because that's when you can set off fireworks!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_13_10"
+            },
+            {
+                "id": "d_counseling_belorta_13_7",
+                "type": "Speech",
+                "text": "Great minds think alike!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_13_8",
+                "type": "Speech",
+                "text": "I prefer nighttime as well.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_13_9",
+                "type": "Speech",
+                "text": "That's when you can set off fireworks!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_13_10",
+                "type": "Narration",
+                "text": "Belorta and I discuss the pros and cons of day and night.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_14_1",
+                "type": "Speech",
+                "text": "Are there any foods that you dislike?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_14_2",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_14_4"
+            },
+            {
+                "id": "d_counseling_belorta_14_3",
+                "type": "Choice",
+                "text": "I'm not big on vegetables.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_14_7"
+            },
+            {
+                "id": "d_counseling_belorta_14_4",
+                "type": "Speech",
+                "text": "Yep, you're a foodie just like me.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_14_5",
+                "type": "Speech",
+                "text": "It doesn't matter what it is, it all tastes great to us.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_14_6",
+                "type": "Speech",
+                "text": "Two human garbage disposals, that's what we are!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_14_9"
+            },
+            {
+                "id": "d_counseling_belorta_14_7",
+                "type": "Speech",
+                "text": "I was surprised to hear that you're a bit of a picky eater.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_14_8",
+                "type": "Speech",
+                "text": "Vegetables can be delicious if you give them a chance!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_14_9",
+                "type": "Narration",
+                "text": "Belorta and I talk about food.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_15_1",
+                "type": "Speech",
+                "text": "Food that you've cooked yourself",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_15_2",
+                "type": "Speech",
+                "text": "always tastes better. I wonder why...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_15_3",
+                "type": "Speech",
+                "text": "Are you a good cook, Old-Timer?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_15_4",
+                "type": "Choice",
+                "text": "Cooking is a hobby for me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_15_6"
+            },
+            {
+                "id": "d_counseling_belorta_15_5",
+                "type": "Choice",
+                "text": "I can barely boil water.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_15_9"
+            },
+            {
+                "id": "d_counseling_belorta_15_6",
+                "type": "Speech",
+                "text": "All right! You should cook up something special for me then!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_15_7",
+                "type": "Speech",
+                "text": "My own personal chef!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_15_8",
+                "type": "Speech",
+                "text": "I can't wait to see what you make me.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_15_11"
+            },
+            {
+                "id": "d_counseling_belorta_15_9",
+                "type": "Speech",
+                "text": "That makes two of us.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_15_10",
+                "type": "Speech",
+                "text": "How about you and I learn together?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_15_11",
+                "type": "Narration",
+                "text": "Belorta and I searched for mouth-watering recipes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_16_1",
+                "type": "Speech",
+                "text": "Old-Timer! Old-Timer!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_16_2",
+                "type": "Speech",
+                "text": "Mint chocolate is all the rage these days.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_16_3",
+                "type": "Speech",
+                "text": "Do you like it?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_16_4",
+                "type": "Choice",
+                "text": "I'm a mint chocolate fanatic.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_16_6"
+            },
+            {
+                "id": "d_counseling_belorta_16_5",
+                "type": "Choice",
+                "text": "I'm not a huge fan.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_16_9"
+            },
+            {
+                "id": "d_counseling_belorta_16_6",
+                "type": "Speech",
+                "text": "I knew you'd say that. You're just like me, there's nothing you dislike!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_16_7",
+                "type": "Speech",
+                "text": "Mica and I had some mint chocolate ice cream.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_16_8",
+                "type": "Speech",
+                "text": "It was absolutely delicious.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_16_11"
+            },
+            {
+                "id": "d_counseling_belorta_16_9",
+                "type": "Speech",
+                "text": "What?! No way!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_16_10",
+                "type": "Speech",
+                "text": "There's nothing better than mint chocolate ice cream!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_16_11",
+                "type": "Narration",
+                "text": "Belorta and I have a conversation about mint chocolate.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_17_1",
+                "type": "Speech",
+                "text": "What are you in the mood for?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_17_2",
+                "type": "Choice",
+                "text": "Setting off fireworks together.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_17_4"
+            },
+            {
+                "id": "d_counseling_belorta_17_3",
+                "type": "Choice",
+                "text": "Having a nice meal together.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_17_7"
+            },
+            {
+                "id": "d_counseling_belorta_17_4",
+                "type": "Speech",
+                "text": "Hehehe, I was thinking that as well.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_17_5",
+                "type": "Speech",
+                "text": "We're gonna have a blast!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_17_6",
+                "type": "Speech",
+                "text": "I'm gonna show you some incredible fireworks.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_17_10"
+            },
+            {
+                "id": "d_counseling_belorta_17_7",
+                "type": "Speech",
+                "text": "I'd love to, but I just ate.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_17_8",
+                "type": "Speech",
+                "text": "Although I could eat more if I put my mind to it.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_17_9",
+                "type": "Speech",
+                "text": "How about we watch some fireworks while I let everything digest?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_17_10",
+                "type": "Narration",
+                "text": "Belorta and I figure out which fireworks to set off.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_18_1",
+                "type": "Speech",
+                "text": "Hey, Old-Timer.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_18_2",
+                "type": "Speech",
+                "text": "I'm thinking of creating a bucket list.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_18_3",
+                "type": "Speech",
+                "text": "What's on yours?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_18_4",
+                "type": "Choice",
+                "text": "To try new foods all around the world.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_18_6"
+            },
+            {
+                "id": "d_counseling_belorta_18_5",
+                "type": "Choice",
+                "text": "Travel the world after reclaiming the surface.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_18_9"
+            },
+            {
+                "id": "d_counseling_belorta_18_6",
+                "type": "Speech",
+                "text": "Oh my gosh, just thinking about that gets me pumped!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_18_7",
+                "type": "Speech",
+                "text": "I'm going to add that too.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_18_8",
+                "type": "Speech",
+                "text": "We can go on a culinary world tour together!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_18_11"
+            },
+            {
+                "id": "d_counseling_belorta_18_9",
+                "type": "Speech",
+                "text": "Hmm... I'm not super interested in travel.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_18_10",
+                "type": "Speech",
+                "text": "Unless it's traveling to eat, that is!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_18_11",
+                "type": "Narration",
+                "text": "Belorta and I compare and contrast our bucket lists.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_19_1",
+                "type": "Speech",
+                "text": "Mica and I came up with nicknames for each other today.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_19_2",
+                "type": "Speech",
+                "text": "If you were to give the two of us a nickname,",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_19_3",
+                "type": "Speech",
+                "text": "what would you call us?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_19_4",
+                "type": "Choice",
+                "text": "Baby pig sisters.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_19_6"
+            },
+            {
+                "id": "d_counseling_belorta_19_5",
+                "type": "Choice",
+                "text": "Firecrackers",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_19_8"
+            },
+            {
+                "id": "d_counseling_belorta_19_6",
+                "type": "Speech",
+                "text": "Hmmm... I may be a baby pig, but Mica isn't...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_19_7",
+                "type": "Speech",
+                "text": "I'll ask Mica!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_19_11"
+            },
+            {
+                "id": "d_counseling_belorta_19_8",
+                "type": "Speech",
+                "text": "Not bad!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_19_9",
+                "type": "Speech",
+                "text": "That fits Mica and me to a T!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_19_10",
+                "type": "Speech",
+                "text": "I've got to go tell Mica!",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_19_11",
+                "type": "Narration",
+                "text": "Belorta and I spend time coming up with more nicknames.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_belorta_20_1",
+                "type": "Speech",
+                "text": "Can I ask you a question?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_20_2",
+                "type": "Speech",
+                "text": "How would you feel if your close friend died?",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_20_3",
+                "type": "Choice",
+                "text": "Mica will always be with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_belorta_20_5"
+            },
+            {
+                "id": "d_counseling_belorta_20_4",
+                "type": "Choice",
+                "text": "I would feel as if a part of me died as well.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_belorta_20_8"
+            },
+            {
+                "id": "d_counseling_belorta_20_5",
+                "type": "Speech",
+                "text": "I certainly hope so.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_20_6",
+                "type": "Speech",
+                "text": "I'd be bored stiff without Mica.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_20_7",
+                "type": "Speech",
+                "text": "I'm gonna go hang out with her today.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": "d_counseling_belorta_20_10"
+            },
+            {
+                "id": "d_counseling_belorta_20_8",
+                "type": "Speech",
+                "text": "I don't think that would make Mica very happy...",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_20_9",
+                "type": "Speech",
+                "text": "I'd rather not think about it.",
+                "speaker": "Belorta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_belorta_20_10",
+                "type": "Narration",
+                "text": "Belorta and I have a conversation about death.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

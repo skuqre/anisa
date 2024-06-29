@@ -1,0 +1,2037 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_redhood_01_1",
+                "type": "Speech",
+                "text": "There you are, Handsome.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_2",
+                "type": "Speech",
+                "text": "Now that you're here, let's kick out the jams.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_3",
+                "type": "Monologue",
+                "text": "Red Hood presses play on her cassette player.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_4",
+                "type": "Speech",
+                "text": "Da dada\u266a",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_5",
+                "type": "Choice",
+                "text": "Aren't you sick of this song by now?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_01_7"
+            },
+            {
+                "id": "d_counseling_redhood_01_6",
+                "type": "Choice",
+                "text": "Hum along to the song with Red Hood.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_01_10"
+            },
+            {
+                "id": "d_counseling_redhood_01_7",
+                "type": "Speech",
+                "text": "This isn't just some ordinary song.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_8",
+                "type": "Speech",
+                "text": "This is a record of my life.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_9",
+                "type": "Speech",
+                "text": "Listen to it carefully.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_01_14"
+            },
+            {
+                "id": "d_counseling_redhood_01_10",
+                "type": "Speech",
+                "text": "Wow, you've memorized the melody that quickly?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_11",
+                "type": "Speech",
+                "text": "You just made my day.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_12",
+                "type": "Speech",
+                "text": "Oooh, my favorite part is coming up!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_01_13",
+                "type": "Speech",
+                "text": "La de da\u266a",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_01_14"
+            },
+            {
+                "id": "d_counseling_redhood_01_14",
+                "type": "Narration",
+                "text": "Red Hood and I listen intently to the music together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_02_1",
+                "type": "Speech",
+                "text": "Which do you think is more important:",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_02_2",
+                "type": "Speech",
+                "text": "the past or the future?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_02_3",
+                "type": "Choice",
+                "text": "The past.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_02_5"
+            },
+            {
+                "id": "d_counseling_redhood_02_4",
+                "type": "Choice",
+                "text": "The future.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_02_8"
+            },
+            {
+                "id": "d_counseling_redhood_02_5",
+                "type": "Speech",
+                "text": "It makes sense that you'd pick that.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_02_6",
+                "type": "Speech",
+                "text": "That's fine, so long as you don't allow it to constrain you in the present.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_02_7",
+                "type": "Speech",
+                "text": "After all, the past should remain in the past.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_02_11"
+            },
+            {
+                "id": "d_counseling_redhood_02_8",
+                "type": "Speech",
+                "text": "Ah, you truly are a wonderful specimen,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_02_9",
+                "type": "Speech",
+                "text": "both physically and mentally.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_02_10",
+                "type": "Speech",
+                "text": "I hope you can always boldly go forth with your head held high, looking towards the future.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_02_11"
+            },
+            {
+                "id": "d_counseling_redhood_02_11",
+                "type": "Narration",
+                "text": "Discussed the past and future with Red Hood for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_03_1",
+                "type": "Speech",
+                "text": "You know what?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_03_2",
+                "type": "Speech",
+                "text": "I kinda miss...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_03_3",
+                "type": "Choice",
+                "text": "Me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_03_5"
+            },
+            {
+                "id": "d_counseling_redhood_03_4",
+                "type": "Choice",
+                "text": "Your friends from before?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_03_9"
+            },
+            {
+                "id": "d_counseling_redhood_03_5",
+                "type": "Speech",
+                "text": "Pssh.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_03_6",
+                "type": "Speech",
+                "text": "You're nothing if not confident.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_03_7",
+                "type": "Speech",
+                "text": "It's no wonder why Rapi had such feelings for you.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_03_8",
+                "type": "Speech",
+                "text": "Ha ha.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_03_13"
+            },
+            {
+                "id": "d_counseling_redhood_03_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_03_10",
+                "type": "Speech",
+                "text": "Come on.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_03_11",
+                "type": "Speech",
+                "text": "Try and have a little tact.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_03_12",
+                "type": "Speech",
+                "text": "In situations like this, you should feign ignorance.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_03_13"
+            },
+            {
+                "id": "d_counseling_redhood_03_13",
+                "type": "Narration",
+                "text": "Discussed some easier topics with Red Hood for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_04_1",
+                "type": "Speech",
+                "text": "I'm bored out of my gourd.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_04_2",
+                "type": "Speech",
+                "text": "Waddya say you and I get frisky?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_04_3",
+                "type": "Choice",
+                "text": "Er, isn't that a bit...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_04_5"
+            },
+            {
+                "id": "d_counseling_redhood_04_4",
+                "type": "Choice",
+                "text": "I'm down.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_04_9"
+            },
+            {
+                "id": "d_counseling_redhood_04_5",
+                "type": "Speech",
+                "text": "I'm only joking.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_04_6",
+                "type": "Speech",
+                "text": "You remind me of a friend I had a long time ago.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_04_7",
+                "type": "Speech",
+                "text": "Man, the fun I had teasing her...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_04_8",
+                "type": "Speech",
+                "text": "... I wonder how she's doing right about now?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_04_12"
+            },
+            {
+                "id": "d_counseling_redhood_04_9",
+                "type": "Speech",
+                "text": "I'm only joking.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_04_10",
+                "type": "Speech",
+                "text": "If I laid a finger on you, Rapi would never let me hear the end of it.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_04_11",
+                "type": "Speech",
+                "text": "I may be many things, but disloyal is not one of them.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_04_12"
+            },
+            {
+                "id": "d_counseling_redhood_04_12",
+                "type": "Narration",
+                "text": "Red Hood and I have a pleasant chat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_05_1",
+                "type": "Speech",
+                "text": "Hey, Handsome.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_05_2",
+                "type": "Speech",
+                "text": "What do you think is the most important quality of a good Commander?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_05_3",
+                "type": "Choice",
+                "text": "Leadership, naturally.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_05_5"
+            },
+            {
+                "id": "d_counseling_redhood_05_4",
+                "type": "Choice",
+                "text": "A sense of humor, I guess?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_05_7"
+            },
+            {
+                "id": "d_counseling_redhood_05_5",
+                "type": "Speech",
+                "text": "A textbook answer, but nothing more than that.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_05_6",
+                "type": "Speech",
+                "text": "My former boss would have never given such a dry answer.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_05_10"
+            },
+            {
+                "id": "d_counseling_redhood_05_7",
+                "type": "Speech",
+                "text": "Ha! That's a new one.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_05_8",
+                "type": "Speech",
+                "text": "If my former boss was still alive,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_05_9",
+                "type": "Speech",
+                "text": "you and he would get along like a house on fire.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_05_10"
+            },
+            {
+                "id": "d_counseling_redhood_05_10",
+                "type": "Narration",
+                "text": "Red Hood and I discuss the qualities a commander should possess.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_06_1",
+                "type": "Speech",
+                "text": "Sometimes, I have this nagging feeling...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_2",
+                "type": "Self",
+                "text": "What kind of feeling?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_3",
+                "type": "Speech",
+                "text": "My time has already come and gone,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_4",
+                "type": "Speech",
+                "text": "and yet, I still exist in this world.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_5",
+                "type": "Speech",
+                "text": "It's a strange thought, and whenever it pops up in my mind, I'm a bit unsettled.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_6",
+                "type": "Choice",
+                "text": "I think that's a perfectly normal reaction.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_06_8"
+            },
+            {
+                "id": "d_counseling_redhood_06_7",
+                "type": "Choice",
+                "text": "Shouldn't you be excited at having a new lease on life?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_06_11"
+            },
+            {
+                "id": "d_counseling_redhood_06_8",
+                "type": "Speech",
+                "text": "Yeah? I thought you'd be weirded out by it as well.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_9",
+                "type": "Speech",
+                "text": "Thanks for understanding.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_10",
+                "type": "Speech",
+                "text": "Nevertheless, I still intend to give this body back to Rapi ASAP, so don't worry about that.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_06_14"
+            },
+            {
+                "id": "d_counseling_redhood_06_11",
+                "type": "Speech",
+                "text": "Hey, how could you say that? Rapi wouldn't be too happy hearing that.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_12",
+                "type": "Speech",
+                "text": "And it was you who told me to get your oh-so-precious Rapi back to you as soon as possible.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_06_13",
+                "type": "Speech",
+                "text": "There's a time for joking around, and there's a time to be serious.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_06_14"
+            },
+            {
+                "id": "d_counseling_redhood_06_14",
+                "type": "Narration",
+                "text": "Red Hood and I continue to discuss the intricacies of emotions for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_07_1",
+                "type": "Speech",
+                "text": "I'm curious:",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_07_2",
+                "type": "Speech",
+                "text": "Is Rapunzel still fixated on... you know what?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_07_3",
+                "type": "Choice",
+                "text": "I'm not sure what you're alluding to.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_07_5"
+            },
+            {
+                "id": "d_counseling_redhood_07_4",
+                "type": "Choice",
+                "text": "More than ever.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_07_9"
+            },
+            {
+                "id": "d_counseling_redhood_07_5",
+                "type": "Speech",
+                "text": "... Handsome.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_07_6",
+                "type": "Speech",
+                "text": "Stop pretending.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_07_7",
+                "type": "Speech",
+                "text": "You know what I'm talking about. When a man and a woman... you know...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_07_8",
+                "type": "Speech",
+                "text": "Er...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_07_13"
+            },
+            {
+                "id": "d_counseling_redhood_07_9",
+                "type": "Speech",
+                "text": "Some things never change.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_07_10",
+                "type": "Speech",
+                "text": "On that note,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_07_11",
+                "type": "Speech",
+                "text": "any interesting new books on that particular subject?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_07_12",
+                "type": "Speech",
+                "text": "I'd like some recommendations... Uh, I mean...!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_07_13"
+            },
+            {
+                "id": "d_counseling_redhood_07_13",
+                "type": "Narration",
+                "text": "Red Hood becomes bashful and clams up for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_08_1",
+                "type": "Speech",
+                "text": "Say,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_08_2",
+                "type": "Speech",
+                "text": "is our favorite swordsman still living life to the hilt?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_08_3",
+                "type": "Choice",
+                "text": "Very much so, all with the help of alcohol.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_08_5"
+            },
+            {
+                "id": "d_counseling_redhood_08_4",
+                "type": "Choice",
+                "text": "Maybe? Not sure.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_08_8"
+            },
+            {
+                "id": "d_counseling_redhood_08_5",
+                "type": "Speech",
+                "text": "Ha, good grief.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_08_6",
+                "type": "Speech",
+                "text": "It sometimes looks like she's more of a professional boozer than a swordsman.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_08_7",
+                "type": "Speech",
+                "text": "Just be sure to check in with her once in a while. Don't let her spiral into addiction.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_08_11"
+            },
+            {
+                "id": "d_counseling_redhood_08_8",
+                "type": "Speech",
+                "text": "It seems you don't know too much about her whereabouts.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_08_9",
+                "type": "Speech",
+                "text": "So she's still a bona fide walkabout?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_08_10",
+                "type": "Speech",
+                "text": "Fair enough. That way of life suits her well.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_08_11"
+            },
+            {
+                "id": "d_counseling_redhood_08_11",
+                "type": "Narration",
+                "text": "Talked about Scarlet with Red Hood for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_09_1",
+                "type": "Speech",
+                "text": "How's my buddy, Snow White?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_09_2",
+                "type": "Speech",
+                "text": "Is she still as adorable as before?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_09_3",
+                "type": "Choice",
+                "text": "Utterly irresistible.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_09_5"
+            },
+            {
+                "id": "d_counseling_redhood_09_4",
+                "type": "Choice",
+                "text": "The relationship between you two is... rather unusual.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_09_9"
+            },
+            {
+                "id": "d_counseling_redhood_09_5",
+                "type": "Speech",
+                "text": "Ha, she really is, isn't she?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_09_6",
+                "type": "Speech",
+                "text": "I'm going to tell you something that I haven't told anyone else.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_09_7",
+                "type": "Speech",
+                "text": "There's no better feeling than getting her in a solid headlock with only one arm.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_09_8",
+                "type": "Speech",
+                "text": "Her reaction is simply adorable.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_09_12"
+            },
+            {
+                "id": "d_counseling_redhood_09_9",
+                "type": "Speech",
+                "text": "Huh? What's so strange about it?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_09_10",
+                "type": "Speech",
+                "text": "She's as cute as a button! No one can deny that.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_09_11",
+                "type": "Speech",
+                "text": "Oh, you know what? There was this one time...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_09_12"
+            },
+            {
+                "id": "d_counseling_redhood_09_12",
+                "type": "Narration",
+                "text": "Red Hood goes on to tell various stories about Snow White, but it feels like she is describing a completely different person.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_10_1",
+                "type": "Speech",
+                "text": "Tell me something.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_2",
+                "type": "Speech",
+                "text": "Do you ask a different Nikke out every day?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_3",
+                "type": "Choice",
+                "text": "Yeah.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_10_5"
+            },
+            {
+                "id": "d_counseling_redhood_10_4",
+                "type": "Choice",
+                "text": "Not necessarily.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_10_9"
+            },
+            {
+                "id": "d_counseling_redhood_10_5",
+                "type": "Speech",
+                "text": "Oh, so you just pick the Nikke you want?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_6",
+                "type": "Speech",
+                "text": "And you switch it up each day?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_7",
+                "type": "Speech",
+                "text": "I never realized that before. You're kinda creepy.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_8",
+                "type": "Speech",
+                "text": "I guess that's one of the privileges of being a commander. I'm so jealous!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_10_14"
+            },
+            {
+                "id": "d_counseling_redhood_10_9",
+                "type": "Speech",
+                "text": "So how do you decide who to go with?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_10",
+                "type": "Self",
+                "text": "I can't tell you the details.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_11",
+                "type": "Speech",
+                "text": "Oh? Sounds awfully suspicious to me.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_12",
+                "type": "Speech",
+                "text": "I think you just pick whichever Nikke you're jonesing after and ask them out.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_10_13",
+                "type": "Speech",
+                "text": "That way you can satisfy your base desires and have your way with them, am I right?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_10_14"
+            },
+            {
+                "id": "d_counseling_redhood_10_14",
+                "type": "Narration",
+                "text": "Red Hood teases me for quite some time with a rakish grin on her face.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_11_1",
+                "type": "Speech",
+                "text": "I hope Dorothy",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_11_2",
+                "type": "Speech",
+                "text": "doesn't step out of line.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_11_3",
+                "type": "Choice",
+                "text": "I'll do my best to persuade her whenever I can.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_11_5"
+            },
+            {
+                "id": "d_counseling_redhood_11_4",
+                "type": "Choice",
+                "text": "Bit late for that, isn't it?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_11_8"
+            },
+            {
+                "id": "d_counseling_redhood_11_5",
+                "type": "Speech",
+                "text": "I knew I could count on you.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_11_6",
+                "type": "Speech",
+                "text": "Thanks, Handsome.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_11_7",
+                "type": "Speech",
+                "text": "I hope you can continue to look after her on my behalf.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_11_12"
+            },
+            {
+                "id": "d_counseling_redhood_11_8",
+                "type": "Speech",
+                "text": "Mmm...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_11_9",
+                "type": "Speech",
+                "text": "I suppose you're right.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_11_10",
+                "type": "Speech",
+                "text": "Things do seem to have reached the point of no return.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_11_11",
+                "type": "Speech",
+                "text": "*Sigh* What a mess.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_11_12"
+            },
+            {
+                "id": "d_counseling_redhood_11_12",
+                "type": "Narration",
+                "text": "Red Hood and I discuss Dorothy for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_12_1",
+                "type": "Speech",
+                "text": "Hey,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_12_2",
+                "type": "Speech",
+                "text": "guess who made this weapon I'm using?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_12_3",
+                "type": "Choice",
+                "text": "Dorothy?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_12_5"
+            },
+            {
+                "id": "d_counseling_redhood_12_4",
+                "type": "Choice",
+                "text": "Snow White?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_12_9"
+            },
+            {
+                "id": "d_counseling_redhood_12_5",
+                "type": "Speech",
+                "text": "Pssh, are you kidding?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_12_6",
+                "type": "Speech",
+                "text": "The lady who's always bloviating about how \"barbaric\"",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_12_7",
+                "type": "Speech",
+                "text": "it is to fight with your hands?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_12_8",
+                "type": "Speech",
+                "text": "You think she, of all people, would craft a weapon with her own hands? You should tell that joke to any Raptures we pass by. They'll die of laughter.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_12_13"
+            },
+            {
+                "id": "d_counseling_redhood_12_9",
+                "type": "Speech",
+                "text": "Correct yet again. Maybe that was a softball.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_12_10",
+                "type": "Speech",
+                "text": "I still remember her face when I asked her to make me an automatic drill.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_12_11",
+                "type": "Speech",
+                "text": "She had no idea what I was talking about. Completely dumbfounded.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_12_12",
+                "type": "Speech",
+                "text": "It was adorable. Haha.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_12_13"
+            },
+            {
+                "id": "d_counseling_redhood_12_13",
+                "type": "Narration",
+                "text": "Red Hood and I discuss weapons for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_13_1",
+                "type": "Speech",
+                "text": "You wanna know what the first book I gave Rapunzel was called?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_13_2",
+                "type": "Choice",
+                "text": "Blinding Passion.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_13_4"
+            },
+            {
+                "id": "d_counseling_redhood_13_3",
+                "type": "Choice",
+                "text": "Eager & Insatiable.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_13_7"
+            },
+            {
+                "id": "d_counseling_redhood_13_4",
+                "type": "Speech",
+                "text": "What the...?!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_13_5",
+                "type": "Speech",
+                "text": "How in the world did you guess that?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_13_6",
+                "type": "Speech",
+                "text": "You must be an avid collector of this kind of material.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_13_11"
+            },
+            {
+                "id": "d_counseling_redhood_13_7",
+                "type": "Speech",
+                "text": "What the...?!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_13_8",
+                "type": "Speech",
+                "text": "There's a book called that? That's a heck of a title. Very promising.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_13_9",
+                "type": "Speech",
+                "text": "What's it about? Tell me!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_13_10",
+                "type": "Speech",
+                "text": "Out with it!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_13_11"
+            },
+            {
+                "id": "d_counseling_redhood_13_11",
+                "type": "Narration",
+                "text": "Red Hood and I discuss adult books for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_14_1",
+                "type": "Monologue",
+                "text": "Red Hood is listening to her cassette player, as she usually does.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_14_2",
+                "type": "Speech",
+                "text": "I love the sense of ceremony that comes with listening to music on a cassette recorder.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_14_3",
+                "type": "Speech",
+                "text": "Don't you agree?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_14_4",
+                "type": "Choice",
+                "text": "It's more convenient with a cellphone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_14_6"
+            },
+            {
+                "id": "d_counseling_redhood_14_5",
+                "type": "Choice",
+                "text": "I prefer vinyl records.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_14_9"
+            },
+            {
+                "id": "d_counseling_redhood_14_6",
+                "type": "Speech",
+                "text": "Ugh, you're such a philistine.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_14_7",
+                "type": "Speech",
+                "text": "The audio would be way too sterile if you play it over a cellphone.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_14_8",
+                "type": "Speech",
+                "text": "It ruins the fun and thrill of listening to music.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_14_12"
+            },
+            {
+                "id": "d_counseling_redhood_14_9",
+                "type": "Speech",
+                "text": "Wow, no kidding?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_14_10",
+                "type": "Speech",
+                "text": "I didn't realize you were so refined.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_14_11",
+                "type": "Speech",
+                "text": "You remind of me Dorothy, haha.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_14_12"
+            },
+            {
+                "id": "d_counseling_redhood_14_12",
+                "type": "Narration",
+                "text": "Discussed music with Red Hood for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_15_1",
+                "type": "Speech",
+                "text": "Whenever I see rabble-rousers or people with glasses,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_15_2",
+                "type": "Speech",
+                "text": "I'm already reminded of Scarlet and Dorothy as they used to be.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_15_3",
+                "type": "Choice",
+                "text": "Did they fight a lot?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_15_5"
+            },
+            {
+                "id": "d_counseling_redhood_15_4",
+                "type": "Choice",
+                "text": "Did they get along?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_15_8"
+            },
+            {
+                "id": "d_counseling_redhood_15_5",
+                "type": "Speech",
+                "text": "Their feuding was the stuff of legend.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_15_6",
+                "type": "Speech",
+                "text": "They'd spend entire days finding new ways to push each other's buttons.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_15_7",
+                "type": "Speech",
+                "text": "I'd watch them, engrossed entirely, and hours would pass by without me even noticing, ha.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_15_13"
+            },
+            {
+                "id": "d_counseling_redhood_15_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_15_9",
+                "type": "Speech",
+                "text": "Has anyone ever told you that you have no clue how to read the room?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_15_10",
+                "type": "Self",
+                "text": "No.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_15_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_15_12",
+                "type": "Speech",
+                "text": "I somehow seriously doubt that.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_15_13"
+            },
+            {
+                "id": "d_counseling_redhood_15_13",
+                "type": "Narration",
+                "text": "Chatted with Red Hood for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_16_1",
+                "type": "Speech",
+                "text": "Hey, guess what I'm describing:",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_16_2",
+                "type": "Speech",
+                "text": "It's white and supple, and feels tender to the touch.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_16_3",
+                "type": "Choice",
+                "text": "Cotton?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_16_5"
+            },
+            {
+                "id": "d_counseling_redhood_16_4",
+                "type": "Choice",
+                "text": "Snow?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_16_9"
+            },
+            {
+                "id": "d_counseling_redhood_16_5",
+                "type": "Speech",
+                "text": "Sorry, wrong answer.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_16_6",
+                "type": "Speech",
+                "text": "It's Snow White when she's sleeping.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_16_7",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_16_8",
+                "type": "Speech",
+                "text": "Gosh, I miss her more than anything.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_16_13"
+            },
+            {
+                "id": "d_counseling_redhood_16_9",
+                "type": "Speech",
+                "text": "Close, but no cigar.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_16_10",
+                "type": "Speech",
+                "text": "It's Snow White when she's sleeping.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_16_11",
+                "type": "Speech",
+                "text": "Every once in a while, I find myself thinking about her.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_16_12",
+                "type": "Speech",
+                "text": "I really do miss her more than anything.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_16_13"
+            },
+            {
+                "id": "d_counseling_redhood_16_13",
+                "type": "Narration",
+                "text": "Red Hood and I absent-mindedly stare up at the sky for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_17_1",
+                "type": "Speech",
+                "text": "You may find this hard to believe,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_2",
+                "type": "Speech",
+                "text": "but Dorothy had a cute side to her as well.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_3",
+                "type": "Choice",
+                "text": "Quit pulling my leg.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_17_5"
+            },
+            {
+                "id": "d_counseling_redhood_17_4",
+                "type": "Choice",
+                "text": "Are we thinking of the same Dorothy?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_17_10"
+            },
+            {
+                "id": "d_counseling_redhood_17_5",
+                "type": "Speech",
+                "text": "I'm not joking. I mean it.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_6",
+                "type": "Speech",
+                "text": "For example, how mad she'd get if you called her \"Snooty\",",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_7",
+                "type": "Speech",
+                "text": "or the way she pretended to be indifferent about something, when everyone else could clearly see how upset she was.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_8",
+                "type": "Speech",
+                "text": "Actually...",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_9",
+                "type": "Speech",
+                "text": "Now that I think about it, maybe those can't really be filed under \"cute\".",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_17_14"
+            },
+            {
+                "id": "d_counseling_redhood_17_10",
+                "type": "Speech",
+                "text": "Of course we are!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_11",
+                "type": "Speech",
+                "text": "There's only one true fair lady, and that's our dear Snooty Dorothy.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_12",
+                "type": "Speech",
+                "text": "She looks radically different from how she did in the past,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_17_13",
+                "type": "Speech",
+                "text": "so I can't blame you finding it hard to imagine another side of her.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_17_14"
+            },
+            {
+                "id": "d_counseling_redhood_17_14",
+                "type": "Narration",
+                "text": "Red Hood tells me more about how Dorothy differed in the past.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_18_1",
+                "type": "Speech",
+                "text": "Hello, Commander.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_18_2",
+                "type": "Speech",
+                "text": "Long time no see.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_18_3",
+                "type": "Choice",
+                "text": "... Rapi?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_18_5"
+            },
+            {
+                "id": "d_counseling_redhood_18_4",
+                "type": "Choice",
+                "text": "Red Hood, are you trying to sound like Rapi?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_18_9"
+            },
+            {
+                "id": "d_counseling_redhood_18_5",
+                "type": "Speech",
+                "text": "Hey, come on, Handsome,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_18_6",
+                "type": "Speech",
+                "text": "no need to look so down in the dumps.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_18_7",
+                "type": "Speech",
+                "text": "I was only playing a little practical joke.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_18_8",
+                "type": "Speech",
+                "text": "Chin up, okay?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_18_13"
+            },
+            {
+                "id": "d_counseling_redhood_18_9",
+                "type": "Speech",
+                "text": "Ha, darn!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_18_10",
+                "type": "Speech",
+                "text": "You saw right through me.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_18_11",
+                "type": "Speech",
+                "text": "You really live up to that commander title.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_18_12",
+                "type": "Speech",
+                "text": "I'm impressed.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_18_13"
+            },
+            {
+                "id": "d_counseling_redhood_18_13",
+                "type": "Narration",
+                "text": "I suddenly find myself missing Rapi more than ever.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_19_1",
+                "type": "Speech",
+                "text": "What do you think about old antiques,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_19_2",
+                "type": "Speech",
+                "text": "like this cassette player, for instance?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_19_3",
+                "type": "Choice",
+                "text": "I think they're cool.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_19_5"
+            },
+            {
+                "id": "d_counseling_redhood_19_4",
+                "type": "Choice",
+                "text": "I think they're old.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_19_8"
+            },
+            {
+                "id": "d_counseling_redhood_19_5",
+                "type": "Speech",
+                "text": "Not a bad answer,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_19_6",
+                "type": "Speech",
+                "text": "Handsome!",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_19_7",
+                "type": "Speech",
+                "text": "I've always preferred things with a history as well.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_19_10"
+            },
+            {
+                "id": "d_counseling_redhood_19_8",
+                "type": "Speech",
+                "text": "Bah. What a boring answer.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_19_9",
+                "type": "Speech",
+                "text": "It's an antique. Of course it's going to be old.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_19_10"
+            },
+            {
+                "id": "d_counseling_redhood_19_10",
+                "type": "Narration",
+                "text": "Red Hood and I exchange our opinions on antiques.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_redhood_20_1",
+                "type": "Speech",
+                "text": "What's your stance on past achievements?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_2",
+                "type": "Speech",
+                "text": "Do you think they have any real meaning?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_3",
+                "type": "Choice",
+                "text": "I think they hold a lot of value.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_redhood_20_5"
+            },
+            {
+                "id": "d_counseling_redhood_20_4",
+                "type": "Choice",
+                "text": "I think their value is limited.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_redhood_20_9"
+            },
+            {
+                "id": "d_counseling_redhood_20_5",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_6",
+                "type": "Speech",
+                "text": "But isn't it a bit of a shame if someone rests on their laurels",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_7",
+                "type": "Speech",
+                "text": "and is unable to move on?",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_8",
+                "type": "Speech",
+                "text": "I wish there was a way I could get that through Dorothy's head.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_20_14"
+            },
+            {
+                "id": "d_counseling_redhood_20_9",
+                "type": "Speech",
+                "text": "Haha, I see.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_10",
+                "type": "Speech",
+                "text": "Personally, I think you're right. The past is the past.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_11",
+                "type": "Speech",
+                "text": "We need to live in the present.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_12",
+                "type": "Speech",
+                "text": "Right now, at this very moment, the future is barreling towards us,",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_redhood_20_13",
+                "type": "Speech",
+                "text": "and that makes it all the more vital, certainly much more so than the past.",
+                "speaker": "Red Hood",
+                "points": null,
+                "jumpTo": "d_counseling_redhood_20_14"
+            },
+            {
+                "id": "d_counseling_redhood_20_14",
+                "type": "Narration",
+                "text": "Red Hood and I have a deep and meaningful conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

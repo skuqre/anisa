@@ -1,0 +1,1853 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_emma_01_1",
+                "type": "Speech",
+                "text": "You know what, Commander?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_01_2",
+                "type": "Speech",
+                "text": "I recently made up a new kind of omelet.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_01_3",
+                "type": "Speech",
+                "text": "But... no one is willing to try it!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_01_4",
+                "type": "Speech",
+                "text": "I wonder why...?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_01_5",
+                "type": "Choice",
+                "text": "How about trying it yourself first?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_01_7"
+            },
+            {
+                "id": "d_counseling_emma_01_6",
+                "type": "Choice",
+                "text": "Because they want you to have more.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_01_9"
+            },
+            {
+                "id": "d_counseling_emma_01_7",
+                "type": "Speech",
+                "text": "Absolutely not!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_01_8",
+                "type": "Speech",
+                "text": "If I eat one, there will be fewer for everyone else!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_01_11"
+            },
+            {
+                "id": "d_counseling_emma_01_9",
+                "type": "Speech",
+                "text": "O-oh! Well, there's no need for that!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_01_10",
+                "type": "Speech",
+                "text": "I'll just have to make more. Then there will be enough for everyone!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_01_11"
+            },
+            {
+                "id": "d_counseling_emma_01_11",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Emma.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_02_1",
+                "type": "Speech",
+                "text": "Commaaander! Are you free this weekend?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_02_2",
+                "type": "Choice",
+                "text": "Of course.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_02_4"
+            },
+            {
+                "id": "d_counseling_emma_02_3",
+                "type": "Choice",
+                "text": "I'm kinda busy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_02_8"
+            },
+            {
+                "id": "d_counseling_emma_02_4",
+                "type": "Speech",
+                "text": "Wonderful!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_02_5",
+                "type": "Speech",
+                "text": "I got a couple tickets for the amusement park.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_02_6",
+                "type": "Speech",
+                "text": "However, Eunhwa and Vesti are too busy to go.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_02_7",
+                "type": "Speech",
+                "text": "Do you want to go with me? Hee hee!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_02_10"
+            },
+            {
+                "id": "d_counseling_emma_02_8",
+                "type": "Speech",
+                "text": "Oh! I'm sorry to hear it.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_02_9",
+                "type": "Speech",
+                "text": "Try not to wear yourself out, OK?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_02_10"
+            },
+            {
+                "id": "d_counseling_emma_02_10",
+                "type": "Narration",
+                "text": "I have a good conversation with Emma.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_03_1",
+                "type": "Speech",
+                "text": "What's your favorite color, Commander?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_03_2",
+                "type": "Choice",
+                "text": "Black.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_03_4"
+            },
+            {
+                "id": "d_counseling_emma_03_3",
+                "type": "Choice",
+                "text": "Yellow.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_03_6"
+            },
+            {
+                "id": "d_counseling_emma_03_4",
+                "type": "Speech",
+                "text": "I know you like mature colors.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_03_5",
+                "type": "Speech",
+                "text": "I'll keep that in mind, hee hee!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_03_8"
+            },
+            {
+                "id": "d_counseling_emma_03_6",
+                "type": "Speech",
+                "text": "Hm... I see.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_03_7",
+                "type": "Speech",
+                "text": "I would never have guessed that you like cute things.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_03_8"
+            },
+            {
+                "id": "d_counseling_emma_03_8",
+                "type": "Narration",
+                "text": "Emma and I talk about personal preferences for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_04_1",
+                "type": "Speech",
+                "text": "Hm... Vesti and Eunhwa aren't getting along these days.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_04_2",
+                "type": "Speech",
+                "text": "Is there anything I can do to help them?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_04_3",
+                "type": "Choice",
+                "text": "They'll have to figure it out for themselves.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_04_5"
+            },
+            {
+                "id": "d_counseling_emma_04_4",
+                "type": "Choice",
+                "text": "Cook for them. Then I'm sure there will be at least one thing they agree on.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_04_8"
+            },
+            {
+                "id": "d_counseling_emma_04_5",
+                "type": "Speech",
+                "text": "Hm... Really?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_04_6",
+                "type": "Speech",
+                "text": "Still, I'd like to find a way to help them talk with each other.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_04_7",
+                "type": "Speech",
+                "text": "How about going for a dip together? Hee hee!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_04_12"
+            },
+            {
+                "id": "d_counseling_emma_04_8",
+                "type": "Speech",
+                "text": "Hm?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_04_9",
+                "type": "Speech",
+                "text": "I'm not sure I understand what you mean...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_04_10",
+                "type": "Speech",
+                "text": "But, I suppose a good meal really can bring people together.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_04_11",
+                "type": "Speech",
+                "text": "Thanks for the idea! Hee hee!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_04_12",
+                "type": "Narration",
+                "text": "I talk with Emma about her squad members.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_05_1",
+                "type": "Speech",
+                "text": "I keep losing things lately.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_05_2",
+                "type": "Speech",
+                "text": "Eunhwa and Vesti always come to my rescue...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_05_3",
+                "type": "Speech",
+                "text": "But, I'm supposed to be the big sister!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_05_4",
+                "type": "Choice",
+                "text": "That's just part of your charm.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_05_6"
+            },
+            {
+                "id": "d_counseling_emma_05_5",
+                "type": "Choice",
+                "text": "Being the big sis doesn't mean you need to be perfect all the time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_05_9"
+            },
+            {
+                "id": "d_counseling_emma_05_6",
+                "type": "Speech",
+                "text": "Thank you for saying that.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_05_7",
+                "type": "Speech",
+                "text": "You can always find the good in others, Commander.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_05_8",
+                "type": "Speech",
+                "text": "You're a really mature guy, aren't you? Hee hee.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_05_11"
+            },
+            {
+                "id": "d_counseling_emma_05_9",
+                "type": "Speech",
+                "text": "Hm... Well, I know that you're right.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_05_10",
+                "type": "Speech",
+                "text": "But, I always want to be the one who takes care of them.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_05_11",
+                "type": "Narration",
+                "text": "I listen to Emma's troubles for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_06_1",
+                "type": "Speech",
+                "text": "Uh, Commander...?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_06_2",
+                "type": "Speech",
+                "text": "You look terrible. What's wrong?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_06_3",
+                "type": "Choice",
+                "text": "Nothing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_06_5"
+            },
+            {
+                "id": "d_counseling_emma_06_4",
+                "type": "Choice",
+                "text": "I'm just overworked.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_06_7"
+            },
+            {
+                "id": "d_counseling_emma_06_5",
+                "type": "Speech",
+                "text": "Hm! You know, telling lies is bad,\nand it's bad for you.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_06_6",
+                "type": "Speech",
+                "text": "Why not use the rest of our counseling session...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_06_9"
+            },
+            {
+                "id": "d_counseling_emma_06_7",
+                "type": "Speech",
+                "text": "Just as I thought.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_06_8",
+                "type": "Speech",
+                "text": "Why not use the rest of our counseling session...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_06_9"
+            },
+            {
+                "id": "d_counseling_emma_06_9",
+                "type": "Speech",
+                "text": "to get some well-earned sleep?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_06_10",
+                "type": "Speech",
+                "text": "Just lie down on this couch and put your head on my knee...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_06_11",
+                "type": "Narration",
+                "text": "I sleep a little with head on Emma's knee.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_06_12",
+                "type": "Narration",
+                "text": "... So refreshing!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_07_1",
+                "type": "Speech",
+                "text": "Commaaander! You worked a very hard day.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_07_2",
+                "type": "Speech",
+                "text": "I prepared a special lunchbox,\njust for you!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_07_3",
+                "type": "Speech",
+                "text": "Come on and give it a try!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_07_4",
+                "type": "Monologue",
+                "text": "The Splendamin in the spoon is black and green,\njust like some abomination from the depths of the ocean...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_07_5",
+                "type": "Choice",
+                "text": "Open your mouth.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_07_7"
+            },
+            {
+                "id": "d_counseling_emma_07_6",
+                "type": "Choice",
+                "text": "Try to escape.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_07_9"
+            },
+            {
+                "id": "d_counseling_emma_07_7",
+                "type": "Speech",
+                "text": "Good boy! Hee hee.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_07_8",
+                "type": "Speech",
+                "text": "Here, have some more.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_07_13"
+            },
+            {
+                "id": "d_counseling_emma_07_9",
+                "type": "Speech",
+                "text": "Are you being picky?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_07_11",
+                "type": "Speech",
+                "text": "Bad boy! Come on, just try it!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_07_13"
+            },
+            {
+                "id": "d_counseling_emma_07_13",
+                "type": "Narration",
+                "text": "I have a good time with Emma...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_07_14",
+                "type": "Narration",
+                "text": "... and sprint to the bathroom as soon as the talk is over.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_08_1",
+                "type": "Speech",
+                "text": "So annoying... What should I do?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_08_2",
+                "type": "Speech",
+                "text": "I went all the way to Royal Road to get this dress, and it doesn't fit!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_08_3",
+                "type": "Speech",
+                "text": "I don't have time to go back and exchange it...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_08_4",
+                "type": "Choice",
+                "text": "I can help.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_08_6"
+            },
+            {
+                "id": "d_counseling_emma_08_5",
+                "type": "Choice",
+                "text": "How about giving it to Eunhwa or Vesti?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_08_9"
+            },
+            {
+                "id": "d_counseling_emma_08_6",
+                "type": "Speech",
+                "text": "Well, thank you, but...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_08_7",
+                "type": "Speech",
+                "text": "Wouldn't you feel a bit embarrassed, Commander?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_08_8",
+                "type": "Speech",
+                "text": "Anyway, I appreciate your kindness. Hee hee!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_08_11"
+            },
+            {
+                "id": "d_counseling_emma_08_9",
+                "type": "Speech",
+                "text": "Hm... I've also considered that...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_08_10",
+                "type": "Speech",
+                "text": "But it's too big for them.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_08_11",
+                "type": "Narration",
+                "text": "We give it to the Scavengers in the end.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_09_1",
+                "type": "Speech",
+                "text": "Sometimes people get scared when they first meet me.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_09_2",
+                "type": "Speech",
+                "text": "Why is that?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_09_3",
+                "type": "Choice",
+                "text": "Maybe it's because of Absolute's reputation.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_09_5"
+            },
+            {
+                "id": "d_counseling_emma_09_4",
+                "type": "Choice",
+                "text": "It's because you're so pretty.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_09_8"
+            },
+            {
+                "id": "d_counseling_emma_09_5",
+                "type": "Speech",
+                "text": "Oh! You mean, we're too powerful?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_09_6",
+                "type": "Speech",
+                "text": "That makes sense, then.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_09_7",
+                "type": "Speech",
+                "text": "But still, I wish they wouldn't...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_09_10"
+            },
+            {
+                "id": "d_counseling_emma_09_8",
+                "type": "Speech",
+                "text": "... Whoa.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_09_9",
+                "type": "Speech",
+                "text": "You're really good at saying that.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_09_10",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Emma.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_10_1",
+                "type": "Speech",
+                "text": "Eunhwa is a perfectionist, and sometimes she goes too far.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_10_2",
+                "type": "Speech",
+                "text": "How can I get her to loosen up?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_10_3",
+                "type": "Choice",
+                "text": "Use your special skills to help her calm down.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_10_5"
+            },
+            {
+                "id": "d_counseling_emma_10_4",
+                "type": "Choice",
+                "text": "Just support her quietly.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_10_8"
+            },
+            {
+                "id": "d_counseling_emma_10_5",
+                "type": "Speech",
+                "text": "Special skills?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_10_6",
+                "type": "Speech",
+                "text": "I see... I suppose that would be...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_10_7",
+                "type": "Speech",
+                "text": "Full body massage?\nHee hee...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_10_10"
+            },
+            {
+                "id": "d_counseling_emma_10_8",
+                "type": "Speech",
+                "text": "Hm... Well, that's not really my style.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_10_9",
+                "type": "Speech",
+                "text": "But thanks for your advice anyway.\nI appreciate it!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_10_10",
+                "type": "Narration",
+                "text": "I listen to Emma's troubles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_11_1",
+                "type": "Speech",
+                "text": "I can barely get any suds going with this new body wash... but I really like how it smells.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_2",
+                "type": "Speech",
+                "text": "I feel like it'd be a waste buying a new one.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_3",
+                "type": "Speech",
+                "text": "Hmm... What should I do?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_4",
+                "type": "Choice",
+                "text": "It'll keep bugging you until you buy a different brand, so just do it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_11_6"
+            },
+            {
+                "id": "d_counseling_emma_11_5",
+                "type": "Choice",
+                "text": "How about mixing it with something else?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_11_9"
+            },
+            {
+                "id": "d_counseling_emma_11_6",
+                "type": "Speech",
+                "text": "I suppose you're right.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_7",
+                "type": "Speech",
+                "text": "It's a bit of a shame though... I'm sure whoever made this would hate to see it go to waste.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_8",
+                "type": "Speech",
+                "text": "... Argh, I can't do it. I'll come with some use for it.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_11_13"
+            },
+            {
+                "id": "d_counseling_emma_11_9",
+                "type": "Speech",
+                "text": "Hey, that's pretty smart!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_10",
+                "type": "Speech",
+                "text": "People mix together different products all the time.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_11",
+                "type": "Speech",
+                "text": "What made you think of that?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_12",
+                "type": "Speech",
+                "text": "Is it because you like mixing things together? Hehehe.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_11_13",
+                "type": "Narration",
+                "text": "Emma gives me some tips on how to choose the proper shower supplies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_12_1",
+                "type": "Speech",
+                "text": "How would you define your style?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_12_2",
+                "type": "Speech",
+                "text": "Bold, or understated?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_12_3",
+                "type": "Choice",
+                "text": "Understated, with hints of boldness.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_12_5"
+            },
+            {
+                "id": "d_counseling_emma_12_4",
+                "type": "Choice",
+                "text": "Bold, with some subtle, understated tones.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_12_8"
+            },
+            {
+                "id": "d_counseling_emma_12_5",
+                "type": "Speech",
+                "text": "Come here for a moment.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_12_6",
+                "type": "Speech",
+                "text": "I want to show you something.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_12_7",
+                "type": "Speech",
+                "text": "I think it will compliment your style really nicely.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_12_10"
+            },
+            {
+                "id": "d_counseling_emma_12_8",
+                "type": "Speech",
+                "text": "You'll be full of surprises!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_12_9",
+                "type": "Speech",
+                "text": "But I'm afraid that's not quite my style. What a shame...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_12_10",
+                "type": "Narration",
+                "text": "Emma and I spend time poring over various clothing options.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_13_1",
+                "type": "Speech",
+                "text": "Whenever people eat my food, there's always some leftover.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_2",
+                "type": "Speech",
+                "text": "I don't know what's going on. It always seems as if everyone is either full or not hungry.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_3",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_4",
+                "type": "Speech",
+                "text": "Wait... could it be...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_5",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_13_7"
+            },
+            {
+                "id": "d_counseling_emma_13_6",
+                "type": "Choice",
+                "text": "... Maybe they're just feeling under the weather.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_13_10"
+            },
+            {
+                "id": "d_counseling_emma_13_7",
+                "type": "Speech",
+                "text": "Huh? What's wrong?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_8",
+                "type": "Speech",
+                "text": "Are you okay? You don't look good.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_9",
+                "type": "Speech",
+                "text": "Wait right there. I'll whip up something that will put some pep in your step.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_13_13"
+            },
+            {
+                "id": "d_counseling_emma_13_10",
+                "type": "Speech",
+                "text": "Very true. You lose your appetite whenever you're sick.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_11",
+                "type": "Speech",
+                "text": "I had thought of that as well, so I made something a bit healthier. Care to have a taste?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_12",
+                "type": "Speech",
+                "text": "I put in a bunch of nutritious ingredients, so it should be super yummy!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_13_13",
+                "type": "Narration",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_14_1",
+                "type": "Speech",
+                "text": "I give Eunhwa and Vesti massages every once in a while.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_14_2",
+                "type": "Speech",
+                "text": "I get a real kick out of it. Their reactions are wildly different.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_14_3",
+                "type": "Speech",
+                "text": "How do you think Eunhwa reacts during a massage?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_14_4",
+                "type": "Speech",
+                "text": "Take a guess!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_14_5",
+                "type": "Choice",
+                "text": "She probably tries her best not to make a sound.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_14_7"
+            },
+            {
+                "id": "d_counseling_emma_14_6",
+                "type": "Choice",
+                "text": "She probably moans in ecstasy and makes all sorts of other noises.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_14_10"
+            },
+            {
+                "id": "d_counseling_emma_14_7",
+                "type": "Speech",
+                "text": "Ding ding, you got it. That was too easy, wasn't it?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_14_8",
+                "type": "Speech",
+                "text": "She tries to hide it from me, but you can tell how much she enjoys it.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_14_9",
+                "type": "Speech",
+                "text": "It's adorable watching her try to keep silent.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_14_12"
+            },
+            {
+                "id": "d_counseling_emma_14_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_14_11",
+                "type": "Speech",
+                "text": "What a trip it'd be to see that!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_14_12",
+                "type": "Narration",
+                "text": "I listen to Emma gush over Absolute.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_15_1",
+                "type": "Speech",
+                "text": "I've been feeling out of sorts lately.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_2",
+                "type": "Speech",
+                "text": "Nothing's been stressing me out... I'm not sure why I feel this way.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_3",
+                "type": "Choice",
+                "text": "You might be suffering from stress without even realizing it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_15_5"
+            },
+            {
+                "id": "d_counseling_emma_15_4",
+                "type": "Choice",
+                "text": "Sounds like it might be a physical issue.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_15_8"
+            },
+            {
+                "id": "d_counseling_emma_15_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_6",
+                "type": "Speech",
+                "text": "I thought I was managing my stress well.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_7",
+                "type": "Speech",
+                "text": "I'll think about it in greater detail then...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_15_13"
+            },
+            {
+                "id": "d_counseling_emma_15_8",
+                "type": "Speech",
+                "text": "Would you be serious for a minute?!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_9",
+                "type": "Speech",
+                "text": "I'm trying to have a serious discussion with you.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_10",
+                "type": "Speech",
+                "text": "This isn't the right size! Where is my mind today?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_12",
+                "type": "Speech",
+                "text": "You've got a good eye, Commander. Thanks.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_15_13",
+                "type": "Narration",
+                "text": "I shared some stress relief techniques with Emma.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_16_1",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_2",
+                "type": "Speech",
+                "text": "what do you think is the most important part of cooking?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_3",
+                "type": "Choice",
+                "text": "Your technical skills.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_16_5"
+            },
+            {
+                "id": "d_counseling_emma_16_4",
+                "type": "Choice",
+                "text": "Your mindset.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_16_9"
+            },
+            {
+                "id": "d_counseling_emma_16_5",
+                "type": "Speech",
+                "text": "No, no, no.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_6",
+                "type": "Speech",
+                "text": "What's going through your mind is the most important thing. The idea that you're cooking for someone else.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_7",
+                "type": "Speech",
+                "text": "Speaking of which, I really put a lot of thought into this tart. Would you like to try it?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_8",
+                "type": "Speech",
+                "text": "Just one bite, and I'm sure you'll see what I mean.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_16_13"
+            },
+            {
+                "id": "d_counseling_emma_16_9",
+                "type": "Speech",
+                "text": "Exactly! What's going through your mind is the most important thing when you're cooking.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_10",
+                "type": "Speech",
+                "text": "Even if you're not the world's best cook, or don't have top-tier ingredients,",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_11",
+                "type": "Speech",
+                "text": "you can still make wonderful dishes as long as you have the right mindset.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_12",
+                "type": "Speech",
+                "text": "Speaking of which, I really put a lot of thought into this tart. Would you like to try it?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_16_13",
+                "type": "Narration",
+                "text": "I snacked on the tart Emma put so much thought into.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_17_1",
+                "type": "Speech",
+                "text": "You don't look so hot, Commander. Is everything okay?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_17_2",
+                "type": "Speech",
+                "text": "Did you not sleep well? You look like you can barely keep your eyes open.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_17_3",
+                "type": "Choice",
+                "text": "I stayed up all night thinking about you, Emma.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_17_5"
+            },
+            {
+                "id": "d_counseling_emma_17_4",
+                "type": "Choice",
+                "text": "I think I've spread myself too thin over the past few days.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_17_8"
+            },
+            {
+                "id": "d_counseling_emma_17_5",
+                "type": "Speech",
+                "text": "What... really?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_17_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_17_7",
+                "type": "Speech",
+                "text": "So... what were you thinking about that made you unable to sleep? Hehehe.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_17_11"
+            },
+            {
+                "id": "d_counseling_emma_17_8",
+                "type": "Speech",
+                "text": "Your work ethic is truly astounding, but",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_17_9",
+                "type": "Speech",
+                "text": "you have a tendency to overexert yourself.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_17_10",
+                "type": "Speech",
+                "text": "I would tell you to get some rest, but I'm sure there's no point.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_17_11",
+                "type": "Narration",
+                "text": "Emma and I talk about the healing effects of sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_18_1",
+                "type": "Speech",
+                "text": "When you're going out with someone,",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_18_2",
+                "type": "Speech",
+                "text": "do you usually take the lead? Or do you let the other person take charge?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_18_3",
+                "type": "Choice",
+                "text": "I wouldn't know since I've never dated anyone before.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_18_5"
+            },
+            {
+                "id": "d_counseling_emma_18_4",
+                "type": "Choice",
+                "text": "I can do both. It all depends on who I'm with.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_18_7"
+            },
+            {
+                "id": "d_counseling_emma_18_5",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_18_6",
+                "type": "Speech",
+                "text": "Hahaha! You're a terrible liar, Commander.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_18_10"
+            },
+            {
+                "id": "d_counseling_emma_18_7",
+                "type": "Speech",
+                "text": "Hahaha.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_18_8",
+                "type": "Speech",
+                "text": "Well, you certainly sweep me off my feet every once in a while,",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_18_9",
+                "type": "Speech",
+                "text": "which I'm a fan of.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_18_10",
+                "type": "Narration",
+                "text": "Emma and I talk about dating.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_19_1",
+                "type": "Speech",
+                "text": "Not to brag, but I'm really good at reading people.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_19_2",
+                "type": "Speech",
+                "text": "I can tell how someone is feeling just by observing their facial expressions, their body movements, and even their breathing.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_19_3",
+                "type": "Speech",
+                "text": "However, that means there are times I pick up on things I'd rather not know.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_19_4",
+                "type": "Choice",
+                "text": "That's a good skill to have.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_19_6"
+            },
+            {
+                "id": "d_counseling_emma_19_5",
+                "type": "Choice",
+                "text": "Just close your eyes and ignore it when that happens.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_19_9"
+            },
+            {
+                "id": "d_counseling_emma_19_6",
+                "type": "Speech",
+                "text": "Thanks!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_19_7",
+                "type": "Speech",
+                "text": "That's just what I wanted to hear.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_19_8",
+                "type": "Speech",
+                "text": "Thanks for cheering me up a little.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_19_12"
+            },
+            {
+                "id": "d_counseling_emma_19_9",
+                "type": "Speech",
+                "text": "Should I?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_19_10",
+                "type": "Speech",
+                "text": "Hmm... no. I don't think I can do that.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_19_11",
+                "type": "Speech",
+                "text": "Ignoring something and pretending it's not there just isn't my style.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_19_12",
+                "type": "Narration",
+                "text": "Emma gives me some pointers on how to read people.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_emma_20_1",
+                "type": "Speech",
+                "text": "I'm thinking of throwing a party soon.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_20_2",
+                "type": "Speech",
+                "text": "What kind of snacks would you like there to be?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_20_3",
+                "type": "Speech",
+                "text": "I'll see if I can make anything special for you.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_20_4",
+                "type": "Choice",
+                "text": "Cake.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_emma_20_6"
+            },
+            {
+                "id": "d_counseling_emma_20_5",
+                "type": "Choice",
+                "text": "Just coffee is fine.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_emma_20_9"
+            },
+            {
+                "id": "d_counseling_emma_20_6",
+                "type": "Speech",
+                "text": "Okay, let's see...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_20_7",
+                "type": "Speech",
+                "text": "We'll start off with some salmon and Nutrium...",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_20_8",
+                "type": "Speech",
+                "text": "and finish it all off with some ketchup!",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": "d_counseling_emma_20_12"
+            },
+            {
+                "id": "d_counseling_emma_20_9",
+                "type": "Speech",
+                "text": "Coffee? Are you sure that'll be enough?",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_20_10",
+                "type": "Speech",
+                "text": "It's not hard to make,",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_20_11",
+                "type": "Speech",
+                "text": "but I can't really put my own spin on it, which is a shame.",
+                "speaker": "Emma",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_emma_20_12",
+                "type": "Narration",
+                "text": "Emma and I talk about the main tenets of cooking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

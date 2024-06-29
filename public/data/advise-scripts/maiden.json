@@ -1,0 +1,1789 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_maiden_01_1",
+                "type": "Speech",
+                "text": "I fully understand that I need to wear a mask to control my power but...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_01_2",
+                "type": "Speech",
+                "text": "But, sometimes, it's quite suffocating.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_01_3",
+                "type": "Choice",
+                "text": "You can secretly take it off sometimes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_01_5"
+            },
+            {
+                "id": "d_counseling_maiden_01_4",
+                "type": "Choice",
+                "text": "Even so, it can be helpful at times.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_01_8"
+            },
+            {
+                "id": "d_counseling_maiden_01_5",
+                "type": "Speech",
+                "text": "I can't do... that.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_01_6",
+                "type": "Speech",
+                "text": "If my boss finds out I take it off, she'll get mad at me.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_01_7",
+                "type": "Speech",
+                "text": "I can see that you're disappointed, but there is nothing I can do. I'm sorry.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_01_11"
+            },
+            {
+                "id": "d_counseling_maiden_01_8",
+                "type": "Speech",
+                "text": "You're right. It's a contradiction.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_01_9",
+                "type": "Speech",
+                "text": "When I go on missions with Guillotine,",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_01_10",
+                "type": "Speech",
+                "text": "It feels better hiding behind this mask.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_01_11",
+                "type": "Narration",
+                "text": "I listen to Maiden's worries.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_02_1",
+                "type": "Speech",
+                "text": "I... have a big problem.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_02_2",
+                "type": "Speech",
+                "text": "When a certain someone treats me nicely, even just a little bit, I get butterflies in my stomach.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_02_3",
+                "type": "Speech",
+                "text": "I just don't know what to do with myself.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_02_4",
+                "type": "Choice",
+                "text": "Give a pat on the shoulder as a sign of support.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_02_6"
+            },
+            {
+                "id": "d_counseling_maiden_02_5",
+                "type": "Choice",
+                "text": "You need to see them for who they really are.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_02_8"
+            },
+            {
+                "id": "d_counseling_maiden_02_6",
+                "type": "Narration",
+                "text": "*Thump*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_02_7",
+                "type": "Speech",
+                "text": "See?! My heart skipped a beat!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_02_11"
+            },
+            {
+                "id": "d_counseling_maiden_02_8",
+                "type": "Speech",
+                "text": "Do you mean if I got to know their quirks, then, perhaps I wouldn't like them anymore?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_02_9",
+                "type": "Speech",
+                "text": "But, no matter how I look at it...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_02_10",
+                "type": "Speech",
+                "text": "... I just can't see anything wrong with you, Commander.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_02_11",
+                "type": "Narration",
+                "text": "I listen to Maiden's concerns about falling in love.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_03_1",
+                "type": "Speech",
+                "text": "Master of the Kotodama.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_03_2",
+                "type": "Speech",
+                "text": "Judge of the blood-red rose.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_03_3",
+                "type": "Speech",
+                "text": "These are some of the ridiculous nicknames given to me by Guillotine on SNS.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_03_4",
+                "type": "Speech",
+                "text": "Can you tell Guillotine to stop it? I'm dying of embarrassment over here!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_03_5",
+                "type": "Choice",
+                "text": "Have patience. This is a burden you must learn to bear.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_03_7"
+            },
+            {
+                "id": "d_counseling_maiden_03_6",
+                "type": "Choice",
+                "text": "I will talk to Guillotine.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_03_9"
+            },
+            {
+                "id": "d_counseling_maiden_03_7",
+                "type": "Speech",
+                "text": "Commander...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_03_8",
+                "type": "Speech",
+                "text": "You and Guillotine are both so weird.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_03_11"
+            },
+            {
+                "id": "d_counseling_maiden_03_9",
+                "type": "Speech",
+                "text": "W-will you? Really?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_03_10",
+                "type": "Speech",
+                "text": "Thank you! You don't know how depressed I was until now.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_03_11",
+                "type": "Narration",
+                "text": "I listen to Maiden talk about her relationships.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_04_1",
+                "type": "Speech",
+                "text": "Sometimes, I hear Nikkes talk about Guillotine and me like we're urban legends or something.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_04_2",
+                "type": "Speech",
+                "text": "They say that if they become Irregulars, the Grim reaper will come and take them.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_04_3",
+                "type": "Speech",
+                "text": "I don't know what to do with these rumors.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_04_4",
+                "type": "Choice",
+                "text": "That is difficult.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_04_6"
+            },
+            {
+                "id": "d_counseling_maiden_04_5",
+                "type": "Choice",
+                "text": "Don't worry. Just be you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_04_8"
+            },
+            {
+                "id": "d_counseling_maiden_04_6",
+                "type": "Speech",
+                "text": "Right? I don't think there is an answer to this problem.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_04_7",
+                "type": "Speech",
+                "text": "Still, I feel so much better after talking to you.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_04_10"
+            },
+            {
+                "id": "d_counseling_maiden_04_8",
+                "type": "Speech",
+                "text": "I always try my best to do that.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_04_9",
+                "type": "Speech",
+                "text": "... It's not that easy, though, no matter how hard I try.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_04_10",
+                "type": "Narration",
+                "text": "I have a deep conversation with Maiden about her fate.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_05_1",
+                "type": "Speech",
+                "text": "Look at my clothes!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_05_2",
+                "type": "Speech",
+                "text": "What do you think? How do I look?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_05_3",
+                "type": "Choice",
+                "text": "It looks heavy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_05_5"
+            },
+            {
+                "id": "d_counseling_maiden_05_4",
+                "type": "Choice",
+                "text": "It suits you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_05_7"
+            },
+            {
+                "id": "d_counseling_maiden_05_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_05_6",
+                "type": "Speech",
+                "text": "You saw right through me.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_05_9"
+            },
+            {
+                "id": "d_counseling_maiden_05_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_05_8",
+                "type": "Speech",
+                "text": "... Th-thank you. I never thought I would hear a compliment.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_05_9",
+                "type": "Narration",
+                "text": "I talk with Maiden about her look.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_06_1",
+                "type": "Speech",
+                "text": "I wish I had a friend who I could share my thoughts with.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_06_2",
+                "type": "Speech",
+                "text": "Someone normal, you know? Not like Guillotine the weirdo.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_06_3",
+                "type": "Choice",
+                "text": "I can introduce you to some other Nikkes if you like.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_06_5"
+            },
+            {
+                "id": "d_counseling_maiden_06_4",
+                "type": "Choice",
+                "text": "Am I not enough?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_06_10"
+            },
+            {
+                "id": "d_counseling_maiden_06_5",
+                "type": "Speech",
+                "text": "Mmmm... Thank you for the offer...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_06_6",
+                "type": "Speech",
+                "text": "But I try to avoid making friends with Nikkes.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_06_8",
+                "type": "Speech",
+                "text": "I might have to kill them with my own hands later on. You never know.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_06_9",
+                "type": "Speech",
+                "text": "I don't think I'll be able to do that if they're my friends.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_06_12"
+            },
+            {
+                "id": "d_counseling_maiden_06_10",
+                "type": "Speech",
+                "text": "That's not true!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_06_11",
+                "type": "Speech",
+                "text": "I think you're a dear friend. I don't really deserve you...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_06_12",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Maiden.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_07_1",
+                "type": "Speech",
+                "text": "C-Commander.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_07_2",
+                "type": "Speech",
+                "text": "Do you notice anything different about me today?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_07_3",
+                "type": "Choice",
+                "text": "Hmmm... The rose in your hair seems fresher.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_07_5"
+            },
+            {
+                "id": "d_counseling_maiden_07_4",
+                "type": "Choice",
+                "text": "Something different?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_07_7"
+            },
+            {
+                "id": "d_counseling_maiden_07_5",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_07_6",
+                "type": "Speech",
+                "text": "But this is... an artificial flower.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_07_10"
+            },
+            {
+                "id": "d_counseling_maiden_07_7",
+                "type": "Speech",
+                "text": "That's not it. It's...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_07_8",
+                "type": "Speech",
+                "text": "I stayed up late last night, and my eyebags have worsened.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_07_9",
+                "type": "Speech",
+                "text": "I'm glad you didn't notice it.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_07_10",
+                "type": "Narration",
+                "text": "I have a short talk with Maiden who, I think, tested me a little.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_08_1",
+                "type": "Speech",
+                "text": "What do you think about the boss, Ingrid?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_08_2",
+                "type": "Speech",
+                "text": "Well, even myself, I find her quite scary. But I just wanted to know what others think of her.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_08_3",
+                "type": "Choice",
+                "text": "I'm also afraid of Ingrid.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_08_5"
+            },
+            {
+                "id": "d_counseling_maiden_08_4",
+                "type": "Choice",
+                "text": "She's kinder than you think.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_08_7"
+            },
+            {
+                "id": "d_counseling_maiden_08_5",
+                "type": "Speech",
+                "text": "R-right?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_08_6",
+                "type": "Speech",
+                "text": "I feel somewhat reassured since I'm not the only one feeling this way.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_08_9"
+            },
+            {
+                "id": "d_counseling_maiden_08_7",
+                "type": "Speech",
+                "text": "... That may be true...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_08_8",
+                "type": "Speech",
+                "text": "people can be both kind and scary at the same time.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_08_9",
+                "type": "Narration",
+                "text": "I talk with Maiden about Ingrid.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_09_1",
+                "type": "Speech",
+                "text": "Commander, do you have some time to spare tomorrow?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_09_2",
+                "type": "Speech",
+                "text": "I know you always have a hectic schedule, but...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_09_3",
+                "type": "Choice",
+                "text": "I have some commitments tomorrow.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_09_5"
+            },
+            {
+                "id": "d_counseling_maiden_09_4",
+                "type": "Choice",
+                "text": "I can take some time off in the evening.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_09_7"
+            },
+            {
+                "id": "d_counseling_maiden_09_5",
+                "type": "Speech",
+                "text": "Right. Of course.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_09_6",
+                "type": "Speech",
+                "text": "I guess that's the bitter reality, then.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_09_10"
+            },
+            {
+                "id": "d_counseling_maiden_09_7",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_09_8",
+                "type": "Speech",
+                "text": "I didn't expect that.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_09_9",
+                "type": "Speech",
+                "text": "Good thing I didn't give up.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_09_10",
+                "type": "Narration",
+                "text": "I have a conversation with Maiden.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_10_1",
+                "type": "Speech",
+                "text": "What do you do when you're uncomfortable with one of your squad members?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_10_2",
+                "type": "Speech",
+                "text": "No, wait, I should tell you the whole truth.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_10_3",
+                "type": "Speech",
+                "text": "Every time Guillotine uses her powers and shouts, \"Dragon of the Deep!\", I feel so embarrassed.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_10_4",
+                "type": "Choice",
+                "text": "Just pretend you don't know her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_10_6"
+            },
+            {
+                "id": "d_counseling_maiden_10_5",
+                "type": "Choice",
+                "text": "Yell something even darker and more cringy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_10_9"
+            },
+            {
+                "id": "d_counseling_maiden_10_6",
+                "type": "Speech",
+                "text": "I already tried that...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_10_7",
+                "type": "Speech",
+                "text": "But since we're wearing the same uniform, it's obvious we're on the same team.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_10_8",
+                "type": "Speech",
+                "text": "No one ever falls for it.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_10_11"
+            },
+            {
+                "id": "d_counseling_maiden_10_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_10_10",
+                "type": "Speech",
+                "text": "Y-you're not kidding?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_10_11",
+                "type": "Narration",
+                "text": "I talk with Maiden about her squad members.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_11_1",
+                "type": "Speech",
+                "text": "Sigh... I really want to lie down.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_11_2",
+                "type": "Speech",
+                "text": "After we're done here, can I chill in your room for a bit?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_11_3",
+                "type": "Choice",
+                "text": "Sure.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_11_5"
+            },
+            {
+                "id": "d_counseling_maiden_11_4",
+                "type": "Choice",
+                "text": "Ingrid asked me to send you back as soon as this is over.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_11_8"
+            },
+            {
+                "id": "d_counseling_maiden_11_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_11_6",
+                "type": "Speech",
+                "text": "Thanks! I thought you were going to refuse me point-blank.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_11_7",
+                "type": "Speech",
+                "text": "It'll be our little secret from the boss.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_11_10"
+            },
+            {
+                "id": "d_counseling_maiden_11_8",
+                "type": "Speech",
+                "text": "Sigh... I thought you'd stand up for me...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_11_9",
+                "type": "Speech",
+                "text": "Oh well.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_11_10",
+                "type": "Narration",
+                "text": "Maiden and I proceeded to have a lovely conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_12_1",
+                "type": "Speech",
+                "text": "Commander, do you think I'm weird?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_2",
+                "type": "Speech",
+                "text": "After all, I'm a Nikke who executes other Nikkes.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_3",
+                "type": "Choice",
+                "text": "Sounds perfectly normal to me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_12_5"
+            },
+            {
+                "id": "d_counseling_maiden_12_4",
+                "type": "Choice",
+                "text": "It is a bit out of the ordinary.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_12_9"
+            },
+            {
+                "id": "d_counseling_maiden_12_5",
+                "type": "Speech",
+                "text": "N-normal?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_6",
+                "type": "Speech",
+                "text": "That's the first time I've ever heard someone say that...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_7",
+                "type": "Speech",
+                "text": "So in your eyes, I'm just like any other Nikke?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_8",
+                "type": "Speech",
+                "text": "... Thank you.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_12_13"
+            },
+            {
+                "id": "d_counseling_maiden_12_9",
+                "type": "Speech",
+                "text": "I'm glad you're not too weirded out by it.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_10",
+                "type": "Speech",
+                "text": "Most people go on about how unique my job is, but they all",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_11",
+                "type": "Speech",
+                "text": "keep their distance in the end.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_12",
+                "type": "Speech",
+                "text": "But not you, Commander.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_12_13",
+                "type": "Narration",
+                "text": "Maiden and I have a meaningful discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_13_1",
+                "type": "Speech",
+                "text": "Commander, what kind of music do you usually listen to?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_13_2",
+                "type": "Choice",
+                "text": "Pulse-pounding music that gets the blood pumping.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_13_4"
+            },
+            {
+                "id": "d_counseling_maiden_13_3",
+                "type": "Choice",
+                "text": "Slow and serene music.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_13_7"
+            },
+            {
+                "id": "d_counseling_maiden_13_4",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_13_5",
+                "type": "Speech",
+                "text": "That's what Guillotine listens to as well.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_13_6",
+                "type": "Speech",
+                "text": "It's perfect for using as an alarm.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_13_10"
+            },
+            {
+                "id": "d_counseling_maiden_13_7",
+                "type": "Speech",
+                "text": "Seems you and I have the same taste in music.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_13_8",
+                "type": "Speech",
+                "text": "Whenever I listen to quiet music, it helps me sleep better.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_13_9",
+                "type": "Speech",
+                "text": "Do you like to listen to music before you go to bed?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_13_10",
+                "type": "Narration",
+                "text": "During our discussion, Maiden and I decided to put on some music.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_14_1",
+                "type": "Speech",
+                "text": "What things of a person you would have a crush on?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_14_2",
+                "type": "Speech",
+                "text": "I mean like personality, appearance, etc.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_14_3",
+                "type": "Choice",
+                "text": "The voice of a beautiful lady hidden under a face mask.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_14_5"
+            },
+            {
+                "id": "d_counseling_maiden_14_4",
+                "type": "Choice",
+                "text": "The sharp eyes hidden under an eye mask.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_14_8"
+            },
+            {
+                "id": "d_counseling_maiden_14_5",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_14_6",
+                "type": "Speech",
+                "text": "M-mask and beautiful lady...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_14_7",
+                "type": "Speech",
+                "text": "Are you talking about me?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_14_11"
+            },
+            {
+                "id": "d_counseling_maiden_14_8",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_14_9",
+                "type": "Speech",
+                "text": "It reminds me of someone.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_14_10",
+                "type": "Speech",
+                "text": "... Should I also use an eye mask from now?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_14_11",
+                "type": "Narration",
+                "text": "I have a debate with Maiden about the attraction of a person.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_15_1",
+                "type": "Speech",
+                "text": "Argh, I hate wearing a face mask! It's such a pain eating out with it.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_15_2",
+                "type": "Speech",
+                "text": "There has to be a better solution...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_15_3",
+                "type": "Choice",
+                "text": "Take your mask off when there is no one around, then eat.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_15_5"
+            },
+            {
+                "id": "d_counseling_maiden_15_4",
+                "type": "Choice",
+                "text": "Don't eat out as often.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_15_7"
+            },
+            {
+                "id": "d_counseling_maiden_15_5",
+                "type": "Speech",
+                "text": "That's what I've been doing.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_15_6",
+                "type": "Speech",
+                "text": "What else can I do?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_15_10"
+            },
+            {
+                "id": "d_counseling_maiden_15_7",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_15_8",
+                "type": "Speech",
+                "text": "I'll try, but it's so depressing.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_15_9",
+                "type": "Speech",
+                "text": "Because of this mask, I have to restrain myself from eating too much.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_15_10",
+                "type": "Narration",
+                "text": "Maiden and I try to come up with a mask that would allow you to eat at the same time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_16_1",
+                "type": "Speech",
+                "text": "I think our squad is being given way too many assignments.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_2",
+                "type": "Speech",
+                "text": "If we're not on the surface fighting Raptures,",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_3",
+                "type": "Speech",
+                "text": "we're in the Ark going up against Irregulars.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_4",
+                "type": "Speech",
+                "text": "We never have a moment's respite.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_5",
+                "type": "Choice",
+                "text": "Ask for a raise.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_16_7"
+            },
+            {
+                "id": "d_counseling_maiden_16_6",
+                "type": "Choice",
+                "text": "I'll make a request for you to be taken off this mission.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_16_12"
+            },
+            {
+                "id": "d_counseling_maiden_16_7",
+                "type": "Speech",
+                "text": "I think that's a good idea.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_8",
+                "type": "Narration",
+                "text": "Maiden takes out her phone and is about to call Ingrid...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_10",
+                "type": "Speech",
+                "text": "But the boss is really intimidating.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_11",
+                "type": "Speech",
+                "text": "Umm... Can you call her for me?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_16_15"
+            },
+            {
+                "id": "d_counseling_maiden_16_12",
+                "type": "Speech",
+                "text": "I don't want that.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_13",
+                "type": "Speech",
+                "text": "Then I won't have as many opportunities to run into you.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_14",
+                "type": "Speech",
+                "text": "All I'm asking for is something simple, like a 20% raise.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_16_15",
+                "type": "Narration",
+                "text": "Maiden and I talk about the working conditions over at Extrinsic during our discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_17_1",
+                "type": "Speech",
+                "text": "I've been dying to get this limited edition handbag.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_17_2",
+                "type": "Speech",
+                "text": "They just released it,",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_17_3",
+                "type": "Speech",
+                "text": "but I already spent too much money this month...what should I do?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_17_4",
+                "type": "Choice",
+                "text": "Dip into next month's allowance.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_17_6"
+            },
+            {
+                "id": "d_counseling_maiden_17_5",
+                "type": "Choice",
+                "text": "Start working part-time jobs.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_17_8"
+            },
+            {
+                "id": "d_counseling_maiden_17_6",
+                "type": "Speech",
+                "text": "But...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_17_7",
+                "type": "Speech",
+                "text": "There are more limited edition handbags I want next month...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_17_11"
+            },
+            {
+                "id": "d_counseling_maiden_17_8",
+                "type": "Speech",
+                "text": "That's an amazing idea!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_17_9",
+                "type": "Speech",
+                "text": "I can work for you!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_17_10",
+                "type": "Speech",
+                "text": "We can even discuss the terms of my employment during our discussions. I'm sure we'll be able to come to an agreement.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_17_11",
+                "type": "Narration",
+                "text": "Maiden and I have a conversation about borrowing money.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_18_1",
+                "type": "Speech",
+                "text": "When it's just me by myself at night, I get lonely.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_18_2",
+                "type": "Speech",
+                "text": "Commander, what would you do in a situation like this?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_18_3",
+                "type": "Choice",
+                "text": "I would call my friends.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_18_5"
+            },
+            {
+                "id": "d_counseling_maiden_18_4",
+                "type": "Choice",
+                "text": "I would enjoy some alone time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_18_8"
+            },
+            {
+                "id": "d_counseling_maiden_18_5",
+                "type": "Speech",
+                "text": "Is it okay to do that?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_18_6",
+                "type": "Speech",
+                "text": "I always kept myself from doing that because I thought I'd be disturbing everyone else.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_18_7",
+                "type": "Speech",
+                "text": "But since you said it's okay, I'll go ahead and hit them up.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_18_11"
+            },
+            {
+                "id": "d_counseling_maiden_18_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_18_9",
+                "type": "Speech",
+                "text": "You sound just like Guillotine.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_18_10",
+                "type": "Speech",
+                "text": "Please, I'm begging you, don't turn into a second Guillotine.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_18_11",
+                "type": "Narration",
+                "text": "Maiden and I have a conversation on how to get over loneliness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_19_1",
+                "type": "Speech",
+                "text": "Online games are so fun.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_19_2",
+                "type": "Speech",
+                "text": "You feel like you belong. You can talk to all these people you might normally have a difficult time talking to in real life.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_19_3",
+                "type": "Speech",
+                "text": "But on the other hand, I feel all this pressure to try and change my schedule to accommodate them.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_19_4",
+                "type": "Speech",
+                "text": "What am I supposed to do here?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_19_5",
+                "type": "Choice",
+                "text": "Play a single-player game.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_19_7"
+            },
+            {
+                "id": "d_counseling_maiden_19_6",
+                "type": "Choice",
+                "text": "Arrange a gathering them after midnight.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_19_9"
+            },
+            {
+                "id": "d_counseling_maiden_19_7",
+                "type": "Speech",
+                "text": "Are you even listening to me?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_19_8",
+                "type": "Speech",
+                "text": "I don't want to stop playing online games.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_19_11"
+            },
+            {
+                "id": "d_counseling_maiden_19_9",
+                "type": "Speech",
+                "text": "Hey, that's right! Most people aren't working after midnight.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_19_10",
+                "type": "Speech",
+                "text": "I'll bring it up in the group chat and see what they think. Thanks, Commander.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_19_11",
+                "type": "Narration",
+                "text": "Maiden and I talk about the life of a gamer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maiden_20_1",
+                "type": "Speech",
+                "text": "All of the Extrinsic Squad's operations are classified, so I can't confide in anyone about anything.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_2",
+                "type": "Speech",
+                "text": "People end up thinking I just sit around all day and horse around.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_3",
+                "type": "Speech",
+                "text": "It really upsets me, but what can I do?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_4",
+                "type": "Choice",
+                "text": "Well, isn't there some truth to it?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maiden_20_6"
+            },
+            {
+                "id": "d_counseling_maiden_20_5",
+                "type": "Choice",
+                "text": "I understand what you all do, and have nothing but respect for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maiden_20_9"
+            },
+            {
+                "id": "d_counseling_maiden_20_6",
+                "type": "Speech",
+                "text": "Hey!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_7",
+                "type": "Speech",
+                "text": "You're supposed to be looking after my mental wellbeing!",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_8",
+                "type": "Speech",
+                "text": "There's no harm in telling me a white lie every once in a while...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": "d_counseling_maiden_20_13"
+            },
+            {
+                "id": "d_counseling_maiden_20_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_10",
+                "type": "Narration",
+                "text": "Maiden wiped away her tears.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_11",
+                "type": "Speech",
+                "text": "You're the only person who understands my predicament.",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_12",
+                "type": "Speech",
+                "text": "Have I ever told you how much I love you?",
+                "speaker": "Maiden",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maiden_20_13",
+                "type": "Narration",
+                "text": "Maiden shared more of her troubles with me during our discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

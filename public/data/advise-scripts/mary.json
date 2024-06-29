@@ -1,0 +1,1885 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_mary_01_1",
+                "type": "Speech",
+                "text": "Commander, do you like your food sweet?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_01_2",
+                "type": "Speech",
+                "text": "Or do you prefer it salty?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_01_3",
+                "type": "Choice",
+                "text": "Both.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_01_5"
+            },
+            {
+                "id": "d_counseling_mary_01_4",
+                "type": "Choice",
+                "text": "Neither.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_01_7"
+            },
+            {
+                "id": "d_counseling_mary_01_5",
+                "type": "Speech",
+                "text": "Hey now, you should know how bad that is for your health!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_01_6",
+                "type": "Speech",
+                "text": "I guess I'll have to give you an extra thorough checkup, right now!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_01_11"
+            },
+            {
+                "id": "d_counseling_mary_01_7",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_01_8",
+                "type": "Speech",
+                "text": "I didn't realize you were so health-conscious.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_01_9",
+                "type": "Speech",
+                "text": "If you had said you liked both, I was going to give you a checkup right here.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_01_10",
+                "type": "Speech",
+                "text": "Too bad...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_01_11",
+                "type": "Narration",
+                "text": "I learn more from Mary about the correlation between food and health.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_02_1",
+                "type": "Speech",
+                "text": "Commander, would you rather be very ill for a short period of time...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_2",
+                "type": "Speech",
+                "text": "... or be just a little sick for a long time?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_3",
+                "type": "Choice",
+                "text": "Option 1.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_02_5"
+            },
+            {
+                "id": "d_counseling_mary_02_4",
+                "type": "Choice",
+                "text": "Option 2.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_02_9"
+            },
+            {
+                "id": "d_counseling_mary_02_5",
+                "type": "Speech",
+                "text": "Just as I thought!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_6",
+                "type": "Speech",
+                "text": "I figured you would say that.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_7",
+                "type": "Speech",
+                "text": "After all, you're always being so reckless on missions and getting yourself hurt.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_8",
+                "type": "Speech",
+                "text": "The syringe I prepared for you is perfect, then. It'll hurt for a little bit, but then you'll be as good as new.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_02_13"
+            },
+            {
+                "id": "d_counseling_mary_02_9",
+                "type": "Speech",
+                "text": "Oh, is that so?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_10",
+                "type": "Speech",
+                "text": "Hm... I'm not sure what to do, then. The syringe I prepared is the other way around.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_11",
+                "type": "Speech",
+                "text": "Oh well. There's no other way!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_12",
+                "type": "Speech",
+                "text": "I guess you'll just have to take it anyway...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_02_13",
+                "type": "Narration",
+                "text": "I persuade Mary into not giving me a shot.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_03_1",
+                "type": "Speech",
+                "text": "Commander, do you always try to hold onto all of your memories?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_03_2",
+                "type": "Speech",
+                "text": "Even the bad ones?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_03_3",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_03_5"
+            },
+            {
+                "id": "d_counseling_mary_03_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_03_9"
+            },
+            {
+                "id": "d_counseling_mary_03_5",
+                "type": "Speech",
+                "text": "You do?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_03_6",
+                "type": "Speech",
+                "text": "For a Commander in this day and age,",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_03_7",
+                "type": "Speech",
+                "text": "it would be far better to have a poor memory.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_03_8",
+                "type": "Speech",
+                "text": "If you ever have a bad memory that just won't go away,\ncome and find me. Okay?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_03_12"
+            },
+            {
+                "id": "d_counseling_mary_03_9",
+                "type": "Speech",
+                "text": "I'm glad to hear that.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_03_10",
+                "type": "Speech",
+                "text": "It's probably ideal for a Commander to not linger on their memories too long.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_03_11",
+                "type": "Speech",
+                "text": "Sometimes war can give us positive memories, but most of them are traumatic.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_03_12",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Mary.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_04_1",
+                "type": "Speech",
+                "text": "Commander!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_2",
+                "type": "Speech",
+                "text": "I have a patient who doesn't take care of themselves.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_3",
+                "type": "Speech",
+                "text": "They even refuse to take the medicine I prescribe for them.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_4",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_5",
+                "type": "Choice",
+                "text": "Sorry. From now on, I'll do whatever you say.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_04_7"
+            },
+            {
+                "id": "d_counseling_mary_04_6",
+                "type": "Choice",
+                "text": "Give them a painful shot.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_04_10"
+            },
+            {
+                "id": "d_counseling_mary_04_7",
+                "type": "Speech",
+                "text": "Ha ha! So, you knew the patient I was talking about is you.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_8",
+                "type": "Speech",
+                "text": "What a shame.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_9",
+                "type": "Speech",
+                "text": "If you hadn't figured it out, I was going to give you a painful shot.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_04_13"
+            },
+            {
+                "id": "d_counseling_mary_04_10",
+                "type": "Speech",
+                "text": "Can I really?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_11",
+                "type": "Speech",
+                "text": "Well then, dear patient, you better buckle up, because this one is gonna hurt!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_12",
+                "type": "Speech",
+                "text": "Hey! Where are you going?!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_04_13",
+                "type": "Narration",
+                "text": "I spend time with Mary while fighting the instinct to run away.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_05_1",
+                "type": "Speech",
+                "text": "Commander, what should I do?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_05_2",
+                "type": "Speech",
+                "text": "Every time I see Pepper, I just get so excited!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_05_3",
+                "type": "Choice",
+                "text": "Let me guess. You've found something to tease her about.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_05_5"
+            },
+            {
+                "id": "d_counseling_mary_05_4",
+                "type": "Choice",
+                "text": "Does Pepper owe you money or something?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_05_8"
+            },
+            {
+                "id": "d_counseling_mary_05_5",
+                "type": "Speech",
+                "text": "I knew you'd catch on quick!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_05_6",
+                "type": "Speech",
+                "text": "Pepper is so adorable. She made a little mistake in the hospital.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_05_7",
+                "type": "Speech",
+                "text": "I've been going to the hospital the past few days to tease her about it.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_05_10"
+            },
+            {
+                "id": "d_counseling_mary_05_8",
+                "type": "Speech",
+                "text": "No, although I wouldn't mind a little extra spending money.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_05_9",
+                "type": "Speech",
+                "text": "It's just that, every time I see her, all I want to do is tease her!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_05_10",
+                "type": "Narration",
+                "text": "I speak with Mary about her opinion of Pepper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_06_1",
+                "type": "Speech",
+                "text": "Pepper keeps asking what she needs to do to be like me.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_06_2",
+                "type": "Speech",
+                "text": "How should I respond to that?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_06_3",
+                "type": "Choice",
+                "text": "Tell her to be more of a buzzkill.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_06_5"
+            },
+            {
+                "id": "d_counseling_mary_06_4",
+                "type": "Choice",
+                "text": "Tell her to keep her eyes half-closed all the time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_06_8"
+            },
+            {
+                "id": "d_counseling_mary_06_5",
+                "type": "Speech",
+                "text": "Ha! Ha! Oh, Commander!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_06_6",
+                "type": "Speech",
+                "text": "Do you really think I'm a buzzkill?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_06_7",
+                "type": "Speech",
+                "text": "You're such a silly goose!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_06_10"
+            },
+            {
+                "id": "d_counseling_mary_06_8",
+                "type": "Speech",
+                "text": "Good idea!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_06_9",
+                "type": "Speech",
+                "text": "I'll make sure she does it, too.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_06_10",
+                "type": "Narration",
+                "text": "I have a fun time with Mary.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_07_1",
+                "type": "Speech",
+                "text": "Hm... While I was walking through the Outpost,",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_07_2",
+                "type": "Speech",
+                "text": "I saw lots of people who should come to the hospital, but they haven't.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_07_3",
+                "type": "Speech",
+                "text": "Why are they all avoiding coming to the hospital?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_07_4",
+                "type": "Choice",
+                "text": "They're scared of you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_07_6"
+            },
+            {
+                "id": "d_counseling_mary_07_5",
+                "type": "Choice",
+                "text": "They're scared of the hospital.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_07_9"
+            },
+            {
+                "id": "d_counseling_mary_07_6",
+                "type": "Speech",
+                "text": "Am I really that bad?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_07_7",
+                "type": "Speech",
+                "text": "Ha ha, I'm afraid I don't have the slightest idea what you mean, Commander.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_07_8",
+                "type": "Speech",
+                "text": "Hee hee hee hee...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_07_12"
+            },
+            {
+                "id": "d_counseling_mary_07_9",
+                "type": "Speech",
+                "text": "Hm. The hospital is typically somewhere you only go when you're sick.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_07_10",
+                "type": "Speech",
+                "text": "That can be scary for some people.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_07_11",
+                "type": "Speech",
+                "text": "Maybe that's why so many people avoid going.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_07_12",
+                "type": "Narration",
+                "text": "I spend some time with Mary sharing scary hospital stories.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_08_1",
+                "type": "Speech",
+                "text": "I'm always used to having to listen to others talk, so I really enjoy it when I can talk to you.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_08_2",
+                "type": "Speech",
+                "text": "It puts my mind at ease and my worries all just melt away.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_08_3",
+                "type": "Speech",
+                "text": "But, Commander... don't you ever want other people to listen to what's on your mind?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_08_4",
+                "type": "Choice",
+                "text": "I do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_08_6"
+            },
+            {
+                "id": "d_counseling_mary_08_5",
+                "type": "Choice",
+                "text": "I don't.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_08_9"
+            },
+            {
+                "id": "d_counseling_mary_08_6",
+                "type": "Speech",
+                "text": "How about you tell me what's on your mind next time?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_08_7",
+                "type": "Speech",
+                "text": "Maybe that way I can find a way to help you relax.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_08_8",
+                "type": "Speech",
+                "text": "Come to me any time you want to talk. Really.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_08_12"
+            },
+            {
+                "id": "d_counseling_mary_08_9",
+                "type": "Speech",
+                "text": "That's a normal reaction.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_08_10",
+                "type": "Speech",
+                "text": "Well, if you ever want to talk about anything that's bothering you,",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_08_11",
+                "type": "Speech",
+                "text": "just come find me.\nI'll always make myself available for you.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_08_12",
+                "type": "Narration",
+                "text": "The time I spent with Mary was very meaningful.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_09_1",
+                "type": "Speech",
+                "text": "You know, Commander...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_09_2",
+                "type": "Speech",
+                "text": "Pepper really thinks I'm a good person.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_09_3",
+                "type": "Speech",
+                "text": "I feel bad about that.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_09_4",
+                "type": "Speech",
+                "text": "I'm not a good person. Not really.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_09_5",
+                "type": "Choice",
+                "text": "That's for Pepper to decide.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_09_7"
+            },
+            {
+                "id": "d_counseling_mary_09_6",
+                "type": "Choice",
+                "text": "In my eyes, you're good enough.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_09_10"
+            },
+            {
+                "id": "d_counseling_mary_09_7",
+                "type": "Speech",
+                "text": "That's true.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_09_8",
+                "type": "Speech",
+                "text": "I suppose it is her right to make her own decision about me.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_09_9",
+                "type": "Speech",
+                "text": "Thank you, Commander.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_09_12"
+            },
+            {
+                "id": "d_counseling_mary_09_10",
+                "type": "Speech",
+                "text": "Commander, the way you look at me... it makes me feel... nice.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_09_11",
+                "type": "Speech",
+                "text": "Thank you, hee hee.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_09_12",
+                "type": "Narration",
+                "text": "I have a heart-to-heart talk with Mary.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_10_1",
+                "type": "Speech",
+                "text": "Hm, a thought just came to me.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_2",
+                "type": "Speech",
+                "text": "If I wasn't a doctor, what would I be doing instead?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_3",
+                "type": "Choice",
+                "text": "Jabbing people with needles for free?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_10_5"
+            },
+            {
+                "id": "d_counseling_mary_10_4",
+                "type": "Choice",
+                "text": "A nurse?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_10_8"
+            },
+            {
+                "id": "d_counseling_mary_10_5",
+                "type": "Speech",
+                "text": "Ha ha! Is that what you think of me, Commander?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_6",
+                "type": "Speech",
+                "text": "I'm afraid that's incorrect.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_7",
+                "type": "Speech",
+                "text": "I wouldn't want to be doing a job that only inflicts pain on others.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_10_14"
+            },
+            {
+                "id": "d_counseling_mary_10_8",
+                "type": "Speech",
+                "text": "If not a doctor, then a nurse!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_9",
+                "type": "Speech",
+                "text": "So you think no matter what happens, I'll always be there with a syringe in my hand, is that it?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_10",
+                "type": "Speech",
+                "text": "I... I suppose that's true.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_11",
+                "type": "Speech",
+                "text": "No matter what, I'd almost certainly end up in the medical field.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_12",
+                "type": "Speech",
+                "text": "A job where I inflict pain, yes, but also where I help others at the same time.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_13",
+                "type": "Speech",
+                "text": "There's only one field that fits this description.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_10_14",
+                "type": "Narration",
+                "text": "I have a fun time thinking about other jobs Mary would do.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_11_1",
+                "type": "Speech",
+                "text": "I've been thinking about redecorating the rooms for our long-term patients, giving them some pizzazz.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_11_2",
+                "type": "Speech",
+                "text": "If you have any good ideas, feel free to share.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_11_3",
+                "type": "Choice",
+                "text": "How about we place some flowers?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_11_5"
+            },
+            {
+                "id": "d_counseling_mary_11_4",
+                "type": "Choice",
+                "text": "Let's put in a video game system.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_11_8"
+            },
+            {
+                "id": "d_counseling_mary_11_5",
+                "type": "Speech",
+                "text": "Hmm...the only thing is that it's very difficult to find any fresh flowers in the Ark.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_11_6",
+                "type": "Speech",
+                "text": "But if you're able to bring some back from up on the surface, then",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_11_7",
+                "type": "Speech",
+                "text": "I think the patients would be very happy. I'd appreciate it as well, hehe.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_11_10"
+            },
+            {
+                "id": "d_counseling_mary_11_8",
+                "type": "Speech",
+                "text": "Are you sure that's not just what you want?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_11_9",
+                "type": "Speech",
+                "text": "On top of that, not every patient is in the condition to be gaming.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_11_10",
+                "type": "Narration",
+                "text": "Mary and I brainstormed about ways to decorate the hospital rooms.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_12_1",
+                "type": "Speech",
+                "text": "What do you think is the most sought-after trait for a doctor?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_2",
+                "type": "Speech",
+                "text": "Feeling compassion for their patients, or distancing themselves from the patients?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_3",
+                "type": "Choice",
+                "text": "Compassion for the patients.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_12_5"
+            },
+            {
+                "id": "d_counseling_mary_12_4",
+                "type": "Choice",
+                "text": "Distancing themselves from the patients.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_12_10"
+            },
+            {
+                "id": "d_counseling_mary_12_5",
+                "type": "Speech",
+                "text": "I expected you would say that.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_6",
+                "type": "Speech",
+                "text": "However...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_7",
+                "type": "Speech",
+                "text": "If you empathize too deeply with your patients,",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_8",
+                "type": "Speech",
+                "text": "it could be traumatic, and you'll end up becoming an empty shell.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_9",
+                "type": "Speech",
+                "text": "This isn't only a problem for doctors.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_12_12"
+            },
+            {
+                "id": "d_counseling_mary_12_10",
+                "type": "Speech",
+                "text": "Oh my! I thought you would say the opposite.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_11",
+                "type": "Speech",
+                "text": "I'm surprised that you responded rationally. Hehe.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_12",
+                "type": "Speech",
+                "text": "In that case, it would be wise to maintain a certain mental distance from the Nikkes whom you are counseling. Understood?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_12_13",
+                "type": "Narration",
+                "text": "As it turned out, I was the one who received counseling from Mary.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_13_1",
+                "type": "Speech",
+                "text": "We've been having a lot of patients who have been exaggerating their symptoms.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_13_2",
+                "type": "Speech",
+                "text": "Hooting and hollering about being scared of shots, even crying.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_13_3",
+                "type": "Speech",
+                "text": "How on earth am I supposed to administer a shot to these people?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_13_4",
+                "type": "Choice",
+                "text": "Flash them a big smile.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_13_6"
+            },
+            {
+                "id": "d_counseling_mary_13_5",
+                "type": "Choice",
+                "text": "Distract them by talking about something else, then give them a stealthy jab.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_13_9"
+            },
+            {
+                "id": "d_counseling_mary_13_6",
+                "type": "Speech",
+                "text": "I'm not sure about that.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_13_7",
+                "type": "Speech",
+                "text": "Seeing a nurse with a syringe in her hand and a deranged smile on her face",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_13_8",
+                "type": "Speech",
+                "text": "will only freak outpatients more.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_13_12"
+            },
+            {
+                "id": "d_counseling_mary_13_9",
+                "type": "Speech",
+                "text": "That's a wonderful idea!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_13_10",
+                "type": "Speech",
+                "text": "Searching for the right moment to sneak it in sounds like fun too.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_13_11",
+                "type": "Speech",
+                "text": "Heehee.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_13_12",
+                "type": "Narration",
+                "text": "Mary and I talk about the proper mindset to have before administering a shot.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_14_1",
+                "type": "Speech",
+                "text": "We're preparing a small event for our patients at the hospital.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_14_2",
+                "type": "Speech",
+                "text": "I can't decide between a concert by the Tetra Nikkes, or having the medical staff do some cosplay.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_14_3",
+                "type": "Speech",
+                "text": "What do you think the patients would get a bigger kick out of?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_14_4",
+                "type": "Choice",
+                "text": "Cosplay.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_14_6"
+            },
+            {
+                "id": "d_counseling_mary_14_5",
+                "type": "Choice",
+                "text": "Concert.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_14_9"
+            },
+            {
+                "id": "d_counseling_mary_14_6",
+                "type": "Speech",
+                "text": "Hehe, good choice! Actually, I'm a big fan of cosplay.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_14_7",
+                "type": "Speech",
+                "text": "Besides, Pepper is already practically a celebrity amongst the patients,",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_14_8",
+                "type": "Speech",
+                "text": "so there's no need to bring in famous Nikkes from outside.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_14_11"
+            },
+            {
+                "id": "d_counseling_mary_14_9",
+                "type": "Speech",
+                "text": "I'm sure the younger patients would appreciate that more.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_14_10",
+                "type": "Speech",
+                "text": "They all have pictures of either Epinel or Noise.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_14_11",
+                "type": "Narration",
+                "text": "Mary and I talk about the event to be held at the hospital.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_15_1",
+                "type": "Speech",
+                "text": "A new season has already arrived. Time goes by so fast.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_15_2",
+                "type": "Speech",
+                "text": "By the way, are you sure you're not forgetting something?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_15_3",
+                "type": "Choice",
+                "text": "I don't think so...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_15_5"
+            },
+            {
+                "id": "d_counseling_mary_15_4",
+                "type": "Choice",
+                "text": "A checkup?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_15_8"
+            },
+            {
+                "id": "d_counseling_mary_15_5",
+                "type": "Speech",
+                "text": "Strange...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_15_6",
+                "type": "Speech",
+                "text": "I'm positive I sent everyone a reminder to get a checkup done.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_15_7",
+                "type": "Speech",
+                "text": "Yet you're the only one who apparently isn't aware of it!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_15_11"
+            },
+            {
+                "id": "d_counseling_mary_15_8",
+                "type": "Speech",
+                "text": "Hehe, bingo!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_15_9",
+                "type": "Speech",
+                "text": "I can't emphasize enough just how important it is to get checks ups done regularly.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_15_10",
+                "type": "Speech",
+                "text": "With that being said, I'll pencil you in.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_15_11",
+                "type": "Narration",
+                "text": "Mary continued to lecture me about the importance of getting regular checkups.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_16_1",
+                "type": "Speech",
+                "text": "We've had a lot of disputes and disagreements amongst the patients.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_16_2",
+                "type": "Speech",
+                "text": "And the reasons are varied, such as because the manufacture is different, or the relationship was not good when they were human...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_16_3",
+                "type": "Choice",
+                "text": "Anything I can do to help?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_16_5"
+            },
+            {
+                "id": "d_counseling_mary_16_4",
+                "type": "Choice",
+                "text": "Even when you're around?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_16_7"
+            },
+            {
+                "id": "d_counseling_mary_16_5",
+                "type": "Speech",
+                "text": "Oh, don't worry! You're doing plenty already.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_16_6",
+                "type": "Speech",
+                "text": "You're listening to me vent, hehe.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_16_10"
+            },
+            {
+                "id": "d_counseling_mary_16_7",
+                "type": "Speech",
+                "text": "Hehe, of course not!",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_16_8",
+                "type": "Speech",
+                "text": "If they pulled that when I was around,",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_16_9",
+                "type": "Speech",
+                "text": "I would make it more painful when giving them their shots.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_16_10",
+                "type": "Narration",
+                "text": "Mary shared the difficulties of hospital life with me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_17_1",
+                "type": "Speech",
+                "text": "Commander, how do you feel about white lies?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_17_2",
+                "type": "Choice",
+                "text": "I think they can be a good thing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_17_4"
+            },
+            {
+                "id": "d_counseling_mary_17_3",
+                "type": "Choice",
+                "text": "I'm completely against it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_17_7"
+            },
+            {
+                "id": "d_counseling_mary_17_4",
+                "type": "Speech",
+                "text": "I agree completely.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_17_5",
+                "type": "Speech",
+                "text": "Telling the truth isn't always the best course of action.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_17_6",
+                "type": "Speech",
+                "text": "Especially if the truth could be hurtful to the person hearing it.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_17_10"
+            },
+            {
+                "id": "d_counseling_mary_17_7",
+                "type": "Speech",
+                "text": "Yes, I figured that's how you'd feel.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_17_8",
+                "type": "Speech",
+                "text": "However, some people may just blurt out a painful truth",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_17_9",
+                "type": "Speech",
+                "text": "simply because they're looking to be forgiven, and that's all.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_17_10",
+                "type": "Narration",
+                "text": "Mary and I have a meaningful conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_18_1",
+                "type": "Speech",
+                "text": "I recently had a Nikke patient ask me",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_18_2",
+                "type": "Speech",
+                "text": "why I still work as a doctor when I'm a Nikke.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_18_3",
+                "type": "Choice",
+                "text": "And? Why do you think that is?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_18_5"
+            },
+            {
+                "id": "d_counseling_mary_18_4",
+                "type": "Choice",
+                "text": "This is your calling. You don't owe anyone an explanation.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_18_8"
+            },
+            {
+                "id": "d_counseling_mary_18_5",
+                "type": "Speech",
+                "text": "Atonement.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_18_6",
+                "type": "Speech",
+                "text": "That sounds a bit pretentious, doesn't it?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_18_7",
+                "type": "Speech",
+                "text": "In the past, I wanted to help people in any way I could, and I still do now.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_18_11"
+            },
+            {
+                "id": "d_counseling_mary_18_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_18_9",
+                "type": "Speech",
+                "text": "You hit the nail on the head.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_18_10",
+                "type": "Speech",
+                "text": "I'll be sure to tell that to the next person who asks me the same question.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_18_11",
+                "type": "Narration",
+                "text": "I speak with Mary about the mindset necessary to be a doctor.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_19_1",
+                "type": "Speech",
+                "text": "We've recently had an influx of patients with peculiar symptoms.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_19_2",
+                "type": "Speech",
+                "text": "They all ate the same food and ended up collapsing.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_19_3",
+                "type": "Choice",
+                "text": "What kind of food was it?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_19_5"
+            },
+            {
+                "id": "d_counseling_mary_19_4",
+                "type": "Choice",
+                "text": "Do you have any suspects?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_19_8"
+            },
+            {
+                "id": "d_counseling_mary_19_5",
+                "type": "Speech",
+                "text": "I can't really be sure what it is, but",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_19_6",
+                "type": "Speech",
+                "text": "I believe ingredients were used that shouldn't be mixed together.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_19_7",
+                "type": "Speech",
+                "text": "They also apparently burnt it to a crisp...honestly, you couldn't make a nastier dish if you tried.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_19_11"
+            },
+            {
+                "id": "d_counseling_mary_19_8",
+                "type": "Speech",
+                "text": "I do have my eye on one Nikke in particular.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_19_9",
+                "type": "Speech",
+                "text": "She rarely comes to the hospital,",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_19_10",
+                "type": "Speech",
+                "text": "so we didn't have any opportunities to teach her about proper cooking methods.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_19_11",
+                "type": "Narration",
+                "text": "Mary vented about the culinary catastrophe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_mary_20_1",
+                "type": "Speech",
+                "text": "Medical staff always have to put on a happy face when they're in front of patients.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_20_2",
+                "type": "Speech",
+                "text": "But I'm not sure I agree with that.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_20_3",
+                "type": "Speech",
+                "text": "Who's to say how someone should act in front of others?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_20_4",
+                "type": "Speech",
+                "text": "On that note, what traits do you look for in a person, Commander?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_20_5",
+                "type": "Choice",
+                "text": "Selflessness",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_mary_20_7"
+            },
+            {
+                "id": "d_counseling_mary_20_6",
+                "type": "Choice",
+                "text": "Being down-to-earth.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_mary_20_9"
+            },
+            {
+                "id": "d_counseling_mary_20_7",
+                "type": "Speech",
+                "text": "So... someone who thinks about others more than themselves?",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_20_8",
+                "type": "Speech",
+                "text": "I suppose a lot of people find that admirable.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": "d_counseling_mary_20_12"
+            },
+            {
+                "id": "d_counseling_mary_20_9",
+                "type": "Speech",
+                "text": "Wow, your standards are a bit different compared to other people.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_20_10",
+                "type": "Speech",
+                "text": "Nevertheless, I appreciate your honesty.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_20_11",
+                "type": "Speech",
+                "text": "I'll try and be more true to myself when treating you as well.",
+                "speaker": "Mary",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_mary_20_12",
+                "type": "Narration",
+                "text": "Mary and I talk about what makes an ideal medical professional.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

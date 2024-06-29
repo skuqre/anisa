@@ -1,0 +1,2141 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_biscuit_01_1",
+                "type": "Speech",
+                "text": "Trainer! Here's a gift for you!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_2",
+                "type": "Monologue",
+                "text": "Biscuit hands me a ball.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_3",
+                "type": "Choice",
+                "text": "Throw the ball as far as you can.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_01_5"
+            },
+            {
+                "id": "d_counseling_biscuit_01_4",
+                "type": "Choice",
+                "text": "Thank you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_01_10"
+            },
+            {
+                "id": "d_counseling_biscuit_01_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_6",
+                "type": "Speech",
+                "text": "It's a gift... How could you throw...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_7",
+                "type": "Speech",
+                "text": "I'm guessing you don't like it?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_8",
+                "type": "Self",
+                "text": "I threw it because I want to play with you.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_9",
+                "type": "Speech",
+                "text": "Oh, I see!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_01_13"
+            },
+            {
+                "id": "d_counseling_biscuit_01_10",
+                "type": "Speech",
+                "text": "This is my favorite ball, hehe. I thought it'd be great if you have one too.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_11",
+                "type": "Speech",
+                "text": "I'm so glad that you like it.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_12",
+                "type": "Self",
+                "text": "Shall we play ball games together?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_13",
+                "type": "Speech",
+                "text": "Ball games...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_14",
+                "type": "Monologue",
+                "text": "Biscuit's tail wags rapidly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_15",
+                "type": "Speech",
+                "text": "Yes!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_01_16",
+                "type": "Narration",
+                "text": "I play ball games with Biscuit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_02_1",
+                "type": "Speech",
+                "text": "Excuse me... Trainer!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_02_2",
+                "type": "Speech",
+                "text": "Uh, isn't it... stifling to stay indoors today?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_02_3",
+                "type": "Choice",
+                "text": "Shall we go out for a walk?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_02_5"
+            },
+            {
+                "id": "d_counseling_biscuit_02_4",
+                "type": "Choice",
+                "text": "Shall I open the window for you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_02_8"
+            },
+            {
+                "id": "d_counseling_biscuit_02_5",
+                "type": "Speech",
+                "text": "As expected from you, Trainer! You know me so well.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_02_6",
+                "type": "Speech",
+                "text": "Hehe, this is great.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_02_7",
+                "type": "Speech",
+                "text": "Let's go out now!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_02_11"
+            },
+            {
+                "id": "d_counseling_biscuit_02_8",
+                "type": "Speech",
+                "text": "No, I didn't mean to say that it's stuffy here...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_02_9",
+                "type": "Speech",
+                "text": "I... want to go out for a walk...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_02_10",
+                "type": "Speech",
+                "text": "Can't we do that?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_02_11",
+                "type": "Narration",
+                "text": "I go for a walk with Biscuit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_03_1",
+                "type": "Speech",
+                "text": "Nom nom nom nom!\nNom nom nom nom!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_2",
+                "type": "Monologue",
+                "text": "I take a look at what Biscuit is eating.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_3",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_4",
+                "type": "Speech",
+                "text": "Uh... This is sweet potato-flavored Splendamin...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_5",
+                "type": "Speech",
+                "text": "W-would you like to have some?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_6",
+                "type": "Choice",
+                "text": "Sure, thank you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_03_8"
+            },
+            {
+                "id": "d_counseling_biscuit_03_7",
+                "type": "Choice",
+                "text": "I'm good. You can have it all.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_03_13"
+            },
+            {
+                "id": "d_counseling_biscuit_03_8",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_9",
+                "type": "Speech",
+                "text": "You're really going to eat with me...?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_10",
+                "type": "Speech",
+                "text": "Oh, it's not that I don't want to share it...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_11",
+                "type": "Monologue",
+                "text": "Biscuit's tail droops low.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_12",
+                "type": "Speech",
+                "text": "I'm happy that we can eat together... Hehe...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_03_17"
+            },
+            {
+                "id": "d_counseling_biscuit_03_13",
+                "type": "Speech",
+                "text": "Really?! You don't need to stand on ceremony.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_14",
+                "type": "Monologue",
+                "text": "Biscuit's tail starts spinning like a propeller.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_15",
+                "type": "Speech",
+                "text": "Hehehe...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_16",
+                "type": "Speech",
+                "text": "Then I'll dig in now, Trainer.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_03_17",
+                "type": "Narration",
+                "text": "I feed Biscuit sweet potato-flavored Splendamin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_04_1",
+                "type": "Speech",
+                "text": "Trainer, which do you prefer?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_2",
+                "type": "Speech",
+                "text": "Sweet snacks or savory snacks?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_3",
+                "type": "Choice",
+                "text": "Sweet snacks are the best.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_04_5"
+            },
+            {
+                "id": "d_counseling_biscuit_04_4",
+                "type": "Choice",
+                "text": "Savory snacks are the best.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_04_9"
+            },
+            {
+                "id": "d_counseling_biscuit_04_5",
+                "type": "Speech",
+                "text": "You think so too, Trainer?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_6",
+                "type": "Speech",
+                "text": "Hooray for sweet snacks!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_7",
+                "type": "Speech",
+                "text": "Just thinking of sweet snacks makes me happy...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_8",
+                "type": "Speech",
+                "text": "*Drool* Now I'm craving it.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_04_13"
+            },
+            {
+                "id": "d_counseling_biscuit_04_9",
+                "type": "Speech",
+                "text": "Savory snacks?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_10",
+                "type": "Speech",
+                "text": "Uh... I heard too much salt isn't good for you...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_11",
+                "type": "Speech",
+                "text": "I prefer sweet snacks.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_12",
+                "type": "Speech",
+                "text": "Well, they say too much sugar isn't healthy as well, but the sweetness really cheers me up!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_04_13",
+                "type": "Narration",
+                "text": "I head out with Biscuit to buy snacks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_05_1",
+                "type": "Speech",
+                "text": "Trainer, what kind of weather do you like?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_05_2",
+                "type": "Choice",
+                "text": "Rainy weather.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_05_4"
+            },
+            {
+                "id": "d_counseling_biscuit_05_3",
+                "type": "Choice",
+                "text": "Sunny weather.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_05_6"
+            },
+            {
+                "id": "d_counseling_biscuit_05_4",
+                "type": "Speech",
+                "text": "Oh... I see.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_05_5",
+                "type": "Speech",
+                "text": "I don't like rainy days, because I get wet while taking a walk...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_05_9"
+            },
+            {
+                "id": "d_counseling_biscuit_05_6",
+                "type": "Speech",
+                "text": "Indeed! Sunny days are the best, right?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_05_7",
+                "type": "Speech",
+                "text": "The air is refreshing, and the ground is clean!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_05_8",
+                "type": "Speech",
+                "text": "It's perfect for all sorts of walks! I love it.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_05_9",
+                "type": "Narration",
+                "text": "I check the weather forecast with Biscuit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_06_1",
+                "type": "Speech",
+                "text": "Poli and Jackal are so nice.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_06_2",
+                "type": "Speech",
+                "text": "Just looking at them makes me feel... How should I put it...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_06_3",
+                "type": "Speech",
+                "text": "It makes me feel acknowledged, so I feel great!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_06_4",
+                "type": "Choice",
+                "text": "Is that the so-called bond between dogs?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_06_6"
+            },
+            {
+                "id": "d_counseling_biscuit_06_5",
+                "type": "Choice",
+                "text": "That's the so-called bond between Nikkes, isn't it?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_06_8"
+            },
+            {
+                "id": "d_counseling_biscuit_06_6",
+                "type": "Speech",
+                "text": "You're incredible, Trainer. You saw through it right away!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_06_7",
+                "type": "Speech",
+                "text": "Hehe, dogs are telepathic with each other!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_06_11"
+            },
+            {
+                "id": "d_counseling_biscuit_06_8",
+                "type": "Speech",
+                "text": "Uh... Um, I guess you can put it that way...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_06_9",
+                "type": "Speech",
+                "text": "I meant to say that dogs can understand each other...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_06_10",
+                "type": "Speech",
+                "text": "Hehe...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_06_11",
+                "type": "Narration",
+                "text": "... I want to tell her that Poli and Jackal are not real dogs, but I hold myself back.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_07_1",
+                "type": "Speech",
+                "text": "Trainer!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_2",
+                "type": "Monologue",
+                "text": "Biscuit stares at me intently.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_3",
+                "type": "Speech",
+                "text": "Hehehe!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_4",
+                "type": "Monologue",
+                "text": "She wags her tail furiously!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_5",
+                "type": "Choice",
+                "text": "Stroke her head.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_07_7"
+            },
+            {
+                "id": "d_counseling_biscuit_07_6",
+                "type": "Choice",
+                "text": "Grab her tail.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_07_10"
+            },
+            {
+                "id": "d_counseling_biscuit_07_7",
+                "type": "Speech",
+                "text": "Hehehe, you know me well.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_8",
+                "type": "Speech",
+                "text": "I just thought it'd be great if you can stroke my head.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_9",
+                "type": "Speech",
+                "text": "Can you do it for a little longer?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_07_13"
+            },
+            {
+                "id": "d_counseling_biscuit_07_10",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_11",
+                "type": "Speech",
+                "text": "Uh? What? Hmm? Trai... Trainer? Why did you suddenly grab my tail...?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_12",
+                "type": "Speech",
+                "text": "Uh... I wanted you to stroke my head.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_07_13",
+                "type": "Narration",
+                "text": "I rub Biscuit's head hastily.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_08_1",
+                "type": "Speech",
+                "text": "Trainer!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_2",
+                "type": "Monologue",
+                "text": "Biscuit holds out a frisbee.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_3",
+                "type": "Speech",
+                "text": "Let's play together!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_4",
+                "type": "Choice",
+                "text": "Open the window and throw the frisbee far away.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_08_6"
+            },
+            {
+                "id": "d_counseling_biscuit_08_5",
+                "type": "Choice",
+                "text": "Lightly toss the frisbee toward the door.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_08_9"
+            },
+            {
+                "id": "d_counseling_biscuit_08_6",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_7",
+                "type": "Speech",
+                "text": "That... That far...?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_8",
+                "type": "Speech",
+                "text": "I'll be back...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_08_13"
+            },
+            {
+                "id": "d_counseling_biscuit_08_9",
+                "type": "Speech",
+                "text": "*Chomp*",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_10",
+                "type": "Monologue",
+                "text": "Biscuit runs over and catches the frisbee with her mouth.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_11",
+                "type": "Speech",
+                "text": "Haha! I did great, right?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_12",
+                "type": "Speech",
+                "text": "Can you throw it again?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_08_13",
+                "type": "Narration",
+                "text": "I play frisbee with Biscuit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_09_1",
+                "type": "Speech",
+                "text": "Trainer, if you were to raise a puppy,",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_09_2",
+                "type": "Speech",
+                "text": "what kind of puppy would you want?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_09_3",
+                "type": "Choice",
+                "text": "A puppy like you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_09_5"
+            },
+            {
+                "id": "d_counseling_biscuit_09_4",
+                "type": "Choice",
+                "text": "A puppy like Poli.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_09_8"
+            },
+            {
+                "id": "d_counseling_biscuit_09_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_09_6",
+                "type": "Speech",
+                "text": "You're fond of puppies like me?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_09_7",
+                "type": "Speech",
+                "text": "Hehehe. I'm also fond of humans like you, Trainer!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_09_12"
+            },
+            {
+                "id": "d_counseling_biscuit_09_8",
+                "type": "Speech",
+                "text": "A puppy like Poli would be adorable.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_09_9",
+                "type": "Speech",
+                "text": "Right. Poli is cute, so you'd obviously want to raise a puppy like her.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_09_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_09_11",
+                "type": "Speech",
+                "text": "Um... I don't know why but... I feel a bit sad...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_09_12",
+                "type": "Narration",
+                "text": "I teach Biscuit the things one should know before raising a puppy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_10_1",
+                "type": "Speech",
+                "text": "Trainer, what kind of scent do you like?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_10_2",
+                "type": "Choice",
+                "text": "The musty smell of a dog coming home from a walk on a rainy day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_10_4"
+            },
+            {
+                "id": "d_counseling_biscuit_10_3",
+                "type": "Choice",
+                "text": "The fresh smell of a dog right out of the shower.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_10_7"
+            },
+            {
+                "id": "d_counseling_biscuit_10_4",
+                "type": "Speech",
+                "text": "... What?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_10_5",
+                "type": "Speech",
+                "text": "Uh... You like that scent?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_10_6",
+                "type": "Speech",
+                "text": "... Not kidding?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_10_9"
+            },
+            {
+                "id": "d_counseling_biscuit_10_7",
+                "type": "Speech",
+                "text": "Wow! You're right!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_10_8",
+                "type": "Speech",
+                "text": "Dogs look fluffy and adorable at that time, and they smell good!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_10_9",
+                "type": "Narration",
+                "text": "Biscuit and I talk about scents we like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_11_1",
+                "type": "Speech",
+                "text": "Hmm... Conversation with Nero flows naturally. I can even tell her about my worries.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_2",
+                "type": "Speech",
+                "text": "But Leona always gives off the distinctive aura of a lion...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_3",
+                "type": "Speech",
+                "text": "It makes her feel a bit scary... and aloof.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_4",
+                "type": "Speech",
+                "text": "I know that Leona isn't scary at all and that I shouldn't be feeling this way...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_5",
+                "type": "Speech",
+                "text": "But I can't help it.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_6",
+                "type": "Speech",
+                "text": "What should I do to overcome this?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_7",
+                "type": "Choice",
+                "text": "Try roaring as you speak.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_11_9"
+            },
+            {
+                "id": "d_counseling_biscuit_11_8",
+                "type": "Choice",
+                "text": "Try covering your eyes as you speak.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_11_14"
+            },
+            {
+                "id": "d_counseling_biscuit_11_9",
+                "type": "Speech",
+                "text": "R-roaring...?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_10",
+                "type": "Speech",
+                "text": "Good morning, Leona! Roar!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_11",
+                "type": "Speech",
+                "text": "What did you\u2014Roar! \u2014do today?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_12",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_13",
+                "type": "Speech",
+                "text": "It... It feels a bit strange!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_11_19"
+            },
+            {
+                "id": "d_counseling_biscuit_11_14",
+                "type": "Speech",
+                "text": "Cover my eyes?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_15",
+                "type": "Speech",
+                "text": "Hmm... That seems like a good idea!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_16",
+                "type": "Speech",
+                "text": "If I don't see Leona's lion-like appearance...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_17",
+                "type": "Speech",
+                "text": "Maybe I'll feel less scared!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_18",
+                "type": "Speech",
+                "text": "Thank you, Trainer!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_11_19",
+                "type": "Narration",
+                "text": "I talk to Biscuit about overcoming her fear of her friend.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_12_1",
+                "type": "Speech",
+                "text": "I feel so happy when I'm with Nero!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_12_2",
+                "type": "Speech",
+                "text": "Her triangular ears are so cute, and her smooth tail is super adorable!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_12_3",
+                "type": "Speech",
+                "text": "The same thing goes for other cats. Why are they so lovely?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_12_4",
+                "type": "Choice",
+                "text": "Because they are born lovely.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_12_6"
+            },
+            {
+                "id": "d_counseling_biscuit_12_5",
+                "type": "Choice",
+                "text": "You won't think that way if you see cats making trouble...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_12_9"
+            },
+            {
+                "id": "d_counseling_biscuit_12_6",
+                "type": "Speech",
+                "text": "Right?! These sweet cats are perfect!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_12_7",
+                "type": "Speech",
+                "text": "Aww, they're so cute.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_12_8",
+                "type": "Speech",
+                "text": "Hehe, I'm going to visit Nero after today's counseling.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_12_12"
+            },
+            {
+                "id": "d_counseling_biscuit_12_9",
+                "type": "Speech",
+                "text": "What? Cats making trouble?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_12_10",
+                "type": "Speech",
+                "text": "What trouble?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_12_11",
+                "type": "Speech",
+                "text": "I never saw Nero making any trouble...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_12_12",
+                "type": "Narration",
+                "text": "I chat with Biscuit about how adorable cats are.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_13_1",
+                "type": "Speech",
+                "text": "Someone said that...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_2",
+                "type": "Speech",
+                "text": "they want to understand what dogs are saying.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_3",
+                "type": "Speech",
+                "text": "How about you, Trainer? Do you also want to understand them?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_4",
+                "type": "Choice",
+                "text": "I can already understand what you're saying.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_13_6"
+            },
+            {
+                "id": "d_counseling_biscuit_13_5",
+                "type": "Choice",
+                "text": "I do wish I can do that when they're sick.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_13_11"
+            },
+            {
+                "id": "d_counseling_biscuit_13_6",
+                "type": "Speech",
+                "text": "Huh? Me?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_7",
+                "type": "Speech",
+                "text": "Of course you can understand me...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_8",
+                "type": "Speech",
+                "text": "Ooh... I can communicate with dogs and pass you their message.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_9",
+                "type": "Speech",
+                "text": "So I'm the interpreter. I can help you understand them...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_10",
+                "type": "Speech",
+                "text": "That's right...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_13_16"
+            },
+            {
+                "id": "d_counseling_biscuit_13_11",
+                "type": "Speech",
+                "text": "Yes! Everyone says that",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_12",
+                "type": "Speech",
+                "text": "they don't know what's wrong with dogs when they're ill,",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_13",
+                "type": "Speech",
+                "text": "so they want to be able to understand what their dogs are saying.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_14",
+                "type": "Speech",
+                "text": "Hehe. But as long as you have me, I can tell you what the dogs are saying.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_15",
+                "type": "Speech",
+                "text": "What's ailing them, what they want to do... If you want to find out, feel free to ask me anytime!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_13_16",
+                "type": "Narration",
+                "text": "I listen to Biscuit talk about the language and behavior of dogs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_14_1",
+                "type": "Speech",
+                "text": "Trainer!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_2",
+                "type": "Monologue",
+                "text": "Biscuit's eyes sparkle as she wags her tail vigorously.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_3",
+                "type": "Speech",
+                "text": "Uh... Trainer, what kind of person do you see me as?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_4",
+                "type": "Choice",
+                "text": "A cool and mighty puppy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_14_6"
+            },
+            {
+                "id": "d_counseling_biscuit_14_5",
+                "type": "Choice",
+                "text": "A troublemaker of a puppy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_14_10"
+            },
+            {
+                "id": "d_counseling_biscuit_14_6",
+                "type": "Speech",
+                "text": "Cool and mighty... Hehehe.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_7",
+                "type": "Monologue",
+                "text": "Biscuit's tail begins wagging even more rapidly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_8",
+                "type": "Speech",
+                "text": "I know you said that to make me feel good.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_9",
+                "type": "Speech",
+                "text": "But still, I'm so happy! Hehe!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_14_15"
+            },
+            {
+                "id": "d_counseling_biscuit_14_10",
+                "type": "Speech",
+                "text": "M-me?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_11",
+                "type": "Speech",
+                "text": "Troublemaker...?!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_12",
+                "type": "Monologue",
+                "text": "Biscuit's tail droops.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_13",
+                "type": "Speech",
+                "text": "Really? Are you sure?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_14",
+                "type": "Self",
+                "text": "... I'm just kidding.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_14_15",
+                "type": "Narration",
+                "text": "Biscuit and I have a short discussion about leaving impressions on others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_15_1",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_2",
+                "type": "Monologue",
+                "text": "Biscuit stares at the snacks and the ball on the table.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_3",
+                "type": "Speech",
+                "text": "Hmmmmm...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_4",
+                "type": "Choice",
+                "text": "Biscuit, catch!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_15_6"
+            },
+            {
+                "id": "d_counseling_biscuit_15_5",
+                "type": "Choice",
+                "text": "Do you want some snacks?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_15_12"
+            },
+            {
+                "id": "d_counseling_biscuit_15_6",
+                "type": "Monologue",
+                "text": "I throw the ball toward the door.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_7",
+                "type": "Speech",
+                "text": "Huh? Oh? Okay!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_8",
+                "type": "Monologue",
+                "text": "Biscuit brings the ball back.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_9",
+                "type": "Speech",
+                "text": "*Huff, huff* I was surprised when you suddenly threw the ball.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_10",
+                "type": "Speech",
+                "text": "I was already hungry. Now I'm starving...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_11",
+                "type": "Speech",
+                "text": "Uhh... I didn't plan to eat any snacks, but it seems like I have to now.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_15_19"
+            },
+            {
+                "id": "d_counseling_biscuit_15_12",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_13",
+                "type": "Speech",
+                "text": "H-how did you know I want snacks?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_14",
+                "type": "Speech",
+                "text": "Ah, is it because I was staring hard at them? Hehehe...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_15",
+                "type": "Speech",
+                "text": "I planned to cut down on snacks cause I feel like I'm eating too much lately...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_16",
+                "type": "Speech",
+                "text": "But now that it's in front of me, I'm craving it.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_17",
+                "type": "Self",
+                "text": "Just have one. That should be okay.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_18",
+                "type": "Speech",
+                "text": "Really...? Can I really have one?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_15_19",
+                "type": "Narration",
+                "text": "I feed Biscuit some snacks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_16_1",
+                "type": "Speech",
+                "text": "Trainer...",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_16_2",
+                "type": "Speech",
+                "text": "Do you like dogs or cats more?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_16_3",
+                "type": "Choice",
+                "text": "Dogs.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_16_5"
+            },
+            {
+                "id": "d_counseling_biscuit_16_4",
+                "type": "Choice",
+                "text": "Cats.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_16_8"
+            },
+            {
+                "id": "d_counseling_biscuit_16_5",
+                "type": "Speech",
+                "text": "Hehe. Really?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_16_6",
+                "type": "Speech",
+                "text": "I like dogs more, too!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_16_7",
+                "type": "Speech",
+                "text": "But of course, I like cats a lot as well...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_16_11"
+            },
+            {
+                "id": "d_counseling_biscuit_16_8",
+                "type": "Speech",
+                "text": "Wow...! I see. I like cats, too!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_16_9",
+                "type": "Speech",
+                "text": "Then... do you not like dogs?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_16_10",
+                "type": "Speech",
+                "text": "Not even a bit...?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_16_11",
+                "type": "Narration",
+                "text": "Biscuit and I talk about our favorite animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_17_1",
+                "type": "Speech",
+                "text": "The dogs at the shelter are seriously so cute!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_17_2",
+                "type": "Speech",
+                "text": "I hope they can be happy forever. Hehe.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_17_3",
+                "type": "Choice",
+                "text": "I hope you can be happy too, Biscuit.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_17_5"
+            },
+            {
+                "id": "d_counseling_biscuit_17_4",
+                "type": "Choice",
+                "text": "They will be, since you're here.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_17_8"
+            },
+            {
+                "id": "d_counseling_biscuit_17_5",
+                "type": "Speech",
+                "text": "Hehe! I'm already very happy!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_17_6",
+                "type": "Speech",
+                "text": "I have Nero by my side, and Leona!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_17_7",
+                "type": "Speech",
+                "text": "And you, Trainer!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_17_11"
+            },
+            {
+                "id": "d_counseling_biscuit_17_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_17_9",
+                "type": "Speech",
+                "text": "Really? That would be great!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_17_10",
+                "type": "Speech",
+                "text": "I'm also very happy because of them!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_17_11",
+                "type": "Narration",
+                "text": "Biscuit and I talk about happiness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_18_1",
+                "type": "Speech",
+                "text": "The dogs at the shelter hate having their teeth brushed.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_18_2",
+                "type": "Speech",
+                "text": "What should I do to give their teeth a good brush?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_18_3",
+                "type": "Choice",
+                "text": "You can just lead by example.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_18_5"
+            },
+            {
+                "id": "d_counseling_biscuit_18_4",
+                "type": "Choice",
+                "text": "How about giving them snacks after brushing their teeth?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_18_9"
+            },
+            {
+                "id": "d_counseling_biscuit_18_5",
+                "type": "Speech",
+                "text": "... Uh.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_18_6",
+                "type": "Speech",
+                "text": "I also don't like brushing my teeth though...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_18_7",
+                "type": "Speech",
+                "text": "... But I do have to set a good example, right...?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_18_8",
+                "type": "Speech",
+                "text": "... I wonder if there is snack-flavored toothpaste?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_18_12"
+            },
+            {
+                "id": "d_counseling_biscuit_18_9",
+                "type": "Speech",
+                "text": "Wow! That's a wonderful idea, Trainer!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_18_10",
+                "type": "Speech",
+                "text": "I can teach them while giving them snacks! Win-win!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_18_11",
+                "type": "Speech",
+                "text": "Hehe. If I brush my teeth properly, will you also give me snacks?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_18_12",
+                "type": "Narration",
+                "text": "I pick out some yummy toothpaste with Biscuit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_19_1",
+                "type": "Narration",
+                "text": "*Gurgle*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_19_2",
+                "type": "Speech",
+                "text": "... Oof!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_19_3",
+                "type": "Speech",
+                "text": "Trainer... I'm hungry.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_19_4",
+                "type": "Choice",
+                "text": "Give her chocolate.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_19_6"
+            },
+            {
+                "id": "d_counseling_biscuit_19_5",
+                "type": "Choice",
+                "text": "Give her sweet potato sticks.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_19_8"
+            },
+            {
+                "id": "d_counseling_biscuit_19_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_19_7",
+                "type": "Speech",
+                "text": "Chocolates... are not my cup of tea, sorry.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_19_11"
+            },
+            {
+                "id": "d_counseling_biscuit_19_8",
+                "type": "Narration",
+                "text": "Biscuit's tail starts wagging quickly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_19_9",
+                "type": "Speech",
+                "text": "*Drool*",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_19_10",
+                "type": "Speech",
+                "text": "This is my favorite... I can eat it, right?!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_19_11",
+                "type": "Narration",
+                "text": "I give Biscuit her favorite snack and spend some time with her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_biscuit_20_1",
+                "type": "Speech",
+                "text": "There's a new puppy at the shelter, but it's very shy!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_20_2",
+                "type": "Speech",
+                "text": "How can I get to know it better?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_20_3",
+                "type": "Choice",
+                "text": "Be patient and wait until it approaches you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_biscuit_20_5"
+            },
+            {
+                "id": "d_counseling_biscuit_20_4",
+                "type": "Choice",
+                "text": "Why don't you try approaching it, Biscuit?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_biscuit_20_9"
+            },
+            {
+                "id": "d_counseling_biscuit_20_5",
+                "type": "Speech",
+                "text": "Yeah... I want to play with it right away...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_20_6",
+                "type": "Speech",
+                "text": "Hehe. But I have to give it some time, right?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_20_7",
+                "type": "Speech",
+                "text": "After all, it's still unfamiliar with this place...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_20_8",
+                "type": "Speech",
+                "text": "I hope the puppy opens its heart soon!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": "d_counseling_biscuit_20_12"
+            },
+            {
+                "id": "d_counseling_biscuit_20_9",
+                "type": "Speech",
+                "text": "I went up to it when it arrived, but it turned and hid in the corner...!",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_20_10",
+                "type": "Speech",
+                "text": "What if it gets more afraid of me?",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_20_11",
+                "type": "Speech",
+                "text": "I should just watch from afar and wait until it gets used to being here.",
+                "speaker": "Biscuit",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_biscuit_20_12",
+                "type": "Narration",
+                "text": "I listen to Biscuit talk about the new puppy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,1821 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_yulha_01_1",
+                "type": "Speech",
+                "text": "Sigh...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_01_2",
+                "type": "Speech",
+                "text": "Ugh... Why are you staring at me?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_01_3",
+                "type": "Choice",
+                "text": "Do you have a bad hangover?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_01_5"
+            },
+            {
+                "id": "d_counseling_yulha_01_4",
+                "type": "Choice",
+                "text": "Are you stressed out from work?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_01_8"
+            },
+            {
+                "id": "d_counseling_yulha_01_5",
+                "type": "Speech",
+                "text": "I see what you were thinking.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_01_6",
+                "type": "Speech",
+                "text": "... Your guess was correct.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_01_7",
+                "type": "Speech",
+                "text": "If that answers all your questions, then go away. This hangover is killing me.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_01_11"
+            },
+            {
+                "id": "d_counseling_yulha_01_8",
+                "type": "Speech",
+                "text": "You think I would be like this for something as simple as work?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_01_9",
+                "type": "Speech",
+                "text": "This isn't the first time I've been overworked...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_01_10",
+                "type": "Speech",
+                "text": "Ugh, just go away, I'm annoyed.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_01_11",
+                "type": "Narration",
+                "text": "I stay away from a sensitive Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_02_1",
+                "type": "Speech",
+                "text": "These days, I can't help but nag Privaty whenever I see her.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_2",
+                "type": "Speech",
+                "text": "But if I keep doing it, I know she'll get upset...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_3",
+                "type": "Speech",
+                "text": "*Sigh* What should I do?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_4",
+                "type": "Choice",
+                "text": "Still, shouldn't you say what's on your mind?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_02_6"
+            },
+            {
+                "id": "d_counseling_yulha_02_5",
+                "type": "Choice",
+                "text": "It might be a good idea to nag a little less.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_02_9"
+            },
+            {
+                "id": "d_counseling_yulha_02_6",
+                "type": "Speech",
+                "text": "That's right. I should say what's on my mind, right?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_7",
+                "type": "Speech",
+                "text": "After all, I'm the one who always cleans up her messes.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_8",
+                "type": "Speech",
+                "text": "Don't I deserve a little nag or two?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_02_13"
+            },
+            {
+                "id": "d_counseling_yulha_02_9",
+                "type": "Speech",
+                "text": "Right... I should try and hold it in. Sure.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_10",
+                "type": "Speech",
+                "text": "But I'm the one who's always running around cleaning up her messes!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_11",
+                "type": "Speech",
+                "text": "And now I can't even nag?!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_12",
+                "type": "Speech",
+                "text": "Ugh! So annoying!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_02_13",
+                "type": "Narration",
+                "text": "I share many sighs with Yulha while talking about Privaty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_03_1",
+                "type": "Speech",
+                "text": "Admi worries too much.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_03_2",
+                "type": "Speech",
+                "text": "It might be a sign that she is mature...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_03_3",
+                "type": "Speech",
+                "text": "But I don't think it's good for a kid to be so mature, anyway.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_03_4",
+                "type": "Choice",
+                "text": "Tell her to learn from Privaty how to act like a kid.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_03_6"
+            },
+            {
+                "id": "d_counseling_yulha_03_5",
+                "type": "Choice",
+                "text": "Give her a vacation and send her to the Outpost.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_03_9"
+            },
+            {
+                "id": "d_counseling_yulha_03_6",
+                "type": "Speech",
+                "text": "Why is everything you say such nonsense?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_03_7",
+                "type": "Speech",
+                "text": "Admi is already looking down on Privaty these days.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_03_8",
+                "type": "Speech",
+                "text": "Do you think she will want to learn from Privaty?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_03_12"
+            },
+            {
+                "id": "d_counseling_yulha_03_9",
+                "type": "Speech",
+                "text": "That's a good idea. You're there, too...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_03_10",
+                "type": "Speech",
+                "text": "Maybe you can help her relieve some of her stress.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_03_11",
+                "type": "Speech",
+                "text": "I will send her there soon.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_03_12",
+                "type": "Narration",
+                "text": "I worry about Admi with Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_04_1",
+                "type": "Speech",
+                "text": "I heard that eating can make stress go away.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_04_2",
+                "type": "Speech",
+                "text": "So, what should I eat? Something sweet, or something spicy?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_04_3",
+                "type": "Choice",
+                "text": "Sweet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_04_5"
+            },
+            {
+                "id": "d_counseling_yulha_04_4",
+                "type": "Choice",
+                "text": "Spicy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_04_8"
+            },
+            {
+                "id": "d_counseling_yulha_04_5",
+                "type": "Speech",
+                "text": "Hmph, I heard spicy food is better for relieving stress...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_04_6",
+                "type": "Speech",
+                "text": "Still, you made a good choice.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_04_7",
+                "type": "Speech",
+                "text": "I can't eat spicy food, anyway.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_04_10"
+            },
+            {
+                "id": "d_counseling_yulha_04_8",
+                "type": "Speech",
+                "text": "But I can't eat spicy food.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_04_9",
+                "type": "Speech",
+                "text": "Choose something else.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_04_10",
+                "type": "Narration",
+                "text": "I go back and forth about food choices with Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_05_1",
+                "type": "Speech",
+                "text": "I have a favor. Could you try to reign in your Nikkes a little more?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_2",
+                "type": "Speech",
+                "text": "Because of all the troubles you're causing on the surface and the Outpost, the amount of paperwork...!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_3",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_4",
+                "type": "Choice",
+                "text": "Okay. I'll be more controlling.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_05_6"
+            },
+            {
+                "id": "d_counseling_yulha_05_5",
+                "type": "Choice",
+                "text": "I'm sorry, but that is impossible.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_05_9"
+            },
+            {
+                "id": "d_counseling_yulha_05_6",
+                "type": "Speech",
+                "text": "Don't make promises you can't keep.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_7",
+                "type": "Speech",
+                "text": "I know very well you can't control all those Nikkes.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_8",
+                "type": "Speech",
+                "text": "Not by yourself, anyway.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_05_13"
+            },
+            {
+                "id": "d_counseling_yulha_05_9",
+                "type": "Speech",
+                "text": "Oh, yeah? You're not up to the task?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_10",
+                "type": "Speech",
+                "text": "... Fine.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_11",
+                "type": "Speech",
+                "text": "You can't possibly control all those Nikkes by yourself.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_12",
+                "type": "Speech",
+                "text": "Admitting your shortcomings is better than making promises you can't keep, anyway.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_05_13",
+                "type": "Narration",
+                "text": "I discuss solutions about the Nikkes at the Outpost with Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_06_1",
+                "type": "Speech",
+                "text": "Hey, Newbie.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_06_2",
+                "type": "Speech",
+                "text": "Do you have somewhere you want to go on your vacation?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_06_3",
+                "type": "Choice",
+                "text": "You think I have time for a vacation?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_06_5"
+            },
+            {
+                "id": "d_counseling_yulha_06_4",
+                "type": "Choice",
+                "text": "I'll just rest in the Commander's Room.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_06_8"
+            },
+            {
+                "id": "d_counseling_yulha_06_5",
+                "type": "Speech",
+                "text": "You never think about it?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_06_6",
+                "type": "Speech",
+                "text": "Well, I guess that's true.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_06_7",
+                "type": "Speech",
+                "text": "There's no such thing as a vacation for us...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_06_11"
+            },
+            {
+                "id": "d_counseling_yulha_06_8",
+                "type": "Speech",
+                "text": "You are going to use your golden vacation days being stuffed inside a room?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_06_9",
+                "type": "Speech",
+                "text": "I didn't think you were so uselessly lazy.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_06_10",
+                "type": "Speech",
+                "text": "... But I guess it's not bad, either.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_06_11",
+                "type": "Narration",
+                "text": "I imagine a nonexistent vacation with Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_07_1",
+                "type": "Speech",
+                "text": "Newbie, did you ever consider working as a regular soldier for the Central Government?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_07_2",
+                "type": "Speech",
+                "text": "Instead of being a Commander, I mean.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_07_3",
+                "type": "Choice",
+                "text": "I did.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_07_5"
+            },
+            {
+                "id": "d_counseling_yulha_07_4",
+                "type": "Choice",
+                "text": "I didn't.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_07_9"
+            },
+            {
+                "id": "d_counseling_yulha_07_5",
+                "type": "Speech",
+                "text": "Hm? You did?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_07_6",
+                "type": "Speech",
+                "text": "That's an unexpected answer.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_07_7",
+                "type": "Speech",
+                "text": "Hm... If you worked below me, I could have bossed you around.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_07_8",
+                "type": "Speech",
+                "text": "What a pity.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_07_11"
+            },
+            {
+                "id": "d_counseling_yulha_07_9",
+                "type": "Speech",
+                "text": "Right. I knew you would say that.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_07_10",
+                "type": "Speech",
+                "text": "You were born to do this job.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_07_11",
+                "type": "Narration",
+                "text": "I discuss the Central Government with Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_08_1",
+                "type": "Speech",
+                "text": "Every day this horrible, conniving woman keeps getting in my way.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_08_2",
+                "type": "Speech",
+                "text": "How can I get rid of her?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_08_3",
+                "type": "Choice",
+                "text": "Ask her, \"Do you like me?\"",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_08_5"
+            },
+            {
+                "id": "d_counseling_yulha_08_4",
+                "type": "Choice",
+                "text": "Bite her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_08_8"
+            },
+            {
+                "id": "d_counseling_yulha_08_5",
+                "type": "Speech",
+                "text": "No. I don't want to hear her answer.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_08_6",
+                "type": "Speech",
+                "text": "I might even throw up just trying to ask.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_08_7",
+                "type": "Speech",
+                "text": "Ugh, just thinking about it is making my stomach churn.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_08_11"
+            },
+            {
+                "id": "d_counseling_yulha_08_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_08_9",
+                "type": "Speech",
+                "text": "Bite her? With my teeth?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_08_10",
+                "type": "Speech",
+                "text": "... That's not a bad idea.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_08_11",
+                "type": "Narration",
+                "text": "I make plans for getting rid of the conniving woman with Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_09_1",
+                "type": "Speech",
+                "text": "Hey, Newbie.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_09_2",
+                "type": "Speech",
+                "text": "Have you ever realized...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_09_3",
+                "type": "Speech",
+                "text": "If, one day, our superiors gave the order,",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_09_4",
+                "type": "Speech",
+                "text": "Triangle will execute you?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_09_5",
+                "type": "Choice",
+                "text": "I know.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_09_7"
+            },
+            {
+                "id": "d_counseling_yulha_09_6",
+                "type": "Choice",
+                "text": "Can't I just pretend it's not true?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_09_10"
+            },
+            {
+                "id": "d_counseling_yulha_09_7",
+                "type": "Speech",
+                "text": "Then... you still spend your time counseling me?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_09_8",
+                "type": "Speech",
+                "text": "I can't imagine a bigger sucker than you.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_09_9",
+                "type": "Speech",
+                "text": "You stupid fool.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_09_12"
+            },
+            {
+                "id": "d_counseling_yulha_09_10",
+                "type": "Speech",
+                "text": "You can't afford to pretend.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_09_11",
+                "type": "Speech",
+                "text": "Someday, my bullet might just be the one that stops your heart.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_09_12",
+                "type": "Narration",
+                "text": "I spend some serious counseling time with Yulha.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_10_1",
+                "type": "Speech",
+                "text": "What is your ideal type?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_10_2",
+                "type": "Speech",
+                "text": "Do any of the Nikkes suit you?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_10_3",
+                "type": "Choice",
+                "text": "Someone like you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_10_5"
+            },
+            {
+                "id": "d_counseling_yulha_10_4",
+                "type": "Choice",
+                "text": "I don't think there are any among the Nikkes...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_10_8"
+            },
+            {
+                "id": "d_counseling_yulha_10_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_10_6",
+                "type": "Speech",
+                "text": "Y-you fool! What are you saying...?!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_10_7",
+                "type": "Speech",
+                "text": "If you're joking, I won't let it slide!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_10_11"
+            },
+            {
+                "id": "d_counseling_yulha_10_8",
+                "type": "Speech",
+                "text": "None of the Nikkes?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_10_9",
+                "type": "Speech",
+                "text": "What a fool. You have higher standards than expected.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_10_10",
+                "type": "Speech",
+                "text": "Or... Do you not like the Nikkes because they are not human...?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_10_11",
+                "type": "Narration",
+                "text": "I argue with Yulha about ideal types.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_11_1",
+                "type": "Speech",
+                "text": "I've heard that listening to white noise can help you concentrate.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_11_2",
+                "type": "Speech",
+                "text": "Do you think there's any truth to that?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_11_3",
+                "type": "Choice",
+                "text": "For sure.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_11_5"
+            },
+            {
+                "id": "d_counseling_yulha_11_4",
+                "type": "Choice",
+                "text": "I think it's complete nonsense.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_11_8"
+            },
+            {
+                "id": "d_counseling_yulha_11_5",
+                "type": "Speech",
+                "text": "If you say so.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_11_6",
+                "type": "Speech",
+                "text": "I personally prefer to work in silence.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_11_7",
+                "type": "Speech",
+                "text": "If we ever end up sharing the same workspace, things might get uncomfortable.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_11_11"
+            },
+            {
+                "id": "d_counseling_yulha_11_8",
+                "type": "Speech",
+                "text": "That's what I said!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_11_9",
+                "type": "Speech",
+                "text": "You can concentrate much better in a quiet environment.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_11_10",
+                "type": "Speech",
+                "text": "It's good that this place is as serene as it is.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_11_11",
+                "type": "Narration",
+                "text": "Yulha and I spend some more time talking to each other.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_12_1",
+                "type": "Speech",
+                "text": "Damn this insomnia... I feel like death warmed over.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_12_2",
+                "type": "Speech",
+                "text": "I've heard you can get so tired that you can't even fall asleep.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_12_3",
+                "type": "Speech",
+                "text": "What should I do in a situation like this?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_12_4",
+                "type": "Choice",
+                "text": "I'll sing you a lullaby.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_12_6"
+            },
+            {
+                "id": "d_counseling_yulha_12_5",
+                "type": "Choice",
+                "text": "Get a prescription for some sleeping pills.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_12_9"
+            },
+            {
+                "id": "d_counseling_yulha_12_6",
+                "type": "Speech",
+                "text": "I'm not a baby!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_12_7",
+                "type": "Speech",
+                "text": "That won't help me fall asleep!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_12_8",
+                "type": "Speech",
+                "text": "... Well, I guess it won't hurt to listen to it just once.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_12_12"
+            },
+            {
+                "id": "d_counseling_yulha_12_9",
+                "type": "Speech",
+                "text": "Hmmm...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_12_10",
+                "type": "Speech",
+                "text": "I don't think this is severe enough to warrant a hospital visit.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_12_11",
+                "type": "Speech",
+                "text": "But if you think I should, I'll drop by the doctor later.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_12_12",
+                "type": "Narration",
+                "text": "Yulha and I tried to come up with ways to help her fall asleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_13_1",
+                "type": "Speech",
+                "text": "Hey...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_13_2",
+                "type": "Speech",
+                "text": "Do... do you think ghosts really exist?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_13_3",
+                "type": "Choice",
+                "text": "Yes, they do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_13_5"
+            },
+            {
+                "id": "d_counseling_yulha_13_4",
+                "type": "Choice",
+                "text": "Of course they don't.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_13_8"
+            },
+            {
+                "id": "d_counseling_yulha_13_5",
+                "type": "Speech",
+                "text": "But... how do you know that?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_13_6",
+                "type": "Speech",
+                "text": "You don't mean...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_13_7",
+                "type": "Speech",
+                "text": "Have you encountered one before?!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_13_11"
+            },
+            {
+                "id": "d_counseling_yulha_13_8",
+                "type": "Speech",
+                "text": "Y-yeah, that's right!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_13_9",
+                "type": "Speech",
+                "text": "There's no such thing as ghosts.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_13_10",
+                "type": "Speech",
+                "text": "I feel much better.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_13_11",
+                "type": "Narration",
+                "text": "Yulha and I end up spooking each other while we have our discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_14_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_14_2",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_14_3",
+                "type": "Choice",
+                "text": "Say something.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_14_5"
+            },
+            {
+                "id": "d_counseling_yulha_14_4",
+                "type": "Choice",
+                "text": "Don't do anything.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_14_8"
+            },
+            {
+                "id": "d_counseling_yulha_14_5",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_14_6",
+                "type": "Speech",
+                "text": "Argh! Why can't you keep your mouth shut for a second?!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_14_7",
+                "type": "Speech",
+                "text": "Now I have to recalculate everything!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_14_10"
+            },
+            {
+                "id": "d_counseling_yulha_14_8",
+                "type": "Speech",
+                "text": "All done.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_14_9",
+                "type": "Speech",
+                "text": "Sorry to keep you waiting. It was something urgent.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_14_10",
+                "type": "Narration",
+                "text": "Yulha and I have a conversation about working.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_15_1",
+                "type": "Speech",
+                "text": "I'm curious,",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_15_2",
+                "type": "Speech",
+                "text": "what kind of weather do you prefer?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_15_3",
+                "type": "Choice",
+                "text": "A rainy day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_15_5"
+            },
+            {
+                "id": "d_counseling_yulha_15_4",
+                "type": "Choice",
+                "text": "A sunny day.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_15_8"
+            },
+            {
+                "id": "d_counseling_yulha_15_5",
+                "type": "Speech",
+                "text": "I personally don't like rainy days.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_15_6",
+                "type": "Speech",
+                "text": "The sound of the raindrops always breaks my concentration.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_15_7",
+                "type": "Speech",
+                "text": "I prefer it to just be overcast.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_15_11"
+            },
+            {
+                "id": "d_counseling_yulha_15_8",
+                "type": "Speech",
+                "text": "I'm a big fan of sunny weather too.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_15_9",
+                "type": "Speech",
+                "text": "I can concentrate better.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_15_10",
+                "type": "Speech",
+                "text": "But I don't enjoy the glare in my eyes.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_15_11",
+                "type": "Narration",
+                "text": "Yulha and I have a friendly debate about the weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_16_1",
+                "type": "Speech",
+                "text": "Newbie,",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_16_2",
+                "type": "Speech",
+                "text": "is there anything you hope comes true this year?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_16_3",
+                "type": "Choice",
+                "text": "World peace.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_16_5"
+            },
+            {
+                "id": "d_counseling_yulha_16_4",
+                "type": "Choice",
+                "text": "That you take it easy for a while.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_16_8"
+            },
+            {
+                "id": "d_counseling_yulha_16_5",
+                "type": "Speech",
+                "text": "Wow. That may be the most far-fetched thing I've heard yet.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_16_6",
+                "type": "Speech",
+                "text": "You need to get your head out of the clouds.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_16_7",
+                "type": "Speech",
+                "text": "You think you can just flip a switch and have world peace?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_16_11"
+            },
+            {
+                "id": "d_counseling_yulha_16_8",
+                "type": "Speech",
+                "text": "Ha, so your wish has something to do with me?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_16_9",
+                "type": "Speech",
+                "text": "I hope for the same thing.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_16_10",
+                "type": "Speech",
+                "text": "However, if my workload is any indication, I don't see that wish coming true anytime soon.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_16_11",
+                "type": "Narration",
+                "text": "Yulha and I have a conversation about wishes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_17_1",
+                "type": "Speech",
+                "text": "I love to space out while I'm taking a shower.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_17_2",
+                "type": "Speech",
+                "text": "The only problem is that I can't stay there longer.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_17_3",
+                "type": "Speech",
+                "text": "What do you usually think about when you're in the shower?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_17_4",
+                "type": "Choice",
+                "text": "Pssh, you think I have time to take a shower?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_17_6"
+            },
+            {
+                "id": "d_counseling_yulha_17_5",
+                "type": "Choice",
+                "text": "I don't think about anything.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_17_8"
+            },
+            {
+                "id": "d_counseling_yulha_17_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_17_7",
+                "type": "Speech",
+                "text": "Yikes. Seems you're going through a rough patch right now.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_17_10"
+            },
+            {
+                "id": "d_counseling_yulha_17_8",
+                "type": "Speech",
+                "text": "So you're the same as me.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_17_9",
+                "type": "Speech",
+                "text": "The only time I can ever get outside of my head is when I'm in the shower.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_17_10",
+                "type": "Narration",
+                "text": "Yulha and I start talking about our favorite shampoos.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_18_1",
+                "type": "Speech",
+                "text": "I'm sick of drinking coffee whenever I feel tired.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_18_2",
+                "type": "Speech",
+                "text": "I want to drink something new. Is there anything you can recommend?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_18_3",
+                "type": "Choice",
+                "text": "An energy drink.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_18_5"
+            },
+            {
+                "id": "d_counseling_yulha_18_4",
+                "type": "Choice",
+                "text": "A vitamin drink.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_18_7"
+            },
+            {
+                "id": "d_counseling_yulha_18_5",
+                "type": "Speech",
+                "text": "Yeah, that could work...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_18_6",
+                "type": "Speech",
+                "text": "All right, I'll try an energy drink today.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_18_10"
+            },
+            {
+                "id": "d_counseling_yulha_18_7",
+                "type": "Speech",
+                "text": "Blech! Vitamin drinks taste awful.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_18_8",
+                "type": "Speech",
+                "text": "Even your taste buds aren't trustworthy.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_18_9",
+                "type": "Speech",
+                "text": "I'd rather just drink a different type of coffee.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_18_10",
+                "type": "Narration",
+                "text": "Yulha and I continue discussing the topic of drinks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_19_1",
+                "type": "Speech",
+                "text": "If you could ask me any questions,",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_19_2",
+                "type": "Speech",
+                "text": "what would you ask?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_19_3",
+                "type": "Choice",
+                "text": "When do you find time to rest?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_19_5"
+            },
+            {
+                "id": "d_counseling_yulha_19_4",
+                "type": "Choice",
+                "text": "Do you enjoy your job?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_19_8"
+            },
+            {
+                "id": "d_counseling_yulha_19_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_19_6",
+                "type": "Speech",
+                "text": "Jeez... I'm stumped on the first question.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_19_7",
+                "type": "Speech",
+                "text": "To be honest, I'm not so sure myself.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_19_11"
+            },
+            {
+                "id": "d_counseling_yulha_19_8",
+                "type": "Speech",
+                "text": "What's the big idea of asking me such a stupid question?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_19_9",
+                "type": "Speech",
+                "text": "That's it. Question time's over.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_19_10",
+                "type": "Speech",
+                "text": "Great, now you made me even more stressed!",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_19_11",
+                "type": "Narration",
+                "text": "I am unable to ask Yulha any more questions.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_yulha_20_1",
+                "type": "Speech",
+                "text": "Newbie, why am I so tired?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_20_2",
+                "type": "Choice",
+                "text": "Because you've been working all day.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_yulha_20_4"
+            },
+            {
+                "id": "d_counseling_yulha_20_3",
+                "type": "Choice",
+                "text": "Because you haven't left the office yet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_yulha_20_7"
+            },
+            {
+                "id": "d_counseling_yulha_20_4",
+                "type": "Speech",
+                "text": "Exactly right. I have to do it all over again tomorrow as well.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_20_5",
+                "type": "Speech",
+                "text": "They even asked me to work on the weekend.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_20_6",
+                "type": "Speech",
+                "text": "Can you believe it?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": "d_counseling_yulha_20_10"
+            },
+            {
+                "id": "d_counseling_yulha_20_7",
+                "type": "Speech",
+                "text": "Let's get one thing straight.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_20_8",
+                "type": "Speech",
+                "text": "I would if I could.",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_20_9",
+                "type": "Speech",
+                "text": "Understood?",
+                "speaker": "Yulha",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_yulha_20_10",
+                "type": "Narration",
+                "text": "I have a conversation with Yulha about work.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

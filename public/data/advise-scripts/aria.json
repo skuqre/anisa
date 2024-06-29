@@ -1,0 +1,1893 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_aria_01_1",
+                "type": "Speech",
+                "text": "When you're booking tickets for a theater,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_01_2",
+                "type": "Speech",
+                "text": "which seats do you prefer?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_01_3",
+                "type": "Choice",
+                "text": "The ones closest to the stage.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_01_5"
+            },
+            {
+                "id": "d_counseling_aria_01_4",
+                "type": "Choice",
+                "text": "Anywhere is fine.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_01_9"
+            },
+            {
+                "id": "d_counseling_aria_01_5",
+                "type": "Speech",
+                "text": "I thought you'd say that.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_01_6",
+                "type": "Speech",
+                "text": "That's good, because",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_01_7",
+                "type": "Speech",
+                "text": "I asked for some VIP tickets in advance.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_01_8",
+                "type": "Speech",
+                "text": "You can use them the next time you come to see the show.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_01_12"
+            },
+            {
+                "id": "d_counseling_aria_01_9",
+                "type": "Speech",
+                "text": "So you don't care one way or the other...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_01_10",
+                "type": "Speech",
+                "text": "I was thinking about getting you some VIP tickets if you wanted to sit close to the stage.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_01_11",
+                "type": "Speech",
+                "text": "But I guess that won't be necessary...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_01_12",
+                "type": "Narration",
+                "text": "Aria and I talked more about her performances.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_02_1",
+                "type": "Speech",
+                "text": "One of the theater employees told me now is the best time to take a vacation.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_02_2",
+                "type": "Speech",
+                "text": "If you had some time off, what would you do?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_02_3",
+                "type": "Choice",
+                "text": "Stay at home and sleep in.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_02_5"
+            },
+            {
+                "id": "d_counseling_aria_02_4",
+                "type": "Choice",
+                "text": "Travel far away to somewhere exotic.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_02_9"
+            },
+            {
+                "id": "d_counseling_aria_02_5",
+                "type": "Speech",
+                "text": "Wait.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_02_6",
+                "type": "Speech",
+                "text": "You can do that any day.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_02_7",
+                "type": "Speech",
+                "text": "You don't need vacation time for that.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_02_8",
+                "type": "Speech",
+                "text": "I don't get it...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_02_12"
+            },
+            {
+                "id": "d_counseling_aria_02_9",
+                "type": "Speech",
+                "text": "Going off to a distant place...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_02_10",
+                "type": "Speech",
+                "text": "That would be nice.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_02_11",
+                "type": "Speech",
+                "text": "I'm sure there'd be all sorts of exotic scenery and music to take in.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_02_12",
+                "type": "Narration",
+                "text": "Aria and I discussed our hypothetical vacation plans.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_03_1",
+                "type": "Speech",
+                "text": "If you have to choose between wealth and fame,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_03_2",
+                "type": "Speech",
+                "text": "which one will you pick?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_03_3",
+                "type": "Choice",
+                "text": "Fame.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_03_5"
+            },
+            {
+                "id": "d_counseling_aria_03_4",
+                "type": "Choice",
+                "text": "I don't need either of them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_03_8"
+            },
+            {
+                "id": "d_counseling_aria_03_5",
+                "type": "Speech",
+                "text": "Oh, really? It seems that fame is of great importance to you.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_03_6",
+                "type": "Speech",
+                "text": "I didn't think fame would mean much to you since you are always seen talking to numerous Nikkes.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_03_7",
+                "type": "Speech",
+                "text": "So I admit I'm a little surprised.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_03_11"
+            },
+            {
+                "id": "d_counseling_aria_03_8",
+                "type": "Speech",
+                "text": "I knew you'd say that.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_03_9",
+                "type": "Speech",
+                "text": "Just like you, music holds more importance to me than them both.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_03_10",
+                "type": "Speech",
+                "text": "I'm sure there's something you value more than fame and wealth.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_03_11",
+                "type": "Narration",
+                "text": "Aria and I continue to discuss the most important things in our lives.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_04_1",
+                "type": "Speech",
+                "text": "I was walking to a station at the Outpost,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_04_2",
+                "type": "Speech",
+                "text": "when I heard this awful singing.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_04_3",
+                "type": "Speech",
+                "text": "Did something happen there?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_04_4",
+                "type": "Choice",
+                "text": "It's home to a tone-deaf ghost.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_04_6"
+            },
+            {
+                "id": "d_counseling_aria_04_5",
+                "type": "Choice",
+                "text": "It's home to a poor soul who has forgotten how to sing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_04_8"
+            },
+            {
+                "id": "d_counseling_aria_04_6",
+                "type": "Speech",
+                "text": "Maestro, you know as well as I do",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_04_7",
+                "type": "Speech",
+                "text": "that ghosts aren't real.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_04_11"
+            },
+            {
+                "id": "d_counseling_aria_04_8",
+                "type": "Speech",
+                "text": "That's so sad!",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_04_9",
+                "type": "Speech",
+                "text": "Although their singing truly was awful, I feel so bad for them.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_04_10",
+                "type": "Speech",
+                "text": "Can you invite them to my next show?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_04_11",
+                "type": "Narration",
+                "text": "Aria and I talked more about how to cure tone-deafness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_05_1",
+                "type": "Speech",
+                "text": "Do you think the beginning",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_2",
+                "type": "Speech",
+                "text": "or the ending of a song is more important?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_3",
+                "type": "Choice",
+                "text": "The beginning.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_05_5"
+            },
+            {
+                "id": "d_counseling_aria_05_4",
+                "type": "Choice",
+                "text": "The end.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_05_9"
+            },
+            {
+                "id": "d_counseling_aria_05_5",
+                "type": "Speech",
+                "text": "I agree.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_6",
+                "type": "Speech",
+                "text": "If I can't get into a song right away,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_7",
+                "type": "Speech",
+                "text": "the rest of it doesn't come outright.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_8",
+                "type": "Speech",
+                "text": "For me, the beginning of a song is when I'm most immersed in it.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_05_13"
+            },
+            {
+                "id": "d_counseling_aria_05_9",
+                "type": "Speech",
+                "text": "Yeah... The end is important, too.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_10",
+                "type": "Speech",
+                "text": "But I care more about the beginning.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_11",
+                "type": "Speech",
+                "text": "If I can't get into a song right away,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_12",
+                "type": "Speech",
+                "text": "the rest of it doesn't come outright.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_05_13",
+                "type": "Narration",
+                "text": "Aria gives me some pointers on how to immerse yourself in the music when singing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_06_1",
+                "type": "Speech",
+                "text": "Maestro,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_2",
+                "type": "Speech",
+                "text": "if we ever reclaim the surface, what's the first thing you'll do?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_3",
+                "type": "Choice",
+                "text": "Find higher ground and shout to the heavens that we have retaken the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_06_5"
+            },
+            {
+                "id": "d_counseling_aria_06_4",
+                "type": "Choice",
+                "text": "Find higher ground and sing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_06_9"
+            },
+            {
+                "id": "d_counseling_aria_06_5",
+                "type": "Speech",
+                "text": "You paint quite the pretty picture.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_6",
+                "type": "Speech",
+                "text": "I can feel how much it means to you.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_7",
+                "type": "Speech",
+                "text": "I wonder what your voice would sound like expressing such joy.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_8",
+                "type": "Speech",
+                "text": "If I ever have the chance, I'd love to hear it.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_06_13"
+            },
+            {
+                "id": "d_counseling_aria_06_9",
+                "type": "Speech",
+                "text": "You? Sing?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_10",
+                "type": "Speech",
+                "text": "You don't need to say that to make me happy.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_11",
+                "type": "Speech",
+                "text": "When the time comes, you can leave the singing to me.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_12",
+                "type": "Speech",
+                "text": "You can be free to celebrate any way you like.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_06_13",
+                "type": "Narration",
+                "text": "Aria and I imagined various scenarios of us reclaiming the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_07_1",
+                "type": "Speech",
+                "text": "Volume's music really packs a punch.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_07_2",
+                "type": "Speech",
+                "text": "I think adding some tougher lyrics would give it even more of an impact.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_07_3",
+                "type": "Speech",
+                "text": "Maestro, are you a fan of hard-hitting music?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_07_4",
+                "type": "Choice",
+                "text": "I am. It helps me identify with Volume.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_07_6"
+            },
+            {
+                "id": "d_counseling_aria_07_5",
+                "type": "Choice",
+                "text": "I can't really identify with the emotions being expressed in that kind of music.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_07_9"
+            },
+            {
+                "id": "d_counseling_aria_07_6",
+                "type": "Speech",
+                "text": "The most important thing is that our music expresses our true selves.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_07_7",
+                "type": "Speech",
+                "text": "It's not about the styles of the music.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_07_8",
+                "type": "Speech",
+                "text": "I see that you understand that perfectly.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_07_12"
+            },
+            {
+                "id": "d_counseling_aria_07_9",
+                "type": "Speech",
+                "text": "I thought you had an eclectic taste in music.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_07_10",
+                "type": "Speech",
+                "text": "But I can see how those emotions could be unfamiliar to some people.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_07_11",
+                "type": "Speech",
+                "text": "I suppose that's why they call it a preference.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_07_12",
+                "type": "Narration",
+                "text": "Aria and I continued listening to Volume's music.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_08_1",
+                "type": "Speech",
+                "text": "Among us musicians, Noise has the closest ties with the masses.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_2",
+                "type": "Speech",
+                "text": "Actually, she cares what the public thinks so much, that it can sometimes cause her to get into a funk.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_3",
+                "type": "Speech",
+                "text": "If she was feeling down when you saw her, what would you do?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_4",
+                "type": "Choice",
+                "text": "I'd try to cheer her up.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_08_6"
+            },
+            {
+                "id": "d_counseling_aria_08_5",
+                "type": "Choice",
+                "text": "I wouldn't do anything. It's the path she chose.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_08_10"
+            },
+            {
+                "id": "d_counseling_aria_08_6",
+                "type": "Speech",
+                "text": "... Really?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_7",
+                "type": "Speech",
+                "text": "If it were me, I wouldn't do anything.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_8",
+                "type": "Speech",
+                "text": "This is the path she chose.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_9",
+                "type": "Speech",
+                "text": "She's aware of the downsides.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_08_14"
+            },
+            {
+                "id": "d_counseling_aria_08_10",
+                "type": "Speech",
+                "text": "Good answer.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_11",
+                "type": "Speech",
+                "text": "This is the path that she chose. She has to take the good with the bad.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_12",
+                "type": "Speech",
+                "text": "Besides, Noise won't give up just because she's down in the dumps.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_13",
+                "type": "Speech",
+                "text": "She'll weather the storm. I'm sure of it.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_08_14",
+                "type": "Narration",
+                "text": "Aria and I continued listening to Noise's music.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_09_1",
+                "type": "Speech",
+                "text": "What a nice day!",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_09_2",
+                "type": "Speech",
+                "text": "I want to do something exciting. Something spontaneous.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_09_3",
+                "type": "Choice",
+                "text": "How about you take a break from practice?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_09_5"
+            },
+            {
+                "id": "d_counseling_aria_09_4",
+                "type": "Choice",
+                "text": "Try to practice singing outdoors.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_09_7"
+            },
+            {
+                "id": "d_counseling_aria_09_5",
+                "type": "Speech",
+                "text": "Oh no, I can't do that!",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_09_6",
+                "type": "Speech",
+                "text": "I'm afraid that's not an option.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_09_9"
+            },
+            {
+                "id": "d_counseling_aria_09_7",
+                "type": "Speech",
+                "text": "That... could be fun, I guess.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_09_8",
+                "type": "Speech",
+                "text": "It'd be a nice change of pace, and it could help me get more out of my practice.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_09_9",
+                "type": "Narration",
+                "text": "I went outdoors with Aria.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_10_1",
+                "type": "Speech",
+                "text": "I run through the gamut of emotions while on stage.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_10_2",
+                "type": "Speech",
+                "text": "But the strongest of them is still loneliness.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_10_3",
+                "type": "Speech",
+                "text": "The unfolding stories, the expectation of the audience, and the arrangement made with everyone. All of this is up on me.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_10_4",
+                "type": "Choice",
+                "text": "You'll always have your music, Aria.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_10_6"
+            },
+            {
+                "id": "d_counseling_aria_10_5",
+                "type": "Choice",
+                "text": "You'll always have me, Aria.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_10_9"
+            },
+            {
+                "id": "d_counseling_aria_10_6",
+                "type": "Speech",
+                "text": "... That's right.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_10_7",
+                "type": "Speech",
+                "text": "Music can help me forget my loneliness.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_10_8",
+                "type": "Speech",
+                "text": "So actually, I'm not alone at all.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_10_12"
+            },
+            {
+                "id": "d_counseling_aria_10_9",
+                "type": "Speech",
+                "text": "But you're not on stage with me.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_10_10",
+                "type": "Speech",
+                "text": "Perhaps we could perform together one day, but the chances of that are slim to none.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_10_11",
+                "type": "Speech",
+                "text": "Are you even listening to what I'm saying?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_10_12",
+                "type": "Narration",
+                "text": "Aria shares with me the feelings she experiences while on stage.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_11_1",
+                "type": "Speech",
+                "text": "Opera is a genre of great antiquity.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_11_2",
+                "type": "Speech",
+                "text": "Songs conducted centuries ago are still being sung today.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_11_3",
+                "type": "Speech",
+                "text": "What do you think its secret is?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_11_4",
+                "type": "Choice",
+                "text": "What was once old always becomes new again.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_11_6"
+            },
+            {
+                "id": "d_counseling_aria_11_5",
+                "type": "Choice",
+                "text": "Opera is eternal.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_11_9"
+            },
+            {
+                "id": "d_counseling_aria_11_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_11_7",
+                "type": "Speech",
+                "text": "Actually... I was thinking just the opposite.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_11_8",
+                "type": "Speech",
+                "text": "Opera has never changed to fit with any trend. It's always stood alone.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_11_12"
+            },
+            {
+                "id": "d_counseling_aria_11_9",
+                "type": "Speech",
+                "text": "My thoughts exactly.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_11_10",
+                "type": "Speech",
+                "text": "Not everything changes with the passage of time.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_11_11",
+                "type": "Speech",
+                "text": "Beautiful melodies, love, and so on...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_11_12",
+                "type": "Narration",
+                "text": "Aria and I continued talking about opera.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_12_1",
+                "type": "Speech",
+                "text": "I had a debate with my director not long ago.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_12_2",
+                "type": "Speech",
+                "text": "He and I have a difference of opinion regarding my music.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_12_3",
+                "type": "Speech",
+                "text": "If it were you, what would you do?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_12_4",
+                "type": "Choice",
+                "text": "I'd give in to the director.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_12_6"
+            },
+            {
+                "id": "d_counseling_aria_12_5",
+                "type": "Choice",
+                "text": "I'd try to convince him that I was right.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_12_8"
+            },
+            {
+                "id": "d_counseling_aria_12_6",
+                "type": "Speech",
+                "text": "Yes, that would certainly resolve the argument.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_12_7",
+                "type": "Speech",
+                "text": "After all, there's no such thing as a perfect performance.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_12_11"
+            },
+            {
+                "id": "d_counseling_aria_12_8",
+                "type": "Speech",
+                "text": "My thoughts exactly.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_12_9",
+                "type": "Speech",
+                "text": "It's okay for the director to have his own opinion.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_12_10",
+                "type": "Speech",
+                "text": "If he can't convince me, however, I'm convinced that my performance will suffer.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_12_11",
+                "type": "Narration",
+                "text": "Aria and I thought about ways to resolve this disagreement within the troupe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_13_1",
+                "type": "Speech",
+                "text": "Love is an indispensable topic in opera.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_2",
+                "type": "Speech",
+                "text": "But as you know, romantic scenes are not my strong suit.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_3",
+                "type": "Speech",
+                "text": "Someone even said once that I didn't look human during an emotional scene.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_4",
+                "type": "Speech",
+                "text": "What can I do to improve?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_5",
+                "type": "Choice",
+                "text": "Try to open your heart to someone.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_13_7"
+            },
+            {
+                "id": "d_counseling_aria_13_6",
+                "type": "Choice",
+                "text": "Just focus on the music.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_13_10"
+            },
+            {
+                "id": "d_counseling_aria_13_7",
+                "type": "Speech",
+                "text": "Well...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_8",
+                "type": "Speech",
+                "text": "Even if I was in a relationship with someone,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_9",
+                "type": "Speech",
+                "text": "I'm sure it wouldn't live up to everyone's expectations.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_13_13"
+            },
+            {
+                "id": "d_counseling_aria_13_10",
+                "type": "Speech",
+                "text": "That's a great idea!",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_11",
+                "type": "Speech",
+                "text": "I can use music to evoke emotions within me.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_12",
+                "type": "Speech",
+                "text": "I'll try that next time. Thank you!",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_13_13",
+                "type": "Narration",
+                "text": "Aria and I discuss how love can be expressed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_14_1",
+                "type": "Speech",
+                "text": "There's a tenor who was practicing a duet with me.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_14_2",
+                "type": "Speech",
+                "text": "He kept fumbling his lines.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_14_3",
+                "type": "Speech",
+                "text": "And because he was so hard on himself, he only ended up making more mistakes...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_14_4",
+                "type": "Speech",
+                "text": "What should I do to help him?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_14_5",
+                "type": "Choice",
+                "text": "Let him handle it on his own.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_14_7"
+            },
+            {
+                "id": "d_counseling_aria_14_6",
+                "type": "Choice",
+                "text": "How about you make flub some notes to make him feel less awkward?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_14_9"
+            },
+            {
+                "id": "d_counseling_aria_14_7",
+                "type": "Speech",
+                "text": "I think that's about the only thing I can do.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_14_8",
+                "type": "Speech",
+                "text": "Besides, I am not comfortable dealing with other people's feelings.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_14_11"
+            },
+            {
+                "id": "d_counseling_aria_14_9",
+                "type": "Speech",
+                "text": "No. I never make mistakes.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_14_10",
+                "type": "Speech",
+                "text": "I'm incapable of it.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_14_11",
+                "type": "Narration",
+                "text": "Aria and I continued thinking up different ways to help other people.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_15_1",
+                "type": "Speech",
+                "text": "Do you prefer",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_15_2",
+                "type": "Speech",
+                "text": "comedies or tragedies?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_15_3",
+                "type": "Choice",
+                "text": "Comedy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_15_5"
+            },
+            {
+                "id": "d_counseling_aria_15_4",
+                "type": "Choice",
+                "text": "Tragedy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_15_7"
+            },
+            {
+                "id": "d_counseling_aria_15_5",
+                "type": "Speech",
+                "text": "I like comedy more, as well.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_15_6",
+                "type": "Speech",
+                "text": "However, my favorite opera is not a comedy.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_15_10"
+            },
+            {
+                "id": "d_counseling_aria_15_7",
+                "type": "Speech",
+                "text": "Every writer has their magnum opus.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_15_8",
+                "type": "Speech",
+                "text": "In my opinion, most of those tend to be tragedies.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_15_9",
+                "type": "Speech",
+                "text": "If the writing is up to par, tragic stories appeal to me more",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_15_10",
+                "type": "Narration",
+                "text": "Aria and I discussed what kind of operas we prefer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_16_1",
+                "type": "Speech",
+                "text": "Protagonists in opera series tend to end up at their final destinations.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_2",
+                "type": "Speech",
+                "text": "Their death is what completes the show.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_3",
+                "type": "Speech",
+                "text": "Have you ever considered what the perfect death would be?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_4",
+                "type": "Choice",
+                "text": "Sacrificing yourself for a noble cause.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_16_6"
+            },
+            {
+                "id": "d_counseling_aria_16_5",
+                "type": "Choice",
+                "text": "There's no such thing as a \"perfect death\".",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_16_10"
+            },
+            {
+                "id": "d_counseling_aria_16_6",
+                "type": "Speech",
+                "text": "... I agree.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_7",
+                "type": "Speech",
+                "text": "If a protagonist is willing to give their lives to protect something,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_8",
+                "type": "Speech",
+                "text": "they must have found a greater purpose in life, something more valuable than their own life.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_9",
+                "type": "Speech",
+                "text": "Dying a heroic death is more admirable than living in shame.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_16_13"
+            },
+            {
+                "id": "d_counseling_aria_16_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_11",
+                "type": "Speech",
+                "text": "Are you saying that death is meaningless, no matter what?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_12",
+                "type": "Speech",
+                "text": "You're not exactly a romantic, I'll say that much.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_16_13",
+                "type": "Narration",
+                "text": "I discussed philosophy with Aria for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_17_1",
+                "type": "Speech",
+                "text": "Maestro, you're constantly surrounded by women.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_17_2",
+                "type": "Speech",
+                "text": "Are any of them your type?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_17_3",
+                "type": "Choice",
+                "text": "You are, Aria.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_17_5"
+            },
+            {
+                "id": "d_counseling_aria_17_4",
+                "type": "Choice",
+                "text": "I don't know.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_17_7"
+            },
+            {
+                "id": "d_counseling_aria_17_5",
+                "type": "Speech",
+                "text": "I would be honored",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_17_6",
+                "type": "Speech",
+                "text": "to be your muse.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_17_10"
+            },
+            {
+                "id": "d_counseling_aria_17_7",
+                "type": "Speech",
+                "text": "You're so indecisive, {AccountData.NickName}.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_17_8",
+                "type": "Speech",
+                "text": "Men and women who excel in the realm of seduction are said to be very charming,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_17_9",
+                "type": "Speech",
+                "text": "but when it's all said and done, all they end up with are regrets",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_17_10",
+                "type": "Narration",
+                "text": "Aria and I continued to discuss similarly profound topics.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_18_1",
+                "type": "Speech",
+                "text": "Sometimes I feel like taking a sabbatical from opera.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_18_2",
+                "type": "Speech",
+                "text": "What are some recreational activities I could have fun with?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_18_3",
+                "type": "Choice",
+                "text": "Rock climbing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_18_5"
+            },
+            {
+                "id": "d_counseling_aria_18_4",
+                "type": "Choice",
+                "text": "Go sing some karaoke.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_18_7"
+            },
+            {
+                "id": "d_counseling_aria_18_5",
+                "type": "Speech",
+                "text": "An opera singer that likes rock climbing.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_18_6",
+                "type": "Speech",
+                "text": "I'd become a laughingstock if the media caught wind of it.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_18_10"
+            },
+            {
+                "id": "d_counseling_aria_18_7",
+                "type": "Speech",
+                "text": "... Hmm.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_18_8",
+                "type": "Speech",
+                "text": "It would be nice to sing something that's not my typical style.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_18_9",
+                "type": "Speech",
+                "text": "All right, let's go sing some karaoke!",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_18_10",
+                "type": "Narration",
+                "text": "I recommended even more activities to Aria.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_19_1",
+                "type": "Speech",
+                "text": "Maestro, have you ever hit a snag before?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_19_2",
+                "type": "Choice",
+                "text": "Of course, it's common.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_19_4"
+            },
+            {
+                "id": "d_counseling_aria_19_3",
+                "type": "Choice",
+                "text": "I don't think I have.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_19_7"
+            },
+            {
+                "id": "d_counseling_aria_19_4",
+                "type": "Speech",
+                "text": "Hitting a bottleneck prevents you from progressing any further.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_19_5",
+                "type": "Speech",
+                "text": "However, once you manage to get past them, you're better off for it.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_19_6",
+                "type": "Speech",
+                "text": "When you think about it, they're actually a great learning opportunity.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_19_10"
+            },
+            {
+                "id": "d_counseling_aria_19_7",
+                "type": "Speech",
+                "text": "... Really?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_19_8",
+                "type": "Speech",
+                "text": "Maybe it's because you always try to avoid them.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_19_9",
+                "type": "Speech",
+                "text": "By going around them though, you may be missing a chance to become better at what you do.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_19_10",
+                "type": "Narration",
+                "text": "Aria and I discussed different methods of self-improvement.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_aria_20_1",
+                "type": "Speech",
+                "text": "Let's say you're an opera composer,",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_20_2",
+                "type": "Speech",
+                "text": "and your tastes are directly opposed to what the public wants to see.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_20_3",
+                "type": "Speech",
+                "text": "In the end, who would you compose for?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_20_4",
+                "type": "Choice",
+                "text": "For myself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_aria_20_6"
+            },
+            {
+                "id": "d_counseling_aria_20_5",
+                "type": "Choice",
+                "text": "For the public.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_aria_20_9"
+            },
+            {
+                "id": "d_counseling_aria_20_6",
+                "type": "Speech",
+                "text": "... I agree.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_20_7",
+                "type": "Speech",
+                "text": "If you work at it hard enough, you'll eventually reach the top of your respective field.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_20_8",
+                "type": "Speech",
+                "text": "The question is, when you reach the top, did you get there by being true to yourself or by appealing to the masses?",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": "d_counseling_aria_20_12"
+            },
+            {
+                "id": "d_counseling_aria_20_9",
+                "type": "Speech",
+                "text": "... That's an old-fashioned answer.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_20_10",
+                "type": "Speech",
+                "text": "That's a treacherous path as well.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_20_11",
+                "type": "Speech",
+                "text": "Even the most talented of artists struggle trying to capture what audiences want.",
+                "speaker": "Aria",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_aria_20_12",
+                "type": "Narration",
+                "text": "I continued to discuss the arduous life of an artist with Aria.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

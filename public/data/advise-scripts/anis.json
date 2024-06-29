@@ -1,0 +1,1949 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_anis_01_1",
+                "type": "Speech",
+                "text": "Hey, Commander, when you see a lady, which place do you look first?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_01_2",
+                "type": "Speech",
+                "text": "I want an honest answer.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_01_3",
+                "type": "Choice",
+                "text": "Her face.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_01_5"
+            },
+            {
+                "id": "d_counseling_anis_01_4",
+                "type": "Choice",
+                "text": "Her heart.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_01_7"
+            },
+            {
+                "id": "d_counseling_anis_01_5",
+                "type": "Speech",
+                "text": "Hah!\nI always knew you were a face guy.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_01_6",
+                "type": "Speech",
+                "text": "Huh? No?\nThen which part do you think is the most important?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_01_9"
+            },
+            {
+                "id": "d_counseling_anis_01_7",
+                "type": "Speech",
+                "text": "Ugh! What a corny answer.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_01_8",
+                "type": "Speech",
+                "text": "How can you see a woman's heart at the first glance?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_01_9",
+                "type": "Narration",
+                "text": "I have a conversation about ideal types with Anis.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_02_1",
+                "type": "Speech",
+                "text": "Should I take a shower before going to bed,",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_02_2",
+                "type": "Speech",
+                "text": "or after getting up?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_02_3",
+                "type": "Speech",
+                "text": "I didn't go outside today.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_02_4",
+                "type": "Choice",
+                "text": "Then you don't need a shower at all.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_02_6"
+            },
+            {
+                "id": "d_counseling_anis_02_5",
+                "type": "Choice",
+                "text": "Then shower twice!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_02_9"
+            },
+            {
+                "id": "d_counseling_anis_02_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_02_7",
+                "type": "Speech",
+                "text": "Hey, I'm serious!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_02_8",
+                "type": "Speech",
+                "text": "It's only proper to take a shower at least once a day.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_02_11"
+            },
+            {
+                "id": "d_counseling_anis_02_9",
+                "type": "Speech",
+                "text": "That would be nice, but I'm afraid there is not enough hot water.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_02_10",
+                "type": "Speech",
+                "text": "Hey, why don't I take a shower in your room?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_02_11",
+                "type": "Narration",
+                "text": "Anis and I discuss body wash and shampoo.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_03_1",
+                "type": "Speech",
+                "text": "As a Nikke, I've always got my hands full.\nBut sometimes, I have to wonder... what's the point of all this?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_03_2",
+                "type": "Speech",
+                "text": "I can't find much joy in my work,\n but there's nothing else I can do.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_03_3",
+                "type": "Speech",
+                "text": "Commander, what do you think I should do?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_03_4",
+                "type": "Choice",
+                "text": "Not everyone finds joy in their work, and that's okay.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_03_6"
+            },
+            {
+                "id": "d_counseling_anis_03_5",
+                "type": "Choice",
+                "text": "You can try to find joy in your work.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_03_9"
+            },
+            {
+                "id": "d_counseling_anis_03_6",
+                "type": "Speech",
+                "text": "Hmm... You're right.\nA job is just a job, after all.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_03_7",
+                "type": "Speech",
+                "text": "Only a few geniuses can find meaning in their work.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_03_8",
+                "type": "Speech",
+                "text": "Never mind. I just need to work hard. That's enough.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_03_11"
+            },
+            {
+                "id": "d_counseling_anis_03_9",
+                "type": "Speech",
+                "text": "Joy... Joy...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_03_10",
+                "type": "Speech",
+                "text": "Didn't that kind of thing go away a long time ago?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_03_11",
+                "type": "Narration",
+                "text": "Anis tells me her tricks for slacking off at work.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_04_1",
+                "type": "Speech",
+                "text": "Argh!!\nCommander, I can't stand Liter any more!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_04_2",
+                "type": "Speech",
+                "text": "Her constant nagging is driving me crazy!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_04_3",
+                "type": "Speech",
+                "text": "So what if I leave my dirty socks lying around?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_04_4",
+                "type": "Choice",
+                "text": "Because she's the one who does the cleaning.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_04_6"
+            },
+            {
+                "id": "d_counseling_anis_04_5",
+                "type": "Choice",
+                "text": "Socks? Where?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_04_9"
+            },
+            {
+                "id": "d_counseling_anis_04_6",
+                "type": "Speech",
+                "text": "That's true, I admit...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_04_7",
+                "type": "Speech",
+                "text": "But I did pick up all my socks today.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_04_8",
+                "type": "Speech",
+                "text": "It may have been my fault in the past, but today I'm perfectly innocent.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_04_12"
+            },
+            {
+                "id": "d_counseling_anis_04_9",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_04_10",
+                "type": "Speech",
+                "text": "Commander... are you really into that kind of thing?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_04_11",
+                "type": "Speech",
+                "text": "If you... if you really want my socks, maybe I can show you.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_04_12",
+                "type": "Narration",
+                "text": "Anis and I discuss good socks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_05_1",
+                "type": "Speech",
+                "text": "Neon's crazy, I reckon.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_05_2",
+                "type": "Speech",
+                "text": "She's a firepower maniac.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_05_3",
+                "type": "Choice",
+                "text": "That's why she excels at what she does.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_05_5"
+            },
+            {
+                "id": "d_counseling_anis_05_4",
+                "type": "Choice",
+                "text": "You shouldn't say that about your teammate.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_05_8"
+            },
+            {
+                "id": "d_counseling_anis_05_5",
+                "type": "Speech",
+                "text": "I know, right? She's a complete maniac.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_05_6",
+                "type": "Speech",
+                "text": "But, in a way, I envy her. She has something that she's passionate about.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_05_7",
+                "type": "Speech",
+                "text": "Even if it's something weird, like firepower.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_05_11"
+            },
+            {
+                "id": "d_counseling_anis_05_8",
+                "type": "Speech",
+                "text": "I don't mean she lost her mind or whatever.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_05_9",
+                "type": "Speech",
+                "text": "And I also didn't mean... Pfft... \nHow to put this...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_05_10",
+                "type": "Speech",
+                "text": "Forget about it, Commander.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_05_11",
+                "type": "Narration",
+                "text": "Anis and I discuss the definition of a \"maniac\".",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_06_1",
+                "type": "Speech",
+                "text": "Chocolate-flavored Splendamin, and chocolate.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_2",
+                "type": "Speech",
+                "text": "The former is cheap and common, and the latter is expensive and rare.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_3",
+                "type": "Speech",
+                "text": "However, they have the same taste.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_4",
+                "type": "Speech",
+                "text": "So, which one is better in the end?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_5",
+                "type": "Choice",
+                "text": "Chocolate.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_06_7"
+            },
+            {
+                "id": "d_counseling_anis_06_6",
+                "type": "Choice",
+                "text": "Chocolate-flavored Splendamin.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_06_10"
+            },
+            {
+                "id": "d_counseling_anis_06_7",
+                "type": "Speech",
+                "text": "Hmm... Really?\nYour choice surprises me.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_8",
+                "type": "Speech",
+                "text": "Since different paths lead to the same destination, why bother taking the hard path?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_9",
+                "type": "Speech",
+                "text": "The path itself is meaningless.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_06_13"
+            },
+            {
+                "id": "d_counseling_anis_06_10",
+                "type": "Speech",
+                "text": "Absolutely!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_11",
+                "type": "Speech",
+                "text": "Since different paths lead to the same destination, I think it's wise to take the easy path.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_12",
+                "type": "Speech",
+                "text": "That's the only way to lead an easy life.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_06_13",
+                "type": "Narration",
+                "text": "Anis and I talk about all the different kinds of chocolate.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_07_1",
+                "type": "Speech",
+                "text": "Rapi is amazing.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_2",
+                "type": "Speech",
+                "text": "She has suffered so much, but she's still so determined.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_3",
+                "type": "Speech",
+                "text": "She's so different from me.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_4",
+                "type": "Speech",
+                "text": "Sometimes I just can't figure out why we were put in the same squad.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_5",
+                "type": "Choice",
+                "text": "Your differences are what make you work well together.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_07_7"
+            },
+            {
+                "id": "d_counseling_anis_07_6",
+                "type": "Choice",
+                "text": "You have many strengths as well.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_07_10"
+            },
+            {
+                "id": "d_counseling_anis_07_7",
+                "type": "Speech",
+                "text": "Huh! So, it because we complement each other?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_8",
+                "type": "Speech",
+                "text": "That's good to hear!\nThanks! You've really cheered me up.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_9",
+                "type": "Speech",
+                "text": "... After all, I don't want Rapi to hate me or anything.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_07_13"
+            },
+            {
+                "id": "d_counseling_anis_07_10",
+                "type": "Speech",
+                "text": "Me? That's impossible.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_11",
+                "type": "Speech",
+                "text": "How to put this?\nI just live my life aimlessly.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_12",
+                "type": "Speech",
+                "text": "I have nothing to live for, but I don't want to die, either.\nI'm like some kind of zombie.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_07_13",
+                "type": "Narration",
+                "text": "I listen to Anis praising Rapi in a thousand different ways.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_08_1",
+                "type": "Speech",
+                "text": "I've been talking in my sleep a lot lately.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_08_2",
+                "type": "Speech",
+                "text": "Last night, Neon woke me up\nand asked me why I keep babbling on...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_08_3",
+                "type": "Speech",
+                "text": "... Should I ask Mary for medical treatment?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_08_4",
+                "type": "Choice",
+                "text": "Did you apologize to Neon?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_08_6"
+            },
+            {
+                "id": "d_counseling_anis_08_5",
+                "type": "Choice",
+                "text": "Seems like you've been under a lot of pressure recently.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_08_9"
+            },
+            {
+                "id": "d_counseling_anis_08_6",
+                "type": "Speech",
+                "text": "I don't even know what I should apologize for.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_08_7",
+                "type": "Speech",
+                "text": "... Hey, wait a minute.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_08_8",
+                "type": "Speech",
+                "text": "What if Neon was lying to me?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_08_12"
+            },
+            {
+                "id": "d_counseling_anis_08_9",
+                "type": "Speech",
+                "text": "You make a good point.\nAfter all, times have been tough since we met.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_08_10",
+                "type": "Speech",
+                "text": "Ah, please don't get me wrong. I don't mean I dislike being with you.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_08_11",
+                "type": "Speech",
+                "text": "I'm just under so much pressure.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_08_12",
+                "type": "Narration",
+                "text": "I share some advice about getting better sleep with Anis.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_09_1",
+                "type": "Speech",
+                "text": "How strange! My shoulder got stiff all of a sudden...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_09_2",
+                "type": "Speech",
+                "text": "But I don't think there is anything wrong with it.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_09_3",
+                "type": "Choice",
+                "text": "Maybe because your shoulder is too heavy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_09_5"
+            },
+            {
+                "id": "d_counseling_anis_09_4",
+                "type": "Choice",
+                "text": "... Anis, there's a person on your shoulder.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_09_8"
+            },
+            {
+                "id": "d_counseling_anis_09_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_09_6",
+                "type": "Speech",
+                "text": "Hee-hee.\nThat's for sure. I'm confident about my shoulder.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_09_7",
+                "type": "Speech",
+                "text": "Commander, do you want to have a try?\nJust once.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_09_11"
+            },
+            {
+                "id": "d_counseling_anis_09_8",
+                "type": "Speech",
+                "text": "Waaaah!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_09_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_09_10",
+                "type": "Speech",
+                "text": "... Commander,\nplease don't tease me like that!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_09_11",
+                "type": "Narration",
+                "text": "I practice stretching out stiff shoulders with Anis.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_10_1",
+                "type": "Speech",
+                "text": "Commander, this uniform I'm wearing...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_10_2",
+                "type": "Speech",
+                "text": "It's a gift from my boss, Mustang.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_10_3",
+                "type": "Speech",
+                "text": "Do you think it's a little bit...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_10_4",
+                "type": "Choice",
+                "text": "Bizarre? Kind of.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_10_6"
+            },
+            {
+                "id": "d_counseling_anis_10_5",
+                "type": "Choice",
+                "text": "You look gorgeous in it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_10_9"
+            },
+            {
+                "id": "d_counseling_anis_10_6",
+                "type": "Speech",
+                "text": "Is... that so?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_10_7",
+                "type": "Speech",
+                "text": "Should get something else to change into?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_10_8",
+                "type": "Speech",
+                "text": "Ah... I may not have enough money.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_10_12"
+            },
+            {
+                "id": "d_counseling_anis_10_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_10_10",
+                "type": "Speech",
+                "text": "Anyway, if you really think so, then...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_10_11",
+                "type": "Speech",
+                "text": "Feel free to look at it as much as you want.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_10_12",
+                "type": "Narration",
+                "text": "I discuss fashion with Anis.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_11_1",
+                "type": "Speech",
+                "text": "Commander, could I ask you...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_11_2",
+                "type": "Speech",
+                "text": "do you like boy bands and girl groups?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_11_3",
+                "type": "Speech",
+                "text": "No real reason, I'm just curious, that's all.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_11_4",
+                "type": "Choice",
+                "text": "I would literally die without them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_11_6"
+            },
+            {
+                "id": "d_counseling_anis_11_5",
+                "type": "Choice",
+                "text": "I don't have much interest in them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_11_9"
+            },
+            {
+                "id": "d_counseling_anis_11_6",
+                "type": "Speech",
+                "text": "You're that much of a fan?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_11_7",
+                "type": "Speech",
+                "text": "What group do you like the best? Spotlight or Dome of Eternity?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_11_8",
+                "type": "Speech",
+                "text": "They're kind of older, but have you heard of T.T.?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_11_12"
+            },
+            {
+                "id": "d_counseling_anis_11_9",
+                "type": "Speech",
+                "text": "Hmmm... as expected.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_11_10",
+                "type": "Speech",
+                "text": "I figured you would feel that way.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_11_11",
+                "type": "Speech",
+                "text": "Then, are there any other singers or celebrities that you like?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_11_12",
+                "type": "Narration",
+                "text": "Anis and I have a lovely conversation about celebrities.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_12_1",
+                "type": "Speech",
+                "text": "I found a wallet once before, and it ended up being a horrible experience.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_2",
+                "type": "Speech",
+                "text": "Ever since then, I tend not to help others.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_3",
+                "type": "Speech",
+                "text": "How about you, Commander? Do you help others, or ignore them?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_4",
+                "type": "Choice",
+                "text": "I can't ignore someone that is in trouble.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_12_6"
+            },
+            {
+                "id": "d_counseling_anis_12_5",
+                "type": "Choice",
+                "text": "You should solve your own problems.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_12_10"
+            },
+            {
+                "id": "d_counseling_anis_12_6",
+                "type": "Speech",
+                "text": "That's such a \"you\" answer.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_7",
+                "type": "Speech",
+                "text": "I suppose that's how most people are actually. No matter how much the world has changed, that human connection still remains...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_8",
+                "type": "Speech",
+                "text": "Sigh...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_9",
+                "type": "Speech",
+                "text": "I guess it doesn't matter all that much, since I'm not human.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_12_14"
+            },
+            {
+                "id": "d_counseling_anis_12_10",
+                "type": "Speech",
+                "text": "My thoughts exactly.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_11",
+                "type": "Speech",
+                "text": "In the end, you're the only one who can solve your own issues.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_12",
+                "type": "Speech",
+                "text": "So you might be better off not giving or receiving any help.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_13",
+                "type": "Speech",
+                "text": "Still, that's an unexpected answer from you, Commander.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_12_14",
+                "type": "Narration",
+                "text": "Anis and I converse about humanity.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_13_1",
+                "type": "Speech",
+                "text": "Do you know how Neon, the spy who's obsessed with firepower, wears glasses?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_2",
+                "type": "Speech",
+                "text": "Since she's a Nikke, couldn't she just swap out her eyeballs?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_3",
+                "type": "Speech",
+                "text": "Why does she bother wearing glasses?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_4",
+                "type": "Speech",
+                "text": "They don't serve any purpose, and it seems like they'd be uncomfortable.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_5",
+                "type": "Choice",
+                "text": "Don't you ever put down her glasses!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_13_7"
+            },
+            {
+                "id": "d_counseling_anis_13_6",
+                "type": "Choice",
+                "text": "I'm not so sure myself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_13_10"
+            },
+            {
+                "id": "d_counseling_anis_13_7",
+                "type": "Speech",
+                "text": "Yikes, you surprised me!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_8",
+                "type": "Speech",
+                "text": "Why are you yelling all of a sudden?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_9",
+                "type": "Speech",
+                "text": "Wait a minute, you're actually being serious.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_13_13"
+            },
+            {
+                "id": "d_counseling_anis_13_10",
+                "type": "Speech",
+                "text": "I didn't expect much, but still...what a boring answer.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_11",
+                "type": "Speech",
+                "text": "I should just ask her next time.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_12",
+                "type": "Speech",
+                "text": "...Nevermind. There's no point in prodding any further.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_13_13",
+                "type": "Narration",
+                "text": "Anis and I talk about vision.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_14_1",
+                "type": "Speech",
+                "text": "You know Splendamin, the food we're always stuffing down?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_14_2",
+                "type": "Speech",
+                "text": "For a supposed \"wonderfood\", its name is so bland.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_14_3",
+                "type": "Speech",
+                "text": "It might be better if it had a more mouth-watering name.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_14_4",
+                "type": "Choice",
+                "text": "Juicy Perfecto.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_14_6"
+            },
+            {
+                "id": "d_counseling_anis_14_5",
+                "type": "Choice",
+                "text": "Ultra Splendamin.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_14_9"
+            },
+            {
+                "id": "d_counseling_anis_14_6",
+                "type": "Speech",
+                "text": "That's... a little better, maybe?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_14_7",
+                "type": "Speech",
+                "text": "... I think it still needs some work.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_14_8",
+                "type": "Speech",
+                "text": "Still, I appreciate you giving it some thought.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_14_11"
+            },
+            {
+                "id": "d_counseling_anis_14_9",
+                "type": "Speech",
+                "text": "Sounds like some kind of supplement.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_14_10",
+                "type": "Speech",
+                "text": "Folkwang will probably go gaga over it.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_14_11",
+                "type": "Narration",
+                "text": "Anis and I talk about the profound effect naming can have.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_15_1",
+                "type": "Speech",
+                "text": "When we deal with others, we're always putting on different masks to suit different people.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_15_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_15_3",
+                "type": "Speech",
+                "text": "If we were to show them our true colors, would they be averse to it?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_15_4",
+                "type": "Choice",
+                "text": "If you're gonna put on a mask, might as well wear a cool Ark Rangers mask.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_15_6"
+            },
+            {
+                "id": "d_counseling_anis_15_5",
+                "type": "Choice",
+                "text": "You can't please everyone. Haters gonna hate.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_15_8"
+            },
+            {
+                "id": "d_counseling_anis_15_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_15_7",
+                "type": "Speech",
+                "text": "I shouldn't have brought this up.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_15_11"
+            },
+            {
+                "id": "d_counseling_anis_15_8",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_15_9",
+                "type": "Speech",
+                "text": "It's impossible to be loved by everyone.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_15_10",
+                "type": "Speech",
+                "text": "... I tried, but it didn't work out.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_15_11",
+                "type": "Narration",
+                "text": "Anis and I have a long conversation about masks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_16_1",
+                "type": "Speech",
+                "text": "I feel weird saying this,",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_2",
+                "type": "Speech",
+                "text": "but I find the heat of battle kind of thrilling.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_3",
+                "type": "Speech",
+                "text": "I can't believe I'm saying this, but I may be a warmonger of some kind.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_4",
+                "type": "Choice",
+                "text": "What's so surprising about that?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_16_6"
+            },
+            {
+                "id": "d_counseling_anis_16_5",
+                "type": "Choice",
+                "text": "Your body is tricking your brain in order to survive.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_16_10"
+            },
+            {
+                "id": "d_counseling_anis_16_6",
+                "type": "Speech",
+                "text": "What? You see me as belligerent?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_7",
+                "type": "Speech",
+                "text": "Really? Haha, stop kidding around.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_9",
+                "type": "Speech",
+                "text": "... Are you serious?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_16_13"
+            },
+            {
+                "id": "d_counseling_anis_16_10",
+                "type": "Speech",
+                "text": "Right... adrenaline and all that.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_11",
+                "type": "Speech",
+                "text": "That must be the reason.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_12",
+                "type": "Speech",
+                "text": "It can't be just because I enjoy smashing things up, right?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_16_13",
+                "type": "Narration",
+                "text": "Anis and I discuss one's mental fortitude during battle.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_17_1",
+                "type": "Speech",
+                "text": "This is a bit random, but does it bother you",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_17_2",
+                "type": "Speech",
+                "text": "that I use your shower whenever I want?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_17_3",
+                "type": "Speech",
+                "text": "Having a girl shower in your room must make you a bit uneasy, right?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_17_4",
+                "type": "Choice",
+                "text": "Uh...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_17_6"
+            },
+            {
+                "id": "d_counseling_anis_17_5",
+                "type": "Choice",
+                "text": "It really doesn't affect me that much.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_17_9"
+            },
+            {
+                "id": "d_counseling_anis_17_6",
+                "type": "Speech",
+                "text": "Your eyes are starting to wander off...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_17_7",
+                "type": "Speech",
+                "text": "What's going on in that head of yours?!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_17_8",
+                "type": "Speech",
+                "text": "You look like you're reminiscing about something euphoric! Cut it out!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_17_12"
+            },
+            {
+                "id": "d_counseling_anis_17_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_17_10",
+                "type": "Speech",
+                "text": "I guess it's nothing.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_17_11",
+                "type": "Speech",
+                "text": "Good to hear.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_17_12",
+                "type": "Narration",
+                "text": "Anis and I talk about shower supplies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_18_1",
+                "type": "Speech",
+                "text": "How are things going with Rapi?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_18_2",
+                "type": "Speech",
+                "text": "If you're going through a rough patch, just let me know. I can help.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_18_3",
+                "type": "Choice",
+                "text": "She can be a bit... fastidious.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_18_5"
+            },
+            {
+                "id": "d_counseling_anis_18_4",
+                "type": "Choice",
+                "text": "I'll try to figure it out myself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_18_8"
+            },
+            {
+                "id": "d_counseling_anis_18_5",
+                "type": "Speech",
+                "text": "Rapi? No way, she's just thorough!",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_18_6",
+                "type": "Speech",
+                "text": "As long as you do what you're supposed to be doing...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_18_7",
+                "type": "Speech",
+                "text": "Hmm... I said I'd help, but all I'm doing is defending her...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_18_11"
+            },
+            {
+                "id": "d_counseling_anis_18_8",
+                "type": "Speech",
+                "text": "So you're having a tough time dealing with her?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_18_9",
+                "type": "Speech",
+                "text": "No worries, I'm sure you'll be able to move past it. It's you after all.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_18_10",
+                "type": "Speech",
+                "text": "Rapi is very accommodating so if anything is ever bothering you, don't hide it.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_18_11",
+                "type": "Narration",
+                "text": "Anis and I talk more about Rapi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_19_1",
+                "type": "Speech",
+                "text": "Do you like dogs?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_2",
+                "type": "Speech",
+                "text": "A long time ago, I met a dog. It must have liked me since it bounded right up to me.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_3",
+                "type": "Speech",
+                "text": "It was the first time I had ever seen that dog, yet it made a beeline straight for me...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_4",
+                "type": "Choice",
+                "text": "You must have felt uncomfortable.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_19_6"
+            },
+            {
+                "id": "d_counseling_anis_19_5",
+                "type": "Choice",
+                "text": "You must have been happy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_19_10"
+            },
+            {
+                "id": "d_counseling_anis_19_6",
+                "type": "Speech",
+                "text": "Yes. I didn't really like it.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_7",
+                "type": "Speech",
+                "text": "I knew it didn't mean any harm. It just liked me is all.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_8",
+                "type": "Speech",
+                "text": "But nevertheless, it did make me feel uncomfortable.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_9",
+                "type": "Speech",
+                "text": "I suppose it's just hard to accept such blind affection.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_19_14"
+            },
+            {
+                "id": "d_counseling_anis_19_10",
+                "type": "Speech",
+                "text": "Hm... Well...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_11",
+                "type": "Speech",
+                "text": "I suppose so, but...",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_12",
+                "type": "Speech",
+                "text": "It made me question why it was so fond of me.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_13",
+                "type": "Speech",
+                "text": "I didn't like how it just threw caution to the wind and ran right over to me.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_19_14",
+                "type": "Narration",
+                "text": "Anis and I talk about animals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_anis_20_1",
+                "type": "Speech",
+                "text": "If the world was ending tomorrow,",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_20_2",
+                "type": "Speech",
+                "text": "what would you want to do?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_20_3",
+                "type": "Choice",
+                "text": "I would complete my bucket list.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_anis_20_5"
+            },
+            {
+                "id": "d_counseling_anis_20_4",
+                "type": "Choice",
+                "text": "I would just sit back and do nothing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_anis_20_8"
+            },
+            {
+                "id": "d_counseling_anis_20_5",
+                "type": "Speech",
+                "text": "You've got a bucket list?",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_20_6",
+                "type": "Speech",
+                "text": "I envy you. I don't have anything like that.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_20_7",
+                "type": "Speech",
+                "text": "I think I'd just sit around and take it easy.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": "d_counseling_anis_20_12"
+            },
+            {
+                "id": "d_counseling_anis_20_8",
+                "type": "Speech",
+                "text": "Same here.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_20_9",
+                "type": "Speech",
+                "text": "I don't have many purposes in life anyway, so I can't pretend to suddenly have some out of the blue.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_20_10",
+                "type": "Speech",
+                "text": "I'd just go about my usual routine and quietly wait for the end.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_20_11",
+                "type": "Speech",
+                "text": "It... feels nicer knowing that I'm not alone.",
+                "speaker": "Anis",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_anis_20_12",
+                "type": "Narration",
+                "text": "Anis and I watched a TV show about possible apocalyptic scenarios.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

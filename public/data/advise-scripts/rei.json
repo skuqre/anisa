@@ -1,0 +1,2165 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_rei_01_1",
+                "type": "Speech",
+                "text": "Hey, Teacher!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_01_2",
+                "type": "Speech",
+                "text": "What do you think I should do",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_01_3",
+                "type": "Speech",
+                "text": "when I'm not feeling up to going to school?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_01_4",
+                "type": "Choice",
+                "text": "It's okay to skip class once in a while, but don't make it a habit.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_01_6"
+            },
+            {
+                "id": "d_counseling_rei_01_5",
+                "type": "Choice",
+                "text": "You're a third-year student now, so set an example for the younger ones.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_01_10"
+            },
+            {
+                "id": "d_counseling_rei_01_6",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_01_7",
+                "type": "Speech",
+                "text": "Hmm... now that you mention it,",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_01_8",
+                "type": "Speech",
+                "text": "skipping class doesn't seem so appealing.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_01_9",
+                "type": "Speech",
+                "text": "A model senior student never skips class!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_01_13"
+            },
+            {
+                "id": "d_counseling_rei_01_10",
+                "type": "Speech",
+                "text": "I know, but...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_01_11",
+                "type": "Speech",
+                "text": "is it really so bad to skip just one day?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_01_12",
+                "type": "Speech",
+                "text": "Even Naru agrees.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_01_13"
+            },
+            {
+                "id": "d_counseling_rei_01_13",
+                "type": "Narration",
+                "text": "Rei and I have a discussion about school.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_02_1",
+                "type": "Speech",
+                "text": "*Sob*",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_2",
+                "type": "Speech",
+                "text": "Teacher... Naru... Naru...!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_3",
+                "type": "Choice",
+                "text": "Did Naru steal your snacks?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_02_5"
+            },
+            {
+                "id": "d_counseling_rei_02_4",
+                "type": "Choice",
+                "text": "Did Naru refuse to let you listen to music?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_02_10"
+            },
+            {
+                "id": "d_counseling_rei_02_5",
+                "type": "Speech",
+                "text": "*Sob* Yes...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_6",
+                "type": "Speech",
+                "text": "I didn't take it.",
+                "speaker": "Naru 1",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_7",
+                "type": "Speech",
+                "text": "Stop lying!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_8",
+                "type": "Speech",
+                "text": "Teacher, please tell Naru off!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_9",
+                "type": "Speech",
+                "text": "That was my one and only snack!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_02_15"
+            },
+            {
+                "id": "d_counseling_rei_02_10",
+                "type": "Speech",
+                "text": "*Hiccup* I'm not crying over that!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_11",
+                "type": "Speech",
+                "text": "Naru ate my snack.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_12",
+                "type": "Speech",
+                "text": "I didn't take it.",
+                "speaker": "Naru 1",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_13",
+                "type": "Speech",
+                "text": "You're lying! That was my one and only snack... *Sniffle*",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_02_14",
+                "type": "Speech",
+                "text": "*Whimper* Ah-choo!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_02_15"
+            },
+            {
+                "id": "d_counseling_rei_02_15",
+                "type": "Narration",
+                "text": "I buy Rei some delicious snacks and spend some time with her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_03_1",
+                "type": "Speech",
+                "text": "Whoa, Teacher, you're like a giant!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_03_2",
+                "type": "Speech",
+                "text": "I wish I could be as tall as you someday.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_03_3",
+                "type": "Speech",
+                "text": "Do you have any tips?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_03_4",
+                "type": "Choice",
+                "text": "That's not possible for someone like you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_03_6"
+            },
+            {
+                "id": "d_counseling_rei_03_5",
+                "type": "Choice",
+                "text": "Drink milk every day and you might grow taller.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_03_9"
+            },
+            {
+                "id": "d_counseling_rei_03_6",
+                "type": "Speech",
+                "text": "What?!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_03_7",
+                "type": "Speech",
+                "text": "That's so mean, Teacher!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_03_8",
+                "type": "Speech",
+                "text": "Don't underestimate me!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_03_12"
+            },
+            {
+                "id": "d_counseling_rei_03_9",
+                "type": "Speech",
+                "text": "But I hate plain milk.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_03_10",
+                "type": "Speech",
+                "text": "How about chocolate milk?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_03_11",
+                "type": "Speech",
+                "text": "I could guzzle down 10 cartons a day.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_03_12"
+            },
+            {
+                "id": "d_counseling_rei_03_12",
+                "type": "Narration",
+                "text": "Rei and I do some research on how to grow taller.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_04_1",
+                "type": "Speech",
+                "text": "Now that I'm in my third year...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_2",
+                "type": "Speech",
+                "text": "I wanna be a super cool senior.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_3",
+                "type": "Speech",
+                "text": "What's the secret to being a great one?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_4",
+                "type": "Choice",
+                "text": "You already are a great senior, Rei.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_04_6"
+            },
+            {
+                "id": "d_counseling_rei_04_5",
+                "type": "Choice",
+                "text": "Quit snacking for good.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_04_10"
+            },
+            {
+                "id": "d_counseling_rei_04_6",
+                "type": "Speech",
+                "text": "Hehehe.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_7",
+                "type": "Speech",
+                "text": "Hehehehe.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_8",
+                "type": "Speech",
+                "text": "You really think so, Teacher?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_9",
+                "type": "Speech",
+                "text": "I daresay Ein and Zwei feel the same way.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_04_14"
+            },
+            {
+                "id": "d_counseling_rei_04_10",
+                "type": "Speech",
+                "text": "What do snacks have to do with that anyway?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_12",
+                "type": "Speech",
+                "text": "... You don't have a clue about how to be a super cool senior, do you?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_04_13",
+                "type": "Speech",
+                "text": "I'll ask Ein and Zwei instead.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_04_14"
+            },
+            {
+                "id": "d_counseling_rei_04_14",
+                "type": "Narration",
+                "text": "I discuss about what it takes to be a super cool senior with Rei.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_05_1",
+                "type": "Speech",
+                "text": "I got a test back today.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_2",
+                "type": "Speech",
+                "text": "I think I did pretty well.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_3",
+                "type": "Speech",
+                "text": "Teacher, did you do well on tests back in your days?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_4",
+                "type": "Choice",
+                "text": "I did better than you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_05_6"
+            },
+            {
+                "id": "d_counseling_rei_05_5",
+                "type": "Choice",
+                "text": "I was the valedictorian.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_05_10"
+            },
+            {
+                "id": "d_counseling_rei_05_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_7",
+                "type": "Speech",
+                "text": "How do you know that, Teacher?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_8",
+                "type": "Speech",
+                "text": "Don't tell me... my report card is out already?!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_9",
+                "type": "Speech",
+                "text": "... What's my score? Can you give me a sneak peek?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_05_19"
+            },
+            {
+                "id": "d_counseling_rei_05_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Naru 1",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_12",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Naru 2",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_13",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Naru 3",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_14",
+                "type": "Monologue",
+                "text": "All of them wear expressions of disbelief.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_15",
+                "type": "Self",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_16",
+                "type": "Speech",
+                "text": "Guys, say something. Don't make Teacher nervous!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_17",
+                "type": "Speech",
+                "text": "I believe you, Teacher!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_05_18",
+                "type": "Speech",
+                "text": "You're so inspiring!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_05_19"
+            },
+            {
+                "id": "d_counseling_rei_05_19",
+                "type": "Narration",
+                "text": "I have a chat about exams with Rei.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_06_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_06_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_06_3",
+                "type": "Choice",
+                "text": "... Are you feeling down due to puberty?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_06_5"
+            },
+            {
+                "id": "d_counseling_rei_06_4",
+                "type": "Choice",
+                "text": "Give her a piece of sweet chocolate.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_06_8"
+            },
+            {
+                "id": "d_counseling_rei_06_5",
+                "type": "Speech",
+                "text": "No, not really.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_06_6",
+                "type": "Speech",
+                "text": "I just don't feel myself today.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_06_7",
+                "type": "Speech",
+                "text": "Perhaps some sweets will lift my spirits...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_06_12"
+            },
+            {
+                "id": "d_counseling_rei_06_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_06_9",
+                "type": "Self",
+                "text": "You sure you don't want it?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_06_10",
+                "type": "Speech",
+                "text": "I want it! Thank you, Teacher!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_06_11",
+                "type": "Speech",
+                "text": "Hehe. It looks even more delectable when it's from you.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_06_12"
+            },
+            {
+                "id": "d_counseling_rei_06_12",
+                "type": "Narration",
+                "text": "Rei and I savor some chocolates together and have a lovely time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_07_1",
+                "type": "Speech",
+                "text": "Naru and I will always have your back, Teacher!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_07_2",
+                "type": "Speech",
+                "text": "We won't let anyone mess with you!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_07_3",
+                "type": "Speech",
+                "text": "So, what do you think? Am I reliable?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_07_4",
+                "type": "Choice",
+                "text": "Absolutely reliable.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_07_6"
+            },
+            {
+                "id": "d_counseling_rei_07_5",
+                "type": "Choice",
+                "text": "I'll protect you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_07_9"
+            },
+            {
+                "id": "d_counseling_rei_07_6",
+                "type": "Speech",
+                "text": "Yes!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_07_7",
+                "type": "Speech",
+                "text": "That's what senior students are supposed to be, right?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_07_8",
+                "type": "Speech",
+                "text": "You can always count on me.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_07_11"
+            },
+            {
+                "id": "d_counseling_rei_07_9",
+                "type": "Speech",
+                "text": "No, no, no! I'm a senior student now.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_07_10",
+                "type": "Speech",
+                "text": "It's my job to protect you, Teacher!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_07_11"
+            },
+            {
+                "id": "d_counseling_rei_07_11",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Rei.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_08_1",
+                "type": "Speech",
+                "text": "Teacher, the weather is lovely. Shall we take a stroll together?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_08_2",
+                "type": "Speech",
+                "text": "We can indulge in all sorts of treats while we're out.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_08_3",
+                "type": "Speech",
+                "text": "Plus, we can jam to some tunes!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_08_4",
+                "type": "Choice",
+                "text": "You can't play music in public places.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_08_6"
+            },
+            {
+                "id": "d_counseling_rei_08_5",
+                "type": "Choice",
+                "text": "What kind of snacks should we get?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_08_10"
+            },
+            {
+                "id": "d_counseling_rei_08_6",
+                "type": "Speech",
+                "text": "I don't see the harm in playing music where there's no one else around.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_08_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_08_8",
+                "type": "Speech",
+                "text": "Hmm... You're right. I can't act like I own the public space.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_08_9",
+                "type": "Speech",
+                "text": "Can we still have some snacks, though?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_08_13"
+            },
+            {
+                "id": "d_counseling_rei_08_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_08_11",
+                "type": "Speech",
+                "text": "We can buy any snacks we want? I want some chocolates and candies!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_08_12",
+                "type": "Speech",
+                "text": "Can I choose different types?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_08_13"
+            },
+            {
+                "id": "d_counseling_rei_08_13",
+                "type": "Narration",
+                "text": "Rei and I have a delightful conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_09_1",
+                "type": "Speech",
+                "text": "Emperor penguins hate spinach\u266a Ooh la la\u266a",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_09_2",
+                "type": "Speech",
+                "text": "Too much fish and now my tummy aches\u266a Ooh la la\u266a",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_09_3",
+                "type": "Choice",
+                "text": "You should try eating spinach too.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_09_5"
+            },
+            {
+                "id": "d_counseling_rei_09_4",
+                "type": "Choice",
+                "text": "Emperor penguins hate spinach\u266a Ooh la la\u266a",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_09_9"
+            },
+            {
+                "id": "d_counseling_rei_09_5",
+                "type": "Speech",
+                "text": "What? But I'm just singing a song.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_09_6",
+                "type": "Speech",
+                "text": "And are you sure spinach is necessary for me?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_09_7",
+                "type": "Self",
+                "text": "Eating spinach can make you grow taller.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_09_8",
+                "type": "Speech",
+                "text": "... I'll be adding spinach to my diet from now on.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_09_12"
+            },
+            {
+                "id": "d_counseling_rei_09_9",
+                "type": "Speech",
+                "text": "Wow, I didn't know you could sing so well, Teacher!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_09_10",
+                "type": "Speech",
+                "text": "Hehe, how do you like my song?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_09_11",
+                "type": "Speech",
+                "text": "It's my favorite one.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_09_12"
+            },
+            {
+                "id": "d_counseling_rei_09_12",
+                "type": "Narration",
+                "text": "I sing along with Rei and enjoy a fun time with her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_10_1",
+                "type": "Speech",
+                "text": "Ahh...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_2",
+                "type": "Speech",
+                "text": "Teacher, my teeth are throbbing.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_3",
+                "type": "Choice",
+                "text": "Let's get you to a dentist.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_10_5"
+            },
+            {
+                "id": "d_counseling_rei_10_4",
+                "type": "Choice",
+                "text": "No more snacks for you from now on.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_10_11"
+            },
+            {
+                "id": "d_counseling_rei_10_5",
+                "type": "Speech",
+                "text": "To the dentist?!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_6",
+                "type": "Speech",
+                "text": "But I don't want to...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_7",
+                "type": "Self",
+                "text": "Rei, you're a big girl.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_9",
+                "type": "Speech",
+                "text": "... All right, I'll be brave and set a good example.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_10",
+                "type": "Speech",
+                "text": "I'm not scared of dentists at all!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_10_14"
+            },
+            {
+                "id": "d_counseling_rei_10_11",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_12",
+                "type": "Speech",
+                "text": "No, Teacher! It's not that bad.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_10_13",
+                "type": "Speech",
+                "text": "I was just overreacting... ouch!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_10_14"
+            },
+            {
+                "id": "d_counseling_rei_10_14",
+                "type": "Narration",
+                "text": "I take Rei to the dentist for a check-up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_11_1",
+                "type": "Speech",
+                "text": "Teacher, check out what I brought! Snacks!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_11_2",
+                "type": "Speech",
+                "text": "Wanna try some?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_11_3",
+                "type": "Choice",
+                "text": "No thanks, I'm not hungry.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_11_5"
+            },
+            {
+                "id": "d_counseling_rei_11_4",
+                "type": "Choice",
+                "text": "Sure thing, hand 'em over.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_11_8"
+            },
+            {
+                "id": "d_counseling_rei_11_5",
+                "type": "Speech",
+                "text": "Oh... All right then,",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_11_6",
+                "type": "Speech",
+                "text": "I'll just eat 'em all myself!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_11_7",
+                "type": "Speech",
+                "text": "Nom nom nom.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_11_11"
+            },
+            {
+                "id": "d_counseling_rei_11_8",
+                "type": "Speech",
+                "text": "Here you go.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_11_9",
+                "type": "Narration",
+                "text": "Rei snatches the snack out of Naru's mouth and passes it to me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_11_10",
+                "type": "Speech",
+                "text": "Ew, there's Naru's saliva on it. But don't freak out! It's not technically saliva, so it's still edible.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_11_11"
+            },
+            {
+                "id": "d_counseling_rei_11_11",
+                "type": "Narration",
+                "text": "Rei and I then launch into a debate about the greatest snack ever made.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_12_1",
+                "type": "Speech",
+                "text": "Wouldn't it be amazing if Naru could do my homework for me?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_2",
+                "type": "Speech",
+                "text": "I mean, it's a great idea, don't you think?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_3",
+                "type": "Choice",
+                "text": "Yeah, that would be awesome.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_12_5"
+            },
+            {
+                "id": "d_counseling_rei_12_4",
+                "type": "Choice",
+                "text": "So you haven't done your homework yet?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_12_13"
+            },
+            {
+                "id": "d_counseling_rei_12_5",
+                "type": "Speech",
+                "text": "That's what I'm saying! That way, I could...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_6",
+                "type": "Self",
+                "text": "Naru could entertain your friends in your place.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_7",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_8",
+                "type": "Self",
+                "text": "And Naru will wield the power of a third-year student on your behalf.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_9",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_10",
+                "type": "Self",
+                "text": "Eventually, Naru would take over your entire life.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_12",
+                "type": "Speech",
+                "text": "I'm going to do my homework now.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_12_16"
+            },
+            {
+                "id": "d_counseling_rei_12_13",
+                "type": "Speech",
+                "text": "Not yet.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_14",
+                "type": "Speech",
+                "text": "Because the day isn't over.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_12_15",
+                "type": "Speech",
+                "text": "I'm going to start now.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_12_16"
+            },
+            {
+                "id": "d_counseling_rei_12_16",
+                "type": "Narration",
+                "text": "I stay with Rei and help her with her homework.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_13_1",
+                "type": "Speech",
+                "text": "*Huff* *Huff*",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_2",
+                "type": "Speech",
+                "text": "Ein...! How dare she...! *Huff*",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_3",
+                "type": "Speech",
+                "text": "That's completely unacceptable!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_4",
+                "type": "Choice",
+                "text": "Did Ein tell you to shape up as a senior?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_13_6"
+            },
+            {
+                "id": "d_counseling_rei_13_5",
+                "type": "Choice",
+                "text": "Did Ein ask you to clean the window frames?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_13_10"
+            },
+            {
+                "id": "d_counseling_rei_13_6",
+                "type": "Speech",
+                "text": "No, it's not about that.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_7",
+                "type": "Speech",
+                "text": "But how could Ein say something like that...! Argh!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_8",
+                "type": "Speech",
+                "text": "She's really getting on my nerves!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_9",
+                "type": "Speech",
+                "text": "... Wait, do I seem like an incompetent senior to you?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_13_14"
+            },
+            {
+                "id": "d_counseling_rei_13_10",
+                "type": "Speech",
+                "text": "That's right!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_11",
+                "type": "Self",
+                "text": "But cleaning the window frames is not a big deal.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_12",
+                "type": "Speech",
+                "text": "It's true but...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_13_13",
+                "type": "Speech",
+                "text": "Ein was being disrespectful and even snickering!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_13_14"
+            },
+            {
+                "id": "d_counseling_rei_13_14",
+                "type": "Narration",
+                "text": "I comfort Rei for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_14_1",
+                "type": "Speech",
+                "text": "Teacher, I have a question.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_2",
+                "type": "Speech",
+                "text": "What makes an ideal senior student?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_3",
+                "type": "Speech",
+                "text": "You know, someone who can command respect and admiration for a long time.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_4",
+                "type": "Choice",
+                "text": "Someone who treats others to meals and snacks.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_14_6"
+            },
+            {
+                "id": "d_counseling_rei_14_5",
+                "type": "Choice",
+                "text": "Someone who isn't like Rei.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_14_10"
+            },
+            {
+                "id": "d_counseling_rei_14_6",
+                "type": "Speech",
+                "text": "Treating others to meals and snacks, huh? Let me jot that down.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_7",
+                "type": "Speech",
+                "text": "Hmm, I need to check my allowance this month...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_8",
+                "type": "Speech",
+                "text": "Okay, got it.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_9",
+                "type": "Speech",
+                "text": "Maybe I'll have to hold off on it.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_14_14"
+            },
+            {
+                "id": "d_counseling_rei_14_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_12",
+                "type": "Self",
+                "text": "Just kidding.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_14_13",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_14_14"
+            },
+            {
+                "id": "d_counseling_rei_14_14",
+                "type": "Narration",
+                "text": "Rei and I explore the attributes of an exceptional senior student.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_15_1",
+                "type": "Speech",
+                "text": "These days, juniors are so disrespectful.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_2",
+                "type": "Speech",
+                "text": "They act like they're in charge and never follow instructions.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_3",
+                "type": "Speech",
+                "text": "*Sigh* I wasn't like that when I was their age.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_4",
+                "type": "Choice",
+                "text": "How did you behave as a junior, Rei?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_15_6"
+            },
+            {
+                "id": "d_counseling_rei_15_5",
+                "type": "Choice",
+                "text": "Juniors these days need to be put in their place.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_15_10"
+            },
+            {
+                "id": "d_counseling_rei_15_6",
+                "type": "Speech",
+                "text": "Well, I used to argue a lot with those senior students.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_7",
+                "type": "Speech",
+                "text": "But I had a good reason for it.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_8",
+                "type": "Speech",
+                "text": "Anyway, I'm not like them.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_9",
+                "type": "Self",
+                "text": "... I see.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_rei_15_14"
+            },
+            {
+                "id": "d_counseling_rei_15_10",
+                "type": "Speech",
+                "text": "Exactly!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_11",
+                "type": "Speech",
+                "text": "... Uh, come to think of it,",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_12",
+                "type": "Speech",
+                "text": "I might have been the same way when I was a junior.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_15_13",
+                "type": "Speech",
+                "text": "Perhaps this is just the prevailing trend among students in that grade?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_15_14"
+            },
+            {
+                "id": "d_counseling_rei_15_14",
+                "type": "Narration",
+                "text": "Rei shares her struggles of managing her juniors with me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_16_1",
+                "type": "Speech",
+                "text": "Ein and Zwei are the best.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_16_2",
+                "type": "Speech",
+                "text": "Hehe. You know why?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_16_3",
+                "type": "Choice",
+                "text": "Because they're your personal snack and homework assistants?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_16_5"
+            },
+            {
+                "id": "d_counseling_rei_16_4",
+                "type": "Choice",
+                "text": "Because they could keep you on your toes?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_16_8"
+            },
+            {
+                "id": "d_counseling_rei_16_5",
+                "type": "Speech",
+                "text": "Yes, that's exactly what they do!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_16_6",
+                "type": "Speech",
+                "text": "Ein always knows what I'm craving,",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_16_7",
+                "type": "Speech",
+                "text": "and Zwei helps me with my assignments without even being asked.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_16_11"
+            },
+            {
+                "id": "d_counseling_rei_16_8",
+                "type": "Speech",
+                "text": "Why should I be?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_16_9",
+                "type": "Speech",
+                "text": "I'm already a perfect senior student, you know.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_16_10",
+                "type": "Speech",
+                "text": "I don't really need that kind of help.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_16_11"
+            },
+            {
+                "id": "d_counseling_rei_16_11",
+                "type": "Narration",
+                "text": "I listen to Rei praise her juniors.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_17_1",
+                "type": "Speech",
+                "text": "Teacher, which one of the Narus do you prefer?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_17_2",
+                "type": "Speech",
+                "text": "This is 1, this is 2, and this is 3.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_17_3",
+                "type": "Choice",
+                "text": "Honestly, they all look the same to me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_17_5"
+            },
+            {
+                "id": "d_counseling_rei_17_4",
+                "type": "Choice",
+                "text": "Naru 3...?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_17_9"
+            },
+            {
+                "id": "d_counseling_rei_17_5",
+                "type": "Speech",
+                "text": "Beep!",
+                "speaker": "Naru 1",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_17_6",
+                "type": "Speech",
+                "text": "Creak!",
+                "speaker": "Naru 2",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_17_7",
+                "type": "Speech",
+                "text": "Pfft!",
+                "speaker": "Naru 3",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_17_8",
+                "type": "Self",
+                "text": "... Sorry, my bad.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_rei_17_12"
+            },
+            {
+                "id": "d_counseling_rei_17_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Naru 3",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_17_10",
+                "type": "Speech",
+                "text": "Hehe. I see.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_17_11",
+                "type": "Speech",
+                "text": "Naru 3 also has a fondness for you, Teacher.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_17_12"
+            },
+            {
+                "id": "d_counseling_rei_17_12",
+                "type": "Narration",
+                "text": "I listen to Rei praise Naru 1, 2, and 3.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_18_1",
+                "type": "Speech",
+                "text": "Battles aren't really my thing.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_18_2",
+                "type": "Speech",
+                "text": "They're a bit daunting.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_18_3",
+                "type": "Speech",
+                "text": "How about you, Teacher?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_18_4",
+                "type": "Choice",
+                "text": "I find them a bit scary too.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_18_6"
+            },
+            {
+                "id": "d_counseling_rei_18_5",
+                "type": "Choice",
+                "text": "It's fine once I got used to them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_18_9"
+            },
+            {
+                "id": "d_counseling_rei_18_6",
+                "type": "Speech",
+                "text": "So you also have a bit of fear, Teacher.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_18_7",
+                "type": "Speech",
+                "text": "But you carry on with it because...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_18_8",
+                "type": "Speech",
+                "text": "it's worth the risk, right?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_18_11"
+            },
+            {
+                "id": "d_counseling_rei_18_9",
+                "type": "Speech",
+                "text": "So you could gradually build up your courage.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_18_10",
+                "type": "Speech",
+                "text": "I don't think I'll ever be brave enough like you.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_18_11"
+            },
+            {
+                "id": "d_counseling_rei_18_11",
+                "type": "Narration",
+                "text": "I provide some comfort to Rei about her concerns.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_19_1",
+                "type": "Speech",
+                "text": "... I got screwed.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_19_2",
+                "type": "Speech",
+                "text": "I didn't expect a pop quiz!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_19_3",
+                "type": "Speech",
+                "text": "And it's the subject I'm worst at.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_19_4",
+                "type": "Choice",
+                "text": "Are you going to clean the bathroom starting tomorrow?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_19_6"
+            },
+            {
+                "id": "d_counseling_rei_19_5",
+                "type": "Choice",
+                "text": "I bet you still did pretty well, right?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_19_10"
+            },
+            {
+                "id": "d_counseling_rei_19_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_19_7",
+                "type": "Speech",
+                "text": "Teacher, can I ask you for a favor?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_19_8",
+                "type": "Self",
+                "text": "I won't be scrubbing any toilets for you.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_19_9",
+                "type": "Speech",
+                "text": "... Okay.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_19_13"
+            },
+            {
+                "id": "d_counseling_rei_19_10",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_19_11",
+                "type": "Speech",
+                "text": "Let's just say I didn't let it defeat me.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_19_12",
+                "type": "Speech",
+                "text": "Even though I flunked the quiz, I still feel like I won mentally.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_19_13"
+            },
+            {
+                "id": "d_counseling_rei_19_13",
+                "type": "Narration",
+                "text": "Rei and I talk about strategies for tackling pop quizzes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rei_20_1",
+                "type": "Speech",
+                "text": "Teacher! Here!",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_2",
+                "type": "Narration",
+                "text": "Rei holds out her clenched fist.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_3",
+                "type": "Speech",
+                "text": "I got something for you.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_4",
+                "type": "Choice",
+                "text": "Accept her gift.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rei_20_6"
+            },
+            {
+                "id": "d_counseling_rei_20_5",
+                "type": "Choice",
+                "text": "Decline her gift.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rei_20_11"
+            },
+            {
+                "id": "d_counseling_rei_20_6",
+                "type": "Narration",
+                "text": "Rei opens her hand to reveal a candy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_7",
+                "type": "Speech",
+                "text": "I managed to chance upon this incredibly rare candy and held it tightly in my hand to bring to you.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_8",
+                "type": "Speech",
+                "text": "It may not be the best-tasting candy, but it's definitely a rare treat.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_9",
+                "type": "Self",
+                "text": "Thank you, Rei.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_10",
+                "type": "Speech",
+                "text": "Teacher, what's wrong? You have a guilty look on your face.",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_20_14"
+            },
+            {
+                "id": "d_counseling_rei_20_11",
+                "type": "Speech",
+                "text": "You don't want it?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_12",
+                "type": "Speech",
+                "text": "Uh... Why?",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rei_20_13",
+                "type": "Speech",
+                "text": "This candy is really unique...",
+                "speaker": "Rei",
+                "points": null,
+                "jumpTo": "d_counseling_rei_20_14"
+            },
+            {
+                "id": "d_counseling_rei_20_14",
+                "type": "Narration",
+                "text": "Rei and I play rock, paper, scissors for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

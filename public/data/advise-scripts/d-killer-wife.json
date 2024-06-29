@@ -1,0 +1,2333 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_d_killerwife_01_1",
+                "type": "Speech",
+                "text": "When you're cornered, forced to extreme measures for a goal,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_2",
+                "type": "Speech",
+                "text": "what's your move?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_3",
+                "type": "Choice",
+                "text": "I'd always look for another solution.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_01_5"
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_4",
+                "type": "Choice",
+                "text": "I'd brace for the fallout, whatever it may be.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_01_10"
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_5",
+                "type": "Speech",
+                "text": "... Another solution, hmm?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_6",
+                "type": "Speech",
+                "text": "Ideally, that would work.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_7",
+                "type": "Speech",
+                "text": "But the world is far from ideal.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_8",
+                "type": "Speech",
+                "text": "Sometimes, tough calls are mandatory,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_9",
+                "type": "Speech",
+                "text": "lest you lose everything in your indecision.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_01_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_10",
+                "type": "Speech",
+                "text": "Indeed.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_11",
+                "type": "Speech",
+                "text": "Confronted with a dire choice,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_12",
+                "type": "Speech",
+                "text": "you need to stand ready for the ripples it causes.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_13",
+                "type": "Speech",
+                "text": "The world seldom offers us the luxury of perfect outcomes.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_01_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_01_14",
+                "type": "Narration",
+                "text": "I have a bittersweet counseling session with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_02_1",
+                "type": "Speech",
+                "text": "Someone once asked me",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_2",
+                "type": "Speech",
+                "text": "why I favor the axe",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_3",
+                "type": "Speech",
+                "text": "over the convenience of a firearm in my line of work?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_4",
+                "type": "Speech",
+                "text": "Do you know the reason?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_5",
+                "type": "Choice",
+                "text": "To avoid leaving evidence.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_02_7"
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_6",
+                "type": "Choice",
+                "text": "Because missions aren't meant to be a walk in the park.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_02_11"
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_7",
+                "type": "Speech",
+                "text": "That's not it.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_8",
+                "type": "Speech",
+                "text": "The traces I leave are none,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_9",
+                "type": "Speech",
+                "text": "regardless of the tool I wield.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_10",
+                "type": "Speech",
+                "text": "That's not why an axe is my instrument of choice.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_02_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_11",
+                "type": "Speech",
+                "text": "Precisely. Missions aren't all about ease.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_12",
+                "type": "Speech",
+                "text": "That was my answer to them as well.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_13",
+                "type": "Speech",
+                "text": "The axe reminds me of the mission's gravity, a burden I choose not to disregard.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_02_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_02_14",
+                "type": "Narration",
+                "text": "I have a deep conversation with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_03_1",
+                "type": "Speech",
+                "text": "To convincingly play the part of newlyweds,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_2",
+                "type": "Speech",
+                "text": "I checked out a luxury apartment where Sovereigns live for recon.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_3",
+                "type": "Speech",
+                "text": "The fancy decor made it look nice at first glance.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_4",
+                "type": "Speech",
+                "text": "Do you want to live in such a place?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_5",
+                "type": "Choice",
+                "text": "Not really.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_03_7"
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_6",
+                "type": "Choice",
+                "text": "Sometimes I kind of want that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_03_10"
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_7",
+                "type": "Speech",
+                "text": "I think so too.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_8",
+                "type": "Speech",
+                "text": "Living in luxury seems pointless to me.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_9",
+                "type": "Speech",
+                "text": "What's inside you matters more than what's around you.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_03_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_10",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_11",
+                "type": "Speech",
+                "text": "But I doubt its true value.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_03_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_03_12",
+                "type": "Narration",
+                "text": "I have a discussion with D about luxury apartments.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_04_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_2",
+                "type": "Monologue",
+                "text": "D comes in disguise.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_3",
+                "type": "Speech",
+                "text": "...?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_4",
+                "type": "Speech",
+                "text": "What's with that look?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_5",
+                "type": "Speech",
+                "text": "Is there any problem?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_6",
+                "type": "Choice",
+                "text": "I just realized how beautiful my wife is.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_04_8"
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_7",
+                "type": "Choice",
+                "text": "It's odd seeing you in disguise without a mission.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_04_10"
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_8",
+                "type": "Speech",
+                "text": "Oh, Honey.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_9",
+                "type": "Speech",
+                "text": "I appreciate the flattery,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_04_13"
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_10",
+                "type": "Speech",
+                "text": "but I'm getting into character for an upcoming job.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_11",
+                "type": "Speech",
+                "text": "How about you help me out with some practice?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_12",
+                "type": "Speech",
+                "text": "This time, you're going to act as...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_04_13"
+            },
+            {
+                "id": "d_counseling_d_killerwife_04_13",
+                "type": "Narration",
+                "text": "I rehearse scenarios with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_05_1",
+                "type": "Speech",
+                "text": "When a Sovereign moves in,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_2",
+                "type": "Speech",
+                "text": "what's their usual gift for the neighbors?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_3",
+                "type": "Speech",
+                "text": "Flowers, or something practical?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_4",
+                "type": "Choice",
+                "text": "Flowers.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_05_6"
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_5",
+                "type": "Choice",
+                "text": "Something practical.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_05_10"
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_6",
+                "type": "Speech",
+                "text": "That fits",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_7",
+                "type": "Speech",
+                "text": "since Sovereigns are all about appearances.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_8",
+                "type": "Speech",
+                "text": "... So, which is more appropriate?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_9",
+                "type": "Speech",
+                "text": "Genuine blooms or the everlasting kind?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_05_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_10",
+                "type": "Speech",
+                "text": "Practical, huh?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_11",
+                "type": "Speech",
+                "text": "It doesn't seem like something a dignity-obsessed Sovereign would opt for.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_12",
+                "type": "Speech",
+                "text": "I need to think about this.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_13",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_05_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_05_14",
+                "type": "Narration",
+                "text": "D mulls over this new puzzle.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_06_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_2",
+                "type": "Monologue",
+                "text": "I notice a tattoo on D's arm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_3",
+                "type": "Speech",
+                "text": "What's up?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_4",
+                "type": "Choice",
+                "text": "That tattoo on your arm... What's it about?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_06_6"
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_5",
+                "type": "Choice",
+                "text": "... Nothing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_06_7"
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_6",
+                "type": "Speech",
+                "text": "The butterfly one here?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_06_9"
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_7",
+                "type": "Speech",
+                "text": "You seem fixated on it, despite claiming otherwise.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_8",
+                "type": "Speech",
+                "text": "Are you curious about this butterfly tattoo?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_06_9"
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_9",
+                "type": "Speech",
+                "text": "It stands for transformation, but through death.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_10",
+                "type": "Speech",
+                "text": "A personal marker for why I'm on this path.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_11",
+                "type": "Speech",
+                "text": "A constant reminder to myself.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_12",
+                "type": "Speech",
+                "text": "You get it, right?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_06_13",
+                "type": "Narration",
+                "text": "I have a conversation with D about tattoos.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_07_1",
+                "type": "Speech",
+                "text": "Honey.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_3",
+                "type": "Speech",
+                "text": "My husband?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_4",
+                "type": "Speech",
+                "text": "... Too formal, isn't it?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_5",
+                "type": "Monologue",
+                "text": "D is lost in thought.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_6",
+                "type": "Choice",
+                "text": "What's on your mind?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_07_8"
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_7",
+                "type": "Choice",
+                "text": "Honey works fine.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_07_11"
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_8",
+                "type": "Speech",
+                "text": "I'm working out how to address you during the mission.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_9",
+                "type": "Speech",
+                "text": "It'd help me act more naturally.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_10",
+                "type": "Speech",
+                "text": "Any suggestions?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_07_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_11",
+                "type": "Speech",
+                "text": "Being too formal might look weird for us.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_12",
+                "type": "Speech",
+                "text": "Good call, Honey.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_13",
+                "type": "Speech",
+                "text": "... Yeah, that's better.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_07_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_07_14",
+                "type": "Narration",
+                "text": "I sort out nicknames with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_08_1",
+                "type": "Speech",
+                "text": "Here, take this.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_2",
+                "type": "Monologue",
+                "text": "D hands me a heavy bag.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_3",
+                "type": "Speech",
+                "text": "Check it out when you're on your own.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_4",
+                "type": "Choice",
+                "text": "... Got it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_08_6"
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_5",
+                "type": "Choice",
+                "text": "... Nothing dangerous in here, right?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_08_10"
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_6",
+                "type": "Speech",
+                "text": "It's full of disguises.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_7",
+                "type": "Speech",
+                "text": "You'll need to get a feel for them before we get going.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_8",
+                "type": "Speech",
+                "text": "Remember, a good disguise is half the battle.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_9",
+                "type": "Speech",
+                "text": "Practice with them in front of the mirror until it feels right.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_08_16"
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_10",
+                "type": "Speech",
+                "text": "Dangerous?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_11",
+                "type": "Speech",
+                "text": "I don't know what's running through your head,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_12",
+                "type": "Speech",
+                "text": "but it's just full of disguises, nothing dangerous.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_13",
+                "type": "Speech",
+                "text": "The reason I said to check it alone",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_14",
+                "type": "Speech",
+                "text": "is to keep the mission under wraps.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_15",
+                "type": "Speech",
+                "text": "Sorry if I wasn't clear enough.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_08_16"
+            },
+            {
+                "id": "d_counseling_d_killerwife_08_16",
+                "type": "Narration",
+                "text": "I learn more about disguise from D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_09_1",
+                "type": "Speech",
+                "text": "On weekdays... we do this... and on weekends...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_2",
+                "type": "Monologue",
+                "text": "D is writing something down.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_3",
+                "type": "Speech",
+                "text": "I think it's crucial we have our story straight before the mission,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_4",
+                "type": "Speech",
+                "text": "so I'm putting together the backstory for our cover personas.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_5",
+                "type": "Monologue",
+                "text": "The paper is brimming with all sorts of backstories.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_6",
+                "type": "Choice",
+                "text": "Is it necessary to be so detailed?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_09_8"
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_7",
+                "type": "Choice",
+                "text": "I'll make sure to memorize as much as possible.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_09_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_8",
+                "type": "Speech",
+                "text": "Without a solid story,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_9",
+                "type": "Speech",
+                "text": "we're bound to slip up.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_10",
+                "type": "Speech",
+                "text": "We can't let some minor mistake blow our cover.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_11",
+                "type": "Speech",
+                "text": "So, tough as it is, you need to commit every detail to memory.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_09_15"
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_12",
+                "type": "Speech",
+                "text": "Please do your best.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_13",
+                "type": "Speech",
+                "text": "It's essential for the mission",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_14",
+                "type": "Speech",
+                "text": "that we know our cover as well as our own lives.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_09_15"
+            },
+            {
+                "id": "d_counseling_d_killerwife_09_15",
+                "type": "Narration",
+                "text": "I work hard to memorize what D wrote.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_10_1",
+                "type": "Monologue",
+                "text": "It's time for our session, but D is nowhere to be seen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_2",
+                "type": "Narration",
+                "text": "*Zing*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_3",
+                "type": "Speech",
+                "text": "Honey, what do you want for dinner?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_4",
+                "type": "Choice",
+                "text": "Anything you make is good for me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_10_6"
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_5",
+                "type": "Choice",
+                "text": "I've already eaten, actually.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_10_9"
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_6",
+                "type": "Speech",
+                "text": "Good.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_7",
+                "type": "Speech",
+                "text": "Not the response I'm expecting,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_8",
+                "type": "Speech",
+                "text": "but still works.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_10_15"
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_9",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_10",
+                "type": "Speech",
+                "text": "Remember to always stay in character, no matter the circumstances.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_11",
+                "type": "Speech",
+                "text": "That's how we avoid slip-ups during a mission.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_12",
+                "type": "Speech",
+                "text": "Here, study these menus.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_13",
+                "type": "Speech",
+                "text": "If you can't improvise, at least memorize them.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_14",
+                "type": "Monologue",
+                "text": "She hands me a list of dishes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_10_15"
+            },
+            {
+                "id": "d_counseling_d_killerwife_10_15",
+                "type": "Narration",
+                "text": "I receive an acting lesson from D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_11_1",
+                "type": "Monologue",
+                "text": "It's time for our session, but D is nowhere to be seen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_2",
+                "type": "Narration",
+                "text": "*Zing*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_3",
+                "type": "Speech",
+                "text": "You're back, Honey! How was your day?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_4",
+                "type": "Choice",
+                "text": "It's been a long day. What about you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_11_6"
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_5",
+                "type": "Choice",
+                "text": "Erm... I actually just sat around all day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_11_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_6",
+                "type": "Speech",
+                "text": "Hehe, I've been awaiting your return.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_8",
+                "type": "Speech",
+                "text": "That doesn't feel quite right. Perhaps...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_9",
+                "type": "Speech",
+                "text": "Honey, I'll go wash up first.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_10",
+                "type": "Speech",
+                "text": "This sounds more natural for newlyweds, don't you think?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_11",
+                "type": "Speech",
+                "text": "I'm not entirely sure about this role, so just go with it.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_11_18"
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_12",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_13",
+                "type": "Speech",
+                "text": "Remember to always stay in character, no matter the circumstances.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_14",
+                "type": "Speech",
+                "text": "That's how we avoid slip-ups during a mission.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_15",
+                "type": "Speech",
+                "text": "Here, study these lines.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_16",
+                "type": "Speech",
+                "text": "If you can't improvise, at least memorize them.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_17",
+                "type": "Speech",
+                "text": "She hands me a paper with several lines of dialogue.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_11_18"
+            },
+            {
+                "id": "d_counseling_d_killerwife_11_18",
+                "type": "Narration",
+                "text": "D and I act out a scenario as newlyweds.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_12_1",
+                "type": "Monologue",
+                "text": "It's time for our session, but D is nowhere to be seen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_2",
+                "type": "Narration",
+                "text": "*Zing*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_3",
+                "type": "Speech",
+                "text": "Honey, is there something you want for our anniversary?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_4",
+                "type": "Choice",
+                "text": "Just some downtime.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_12_6"
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_5",
+                "type": "Choice",
+                "text": "How about you? What would you like to have?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_12_10"
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_7",
+                "type": "Monologue",
+                "text": "D puts her hand on her axe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_8",
+                "type": "Self",
+                "text": "I-I mean, downtime with you, of course.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_9",
+                "type": "Speech",
+                "text": "... Next time, you'd better prepare a better answer.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_12_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_10",
+                "type": "Speech",
+                "text": "Answering a question with a question. I like it.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_11",
+                "type": "Speech",
+                "text": "When caught off guard,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_12",
+                "type": "Speech",
+                "text": "turning the tables with a counter-question can be a clever tactic.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_13",
+                "type": "Speech",
+                "text": "Even so, you should always have an answer ready too.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_12_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_12_14",
+                "type": "Narration",
+                "text": "I crafted the backstory for our anniversary with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_13_1",
+                "type": "Monologue",
+                "text": "It's time for our session, but D is nowhere to be seen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_2",
+                "type": "Narration",
+                "text": "*Zing*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_3",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_4",
+                "type": "Monologue",
+                "text": "Out of nowhere, D comes dangerously close to me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_5",
+                "type": "Speech",
+                "text": "Honey,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_6",
+                "type": "Speech",
+                "text": "what's with the red stain on your shirt?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_7",
+                "type": "Choice",
+                "text": "H-huh? Red stain? Where?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_13_9"
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_8",
+                "type": "Choice",
+                "text": "Oh, that? I must have spilled wine on myself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_13_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_9",
+                "type": "Speech",
+                "text": "Could it be lipstick from another woman?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_10",
+                "type": "Speech",
+                "text": "I guess we're done here.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_11",
+                "type": "Monologue",
+                "text": "D slaps me on the cheek.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_13_18"
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_12",
+                "type": "Speech",
+                "text": "Wine, you say?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_13",
+                "type": "Monologue",
+                "text": "D puts her hand on her axe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_14",
+                "type": "Self",
+                "text": "Yeah, we had wine together yesterday, remember? I must have spilled some at that time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_15",
+                "type": "Speech",
+                "text": "Oh, that's right.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_16",
+                "type": "Monologue",
+                "text": "D relaxes her hold on the axe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_17",
+                "type": "Speech",
+                "text": "Give me your shirt, Honey. I'll wash it right away.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_13_18"
+            },
+            {
+                "id": "d_counseling_d_killerwife_13_18",
+                "type": "Narration",
+                "text": "I have a terrifying time rehearsing as newlyweds with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_14_1",
+                "type": "Monologue",
+                "text": "It's time for our session, but D is nowhere to be seen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_2",
+                "type": "Narration",
+                "text": "*Pitter-patter*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_3",
+                "type": "Self",
+                "text": "It's raining.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_4",
+                "type": "Narration",
+                "text": "*Zing*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_6",
+                "type": "Monologue",
+                "text": "D comes in completely soaked by the rain.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_7",
+                "type": "Speech",
+                "text": "... Can you give me something warm?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_8",
+                "type": "Choice",
+                "text": "I'll make you some coffee.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_14_10"
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_9",
+                "type": "Choice",
+                "text": "Everything all right?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_14_13"
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_10",
+                "type": "Speech",
+                "text": "... Skip the sugar.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_11",
+                "type": "Speech",
+                "text": "That way, it'll help keep my mind sharp.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_12",
+                "type": "Speech",
+                "text": "Just black and bitter.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_14_16"
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_13",
+                "type": "Speech",
+                "text": "... I'm fine.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_14",
+                "type": "Speech",
+                "text": "At least, the rain is quite nice.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_15",
+                "type": "Speech",
+                "text": "Mind making me a warm cup of bitter black coffee?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_14_16"
+            },
+            {
+                "id": "d_counseling_d_killerwife_14_16",
+                "type": "Narration",
+                "text": "With that, D and I sip our coffee in silence.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_15_1",
+                "type": "Narration",
+                "text": "*Squirm* *squirm*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_2",
+                "type": "Monologue",
+                "text": "D's squirming bag keeps bothering me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_3",
+                "type": "Speech",
+                "text": "You seem fixated on my bag.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_4",
+                "type": "Monologue",
+                "text": "D stares at me quietly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_5",
+                "type": "Choice",
+                "text": "N-not really.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_15_7"
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_6",
+                "type": "Choice",
+                "text": "What's in it?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_15_13"
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_7",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_8",
+                "type": "Speech",
+                "text": "You might as well know.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_9",
+                "type": "Speech",
+                "text": "This is...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_10",
+                "type": "Monologue",
+                "text": "D places the bag before me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_11",
+                "type": "Speech",
+                "text": "It's a trend amongst Sovereigns,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_12",
+                "type": "Speech",
+                "text": "as evident from its distinctive logo...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_15_18"
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_13",
+                "type": "Speech",
+                "text": "Just take a look for yourself.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_14",
+                "type": "Monologue",
+                "text": "D opens the bag she's carrying.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_15",
+                "type": "Speech",
+                "text": "Makeup, wallet...",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_16",
+                "type": "Speech",
+                "text": "It's all the popular luxury brands among the Sovereigns.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_17",
+                "type": "Speech",
+                "text": "... It's so full that it just won't stay shut.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_15_18"
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_18",
+                "type": "Monologue",
+                "text": "I learn more about luxury brands from D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_15_19",
+                "type": "Narration",
+                "text": "In the end, I didn't get to hear about what I was curious about.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_16_1",
+                "type": "Speech",
+                "text": "What's our move if the target figures out we're in disguise?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_2",
+                "type": "Choice",
+                "text": "Stop the mission, right?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_16_4"
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_3",
+                "type": "Choice",
+                "text": "Take the target down?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_16_8"
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_4",
+                "type": "Speech",
+                "text": "Exactly.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_5",
+                "type": "Speech",
+                "text": "We'd have to stop the mission, unfortunate as it is.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_6",
+                "type": "Speech",
+                "text": "We need to investigate the facts,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_7",
+                "type": "Speech",
+                "text": "and only then can we make a move.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_16_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_8",
+                "type": "Speech",
+                "text": "Wrong.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_9",
+                "type": "Speech",
+                "text": "The right call is to stop the mission.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_10",
+                "type": "Speech",
+                "text": "Keep it in mind that it would be unwise to make any move",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_11",
+                "type": "Speech",
+                "text": "without investigating the facts.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_16_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_16_12",
+                "type": "Narration",
+                "text": "I have a serious counseling session with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_17_1",
+                "type": "Speech",
+                "text": "When I'm in the guise of another, I sometimes ponder",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_2",
+                "type": "Speech",
+                "text": "what it would be like to escape this mission and lead that fabricated existence.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_3",
+                "type": "Choice",
+                "text": "I've thought about that, too.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_17_5"
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_4",
+                "type": "Choice",
+                "text": "But that's not you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_17_9"
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_5",
+                "type": "Speech",
+                "text": "It's tough work, and the idea of something simpler is tempting.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_6",
+                "type": "Speech",
+                "text": "Still, I've got my responsibilities,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_7",
+                "type": "Speech",
+                "text": "so I can't just quit.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_8",
+                "type": "Speech",
+                "text": "That'd be like shirking.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_17_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_9",
+                "type": "Speech",
+                "text": "... You're right.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_10",
+                "type": "Speech",
+                "text": "With the responsibilities I have, I must stick to the mission.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_11",
+                "type": "Speech",
+                "text": "No cutting and running.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_17_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_17_12",
+                "type": "Narration",
+                "text": "I have a conversation with D about the weight of the responsibility.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_18_1",
+                "type": "Speech",
+                "text": "To help you better get into character,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_2",
+                "type": "Speech",
+                "text": "I'm thinking of dressing in styles that you like.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_3",
+                "type": "Speech",
+                "text": "What would you like me to wear?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_4",
+                "type": "Choice",
+                "text": "A maid uniform.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_18_6"
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_5",
+                "type": "Choice",
+                "text": "A dress.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_18_11"
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_6",
+                "type": "Speech",
+                "text": "Oh.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_7",
+                "type": "Speech",
+                "text": "That's what you like, huh?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_8",
+                "type": "Speech",
+                "text": "... Got it.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_9",
+                "type": "Monologue",
+                "text": "D shoots me a despising look.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_10",
+                "type": "Speech",
+                "text": "Nevermind, I'll decide for myself what to wear.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_18_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_11",
+                "type": "Speech",
+                "text": "Since I'm wearing a bodycon dress,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_12",
+                "type": "Speech",
+                "text": "I should search for a light, airy dress.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_13",
+                "type": "Speech",
+                "text": "Thanks for the idea.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_18_14"
+            },
+            {
+                "id": "d_counseling_d_killerwife_18_14",
+                "type": "Narration",
+                "text": "D and I start picking out clothes together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_19_1",
+                "type": "Speech",
+                "text": "What do you think about trust?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_2",
+                "type": "Choice",
+                "text": "It's not something you can always rely on.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_19_4"
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_3",
+                "type": "Choice",
+                "text": "It's something you can depend on.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_19_7"
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_4",
+                "type": "Speech",
+                "text": "Yeah, I agree.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_5",
+                "type": "Speech",
+                "text": "In the end, when things get real, you've only got yourself.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_6",
+                "type": "Speech",
+                "text": "You can't just depend on others.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_19_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_7",
+                "type": "Speech",
+                "text": "Not for me.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_8",
+                "type": "Speech",
+                "text": "If you depend on it too much and when reality hits,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_9",
+                "type": "Speech",
+                "text": "you might fall.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_10",
+                "type": "Speech",
+                "text": "Trust is fine,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_11",
+                "type": "Speech",
+                "text": "but depending too much on someone else is risky.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_19_12"
+            },
+            {
+                "id": "d_counseling_d_killerwife_19_12",
+                "type": "Narration",
+                "text": "I have a conversation with D about trust.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_d_killerwife_20_1",
+                "type": "Speech",
+                "text": "Sometimes I wonder,",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_2",
+                "type": "Speech",
+                "text": "how should we break",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_3",
+                "type": "Speech",
+                "text": "the cycle of evil?",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_4",
+                "type": "Choice",
+                "text": "Track down the root of the evil and destroy it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_d_killerwife_20_6"
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_5",
+                "type": "Choice",
+                "text": "Make sure whoever does wrong pays for it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_d_killerwife_20_8"
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_6",
+                "type": "Speech",
+                "text": "That's a valid point.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_7",
+                "type": "Speech",
+                "text": "Nevertheless, I question its feasibility in reality.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_20_11"
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_8",
+                "type": "Speech",
+                "text": "... That's true.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_9",
+                "type": "Speech",
+                "text": "Ensuring they get what they deserve",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_10",
+                "type": "Speech",
+                "text": "is probably the most I can do.",
+                "speaker": "D",
+                "points": null,
+                "jumpTo": "d_counseling_d_killerwife_20_11"
+            },
+            {
+                "id": "d_counseling_d_killerwife_20_11",
+                "type": "Narration",
+                "text": "I have a serious counseling session with D.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

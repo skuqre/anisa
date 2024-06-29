@@ -1,0 +1,2005 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_miranda_01_1",
+                "type": "Speech",
+                "text": "Commander! You really don't want to mess with Poli today!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_2",
+                "type": "Speech",
+                "text": "You see, I was working hard, as usual...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_3",
+                "type": "Speech",
+                "text": "But Poli got mad at me! She was in such a bad mood, I just had to get out of there!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_4",
+                "type": "Speech",
+                "text": "Now that I'm out of the office, I have no idea what to do! Any ideas?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_5",
+                "type": "Choice",
+                "text": "Ask Poli to play with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_01_7"
+            },
+            {
+                "id": "d_counseling_miranda_01_6",
+                "type": "Choice",
+                "text": "Tell Poli you're sorry.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_01_11"
+            },
+            {
+                "id": "d_counseling_miranda_01_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_8",
+                "type": "Speech",
+                "text": "Great idea!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_9",
+                "type": "Speech",
+                "text": "If Poli joins me, it may help her take a load off.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_10",
+                "type": "Speech",
+                "text": "You're so smart, Commander!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_01_14"
+            },
+            {
+                "id": "d_counseling_miranda_01_11",
+                "type": "Speech",
+                "text": "I already tried that!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_12",
+                "type": "Speech",
+                "text": "She's still fuming, though.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_13",
+                "type": "Speech",
+                "text": "Looks like all I can do is go out and have fun on my own!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_01_14",
+                "type": "Narration",
+                "text": "I explore ways to help with Miranda amuse herself.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_02_1",
+                "type": "Speech",
+                "text": "Poli chewed me out because I said she reminds me of a puppy.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_02_2",
+                "type": "Speech",
+                "text": "Should I have told her she's more like a cat instead?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_02_3",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_02_5"
+            },
+            {
+                "id": "d_counseling_miranda_02_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_02_8"
+            },
+            {
+                "id": "d_counseling_miranda_02_5",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_02_6",
+                "type": "Speech",
+                "text": "If you say so, then I'll go tell her right away!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_02_7",
+                "type": "Speech",
+                "text": "I'm sure it'll make her happy!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_02_11"
+            },
+            {
+                "id": "d_counseling_miranda_02_8",
+                "type": "Speech",
+                "text": "So that's a no-go, too?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_02_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_02_10",
+                "type": "Speech",
+                "text": "She's such a mystery...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_02_11",
+                "type": "Narration",
+                "text": "I have a conversation with Miranda about Poli.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_03_1",
+                "type": "Speech",
+                "text": "They say that nice weather can put you in a good mood.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_03_2",
+                "type": "Speech",
+                "text": "I'm not sure how that works, though.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_03_3",
+                "type": "Choice",
+                "text": "It's because rain is so inconvenient.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_03_5"
+            },
+            {
+                "id": "d_counseling_miranda_03_4",
+                "type": "Choice",
+                "text": "It doesn't. I'm in a bad mood even on beautiful days.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_03_8"
+            },
+            {
+                "id": "d_counseling_miranda_03_5",
+                "type": "Speech",
+                "text": "Hey, you're right!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_03_6",
+                "type": "Speech",
+                "text": "It's better to work on a nice day than a rainy day!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_03_7",
+                "type": "Speech",
+                "text": "Now I get it!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_03_11"
+            },
+            {
+                "id": "d_counseling_miranda_03_8",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_03_9",
+                "type": "Speech",
+                "text": "That's... not what I expected you to say...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_03_10",
+                "type": "Speech",
+                "text": "Just forget I asked.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_03_11",
+                "type": "Narration",
+                "text": "I have a discussion with Miranda about the relationship between weather and moods.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_04_1",
+                "type": "Speech",
+                "text": "Today, while I was working my beat,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_2",
+                "type": "Speech",
+                "text": "someone asked me if I was a new recruit.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_3",
+                "type": "Speech",
+                "text": "They just knew! I didn't say anything and they already knew!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_4",
+                "type": "Speech",
+                "text": "How could they have known?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_5",
+                "type": "Choice",
+                "text": "You can tell just by looking at your face.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_04_7"
+            },
+            {
+                "id": "d_counseling_miranda_04_6",
+                "type": "Choice",
+                "text": "You can tell by the way you act.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_04_9"
+            },
+            {
+                "id": "d_counseling_miranda_04_7",
+                "type": "Speech",
+                "text": "My face? Do I have the face of a rookie?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_8",
+                "type": "Speech",
+                "text": "That's weird... I don't think it's that obvious at all...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_04_15"
+            },
+            {
+                "id": "d_counseling_miranda_04_9",
+                "type": "Speech",
+                "text": "The way I act?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_10",
+                "type": "Speech",
+                "text": "Well, it happened while I was directing traffic.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_11",
+                "type": "Speech",
+                "text": "I heard that waiting in lines was the most efficient way to do things,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_12",
+                "type": "Speech",
+                "text": "so I blocked the road and asked everyone to line up in a single file.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_13",
+                "type": "Speech",
+                "text": "The other officers really gave me an earful!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_14",
+                "type": "Speech",
+                "text": "I think that might be the reason why!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_04_15",
+                "type": "Narration",
+                "text": "Miranda tells me more about the daily life of a rookie police officer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_05_1",
+                "type": "Speech",
+                "text": "Commander, do you ever wonder about the future?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_05_2",
+                "type": "Speech",
+                "text": "I do. I wonder if I'll ever become an accomplished police officer.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_05_3",
+                "type": "Choice",
+                "text": "I'm sure you will.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_05_5"
+            },
+            {
+                "id": "d_counseling_miranda_05_4",
+                "type": "Choice",
+                "text": "I wouldn't get your hopes up.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_05_7"
+            },
+            {
+                "id": "d_counseling_miranda_05_5",
+                "type": "Speech",
+                "text": "The fact that you trust me really gives me confidence!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_05_6",
+                "type": "Speech",
+                "text": "I'll do my best!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_05_10"
+            },
+            {
+                "id": "d_counseling_miranda_05_7",
+                "type": "Speech",
+                "text": "I'm not saying it'll happen overnight or anything!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_05_8",
+                "type": "Speech",
+                "text": "Anyway, if you're gonna dream, you gotta dream big!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_05_9",
+                "type": "Speech",
+                "text": "What's wrong with that?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_05_10",
+                "type": "Narration",
+                "text": "I chat with Miranda about how to become an accomplished police officer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_06_1",
+                "type": "Speech",
+                "text": "Commander, can I tell you something?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_06_2",
+                "type": "Speech",
+                "text": "People always tell me I don't have to work so hard.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_06_3",
+                "type": "Speech",
+                "text": "But, isn't working hard a good thing?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_06_4",
+                "type": "Choice",
+                "text": "Not always.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_06_6"
+            },
+            {
+                "id": "d_counseling_miranda_06_5",
+                "type": "Choice",
+                "text": "Yes! Nothing in the world is more important than hard work!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_06_8"
+            },
+            {
+                "id": "d_counseling_miranda_06_6",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_06_7",
+                "type": "Speech",
+                "text": "Well... I still want to work hard.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_06_11"
+            },
+            {
+                "id": "d_counseling_miranda_06_8",
+                "type": "Speech",
+                "text": "I thought so! I knew you would say that, Commander!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_06_9",
+                "type": "Speech",
+                "text": "Thank you.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_06_10",
+                "type": "Speech",
+                "text": "I won't let you down!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_06_11",
+                "type": "Narration",
+                "text": "I work with Miranda to find ways for her to work even harder.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_07_1",
+                "type": "Speech",
+                "text": "The safety of everyone inside the Ark is my responsibility.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_2",
+                "type": "Speech",
+                "text": "I said that out loud today, and a boy on the street giggled!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_3",
+                "type": "Speech",
+                "text": "He must have thought what I was telling a joke or something.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_4",
+                "type": "Speech",
+                "text": "I don't see what's so funny about it!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_5",
+                "type": "Choice",
+                "text": "Maybe it was because you were talking too loud.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_07_7"
+            },
+            {
+                "id": "d_counseling_miranda_07_6",
+                "type": "Choice",
+                "text": "It might be better not to know.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_07_11"
+            },
+            {
+                "id": "d_counseling_miranda_07_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_8",
+                "type": "Speech",
+                "text": "That's true. I was talking very loudly.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_9",
+                "type": "Speech",
+                "text": "I guess I can see how that's a little funny.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_10",
+                "type": "Speech",
+                "text": "Mystery solved. Thanks, Commander!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_07_13"
+            },
+            {
+                "id": "d_counseling_miranda_07_11",
+                "type": "Speech",
+                "text": "Wait, there are some things that it's better if you don't know?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_12",
+                "type": "Speech",
+                "text": "*Sigh* There's so much I still don't understand about this world.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_07_13",
+                "type": "Narration",
+                "text": "I listen to Miranda about her daily life at work.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_08_1",
+                "type": "Speech",
+                "text": "I think, in order to become a good detective,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_08_2",
+                "type": "Speech",
+                "text": "I'll need to work hard to improve myself.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_08_3",
+                "type": "Speech",
+                "text": "What do you think I should work on first?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_08_4",
+                "type": "Choice",
+                "text": "What about your intelligence?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_08_6"
+            },
+            {
+                "id": "d_counseling_miranda_08_5",
+                "type": "Choice",
+                "text": "Work on your resilience.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_08_10"
+            },
+            {
+                "id": "d_counseling_miranda_08_6",
+                "type": "Speech",
+                "text": "??",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_08_7",
+                "type": "Speech",
+                "text": "Why do I have to improve that?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_08_8",
+                "type": "Speech",
+                "text": "I'm already a quick learner!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_08_9",
+                "type": "Speech",
+                "text": "Now, that's really true!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_08_12"
+            },
+            {
+                "id": "d_counseling_miranda_08_10",
+                "type": "Speech",
+                "text": "I think that's a good idea.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_08_11",
+                "type": "Speech",
+                "text": "Starting today, I'll work to improve my resilience.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_08_12",
+                "type": "Narration",
+                "text": "I discuss self-improvement with Miranda.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_09_1",
+                "type": "Speech",
+                "text": "Commander, I have a question.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_2",
+                "type": "Speech",
+                "text": "People say that if you want to be successful, then you need to have a dream.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_3",
+                "type": "Speech",
+                "text": "I'm not sure how successful I want to become, so do I need a dream?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_4",
+                "type": "Speech",
+                "text": "How successful do you think I'll be?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_5",
+                "type": "Choice",
+                "text": "You'll definitely climb to the top of the ladder.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_09_7"
+            },
+            {
+                "id": "d_counseling_miranda_09_6",
+                "type": "Choice",
+                "text": "When they say successful, they're talking about becoming a better person.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_09_10"
+            },
+            {
+                "id": "d_counseling_miranda_09_7",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_8",
+                "type": "Speech",
+                "text": "That's a relief! ... I think?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_9",
+                "type": "Speech",
+                "text": "Hm... Actually, I'm not so sure.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_09_13"
+            },
+            {
+                "id": "d_counseling_miranda_09_10",
+                "type": "Speech",
+                "text": "A better person?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_11",
+                "type": "Speech",
+                "text": "Sounds kinda abstract, but also cool at the same time.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_12",
+                "type": "Speech",
+                "text": "All right! I'll come up with a great dream right away!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_09_13",
+                "type": "Narration",
+                "text": "I discuss potential dreams with Miranda.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_10_1",
+                "type": "Speech",
+                "text": "Commander, I was watching TV today...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_2",
+                "type": "Speech",
+                "text": "They said that if you want to be healthy, you have to eat well.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_3",
+                "type": "Speech",
+                "text": "So... exactly how much do you have to eat to be healthy?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_4",
+                "type": "Choice",
+                "text": "You have to put everything you've got into eating!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_10_6"
+            },
+            {
+                "id": "d_counseling_miranda_10_5",
+                "type": "Choice",
+                "text": "You're already eating well.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_10_11"
+            },
+            {
+                "id": "d_counseling_miranda_10_6",
+                "type": "Speech",
+                "text": "I understand.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_7",
+                "type": "Speech",
+                "text": "I'll focus a lot more on eating from now on.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_8",
+                "type": "Speech",
+                "text": "I'll push myself to the limit!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_9",
+                "type": "Speech",
+                "text": "I'll dedicate myself entirely to eating!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_10",
+                "type": "Speech",
+                "text": "I'll be the healthiest thing to ever live!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_10_14"
+            },
+            {
+                "id": "d_counseling_miranda_10_11",
+                "type": "Speech",
+                "text": "Are you sure it's enough?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_12",
+                "type": "Speech",
+                "text": "On the TV, they said you should eat a lot...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_13",
+                "type": "Speech",
+                "text": "Ugh, I'm confused.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_10_14",
+                "type": "Narration",
+                "text": "I have a conversation with Miranda about eating and personal health.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_11_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_11_2",
+                "type": "Speech",
+                "text": "I'm going to fry some eggs for Poli today.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_11_3",
+                "type": "Speech",
+                "text": "I wondering what design I should draw with the ketchup.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_11_4",
+                "type": "Choice",
+                "text": "A cute puppy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_11_6"
+            },
+            {
+                "id": "d_counseling_miranda_11_5",
+                "type": "Choice",
+                "text": "A traffic sign.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_11_9"
+            },
+            {
+                "id": "d_counseling_miranda_11_6",
+                "type": "Speech",
+                "text": "I drew a puppy last time, and you know what Poli did?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_11_7",
+                "type": "Speech",
+                "text": "She growled at me.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_11_8",
+                "type": "Speech",
+                "text": "I don't think it's a good idea to draw another one.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_11_12"
+            },
+            {
+                "id": "d_counseling_miranda_11_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_11_10",
+                "type": "Speech",
+                "text": "Very good idea, Commander!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_11_11",
+                "type": "Speech",
+                "text": "I'll draw a \"Careful, children at play\" sign!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_11_12",
+                "type": "Narration",
+                "text": "Miranda and I try and figure out what she should draw.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_12_1",
+                "type": "Speech",
+                "text": "I want to make a song about traffic control that you can play on the roads.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_2",
+                "type": "Speech",
+                "text": "I have some lyrics that I thought of.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_3",
+                "type": "Speech",
+                "text": "I'm just not sure if I can actually pull off the singing...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_4",
+                "type": "Choice",
+                "text": "Are you sure it wouldn't interfere with traffic?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_12_6"
+            },
+            {
+                "id": "d_counseling_miranda_12_5",
+                "type": "Choice",
+                "text": "I think it'd be wonderful if you sang it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_12_9"
+            },
+            {
+                "id": "d_counseling_miranda_12_6",
+                "type": "Speech",
+                "text": "Oh, it'll interfere with the traffic?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_7",
+                "type": "Speech",
+                "text": "I didn't think about that...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_8",
+                "type": "Speech",
+                "text": "All right then, I'll put it on the back burner for now then.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_12_13"
+            },
+            {
+                "id": "d_counseling_miranda_12_9",
+                "type": "Speech",
+                "text": "You really think so?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_10",
+                "type": "Speech",
+                "text": "It's a little embarrassing, but if I can do it...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_11",
+                "type": "Speech",
+                "text": "I'd love to give it a try!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_12",
+                "type": "Speech",
+                "text": "I'll ask Poli.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_12_13",
+                "type": "Narration",
+                "text": "Miranda and I discuss her song.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_13_1",
+                "type": "Speech",
+                "text": "I haven't managed traffic before on a snowy day,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_2",
+                "type": "Speech",
+                "text": "but I think it will be fun!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_3",
+                "type": "Choice",
+                "text": "I think I'll be staying off the roads on that day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_13_5"
+            },
+            {
+                "id": "d_counseling_miranda_13_4",
+                "type": "Choice",
+                "text": "I'm sure it'll be a new experience for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_13_10"
+            },
+            {
+                "id": "d_counseling_miranda_13_5",
+                "type": "Speech",
+                "text": "Why not?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_7",
+                "type": "Speech",
+                "text": "Is it because you think there will be a lot of delays?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_8",
+                "type": "Speech",
+                "text": "You don't need to worry!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_9",
+                "type": "Speech",
+                "text": "I'll make sure that traffic flows smoothly!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_13_14"
+            },
+            {
+                "id": "d_counseling_miranda_13_10",
+                "type": "Speech",
+                "text": "I'm sure it will be.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_11",
+                "type": "Speech",
+                "text": "Figuring how to conduct traffic in snowy conditions",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_12",
+                "type": "Speech",
+                "text": "will help improve my ability to think on-the-fly.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_13",
+                "type": "Speech",
+                "text": "I hope it snows soon.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_13_14",
+                "type": "Narration",
+                "text": "Miranda and I talk about conducting traffic.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_14_1",
+                "type": "Speech",
+                "text": "When I was on vacation,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_14_2",
+                "type": "Speech",
+                "text": "traffic was at a complete standstill.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_14_3",
+                "type": "Speech",
+                "text": "So I promptly sorted it all out, and came back here!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_14_4",
+                "type": "Speech",
+                "text": "It was great seeing the looks of satisfaction on people's faces.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_14_5",
+                "type": "Choice",
+                "text": "Are you sure you're remembering everything correctly?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_14_7"
+            },
+            {
+                "id": "d_counseling_miranda_14_6",
+                "type": "Choice",
+                "text": "Reporting for duty even while on vacation! Very impressive!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_14_9"
+            },
+            {
+                "id": "d_counseling_miranda_14_7",
+                "type": "Speech",
+                "text": "Of course I am!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_14_8",
+                "type": "Speech",
+                "text": "I saw everyone smile with my own two eyes!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_14_13"
+            },
+            {
+                "id": "d_counseling_miranda_14_9",
+                "type": "Speech",
+                "text": "Please, you're making me blush!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_14_10",
+                "type": "Speech",
+                "text": "I'm an Ark police officer,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_14_11",
+                "type": "Speech",
+                "text": "so that was nothing!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_14_13",
+                "type": "Narration",
+                "text": "Miranda told me more stories about conducting traffic.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_15_1",
+                "type": "Speech",
+                "text": "The Outpost is such a peaceful place.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_15_2",
+                "type": "Speech",
+                "text": "... So peaceful that sometimes there's nothing to do!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_15_3",
+                "type": "Choice",
+                "text": "I'm happy to come up with more work for you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_15_5"
+            },
+            {
+                "id": "d_counseling_miranda_15_4",
+                "type": "Choice",
+                "text": "It's all thanks to your hard work.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_15_8"
+            },
+            {
+                "id": "d_counseling_miranda_15_5",
+                "type": "Speech",
+                "text": "Oh... um... about that...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_15_6",
+                "type": "Speech",
+                "text": "That's okay.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_15_7",
+                "type": "Speech",
+                "text": "I take back what I just said.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_15_11"
+            },
+            {
+                "id": "d_counseling_miranda_15_8",
+                "type": "Speech",
+                "text": "I'm happy you feel that way, Commander!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_15_9",
+                "type": "Speech",
+                "text": "Hearing you say that makes me want to work even harder.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_15_10",
+                "type": "Speech",
+                "text": "Feel free to call me if anything comes up.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_15_11",
+                "type": "Narration",
+                "text": "Miranda and I talk about how peaceful the Outpost is.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_16_1",
+                "type": "Speech",
+                "text": "I thought I'd worked long enough,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_16_2",
+                "type": "Speech",
+                "text": "but my superiors still say I'm just a rookie!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_16_3",
+                "type": "Speech",
+                "text": "What do I have to do to get rid of this stigma?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_16_4",
+                "type": "Choice",
+                "text": "You need to see things from a broader perspective.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_16_6"
+            },
+            {
+                "id": "d_counseling_miranda_16_5",
+                "type": "Choice",
+                "text": "There's not much else you can do. You just have to accept it for now.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_16_9"
+            },
+            {
+                "id": "d_counseling_miranda_16_6",
+                "type": "Speech",
+                "text": "So what you're saying is...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_16_7",
+                "type": "Speech",
+                "text": "I should go on top of a skyscraper so I can get a better view?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_16_8",
+                "type": "Speech",
+                "text": "That way I'd be able to spot the criminals more easily!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_16_12"
+            },
+            {
+                "id": "d_counseling_miranda_16_9",
+                "type": "Speech",
+                "text": "Aw man...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_16_10",
+                "type": "Speech",
+                "text": "In other people's eyes, Poli can do no wrong. It's infuriating!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_16_11",
+                "type": "Speech",
+                "text": "I want to be like that too!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_16_12",
+                "type": "Narration",
+                "text": "I speak with Miranda about the trials and tribulations of being a rookie police officer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_17_1",
+                "type": "Speech",
+                "text": "This is kind of a strange question,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_17_2",
+                "type": "Speech",
+                "text": "but what do you think is a spy's strong suit?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_17_3",
+                "type": "Choice",
+                "text": "What makes you ask a question like that?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_17_5"
+            },
+            {
+                "id": "d_counseling_miranda_17_4",
+                "type": "Choice",
+                "text": "Maintaining total secrecy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_17_8"
+            },
+            {
+                "id": "d_counseling_miranda_17_5",
+                "type": "Speech",
+                "text": "Um... It just popped into my head randomly",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_17_6",
+                "type": "Speech",
+                "text": "when I was walking on the street.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_17_7",
+                "type": "Speech",
+                "text": "No other reason! I'm not a spy or anything like that!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_17_11"
+            },
+            {
+                "id": "d_counseling_miranda_17_8",
+                "type": "Speech",
+                "text": "For sure!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_17_9",
+                "type": "Speech",
+                "text": "It's paramount that a spy never reveals their identity.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_17_10",
+                "type": "Speech",
+                "text": "Anyway, I'll keep doing my best with my own job!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_17_11",
+                "type": "Narration",
+                "text": "Even though it was still vague, I got a slightly better idea of who Miranda was.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_18_1",
+                "type": "Speech",
+                "text": "I practically fell apart yesterday after eating my lunch!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_2",
+                "type": "Speech",
+                "text": "I thought about filing a maintenance request, but decided to just grit my teeth and push through.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_3",
+                "type": "Speech",
+                "text": "Poli found out later though and got really upset with me...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_4",
+                "type": "Speech",
+                "text": "Why do you think I got in trouble?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_5",
+                "type": "Choice",
+                "text": "Managing your own condition is also a skill.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_18_7"
+            },
+            {
+                "id": "d_counseling_miranda_18_6",
+                "type": "Choice",
+                "text": "Because Poli cares about you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_18_10"
+            },
+            {
+                "id": "d_counseling_miranda_18_7",
+                "type": "Speech",
+                "text": "Of course! How could I have been so foolish!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_8",
+                "type": "Speech",
+                "text": "Of course, it was because of my lack of effort!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_9",
+                "type": "Speech",
+                "text": "From now on, I'll be sure to look after myself more vigilantly once I'm finished with my work.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_18_13"
+            },
+            {
+                "id": "d_counseling_miranda_18_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_11",
+                "type": "Speech",
+                "text": "She has a strange way of showing it...she was growling at me and everything...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_12",
+                "type": "Speech",
+                "text": "Anyway, I'll try and be nicer to Poli from now on.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_18_13",
+                "type": "Narration",
+                "text": "Miranda and I talk about managing your personal health with professional obligations.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_19_1",
+                "type": "Speech",
+                "text": "It's been a while since I last had time off of work.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_19_2",
+                "type": "Speech",
+                "text": "I want everyone to know how much fun I'm having, but I'm not sure how to go about it...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_19_3",
+                "type": "Speech",
+                "text": "Can you help me spread the word?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_19_4",
+                "type": "Choice",
+                "text": "Is it really that important to you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_19_6"
+            },
+            {
+                "id": "d_counseling_miranda_19_5",
+                "type": "Choice",
+                "text": "What exactly should I tell them?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_19_9"
+            },
+            {
+                "id": "d_counseling_miranda_19_6",
+                "type": "Speech",
+                "text": "Yes, it's extremely important to me!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_19_7",
+                "type": "Speech",
+                "text": "Poli said that my time off is just as important as the time I spend on duty.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_19_8",
+                "type": "Speech",
+                "text": "So I want everyone to know that I went all out with my R&R!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_19_12"
+            },
+            {
+                "id": "d_counseling_miranda_19_9",
+                "type": "Speech",
+                "text": "Say that you and I went somewhere and had a total blast!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_19_10",
+                "type": "Speech",
+                "text": "... Oh, come to think of it,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_19_11",
+                "type": "Speech",
+                "text": "I forgot to mention this to you first...",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_19_12",
+                "type": "Narration",
+                "text": "We eventually got into a lively discussion about how Miranda should utilize her days off.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_miranda_20_1",
+                "type": "Speech",
+                "text": "There's a restaurant near our office that's absolutely delicious.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_20_2",
+                "type": "Speech",
+                "text": "I want to go with someone but I'm not sure how to ask them.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_20_3",
+                "type": "Choice",
+                "text": "Lure them in with the idea of delicious food.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_miranda_20_5"
+            },
+            {
+                "id": "d_counseling_miranda_20_4",
+                "type": "Choice",
+                "text": "Play up the fact that they'll be going with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_miranda_20_8"
+            },
+            {
+                "id": "d_counseling_miranda_20_5",
+                "type": "Speech",
+                "text": "Gotcha, I'll try and let the food do the talking, so to speak!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_20_6",
+                "type": "Speech",
+                "text": "Erm... So, this restaurant has two signature Splendamin dishes:",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_20_7",
+                "type": "Speech",
+                "text": "Udon noodles with butter, and al dente capellini noodles with salt.",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": "d_counseling_miranda_20_11"
+            },
+            {
+                "id": "d_counseling_miranda_20_8",
+                "type": "Speech",
+                "text": "Got it, I'll see what I can do!",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_20_9",
+                "type": "Speech",
+                "text": "Erm... So Commander,",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_20_10",
+                "type": "Speech",
+                "text": "I'd really like to take you to this restaurant, even if I end up spending my entire paycheck. Would you care to join me?",
+                "speaker": "Miranda",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_miranda_20_11",
+                "type": "Narration",
+                "text": "I made an appointment to eat out with Miranda.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

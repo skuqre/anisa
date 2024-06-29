@@ -1,0 +1,1805 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_moran_01_1",
+                "type": "Speech",
+                "text": "Cadet,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_01_2",
+                "type": "Speech",
+                "text": "I'll protect you no matter what happens.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_01_3",
+                "type": "Choice",
+                "text": "You're the best.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_01_5"
+            },
+            {
+                "id": "d_counseling_moran_01_4",
+                "type": "Choice",
+                "text": "Shouldn't it be the other way around?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_01_8"
+            },
+            {
+                "id": "d_counseling_moran_01_5",
+                "type": "Speech",
+                "text": "If you're ever feeling threatened,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_01_6",
+                "type": "Speech",
+                "text": "be sure to let me know.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_01_7",
+                "type": "Speech",
+                "text": "Okay?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_01_10"
+            },
+            {
+                "id": "d_counseling_moran_01_8",
+                "type": "Speech",
+                "text": "Oooh, that sounds pretty cool.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_01_9",
+                "type": "Speech",
+                "text": "I appreciate you saying that.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_01_10"
+            },
+            {
+                "id": "d_counseling_moran_01_10",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_02_1",
+                "type": "Speech",
+                "text": "Cadet.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_02_2",
+                "type": "Speech",
+                "text": "What do you value most in life?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_02_3",
+                "type": "Choice",
+                "text": "Loyalty.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_02_5"
+            },
+            {
+                "id": "d_counseling_moran_02_4",
+                "type": "Choice",
+                "text": "Money.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_02_7"
+            },
+            {
+                "id": "d_counseling_moran_02_5",
+                "type": "Speech",
+                "text": "Me as well.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_02_6",
+                "type": "Speech",
+                "text": "A life without loyalty is a fate worse than death.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_02_10"
+            },
+            {
+                "id": "d_counseling_moran_02_7",
+                "type": "Speech",
+                "text": "Sure, money is important,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_02_8",
+                "type": "Speech",
+                "text": "but I think loyalty matters more.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_02_9",
+                "type": "Speech",
+                "text": "A merchant's fidelity is of paramount importance when sealing the deal.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_02_10"
+            },
+            {
+                "id": "d_counseling_moran_02_10",
+                "type": "Narration",
+                "text": "I talk with Moran about loyalty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_03_1",
+                "type": "Speech",
+                "text": "Sakura and Rosanna",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_03_2",
+                "type": "Speech",
+                "text": "haven't been answering my calls recently.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_03_3",
+                "type": "Speech",
+                "text": "I must have called them a dozen times, and they haven't responded once.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_03_4",
+                "type": "Choice",
+                "text": "Maybe they're busy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_03_6"
+            },
+            {
+                "id": "d_counseling_moran_03_5",
+                "type": "Choice",
+                "text": "Could they have blocked you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_03_9"
+            },
+            {
+                "id": "d_counseling_moran_03_6",
+                "type": "Speech",
+                "text": "I've considered that.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_03_7",
+                "type": "Speech",
+                "text": "After all, they are busier than me...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_03_8",
+                "type": "Speech",
+                "text": "I was just paranoid that they had blocked me or something.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_03_13"
+            },
+            {
+                "id": "d_counseling_moran_03_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_03_10",
+                "type": "Speech",
+                "text": "You really think they'd do such a thing?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_03_11",
+                "type": "Speech",
+                "text": "They threatened to block me if I kept spamming them with phone calls...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_03_12",
+                "type": "Speech",
+                "text": "But I didn't think they'd actually do it.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_03_13"
+            },
+            {
+                "id": "d_counseling_moran_03_13",
+                "type": "Narration",
+                "text": "I call Rosanna and Sakura myself to confirm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_04_1",
+                "type": "Speech",
+                "text": "I wish I had a signature gesture or something,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_04_2",
+                "type": "Speech",
+                "text": "whenever I'm extolling the virtues of loyalty.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_04_3",
+                "type": "Speech",
+                "text": "Do you have any recommendations?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_04_4",
+                "type": "Choice",
+                "text": "Try a fist bump.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_04_6"
+            },
+            {
+                "id": "d_counseling_moran_04_5",
+                "type": "Choice",
+                "text": "Try lifting both arms in the air and cheering.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_04_8"
+            },
+            {
+                "id": "d_counseling_moran_04_6",
+                "type": "Speech",
+                "text": "A fist bump?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_04_7",
+                "type": "Speech",
+                "text": "Are you sure that wouldn't cause someone to get aggressive?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_04_12"
+            },
+            {
+                "id": "d_counseling_moran_04_8",
+                "type": "Speech",
+                "text": "Okay, I like it.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_04_9",
+                "type": "Speech",
+                "text": "That should work nicely.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_04_10",
+                "type": "Speech",
+                "text": "All right, I'll do that next time I'm praising loyalty to the heavens.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_04_11",
+                "type": "Speech",
+                "text": "Would you like to try it out with me?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_04_12"
+            },
+            {
+                "id": "d_counseling_moran_04_12",
+                "type": "Narration",
+                "text": "During our session, Moran and I try out some potential signature gestures for her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_05_1",
+                "type": "Speech",
+                "text": "Rosanna always accuses me of being ignorant.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_05_2",
+                "type": "Speech",
+                "text": "You don't think that, do you, Cadet?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_05_3",
+                "type": "Choice",
+                "text": "I'd say you're more innocent than ignorant.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_05_5"
+            },
+            {
+                "id": "d_counseling_moran_05_4",
+                "type": "Choice",
+                "text": "No, you're smart as a whip.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_05_8"
+            },
+            {
+                "id": "d_counseling_moran_05_5",
+                "type": "Speech",
+                "text": "Innocent?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_05_6",
+                "type": "Speech",
+                "text": "Being too innocent is tantamount to being na\u00efve...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_05_7",
+                "type": "Speech",
+                "text": "Nevertheless, I'll take that as a compliment.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_05_12"
+            },
+            {
+                "id": "d_counseling_moran_05_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_05_9",
+                "type": "Speech",
+                "text": "You don't need to blow smoke up my behind, Cadet.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_05_10",
+                "type": "Speech",
+                "text": "I'd rather you told it to me straight.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_05_11",
+                "type": "Speech",
+                "text": "Lying is the ultimate way to corrode trust.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_05_12"
+            },
+            {
+                "id": "d_counseling_moran_05_12",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_06_1",
+                "type": "Speech",
+                "text": "My heart races whenever I look at you, Cadet.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_06_2",
+                "type": "Speech",
+                "text": "I'm not sick, am I?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_06_3",
+                "type": "Choice",
+                "text": "You like me, don't you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_06_5"
+            },
+            {
+                "id": "d_counseling_moran_06_4",
+                "type": "Choice",
+                "text": "You might have chronic heart disease.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_06_8"
+            },
+            {
+                "id": "d_counseling_moran_06_5",
+                "type": "Speech",
+                "text": "Sure, you're great!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_06_6",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_06_7",
+                "type": "Speech",
+                "text": "Cadet... I... I think I know why my heart races!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_06_11"
+            },
+            {
+                "id": "d_counseling_moran_06_8",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_06_9",
+                "type": "Speech",
+                "text": "Of course I don't!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_06_10",
+                "type": "Speech",
+                "text": "... But just in case, maybe I should go to the hospital for a physical.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_06_11"
+            },
+            {
+                "id": "d_counseling_moran_06_11",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_07_1",
+                "type": "Speech",
+                "text": "Jin asked me if I was going on a date today.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_07_2",
+                "type": "Speech",
+                "text": "Have you ever been on a date?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_07_3",
+                "type": "Choice",
+                "text": "We can go on one together after this session.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_07_5"
+            },
+            {
+                "id": "d_counseling_moran_07_4",
+                "type": "Choice",
+                "text": "I'm going on one once our session is finished.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_07_9"
+            },
+            {
+                "id": "d_counseling_moran_07_5",
+                "type": "Speech",
+                "text": "You and me?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_07_6",
+                "type": "Speech",
+                "text": "Th-that'd be great!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_07_7",
+                "type": "Speech",
+                "text": "But where should we go? What should we do?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_07_8",
+                "type": "Speech",
+                "text": "This'll be my first date...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_07_12"
+            },
+            {
+                "id": "d_counseling_moran_07_9",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_07_10",
+                "type": "Speech",
+                "text": "You can leave early if you need to.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_07_11",
+                "type": "Speech",
+                "text": "But... could I tag along?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_07_12"
+            },
+            {
+                "id": "d_counseling_moran_07_12",
+                "type": "Narration",
+                "text": "Moran and I talk about dates.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_08_1",
+                "type": "Speech",
+                "text": "Cadet,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_08_2",
+                "type": "Speech",
+                "text": "what do you usually do when you're sad?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_08_3",
+                "type": "Choice",
+                "text": "Cry until the sadness disappears.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_08_5"
+            },
+            {
+                "id": "d_counseling_moran_08_4",
+                "type": "Choice",
+                "text": "What makes you ask? Are you feeling sad?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_08_7"
+            },
+            {
+                "id": "d_counseling_moran_08_5",
+                "type": "Speech",
+                "text": "Does crying help?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_08_6",
+                "type": "Speech",
+                "text": "... But I don't want you to see me cry.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_08_10"
+            },
+            {
+                "id": "d_counseling_moran_08_7",
+                "type": "Speech",
+                "text": "Yeah...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_08_8",
+                "type": "Speech",
+                "text": "One of the Peony Association members got injured during a mission, pretty badly too.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_08_9",
+                "type": "Speech",
+                "text": "So I'm feeling kind of down.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_08_10"
+            },
+            {
+                "id": "d_counseling_moran_08_10",
+                "type": "Narration",
+                "text": "I comfort Moran for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_09_1",
+                "type": "Speech",
+                "text": "Hey, Cadet.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_09_2",
+                "type": "Speech",
+                "text": "I brought you some peonies.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_09_3",
+                "type": "Speech",
+                "text": "I thought they might look nice in your room.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_09_4",
+                "type": "Choice",
+                "text": "It'll be like having a piece of you in my room every day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_09_6"
+            },
+            {
+                "id": "d_counseling_moran_09_5",
+                "type": "Choice",
+                "text": "Peonies are my favorite flower.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_09_8"
+            },
+            {
+                "id": "d_counseling_moran_09_6",
+                "type": "Speech",
+                "text": "Huh? I'm not sure I understand.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_09_7",
+                "type": "Speech",
+                "text": "Why should we have to be together every day?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_09_12"
+            },
+            {
+                "id": "d_counseling_moran_09_8",
+                "type": "Speech",
+                "text": "Really?!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_09_9",
+                "type": "Speech",
+                "text": "That's great.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_09_10",
+                "type": "Speech",
+                "text": "I'm a big fan of peonies as well.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_09_11",
+                "type": "Speech",
+                "text": "After these wilt, I'll bring you some fresh ones.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_09_12"
+            },
+            {
+                "id": "d_counseling_moran_09_12",
+                "type": "Narration",
+                "text": "Moran and I talk about peony flowers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_10_1",
+                "type": "Speech",
+                "text": "The Peony Association members have been on their best behavior as of late,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_10_2",
+                "type": "Speech",
+                "text": "so I want to do something special for them.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_10_3",
+                "type": "Speech",
+                "text": "Do you have suggestions?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_10_4",
+                "type": "Choice",
+                "text": "Write each of them a handwritten letter.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_10_6"
+            },
+            {
+                "id": "d_counseling_moran_10_5",
+                "type": "Choice",
+                "text": "Arrange a get-together for the squad.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_10_9"
+            },
+            {
+                "id": "d_counseling_moran_10_6",
+                "type": "Speech",
+                "text": "Letters?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_10_7",
+                "type": "Speech",
+                "text": "Hmm... I'll think about it.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_10_8",
+                "type": "Speech",
+                "text": "That means I'd have to write about a dozen of them, though...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_10_12"
+            },
+            {
+                "id": "d_counseling_moran_10_9",
+                "type": "Speech",
+                "text": "It would be nice for all of us to have a big meal together.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_10_10",
+                "type": "Speech",
+                "text": "We could chow down on some good grub.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_10_11",
+                "type": "Speech",
+                "text": "You should come as well, Cadet.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_10_12"
+            },
+            {
+                "id": "d_counseling_moran_10_12",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_11_1",
+                "type": "Speech",
+                "text": "Cadet,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_11_2",
+                "type": "Speech",
+                "text": "when it comes to girls, do you have a type?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_11_3",
+                "type": "Choice",
+                "text": "Someone who's cheerful.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_11_5"
+            },
+            {
+                "id": "d_counseling_moran_11_4",
+                "type": "Choice",
+                "text": "Someone who's charming.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_11_8"
+            },
+            {
+                "id": "d_counseling_moran_11_5",
+                "type": "Speech",
+                "text": "I prefer someone who's peppy and bubbly as well.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_11_6",
+                "type": "Speech",
+                "text": "Being around people like that gives you a real energy boost.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_11_7",
+                "type": "Speech",
+                "text": "Sounds like you and I are kindred spirits, Cadet!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_11_12"
+            },
+            {
+                "id": "d_counseling_moran_11_8",
+                "type": "Speech",
+                "text": "Charming?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_11_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_11_10",
+                "type": "Speech",
+                "text": "Would you say that",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_11_11",
+                "type": "Speech",
+                "text": "I'm charming?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_11_12"
+            },
+            {
+                "id": "d_counseling_moran_11_12",
+                "type": "Narration",
+                "text": "I talk with Moran about my ideal type of girl.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_12_1",
+                "type": "Monologue",
+                "text": "I'm late for my session with Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_12_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_12_3",
+                "type": "Monologue",
+                "text": "As I enter the Commander's Room huffing and puffing, Moran doesn't seem to notice my presence.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_12_4",
+                "type": "Choice",
+                "text": "Got something on your mind?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_12_6"
+            },
+            {
+                "id": "d_counseling_moran_12_5",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_12_9"
+            },
+            {
+                "id": "d_counseling_moran_12_6",
+                "type": "Speech",
+                "text": "Oh, hi Cadet.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_12_7",
+                "type": "Speech",
+                "text": "I didn't hear you come in.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_12_8",
+                "type": "Speech",
+                "text": "In fact, something has been bugging me, and I was hoping you could help me.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_12_12"
+            },
+            {
+                "id": "d_counseling_moran_12_9",
+                "type": "Speech",
+                "text": "Gah! You scared me!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_12_10",
+                "type": "Speech",
+                "text": "I didn't hear you come in. You should have announced your presence!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_12_11",
+                "type": "Speech",
+                "text": "Now I forgot what I wanted to say...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_12_12"
+            },
+            {
+                "id": "d_counseling_moran_12_12",
+                "type": "Narration",
+                "text": "I have a meaningful conversation with Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_13_1",
+                "type": "Speech",
+                "text": "Cadet!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_13_2",
+                "type": "Speech",
+                "text": "Loyalty! Loyalty! Loyalty!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_13_3",
+                "type": "Choice",
+                "text": "... Loyalty.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_13_5"
+            },
+            {
+                "id": "d_counseling_moran_13_4",
+                "type": "Choice",
+                "text": "Loyalty! Loyalty! Loyalty!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_13_7"
+            },
+            {
+                "id": "d_counseling_moran_13_5",
+                "type": "Speech",
+                "text": "C'mon, louder!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_13_6",
+                "type": "Speech",
+                "text": "Say it like you mean it!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_13_9"
+            },
+            {
+                "id": "d_counseling_moran_13_7",
+                "type": "Speech",
+                "text": "Yes! I knew you'd shout out with me!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_13_8",
+                "type": "Speech",
+                "text": "I feel so freakin' pumped right now!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_13_9"
+            },
+            {
+                "id": "d_counseling_moran_13_9",
+                "type": "Narration",
+                "text": "Moran and I bellow out chants all day long.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_14_1",
+                "type": "Speech",
+                "text": "Cadet,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_14_2",
+                "type": "Speech",
+                "text": "I think you're the most beautiful person I've ever known.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_14_3",
+                "type": "Choice",
+                "text": "Right back at you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_14_5"
+            },
+            {
+                "id": "d_counseling_moran_14_4",
+                "type": "Choice",
+                "text": "I get that a lot.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_14_8"
+            },
+            {
+                "id": "d_counseling_moran_14_5",
+                "type": "Speech",
+                "text": "T-thanks!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_14_6",
+                "type": "Speech",
+                "text": "Oh my goodness, I didn't expect you to be so candid...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_14_7",
+                "type": "Speech",
+                "text": "Is it just me, or is it hot in here? Could I crack open a window?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_14_10"
+            },
+            {
+                "id": "d_counseling_moran_14_8",
+                "type": "Speech",
+                "text": "Haha, I see.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_14_9",
+                "type": "Speech",
+                "text": "But, you know... you didn't really respond to me...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_14_10"
+            },
+            {
+                "id": "d_counseling_moran_14_10",
+                "type": "Narration",
+                "text": "Moran and I talk about physical appearances.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_15_1",
+                "type": "Speech",
+                "text": "I feel like all my money disappears the instant I close my eyes.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_15_2",
+                "type": "Speech",
+                "text": "It's like I've got a hole in my wallet.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_15_3",
+                "type": "Speech",
+                "text": "Is there any way you could teach me how to save money?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_15_4",
+                "type": "Choice",
+                "text": "I'm not really good at saving money myself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_15_6"
+            },
+            {
+                "id": "d_counseling_moran_15_5",
+                "type": "Choice",
+                "text": "How about I manage your money for you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_15_8"
+            },
+            {
+                "id": "d_counseling_moran_15_6",
+                "type": "Speech",
+                "text": "So I'm not the only one!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_15_7",
+                "type": "Speech",
+                "text": "That's a minor relief at least.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_15_11"
+            },
+            {
+                "id": "d_counseling_moran_15_8",
+                "type": "Speech",
+                "text": "Hmm? You?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_15_9",
+                "type": "Speech",
+                "text": "Um... that's okay, thanks.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_15_10",
+                "type": "Speech",
+                "text": "Jin told me never to put your money in someone else's hands.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_15_11"
+            },
+            {
+                "id": "d_counseling_moran_15_11",
+                "type": "Narration",
+                "text": "Moran and I further discuss ways to potentially save up money.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_16_1",
+                "type": "Speech",
+                "text": "Cadet,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_16_2",
+                "type": "Speech",
+                "text": "what's your stance on white lies?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_16_3",
+                "type": "Choice",
+                "text": "I think they're necessary.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_16_5"
+            },
+            {
+                "id": "d_counseling_moran_16_4",
+                "type": "Choice",
+                "text": "I think they're just as bad as any other type of lie.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_16_8"
+            },
+            {
+                "id": "d_counseling_moran_16_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_16_6",
+                "type": "Speech",
+                "text": "Personally, I'm against them.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_16_7",
+                "type": "Speech",
+                "text": "Even if they're uttered with good intentions, you're still earning someone's trust through deception.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_16_10"
+            },
+            {
+                "id": "d_counseling_moran_16_8",
+                "type": "Speech",
+                "text": "I think so too.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_16_9",
+                "type": "Speech",
+                "text": "A lie is a lie, and that's that.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_16_10"
+            },
+            {
+                "id": "d_counseling_moran_16_10",
+                "type": "Narration",
+                "text": "I talk about white lies with Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_17_1",
+                "type": "Speech",
+                "text": "Cadet!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_17_2",
+                "type": "Speech",
+                "text": "How do you like my sunglasses?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_17_3",
+                "type": "Choice",
+                "text": "Very cool.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_17_5"
+            },
+            {
+                "id": "d_counseling_moran_17_4",
+                "type": "Choice",
+                "text": "Where did you buy them? I want a pair.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_17_8"
+            },
+            {
+                "id": "d_counseling_moran_17_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_17_6",
+                "type": "Speech",
+                "text": "Why do I feel like you're not being honest?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_17_7",
+                "type": "Speech",
+                "text": "Your response sounds so rehearsed.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_17_10"
+            },
+            {
+                "id": "d_counseling_moran_17_8",
+                "type": "Speech",
+                "text": "Are you a big fan of sunglasses too?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_17_9",
+                "type": "Speech",
+                "text": "How about we go shopping sometime?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_17_10"
+            },
+            {
+                "id": "d_counseling_moran_17_10",
+                "type": "Narration",
+                "text": "I talk about sunglasses with Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_18_1",
+                "type": "Speech",
+                "text": "I'm in the mood for a drink.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_18_2",
+                "type": "Speech",
+                "text": "What kind of alcohol do you like?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_18_3",
+                "type": "Choice",
+                "text": "Cocktails that are on the sweet side.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_18_5"
+            },
+            {
+                "id": "d_counseling_moran_18_4",
+                "type": "Choice",
+                "text": "Whiskey, neat.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_18_8"
+            },
+            {
+                "id": "d_counseling_moran_18_5",
+                "type": "Speech",
+                "text": "Wow!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_18_6",
+                "type": "Speech",
+                "text": "I love a good cocktail.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_18_7",
+                "type": "Speech",
+                "text": "What do you say we get ourselves a round?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_18_11"
+            },
+            {
+                "id": "d_counseling_moran_18_8",
+                "type": "Speech",
+                "text": "Hmm... whisky isn't really my favorite.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_18_9",
+                "type": "Speech",
+                "text": "You seem to be able to hold your liquor well.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_18_10",
+                "type": "Speech",
+                "text": "How do you feel about cocktails?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_18_11"
+            },
+            {
+                "id": "d_counseling_moran_18_11",
+                "type": "Narration",
+                "text": "Moran and I talk about alcoholic beverages.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_19_1",
+                "type": "Speech",
+                "text": "I always wonder what I would be",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_19_2",
+                "type": "Speech",
+                "text": "if I weren't the head of the Peony Association.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_19_3",
+                "type": "Choice",
+                "text": "A gang member.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_19_5"
+            },
+            {
+                "id": "d_counseling_moran_19_4",
+                "type": "Choice",
+                "text": "A policewoman.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_19_8"
+            },
+            {
+                "id": "d_counseling_moran_19_5",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_19_6",
+                "type": "Speech",
+                "text": "There's nothing I despise more than hooligans!",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_19_7",
+                "type": "Speech",
+                "text": "So that's what you see me as?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_19_11"
+            },
+            {
+                "id": "d_counseling_moran_19_8",
+                "type": "Speech",
+                "text": "A police officer?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_19_9",
+                "type": "Speech",
+                "text": "That's not bad.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_19_10",
+                "type": "Speech",
+                "text": "It seems you have a favorable impression of me, eh?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_19_11"
+            },
+            {
+                "id": "d_counseling_moran_19_11",
+                "type": "Narration",
+                "text": "We think about other jobs that would suit Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_moran_20_1",
+                "type": "Speech",
+                "text": "I want Jin to see a few of the scraps that we get into with other gangs,",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_20_2",
+                "type": "Speech",
+                "text": "but he always says his brain is his weapon of choice, not his brawn.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_20_3",
+                "type": "Choice",
+                "text": "You need to give him a proper reason to want to see a fight.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_moran_20_5"
+            },
+            {
+                "id": "d_counseling_moran_20_4",
+                "type": "Choice",
+                "text": "Take him by force.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_moran_20_7"
+            },
+            {
+                "id": "d_counseling_moran_20_5",
+                "type": "Speech",
+                "text": "It's just that he's way more eloquent than me. He'd probably talk circles around me.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_20_6",
+                "type": "Speech",
+                "text": "Could you help me come up with a good reason?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_20_10"
+            },
+            {
+                "id": "d_counseling_moran_20_7",
+                "type": "Speech",
+                "text": "I'd rather not.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_20_8",
+                "type": "Speech",
+                "text": "I like to avoid all unnecessary conflict.",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_moran_20_9",
+                "type": "Speech",
+                "text": "Isn't there any other way?",
+                "speaker": "Moran",
+                "points": null,
+                "jumpTo": "d_counseling_moran_20_10"
+            },
+            {
+                "id": "d_counseling_moran_20_10",
+                "type": "Narration",
+                "text": "Moran and I talk about Jin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

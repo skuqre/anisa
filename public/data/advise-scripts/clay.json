@@ -1,0 +1,1997 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_clay_01_1",
+                "type": "Speech",
+                "text": "Come on, Coach, say it with me!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_01_2",
+                "type": "Speech",
+                "text": "Put your hands together!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_01_3",
+                "type": "Speech",
+                "text": "Go! Go! Victory!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_01_4",
+                "type": "Choice",
+                "text": "You can do it!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_01_6"
+            },
+            {
+                "id": "d_counseling_clay_01_5",
+                "type": "Choice",
+                "text": "You can't do it!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_01_9"
+            },
+            {
+                "id": "d_counseling_clay_01_6",
+                "type": "Speech",
+                "text": "Everyone, clap your hands!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_01_7",
+                "type": "Speech",
+                "text": "I knew you'd remember that, Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_01_8",
+                "type": "Speech",
+                "text": "That's fantastic!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_01_12"
+            },
+            {
+                "id": "d_counseling_clay_01_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_01_10",
+                "type": "Speech",
+                "text": "Coach... is that supposed to be some kind of joke?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_01_11",
+                "type": "Self",
+                "text": "Er... Yeah, I'm just kidding.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_clay_01_12"
+            },
+            {
+                "id": "d_counseling_clay_01_12",
+                "type": "Narration",
+                "text": "I shout cheers and chants with Clay.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_02_1",
+                "type": "Speech",
+                "text": "When people get cheered on, some get nervous,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_02_2",
+                "type": "Speech",
+                "text": "while others feel reassured.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_02_3",
+                "type": "Speech",
+                "text": "Which one are you, Coach?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_02_4",
+                "type": "Choice",
+                "text": "I get nervous.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_02_6"
+            },
+            {
+                "id": "d_counseling_clay_02_5",
+                "type": "Choice",
+                "text": "I feel reassured.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_02_9"
+            },
+            {
+                "id": "d_counseling_clay_02_6",
+                "type": "Speech",
+                "text": "R-really?!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_02_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_02_8",
+                "type": "Speech",
+                "text": "I'll have to be careful if I ever need to cheer for you then...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_02_12"
+            },
+            {
+                "id": "d_counseling_clay_02_9",
+                "type": "Speech",
+                "text": "Hehe, really?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_02_10",
+                "type": "Speech",
+                "text": "Whenever you need a boost,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_02_11",
+                "type": "Speech",
+                "text": "just give me a shout!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_02_12"
+            },
+            {
+                "id": "d_counseling_clay_02_12",
+                "type": "Narration",
+                "text": "Clay and I have a conversation about cheerleading.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_03_1",
+                "type": "Speech",
+                "text": "Whenever I catch myself missing the beat,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_2",
+                "type": "Speech",
+                "text": "I start to wonder if I'm just getting in Bay's way.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_3",
+                "type": "Speech",
+                "text": "What do you do when you start doubting yourself?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_4",
+                "type": "Choice",
+                "text": "I work hard to overcome it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_03_6"
+            },
+            {
+                "id": "d_counseling_clay_03_5",
+                "type": "Choice",
+                "text": "I focus more on what I know I can do well.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_03_9"
+            },
+            {
+                "id": "d_counseling_clay_03_6",
+                "type": "Speech",
+                "text": "I... I see.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_7",
+                "type": "Speech",
+                "text": "In that case, I'll try harder to stay on beat!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_8",
+                "type": "Self",
+                "text": "I can help too.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_clay_03_12"
+            },
+            {
+                "id": "d_counseling_clay_03_9",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_10",
+                "type": "Speech",
+                "text": "You're right!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_11",
+                "type": "Self",
+                "text": "Bay is good at cheerleading, and you've got incredible showmanship.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_clay_03_12"
+            },
+            {
+                "id": "d_counseling_clay_03_12",
+                "type": "Speech",
+                "text": "Hehe, thanks, Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_13",
+                "type": "Speech",
+                "text": "I don't feel so anxious anymore!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_03_14",
+                "type": "Narration",
+                "text": "Clay and I have a conversation about overcoming our weaknesses.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_04_1",
+                "type": "Speech",
+                "text": "Ever since I joined Rewind, I feel like I've been living in a dream!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_04_2",
+                "type": "Speech",
+                "text": "Have you felt that way before, Coach?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_04_3",
+                "type": "Choice",
+                "text": "Yeah, all the time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_04_5"
+            },
+            {
+                "id": "d_counseling_clay_04_4",
+                "type": "Choice",
+                "text": "Let me see... Not really.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_04_9"
+            },
+            {
+                "id": "d_counseling_clay_04_5",
+                "type": "Self",
+                "text": "That's because I get to work with awesome people like you.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_04_6",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_04_7",
+                "type": "Speech",
+                "text": "Coach...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_04_8",
+                "type": "Speech",
+                "text": "As expected, Coach, you are a good person...!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_04_13"
+            },
+            {
+                "id": "d_counseling_clay_04_9",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_04_10",
+                "type": "Speech",
+                "text": "I hope your dreams will come true soon...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_04_11",
+                "type": "Self",
+                "text": "Me too. I'll keep at it.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_04_12",
+                "type": "Speech",
+                "text": "I'll definitely be cheering for you all the way!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_04_13"
+            },
+            {
+                "id": "d_counseling_clay_04_13",
+                "type": "Narration",
+                "text": "Clay and I talk more about our dreams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_05_1",
+                "type": "Narration",
+                "text": "When I arrive at the Commander's Room, I find Clay hesitantly looking at her phone.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_05_2",
+                "type": "Self",
+                "text": "What are you up to, Clay?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_05_3",
+                "type": "Speech",
+                "text": "Oh, hey, Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_05_4",
+                "type": "Speech",
+                "text": "We actually didn't do too well in a recent competition, so now I'm kinda scared to check the internet or the news...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_05_5",
+                "type": "Speech",
+                "text": "But at the same time, I feel that feedback could be helpful, so I should take a look... right?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_05_6",
+                "type": "Choice",
+                "text": "Turn off all your devices and enjoy some me time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_05_8"
+            },
+            {
+                "id": "d_counseling_clay_05_7",
+                "type": "Choice",
+                "text": "We've got to accept all the feedback we're given, both good and bad.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_05_11"
+            },
+            {
+                "id": "d_counseling_clay_05_8",
+                "type": "Self",
+                "text": "You know better than anyone else what areas need improvement.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_05_9",
+                "type": "Speech",
+                "text": "You... You're right!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_05_10",
+                "type": "Speech",
+                "text": "From now on, I've gotta make time to reflect upon myself!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_05_13"
+            },
+            {
+                "id": "d_counseling_clay_05_11",
+                "type": "Speech",
+                "text": "Yeah... But there are so many negative comments.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_05_12",
+                "type": "Speech",
+                "text": "No pain, no gain I guess...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_05_13"
+            },
+            {
+                "id": "d_counseling_clay_05_13",
+                "type": "Narration",
+                "text": "Clay and I talk more about how to come to terms with public opinion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_06_1",
+                "type": "Speech",
+                "text": "I stayed up late practicing last night and ended up oversleeping.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_06_2",
+                "type": "Speech",
+                "text": "Do you have any good idea I can use to get up on time?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_06_3",
+                "type": "Choice",
+                "text": "What about sleeping in the practice room?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_06_5"
+            },
+            {
+                "id": "d_counseling_clay_06_4",
+                "type": "Choice",
+                "text": "Set multiple alarms every 5 minutes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_06_10"
+            },
+            {
+                "id": "d_counseling_clay_06_5",
+                "type": "Speech",
+                "text": "That's a great idea!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_06_6",
+                "type": "Speech",
+                "text": "There's even a shower in the practice room!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_06_7",
+                "type": "Speech",
+                "text": "If I stay there, I definitely won't have to worry about oversleeping.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_06_8",
+                "type": "Self",
+                "text": "Still, the best solution is not to put yourself in situations where you end up pulling all-nighters.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_06_9",
+                "type": "Speech",
+                "text": "I know... I'll try not to stay up too late from now on!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_06_13"
+            },
+            {
+                "id": "d_counseling_clay_06_10",
+                "type": "Speech",
+                "text": "That's what I've been doing,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_06_11",
+                "type": "Speech",
+                "text": "but whenever I'm super tired, I just can't hear the alarm.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_06_12",
+                "type": "Speech",
+                "text": "There must be a better way...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_06_13"
+            },
+            {
+                "id": "d_counseling_clay_06_13",
+                "type": "Narration",
+                "text": "Clay and I think of ways to prevent her from oversleeping.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_07_1",
+                "type": "Speech",
+                "text": "Urgh...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_07_2",
+                "type": "Speech",
+                "text": "Bay seems to have a lot on her mind...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_07_3",
+                "type": "Self",
+                "text": "Like what?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_07_4",
+                "type": "Speech",
+                "text": "It must have to do with Rewind's reputation not being what it used to...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_07_5",
+                "type": "Choice",
+                "text": "Reputation isn't everything.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_07_7"
+            },
+            {
+                "id": "d_counseling_clay_07_6",
+                "type": "Choice",
+                "text": "That's okay. You both can build it back up again.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_07_10"
+            },
+            {
+                "id": "d_counseling_clay_07_7",
+                "type": "Speech",
+                "text": "D-do you really think so?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_07_8",
+                "type": "Speech",
+                "text": "But getting more popular means more offers come in, too...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_07_9",
+                "type": "Speech",
+                "text": "Otherwise, how can we continue?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_07_12"
+            },
+            {
+                "id": "d_counseling_clay_07_10",
+                "type": "Speech",
+                "text": "Hehe, I guess you're right about that!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_07_11",
+                "type": "Speech",
+                "text": "As long as I've got Bay, we'll be able to rehabilitate Rewind's reputation, no problem!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_07_12"
+            },
+            {
+                "id": "d_counseling_clay_07_12",
+                "type": "Narration",
+                "text": "Clay and I talk more about Rewind's reputation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_08_1",
+                "type": "Speech",
+                "text": "I just performed at a small festival held at a senior center,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_08_2",
+                "type": "Speech",
+                "text": "but the audience response was a bit... lukewarm.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_08_3",
+                "type": "Speech",
+                "text": "Do you think I did anything wrong?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_08_4",
+                "type": "Choice",
+                "text": "Older folks may find it difficult to respond enthusiastically.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_08_6"
+            },
+            {
+                "id": "d_counseling_clay_08_5",
+                "type": "Choice",
+                "text": "Perhaps it's because the audience was smaller?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_08_8"
+            },
+            {
+                "id": "d_counseling_clay_08_6",
+                "type": "Speech",
+                "text": "Oh, I see!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_08_7",
+                "type": "Speech",
+                "text": "That makes me feel a lot better, hehe!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_08_10"
+            },
+            {
+                "id": "d_counseling_clay_08_8",
+                "type": "Speech",
+                "text": "I dunno... every seat in the place was occupied...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_08_9",
+                "type": "Speech",
+                "text": "Do you think it's because they didn't like my routine?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_08_10"
+            },
+            {
+                "id": "d_counseling_clay_08_10",
+                "type": "Narration",
+                "text": "Clay and I continue to analyze the audience's reaction.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_09_1",
+                "type": "Speech",
+                "text": "*Sniffle*",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_2",
+                "type": "Monologue",
+                "text": "Clay is crying in the Commander's Room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_3",
+                "type": "Self",
+                "text": "What's wrong, Clay?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_4",
+                "type": "Speech",
+                "text": "I kept missing the beat today and messed up our whole routine.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_5",
+                "type": "Choice",
+                "text": "Just keep practicing so you won't make mistakes in the future.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_09_7"
+            },
+            {
+                "id": "d_counseling_clay_09_6",
+                "type": "Choice",
+                "text": "Everyone makes mistakes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_09_10"
+            },
+            {
+                "id": "d_counseling_clay_09_7",
+                "type": "Speech",
+                "text": "I'm up late every night practicing, but I don't feel like I'm getting any better.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_8",
+                "type": "Speech",
+                "text": "It's so frustrating!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_9",
+                "type": "Self",
+                "text": "How about recording yourself so that you can get a better idea of what mistakes you're making?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_clay_09_11"
+            },
+            {
+                "id": "d_counseling_clay_09_10",
+                "type": "Self",
+                "text": "The important thing is how you handle it afterward.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_clay_09_11"
+            },
+            {
+                "id": "d_counseling_clay_09_11",
+                "type": "Speech",
+                "text": "Y-you're right!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_12",
+                "type": "Speech",
+                "text": "I should get a better idea of what mistakes I'm making.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_13",
+                "type": "Speech",
+                "text": "Thanks, Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_09_14",
+                "type": "Narration",
+                "text": "Clay and I talk about what she should do to avoid making mistakes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_10_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_10_2",
+                "type": "Monologue",
+                "text": "Clay is staring at me intently.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_10_3",
+                "type": "Speech",
+                "text": "Whenever I'm with you, I feel like I've got someone in my corner!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_10_4",
+                "type": "Speech",
+                "text": "Maybe you've got an innate talent for cheerleading, Coach.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_10_5",
+                "type": "Choice",
+                "text": "I do like encouraging others.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_10_7"
+            },
+            {
+                "id": "d_counseling_clay_10_6",
+                "type": "Choice",
+                "text": "I'd feel a bit awkward doing cheerleading myself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_10_10"
+            },
+            {
+                "id": "d_counseling_clay_10_7",
+                "type": "Speech",
+                "text": "I'm not surprised to hear you say that.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_10_8",
+                "type": "Speech",
+                "text": "You may not be a cheerleader,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_10_9",
+                "type": "Speech",
+                "text": "but there's something about you that motivates me!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_10_13"
+            },
+            {
+                "id": "d_counseling_clay_10_10",
+                "type": "Speech",
+                "text": "Oh... I see.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_10_11",
+                "type": "Speech",
+                "text": "Still, just you being around is enough to give me strength,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_10_12",
+                "type": "Speech",
+                "text": "so you ought to have a bit more confidence in yourself!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_10_13"
+            },
+            {
+                "id": "d_counseling_clay_10_13",
+                "type": "Narration",
+                "text": "Clay and I talk more about me and my ability to motivate her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_11_1",
+                "type": "Speech",
+                "text": "Hey, Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_11_2",
+                "type": "Speech",
+                "text": "I practiced all day yesterday for the competition.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_11_3",
+                "type": "Speech",
+                "text": "Wanna take a look?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_11_4",
+                "type": "Choice",
+                "text": "Sure, show me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_11_6"
+            },
+            {
+                "id": "d_counseling_clay_11_5",
+                "type": "Choice",
+                "text": "I'd rather watch the final performance at the stadium myself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_11_11"
+            },
+            {
+                "id": "d_counseling_clay_11_6",
+                "type": "Speech",
+                "text": "Hehe, okay! I can give you a sneak peek right here!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_11_7",
+                "type": "Monologue",
+                "text": "Clay moves to ready herself, then looks around the room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_11_8",
+                "type": "Speech",
+                "text": "Hmm... If I do it here, the furniture might get damaged!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_11_9",
+                "type": "Speech",
+                "text": "Can we move to the practice room?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_11_10",
+                "type": "Self",
+                "text": "Sure, let's go.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_clay_11_13"
+            },
+            {
+                "id": "d_counseling_clay_11_11",
+                "type": "Speech",
+                "text": "Oh, okay... then you have to be sure to come on that day!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_11_12",
+                "type": "Self",
+                "text": "I'll be there.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_clay_11_13"
+            },
+            {
+                "id": "d_counseling_clay_11_13",
+                "type": "Narration",
+                "text": "I promise Clay that I'll go watch her new and improved routine.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_12_1",
+                "type": "Speech",
+                "text": "Coach, do you consider yourself a good dancer?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_12_2",
+                "type": "Speech",
+                "text": "Come to think of it, I've never seen you dance!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_12_3",
+                "type": "Choice",
+                "text": "I think I'm pretty decent.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_12_5"
+            },
+            {
+                "id": "d_counseling_clay_12_4",
+                "type": "Choice",
+                "text": "I've got two left feet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_12_9"
+            },
+            {
+                "id": "d_counseling_clay_12_5",
+                "type": "Speech",
+                "text": "Whoa, really? Could you show me?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_12_6",
+                "type": "Monologue",
+                "text": "I do a dance that I saw on TV recently.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_12_7",
+                "type": "Self",
+                "text": "What do you think?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_12_8",
+                "type": "Speech",
+                "text": "Wow, you really are a great dancer!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_12_12"
+            },
+            {
+                "id": "d_counseling_clay_12_9",
+                "type": "Speech",
+                "text": "Hehe, don't worry, Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_12_10",
+                "type": "Speech",
+                "text": "Let me teach you something I learned from Bay recently!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_12_11",
+                "type": "Self",
+                "text": "Okay, thanks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_clay_12_12"
+            },
+            {
+                "id": "d_counseling_clay_12_12",
+                "type": "Narration",
+                "text": "I do a simple dance in front of Clay.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_13_1",
+                "type": "Speech",
+                "text": "Someone I work with asked me",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_13_2",
+                "type": "Speech",
+                "text": "why I end so many of my sentences with exclamation marks!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_13_3",
+                "type": "Speech",
+                "text": "Do you think I use them too often, Coach?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_13_4",
+                "type": "Choice",
+                "text": "I think you're okay!!! Totally!!!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_13_6"
+            },
+            {
+                "id": "d_counseling_clay_13_5",
+                "type": "Choice",
+                "text": "Everyone has their own way of speaking.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_13_9"
+            },
+            {
+                "id": "d_counseling_clay_13_6",
+                "type": "Speech",
+                "text": "... Are you making fun of me right now?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_13_7",
+                "type": "Self",
+                "text": "No, no! I was just being silly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_13_8",
+                "type": "Speech",
+                "text": "I didn't realize you have a silly side to you...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_13_13"
+            },
+            {
+                "id": "d_counseling_clay_13_9",
+                "type": "Speech",
+                "text": "That's what I said to them!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_13_10",
+                "type": "Speech",
+                "text": "I knew you would understand!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_13_11",
+                "type": "Self",
+                "text": "So you see, there's no need for you to feel down.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_13_12",
+                "type": "Speech",
+                "text": "Hehe, thanks, Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_13_13"
+            },
+            {
+                "id": "d_counseling_clay_13_13",
+                "type": "Narration",
+                "text": "Clay and I have a conversation about the way she speaks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_14_1",
+                "type": "Speech",
+                "text": "No matter how hard I try,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_14_2",
+                "type": "Speech",
+                "text": "I can't seem to stay on beat...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_14_3",
+                "type": "Speech",
+                "text": "How can I train my sense of rhythm?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_14_4",
+                "type": "Choice",
+                "text": "Try clapping to the beat of the song I'll play.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_14_6"
+            },
+            {
+                "id": "d_counseling_clay_14_5",
+                "type": "Choice",
+                "text": "How about playing a rhythm game?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_14_11"
+            },
+            {
+                "id": "d_counseling_clay_14_6",
+                "type": "Speech",
+                "text": "Y-you want me to do it right now?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_14_7",
+                "type": "Monologue",
+                "text": "I start playing a song.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_14_8",
+                "type": "Speech",
+                "text": "*Clap clap clap*... *Clap* Ah!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_14_9",
+                "type": "Self",
+                "text": "Let's try it again.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_14_10",
+                "type": "Speech",
+                "text": "Okay! I won't give up!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_14_13"
+            },
+            {
+                "id": "d_counseling_clay_14_11",
+                "type": "Speech",
+                "text": "I've tried that a few times already,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_14_12",
+                "type": "Speech",
+                "text": "but I kept messing up and the game wouldn't let me continue...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_14_13"
+            },
+            {
+                "id": "d_counseling_clay_14_13",
+                "type": "Narration",
+                "text": "I work together with Clay to hone her sense of rhythm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_15_1",
+                "type": "Speech",
+                "text": "Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_15_2",
+                "type": "Speech",
+                "text": "Who do you think",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_15_3",
+                "type": "Speech",
+                "text": "would be a good new member for Rewind?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_15_4",
+                "type": "Choice",
+                "text": "Someone cool and composed.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_15_6"
+            },
+            {
+                "id": "d_counseling_clay_15_5",
+                "type": "Choice",
+                "text": "Someone passionate and energetic.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_15_8"
+            },
+            {
+                "id": "d_counseling_clay_15_6",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_15_7",
+                "type": "Speech",
+                "text": "I dunno, I think someone with some energy might be better!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_15_9"
+            },
+            {
+                "id": "d_counseling_clay_15_8",
+                "type": "Speech",
+                "text": "Wow, that sounds great!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_15_9"
+            },
+            {
+                "id": "d_counseling_clay_15_9",
+                "type": "Speech",
+                "text": "I feel like I'd get a big energy boost just from being around someone like that!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_15_10",
+                "type": "Speech",
+                "text": "I'm sure we'd have a great time cheerleading together!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_15_11",
+                "type": "Narration",
+                "text": "Clay and I discuss what a potential new member of Rewind would look like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_16_1",
+                "type": "Speech",
+                "text": "Whenever I'm out cheering at all these different sports events,",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_16_2",
+                "type": "Speech",
+                "text": "it breaks my heart whenever I see how torn up the losing teams are.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_16_3",
+                "type": "Speech",
+                "text": "Do you think there's anything I could do for them?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_16_4",
+                "type": "Choice",
+                "text": "It might be best to give them some space and let them compose themselves.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_16_6"
+            },
+            {
+                "id": "d_counseling_clay_16_5",
+                "type": "Choice",
+                "text": "How about rooting for the losing team?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_16_9"
+            },
+            {
+                "id": "d_counseling_clay_16_6",
+                "type": "Speech",
+                "text": "Hm... I don't know...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_16_7",
+                "type": "Speech",
+                "text": "If I were them, I feel like I'd want someone cheering me on.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_16_8",
+                "type": "Speech",
+                "text": "'Cause, you know, once the game's over, no one ever notices the losing side...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_16_11"
+            },
+            {
+                "id": "d_counseling_clay_16_9",
+                "type": "Speech",
+                "text": "Wow, that's a great idea!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_16_10",
+                "type": "Speech",
+                "text": "I'll cheer them on with all my might and help them get back on their feet!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_16_11"
+            },
+            {
+                "id": "d_counseling_clay_16_11",
+                "type": "Narration",
+                "text": "Clay and I exchange ideas on rooting for the loosing side.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_17_1",
+                "type": "Speech",
+                "text": "There's a competition coming up in a few days where I'll be participating as a representative of Rewind.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_17_2",
+                "type": "Speech",
+                "text": "It's all been so last minute that I haven't had much time to practice.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_17_3",
+                "type": "Speech",
+                "text": "Do you think I'll do okay without Bay?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_17_4",
+                "type": "Choice",
+                "text": "Just do what you always do, and keep your head held high.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_17_6"
+            },
+            {
+                "id": "d_counseling_clay_17_5",
+                "type": "Choice",
+                "text": "If you haven't put in the time, you can't expect a miracle.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_17_9"
+            },
+            {
+                "id": "d_counseling_clay_17_6",
+                "type": "Speech",
+                "text": "I will!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_17_7",
+                "type": "Speech",
+                "text": "I'll put my best foot forward!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_17_8",
+                "type": "Speech",
+                "text": "Thanks for the encouragement, Coach. I already feel more at ease!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_17_12"
+            },
+            {
+                "id": "d_counseling_clay_17_9",
+                "type": "Speech",
+                "text": "I-is that so?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_17_10",
+                "type": "Speech",
+                "text": "If I thought I could win without practicing, it might be disrespectful to those who've put in the effort...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_17_11",
+                "type": "Speech",
+                "text": "Guess I'll just have to give it my all with the time I've got left...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_17_12"
+            },
+            {
+                "id": "d_counseling_clay_17_12",
+                "type": "Narration",
+                "text": "Clay continues to tell me her worries about the upcoming competition.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_18_1",
+                "type": "Speech",
+                "text": "Coach, do you think hard work and tenacity can beat natural talent?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_18_2",
+                "type": "Speech",
+                "text": "It's something that often crosses my mind while I'm watching sports matches.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_18_3",
+                "type": "Choice",
+                "text": "I don't think effort means much in the face of overwhelming talent.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_18_5"
+            },
+            {
+                "id": "d_counseling_clay_18_4",
+                "type": "Choice",
+                "text": "If you try hard enough, nothing is impossible.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_18_8"
+            },
+            {
+                "id": "d_counseling_clay_18_5",
+                "type": "Speech",
+                "text": "Yeah... I kind of suspected that was the case.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_18_6",
+                "type": "Speech",
+                "text": "Still... I'll cheer them on just as hard as I always have!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_18_7",
+                "type": "Speech",
+                "text": "I want them to know that their effort has meaning!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_18_11"
+            },
+            {
+                "id": "d_counseling_clay_18_8",
+                "type": "Speech",
+                "text": "I knew it!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_18_9",
+                "type": "Speech",
+                "text": "I really hope everyone gets amazing results from all their hard work!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_18_10",
+                "type": "Speech",
+                "text": "As for me, I'll cheer them on just as hard as I always have!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_18_11"
+            },
+            {
+                "id": "d_counseling_clay_18_11",
+                "type": "Narration",
+                "text": "Clay and I have a conversation about the difference between effort and talent.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_19_1",
+                "type": "Speech",
+                "text": "Coach, look at this!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_19_2",
+                "type": "Speech",
+                "text": "I got a gift from a fan!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_19_3",
+                "type": "Speech",
+                "text": "I want to repay them somehow, but I don't know how.",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_19_4",
+                "type": "Choice",
+                "text": "How about making and selling some merch?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_19_6"
+            },
+            {
+                "id": "d_counseling_clay_19_5",
+                "type": "Choice",
+                "text": "How about writing them a letter?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_19_8"
+            },
+            {
+                "id": "d_counseling_clay_19_6",
+                "type": "Speech",
+                "text": "But I really want to convey my gratitude to my fans...",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_19_7",
+                "type": "Speech",
+                "text": "Surely, there's a better way of doing that?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_19_11"
+            },
+            {
+                "id": "d_counseling_clay_19_8",
+                "type": "Speech",
+                "text": "Hey, that's a great idea!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_19_9",
+                "type": "Speech",
+                "text": "I'd love to write one with loads of gratitude!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_19_10",
+                "type": "Speech",
+                "text": "Can I sit here and start writing it now?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_19_11"
+            },
+            {
+                "id": "d_counseling_clay_19_11",
+                "type": "Narration",
+                "text": "Clay and I discuss different ways to give back to her fans.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_clay_20_1",
+                "type": "Speech",
+                "text": "There's nothing better than working up a sweat while cheerleading!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_20_2",
+                "type": "Speech",
+                "text": "Do you like breaking a sweat, Coach?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_20_3",
+                "type": "Choice",
+                "text": "Yes, it's proof of how hard I'm working.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_clay_20_5"
+            },
+            {
+                "id": "d_counseling_clay_20_4",
+                "type": "Choice",
+                "text": "No, it makes me feel uncomfortable.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_clay_20_9"
+            },
+            {
+                "id": "d_counseling_clay_20_5",
+                "type": "Speech",
+                "text": "That's exactly how I feel!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_20_6",
+                "type": "Speech",
+                "text": "That's why I feel super proud of myself when I work up a good sweat!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_20_7",
+                "type": "Self",
+                "text": "And nothing beats showering after sweating it out.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_20_8",
+                "type": "Speech",
+                "text": "Hehe, I see you really know your stuff, Coach!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_20_11"
+            },
+            {
+                "id": "d_counseling_clay_20_9",
+                "type": "Speech",
+                "text": "Oh... really?",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_clay_20_10",
+                "type": "Speech",
+                "text": "I guess you're right... Sweat can feel so sticky and uncomfortable sometimes!",
+                "speaker": "Clay",
+                "points": null,
+                "jumpTo": "d_counseling_clay_20_11"
+            },
+            {
+                "id": "d_counseling_clay_20_11",
+                "type": "Narration",
+                "text": "Clay and I talk more about sweating.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

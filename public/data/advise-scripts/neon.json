@@ -1,0 +1,1749 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_neon_01_1",
+                "type": "Speech",
+                "text": "Master.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_01_2",
+                "type": "Speech",
+                "text": "Why are gunpowder sparks so beautiful?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_01_3",
+                "type": "Choice",
+                "text": "Because that's their purpose.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_01_5"
+            },
+            {
+                "id": "d_counseling_neon_01_4",
+                "type": "Choice",
+                "text": "They're not as beautiful as you, Neon.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_01_7"
+            },
+            {
+                "id": "d_counseling_neon_01_5",
+                "type": "Speech",
+                "text": "Really? I think so, too.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_01_6",
+                "type": "Speech",
+                "text": "Having beautiful explosions as your entire purpose... isn't it wonderful?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_01_9"
+            },
+            {
+                "id": "d_counseling_neon_01_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_01_8",
+                "type": "Speech",
+                "text": "Are you even listening to me?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_01_9",
+                "type": "Narration",
+                "text": "Neon educates me about the pyrotechnic reactions occurring from gunpowder.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_02_1",
+                "type": "Speech",
+                "text": "Master! I'm in trouble!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_02_2",
+                "type": "Speech",
+                "text": "They're selling a limited-edition cartridge case in 30 minutes, and I'm broke!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_02_3",
+                "type": "Speech",
+                "text": "Let me borrow some money!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_02_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_02_6"
+            },
+            {
+                "id": "d_counseling_neon_02_5",
+                "type": "Choice",
+                "text": "Are you sure this isn't just an impulse buy?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_02_8"
+            },
+            {
+                "id": "d_counseling_neon_02_6",
+                "type": "Speech",
+                "text": "*Sigh* I knew you would see right through me.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_02_7",
+                "type": "Speech",
+                "text": "I already blew through my entire paycheck!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_02_11"
+            },
+            {
+                "id": "d_counseling_neon_02_8",
+                "type": "Speech",
+                "text": "Well, now that I think about it, I'm pretty sure I've bought that cartridge case before, anyway.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_02_9",
+                "type": "Speech",
+                "text": "But then again, it would be nice having two of them...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_02_10",
+                "type": "Speech",
+                "text": "... No, it's not worth putting myself in debt.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_02_11",
+                "type": "Narration",
+                "text": "I spend time hearing about Neon's love for bullet casings.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_03_1",
+                "type": "Speech",
+                "text": "Master, which is better?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_03_2",
+                "type": "Speech",
+                "text": "One large-caliber bullet,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_03_3",
+                "type": "Speech",
+                "text": "or several small-caliber bullets?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_03_4",
+                "type": "Choice",
+                "text": "One large-caliber bullet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_03_6"
+            },
+            {
+                "id": "d_counseling_neon_03_5",
+                "type": "Choice",
+                "text": "Several small-caliber bullets.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_03_8"
+            },
+            {
+                "id": "d_counseling_neon_03_6",
+                "type": "Speech",
+                "text": "I knew you'd give an answer that breaks the mold.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_03_7",
+                "type": "Speech",
+                "text": "I respect that. That's why you have my eternal loyalty.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_03_10"
+            },
+            {
+                "id": "d_counseling_neon_03_8",
+                "type": "Speech",
+                "text": "Wow.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_03_9",
+                "type": "Speech",
+                "text": "You think so small, Master.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_03_10",
+                "type": "Narration",
+                "text": "I get subjected to a lecture from Neon about the different bullet calibers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_04_1",
+                "type": "Speech",
+                "text": "Firepower.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_04_2",
+                "type": "Speech",
+                "text": "Firepower! Firepower!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_04_3",
+                "type": "Speech",
+                "text": "Firepower! Firepower! Firepower!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_04_4",
+                "type": "Choice",
+                "text": "... Get a hold of yourself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_04_6"
+            },
+            {
+                "id": "d_counseling_neon_04_5",
+                "type": "Choice",
+                "text": "Firepower!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_04_8"
+            },
+            {
+                "id": "d_counseling_neon_04_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_04_7",
+                "type": "Speech",
+                "text": "Firepower...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_04_10"
+            },
+            {
+                "id": "d_counseling_neon_04_8",
+                "type": "Speech",
+                "text": "Firepower! Firepower!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_04_9",
+                "type": "Speech",
+                "text": "Firepower! Firepower!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_04_10",
+                "type": "Narration",
+                "text": "Neon and I continue shouting \"Firepower!\"",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_05_1",
+                "type": "Speech",
+                "text": "Why is Rapi so serious all the time?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_05_2",
+                "type": "Speech",
+                "text": "Doesn't it wear her out?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_05_3",
+                "type": "Choice",
+                "text": "Being super animated all day long would be just as tiring.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_05_5"
+            },
+            {
+                "id": "d_counseling_neon_05_4",
+                "type": "Choice",
+                "text": "Someone has to take things seriously around here.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_05_7"
+            },
+            {
+                "id": "d_counseling_neon_05_5",
+                "type": "Speech",
+                "text": "That's what you think.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_05_6",
+                "type": "Speech",
+                "text": "As for me, I always keep on the sunny side of life.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_05_9"
+            },
+            {
+                "id": "d_counseling_neon_05_7",
+                "type": "Speech",
+                "text": "Oh... well...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_05_8",
+                "type": "Speech",
+                "text": "Yes, I understand.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_05_9",
+                "type": "Narration",
+                "text": "I have a conversation with Neon about personalities.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_06_1",
+                "type": "Speech",
+                "text": "Master.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_06_2",
+                "type": "Speech",
+                "text": "Anis stole my snack.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_06_3",
+                "type": "Speech",
+                "text": "All of this rage boiling up inside me... I've got to let it out somehow!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_06_4",
+                "type": "Choice",
+                "text": "Let's go shoot some guns outside.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_06_6"
+            },
+            {
+                "id": "d_counseling_neon_06_5",
+                "type": "Choice",
+                "text": "Go give Anis a piece of your mind.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_06_8"
+            },
+            {
+                "id": "d_counseling_neon_06_6",
+                "type": "Speech",
+                "text": "What an incredible idea!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_06_7",
+                "type": "Speech",
+                "text": "That'll help me vent for sure!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_06_10"
+            },
+            {
+                "id": "d_counseling_neon_06_8",
+                "type": "Speech",
+                "text": "I can't do that!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_06_9",
+                "type": "Speech",
+                "text": "Before Anis stole my snacks, I stole hers!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_06_10",
+                "type": "Narration",
+                "text": "I discuss anger management with Neon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_07_1",
+                "type": "Speech",
+                "text": "Rapi really laid into me.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_07_2",
+                "type": "Speech",
+                "text": "She said Anis already makes the dorm plenty messy, so she doesn't need me messing it up any further.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_07_3",
+                "type": "Speech",
+                "text": "Why does Anis get a pass and not me?\nWhy?!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_07_4",
+                "type": "Choice",
+                "text": "From now on, you get to mess up the dorm, too.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_07_6"
+            },
+            {
+                "id": "d_counseling_neon_07_5",
+                "type": "Choice",
+                "text": "... No one should be allowed to mess up the dorm.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_07_8"
+            },
+            {
+                "id": "d_counseling_neon_07_6",
+                "type": "Speech",
+                "text": "Wow! Incredible! Amazing!\nI'm gonna really cut loose!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_07_7",
+                "type": "Speech",
+                "text": "... but if I do that, Rapi will really let me have it.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_07_9"
+            },
+            {
+                "id": "d_counseling_neon_07_8",
+                "type": "Speech",
+                "text": "You always know the right thing to say, Master.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_07_9",
+                "type": "Narration",
+                "text": "I teach Neon how to keep the dorm clean.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_08_1",
+                "type": "Speech",
+                "text": "Master, something's wrong with the shower.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_08_2",
+                "type": "Speech",
+                "text": "It's not working. I have no idea why.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_08_3",
+                "type": "Speech",
+                "text": "How can it do this to me? Doesn't it understand how this makes me feel?!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_08_4",
+                "type": "Choice",
+                "text": "Pull your gun on it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_08_6"
+            },
+            {
+                "id": "d_counseling_neon_08_5",
+                "type": "Choice",
+                "text": "Open your heart and plead with it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_08_9"
+            },
+            {
+                "id": "d_counseling_neon_08_6",
+                "type": "Speech",
+                "text": "Hey, that's right!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_08_7",
+                "type": "Speech",
+                "text": "My gun is how I express myself!\nYou're saying I just need to open up more!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_08_8",
+                "type": "Speech",
+                "text": "From now on, whenever I'm asking for a favor, I'll pull out my gun for emphasis!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_08_12"
+            },
+            {
+                "id": "d_counseling_neon_08_9",
+                "type": "Speech",
+                "text": "No.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_08_10",
+                "type": "Speech",
+                "text": "If I end up getting rejected, that'll only hurt my feelings even more.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_08_11",
+                "type": "Speech",
+                "text": "What an idiot I am! I'm so pathetic!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_08_12",
+                "type": "Narration",
+                "text": "I listen to more of Neon's serious concerns about the shower.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_09_1",
+                "type": "Speech",
+                "text": "Rapi brought some cookies back from the Ark.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_09_2",
+                "type": "Speech",
+                "text": "She gave them to me and told me to share them with Anis.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_09_3",
+                "type": "Speech",
+                "text": "But... I don't want to.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_09_4",
+                "type": "Choice",
+                "text": "Sharing is caring.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_09_6"
+            },
+            {
+                "id": "d_counseling_neon_09_5",
+                "type": "Choice",
+                "text": "Let's eat them together. Our little secret.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_09_9"
+            },
+            {
+                "id": "d_counseling_neon_09_6",
+                "type": "Speech",
+                "text": "Anis just snatches them so hard she crushes them in her hands!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_09_7",
+                "type": "Speech",
+                "text": "It's so undignified!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_09_8",
+                "type": "Speech",
+                "text": "Not like me. I only touch them with my fingertips!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_09_12"
+            },
+            {
+                "id": "d_counseling_neon_09_9",
+                "type": "Speech",
+                "text": "... Really?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_09_10",
+                "type": "Speech",
+                "text": "Hm... once they're in our stomachs, no one will know.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_09_11",
+                "type": "Speech",
+                "text": "It's the perfect crime!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_09_12",
+                "type": "Narration",
+                "text": "I tell Neon about some famous restaurants in the Ark.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_10_1",
+                "type": "Speech",
+                "text": "I had a scary dream.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_10_2",
+                "type": "Speech",
+                "text": "A cartridge casing got jammed and my gun wouldn't fire!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_10_3",
+                "type": "Speech",
+                "text": "What if that happened in real life? I wouldn't be able to shoot!!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_10_4",
+                "type": "Choice",
+                "text": "There is something called an emergency reload for situations like that.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_10_6"
+            },
+            {
+                "id": "d_counseling_neon_10_5",
+                "type": "Choice",
+                "text": "Just carry multiple guns.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_10_9"
+            },
+            {
+                "id": "d_counseling_neon_10_6",
+                "type": "Speech",
+                "text": "Right, emergency reload. Very tactical.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_10_8",
+                "type": "Speech",
+                "text": "I need to find the boss.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_10_12"
+            },
+            {
+                "id": "d_counseling_neon_10_9",
+                "type": "Speech",
+                "text": "But a gun is like a lover.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_10_10",
+                "type": "Speech",
+                "text": "I can only love one!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_10_11",
+                "type": "Speech",
+                "text": "I'm no two-timing hussy!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_10_12",
+                "type": "Narration",
+                "text": "I study weapon malfunctions with Neon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_11_1",
+                "type": "Speech",
+                "text": "Hey, if you could go 10 years into the future and",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_11_2",
+                "type": "Speech",
+                "text": "bring back just one thing, what would it be?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_11_3",
+                "type": "Choice",
+                "text": "An ultra-high-tech firearm.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_11_5"
+            },
+            {
+                "id": "d_counseling_neon_11_4",
+                "type": "Choice",
+                "text": "The badge of rank.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_11_8"
+            },
+            {
+                "id": "d_counseling_neon_11_5",
+                "type": "Speech",
+                "text": "Since it's the future, there'd be a smorgasbord of cool things to choose from.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_11_6",
+                "type": "Speech",
+                "text": "Yet you chose firearms without any hesitation.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_11_7",
+                "type": "Speech",
+                "text": "I knew there was a reason I respect you!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_11_10"
+            },
+            {
+                "id": "d_counseling_neon_11_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_11_9",
+                "type": "Speech",
+                "text": "I guess you must have a hard time, right?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_11_10",
+                "type": "Narration",
+                "text": "Neon and I have fun running through other hypotheticals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_12_1",
+                "type": "Speech",
+                "text": "Master, what is your goal for this year?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_12_2",
+                "type": "Speech",
+                "text": "If I like the sound of it, I may set the same goal for myself.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_12_3",
+                "type": "Choice",
+                "text": "Upgrade my firepower three times over.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_12_5"
+            },
+            {
+                "id": "d_counseling_neon_12_4",
+                "type": "Choice",
+                "text": "Upgrade my speed three times over.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_12_7"
+            },
+            {
+                "id": "d_counseling_neon_12_5",
+                "type": "Speech",
+                "text": "Hmm, that's the same goal I had as of last year...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_12_6",
+                "type": "Speech",
+                "text": "But then again, why fix what isn't broken?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_12_10"
+            },
+            {
+                "id": "d_counseling_neon_12_7",
+                "type": "Speech",
+                "text": "You mean three times your current speed?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_12_8",
+                "type": "Speech",
+                "text": "That's all well and good, but then we could end up being outgunned by the Rapture's new high-performance weaponry.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_12_9",
+                "type": "Speech",
+                "text": "I'll keep focusing on increasing my firepower.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_12_10",
+                "type": "Narration",
+                "text": "Neon and I put our heads together and set our goals for the new year.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_13_1",
+                "type": "Speech",
+                "text": "Have you heard about the ghost story involving the fridge in our dorm?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_13_2",
+                "type": "Speech",
+                "text": "Once a week, on the third shelf from the bottom of the fridge...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_13_3",
+                "type": "Speech",
+                "text": "Some truly ghastly food mysteriously appears. People say it's made by dead Nikkes seeking revenge on the living.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_13_4",
+                "type": "Choice",
+                "text": "Are you sure they're not just butchered recipes?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_13_6"
+            },
+            {
+                "id": "d_counseling_neon_13_5",
+                "type": "Choice",
+                "text": "Have you tried any of them?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_13_8"
+            },
+            {
+                "id": "d_counseling_neon_13_6",
+                "type": "Speech",
+                "text": "If you're so confident, you should try some.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_13_7",
+                "type": "Speech",
+                "text": "I assure you, evil lurks within those foul food fiascos.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_13_11"
+            },
+            {
+                "id": "d_counseling_neon_13_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_13_9",
+                "type": "Speech",
+                "text": "Yes... for everyone's safety, of course.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_13_10",
+                "type": "Speech",
+                "text": "But from now on, I'll never do it again.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_13_11",
+                "type": "Narration",
+                "text": "Neon shares more Outpost-related ghost stories with me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_14_1",
+                "type": "Speech",
+                "text": "Do you think there are elevators that can teleport?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_14_2",
+                "type": "Speech",
+                "text": "I don't like waiting to go up and down to and from the surface.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_14_3",
+                "type": "Choice",
+                "text": "You could always spend that time waiting with someone you like.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_14_5"
+            },
+            {
+                "id": "d_counseling_neon_14_4",
+                "type": "Choice",
+                "text": "You could cut the elevator cables.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_14_8"
+            },
+            {
+                "id": "d_counseling_neon_14_5",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_14_6",
+                "type": "Speech",
+                "text": "Good point! Then time would pass more quickly!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_14_7",
+                "type": "Speech",
+                "text": "All right then, next time I'll stay close to you.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_14_11"
+            },
+            {
+                "id": "d_counseling_neon_14_8",
+                "type": "Speech",
+                "text": "Let me guess, then let gravity do the rest?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_14_9",
+                "type": "Speech",
+                "text": "I'd plummet to the ground about as quickly as teleporting would get me there.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_14_10",
+                "type": "Speech",
+                "text": "Then I can become a ghost and float my way back up, is that it?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_14_11",
+                "type": "Narration",
+                "text": "Neon and I racked our brains trying to come up with ways to save time waiting for the elevator.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_15_1",
+                "type": "Speech",
+                "text": "I was sitting on the sofa, watching TV in your room.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_15_2",
+                "type": "Speech",
+                "text": "I had clearly been there first, but then Anis barged in and told me to move!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_15_3",
+                "type": "Speech",
+                "text": "Don't you think that's unfair?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_15_4",
+                "type": "Choice",
+                "text": "I would say so.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_15_6"
+            },
+            {
+                "id": "d_counseling_neon_15_5",
+                "type": "Choice",
+                "text": "What are the two of you doing in someone else's room?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_15_8"
+            },
+            {
+                "id": "d_counseling_neon_15_6",
+                "type": "Speech",
+                "text": "Right? Right?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_15_7",
+                "type": "Speech",
+                "text": "I knew you would see things my way.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_15_10"
+            },
+            {
+                "id": "d_counseling_neon_15_8",
+                "type": "Speech",
+                "text": "Aw come on, how can you talk like that?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_15_9",
+                "type": "Speech",
+                "text": "It's hard hearing that from a fellow firepower aficionado.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_15_10",
+                "type": "Narration",
+                "text": "In my spare time, I helped settle the great sofa dispute.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_16_1",
+                "type": "Speech",
+                "text": "I have a question.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_16_2",
+                "type": "Speech",
+                "text": "Where do you think I can find the fabled blacksmith of legend, who can craft a legendary firearm for me?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_16_3",
+                "type": "Choice",
+                "text": "Inside your own heart",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_16_5"
+            },
+            {
+                "id": "d_counseling_neon_16_4",
+                "type": "Choice",
+                "text": "This so-called \"legendary blacksmith\" is simply the fire and brimstone in your heart.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_16_8"
+            },
+            {
+                "id": "d_counseling_neon_16_5",
+                "type": "Speech",
+                "text": "No way, the only thing my heart is filled with is fire and brimstone!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_16_6",
+                "type": "Speech",
+                "text": "Did my question rub you the wrong way?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_16_7",
+                "type": "Speech",
+                "text": "Otherwise, why would you give me that kind of answer...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_16_12"
+            },
+            {
+                "id": "d_counseling_neon_16_8",
+                "type": "Speech",
+                "text": "You mean to say...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_16_9",
+                "type": "Speech",
+                "text": "All that fire and brimstone are the key to creating the legendary firearm?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_16_10",
+                "type": "Speech",
+                "text": "I can't thank you enough, Master. You always guide me to the right path.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_16_11",
+                "type": "Speech",
+                "text": "If you'd just said to look inside my own heart and nothing more, I'd have thought you were brushing me off!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_16_12",
+                "type": "Narration",
+                "text": "Neon and I talk about the so-called \"legendary blacksmith\"",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_17_1",
+                "type": "Speech",
+                "text": "Master, I want to ask you a serious question.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_17_2",
+                "type": "Speech",
+                "text": "What would you be more afraid of: running out of bullets, or food?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_17_3",
+                "type": "Choice",
+                "text": "Food.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_17_5"
+            },
+            {
+                "id": "d_counseling_neon_17_4",
+                "type": "Choice",
+                "text": "Bullets.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_17_9"
+            },
+            {
+                "id": "d_counseling_neon_17_5",
+                "type": "Speech",
+                "text": "What?! How can you say that?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_17_6",
+                "type": "Speech",
+                "text": "As a die-hard proponent of all things weaponry, I thought for sure you'd say bullets.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_17_7",
+                "type": "Narration",
+                "text": "Off in the distance, I can hear the muffled sound of Anis cheering wildly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_17_8",
+                "type": "Speech",
+                "text": "Sigh... I made a bet with Anis. I thought you saying bullets was a done deal.... guess I lost.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_17_12"
+            },
+            {
+                "id": "d_counseling_neon_17_9",
+                "type": "Speech",
+                "text": "Too right!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_17_10",
+                "type": "Narration",
+                "text": "Off in the distance, I can hear the muffled sound of Anis' frustrated screams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_17_11",
+                "type": "Speech",
+                "text": "I made a bet with Anis. I said you would go for bullets, and I was right!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_17_12",
+                "type": "Narration",
+                "text": "Watched Neon and Anis settle their bets.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_18_1",
+                "type": "Speech",
+                "text": "In your mind, what is the pinnacle of firepower?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_18_2",
+                "type": "Choice",
+                "text": "A power that can bring order to chaos.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_18_4"
+            },
+            {
+                "id": "d_counseling_neon_18_3",
+                "type": "Choice",
+                "text": "Such a thing does not exist.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_18_7"
+            },
+            {
+                "id": "d_counseling_neon_18_4",
+                "type": "Speech",
+                "text": "Chaos??",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_18_5",
+                "type": "Speech",
+                "text": "I think you're hanging around with Guillotine too much.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_18_6",
+                "type": "Speech",
+                "text": "You're starting to sound like a bad young adult novel.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_18_10"
+            },
+            {
+                "id": "d_counseling_neon_18_7",
+                "type": "Speech",
+                "text": "... Of course.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_18_8",
+                "type": "Speech",
+                "text": "Firepower is a mountain. The moment you believe there is a summit, you instantly hamstring yourself.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_18_9",
+                "type": "Speech",
+                "text": "You're right. For firepower, there is no top of the mountain!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_18_10",
+                "type": "Narration",
+                "text": "Neon and I continue to discuss the limits of firepower, and if such a thing truly exists.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_19_1",
+                "type": "Speech",
+                "text": "Master! Something terrible has happened!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_19_2",
+                "type": "Speech",
+                "text": "Emma's taken over the kitchen and started cooking!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_19_3",
+                "type": "Choice",
+                "text": "... Just accept it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_19_5"
+            },
+            {
+                "id": "d_counseling_neon_19_4",
+                "type": "Choice",
+                "text": "I'll try and lure her outside by telling her I'll taste her food.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_19_8"
+            },
+            {
+                "id": "d_counseling_neon_19_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_19_6",
+                "type": "Speech",
+                "text": "But if I do that, may the heavens look over my poor digestive tract...",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_19_7",
+                "type": "Speech",
+                "text": "Please, we can't give up so soon!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_19_12"
+            },
+            {
+                "id": "d_counseling_neon_19_8",
+                "type": "Speech",
+                "text": "But if you do that, you'll be putting your stomach directly in the line of fire!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_19_9",
+                "type": "Self",
+                "text": "It's a sacrifice someone has to make.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_19_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_19_11",
+                "type": "Speech",
+                "text": "I will not forget your sacrifice.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_19_12",
+                "type": "Narration",
+                "text": "I go to see Emma in the kitchen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_neon_20_1",
+                "type": "Speech",
+                "text": "Out of curiosity,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_20_2",
+                "type": "Speech",
+                "text": "if you had to interact with one of the CEOs of the Big Three,",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_20_3",
+                "type": "Speech",
+                "text": "who would it be?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_20_4",
+                "type": "Choice",
+                "text": "Mustang.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_neon_20_6"
+            },
+            {
+                "id": "d_counseling_neon_20_5",
+                "type": "Choice",
+                "text": "Ingrid.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_neon_20_9"
+            },
+            {
+                "id": "d_counseling_neon_20_6",
+                "type": "Speech",
+                "text": "That's entertainment!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_20_7",
+                "type": "Speech",
+                "text": "The last time I saw you with him, you seemed awfully uncomfortable.",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_20_8",
+                "type": "Speech",
+                "text": "Perhaps you don't find him so bad after all?",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": "d_counseling_neon_20_12"
+            },
+            {
+                "id": "d_counseling_neon_20_9",
+                "type": "Speech",
+                "text": "Very wise choice!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_20_10",
+                "type": "Speech",
+                "text": "Our CEO is the best, there's no doubt about that!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_20_11",
+                "type": "Speech",
+                "text": "Preach!",
+                "speaker": "Neon",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_neon_20_12",
+                "type": "Narration",
+                "text": "Neon and I compare and contrast The Big Three CEOs.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

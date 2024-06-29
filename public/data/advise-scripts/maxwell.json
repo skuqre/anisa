@@ -1,0 +1,2029 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_maxwell_01_1",
+                "type": "Speech",
+                "text": "Hey, Cutey!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_01_2",
+                "type": "Speech",
+                "text": "Which do you like better: hot or cold?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_01_3",
+                "type": "Choice",
+                "text": "Cold?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_01_5"
+            },
+            {
+                "id": "d_counseling_maxwell_01_4",
+                "type": "Choice",
+                "text": "If you are going to do an experiment, tell me in advance. I hate both.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_01_8"
+            },
+            {
+                "id": "d_counseling_maxwell_01_5",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_01_6",
+                "type": "Speech",
+                "text": "Okay. If you feel so strongly about it...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_01_7",
+                "type": "Speech",
+                "text": "I'll take you to a cold chamber and see how you do!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_01_11"
+            },
+            {
+                "id": "d_counseling_maxwell_01_8",
+                "type": "Speech",
+                "text": "Ha! That's just like you!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_01_9",
+                "type": "Speech",
+                "text": "You catch on fast!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_01_10",
+                "type": "Speech",
+                "text": "That's what I like about you!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_01_11"
+            },
+            {
+                "id": "d_counseling_maxwell_01_11",
+                "type": "Narration",
+                "text": "I have a conversation with Maxwell while doing various tests.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_02_1",
+                "type": "Speech",
+                "text": "My Cutey has been lookin' mighty fine lately.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_02_2",
+                "type": "Speech",
+                "text": "What do you think, Cutey? Is My Cutey missing anything?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_02_3",
+                "type": "Choice",
+                "text": "Nothing at all, it's perfect.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_02_5"
+            },
+            {
+                "id": "d_counseling_maxwell_02_4",
+                "type": "Choice",
+                "text": "It doesn't have any charm to it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_02_8"
+            },
+            {
+                "id": "d_counseling_maxwell_02_5",
+                "type": "Speech",
+                "text": "Are you just saying that to make me feel better?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_02_6",
+                "type": "Speech",
+                "text": "I want you to tell me what you really think...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_02_7",
+                "type": "Speech",
+                "text": "Well, thanks for the compliment anyway.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_02_12"
+            },
+            {
+                "id": "d_counseling_maxwell_02_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_02_9",
+                "type": "Speech",
+                "text": "Yes. You're right.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_02_10",
+                "type": "Speech",
+                "text": "If you step back and take it all in, it's clearly lacking a sense of charm.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_02_11",
+                "type": "Speech",
+                "text": "I'm glad I asked you! Thanks!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_02_12"
+            },
+            {
+                "id": "d_counseling_maxwell_02_12",
+                "type": "Narration",
+                "text": "I chat with Maxwell while doing various tests.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_03_1",
+                "type": "Speech",
+                "text": "There's a Nikke up in the North who destroys everything she touches.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_03_2",
+                "type": "Speech",
+                "text": "She's been damaging my poor little My Cuteys.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_03_3",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_03_4",
+                "type": "Choice",
+                "text": "You can't lose. You've got to find some way to best this Nikke.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_03_6"
+            },
+            {
+                "id": "d_counseling_maxwell_03_5",
+                "type": "Choice",
+                "text": "If you want to cure a disease, you've got to eliminate the cause.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_03_9"
+            },
+            {
+                "id": "d_counseling_maxwell_03_6",
+                "type": "Speech",
+                "text": "You're right! I can't lose!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_03_7",
+                "type": "Speech",
+                "text": "I'll find a way to stop this Nikke from doing any more damage.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_03_8",
+                "type": "Speech",
+                "text": "And you're going to help me, aren't you?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_03_13"
+            },
+            {
+                "id": "d_counseling_maxwell_03_9",
+                "type": "Speech",
+                "text": "Eliminate the cause?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_03_10",
+                "type": "Speech",
+                "text": "Sounds effective, but it doesn't seem very scientific...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_03_11",
+                "type": "Speech",
+                "text": "Besides, Nikkes can't fight against other Nikkes.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_03_12",
+                "type": "Speech",
+                "text": "Oh, I get it! You must have been making a joke! Very funny.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_03_13"
+            },
+            {
+                "id": "d_counseling_maxwell_03_13",
+                "type": "Narration",
+                "text": "I chat with Maxwell while doing various tests.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_04_1",
+                "type": "Speech",
+                "text": "I feel like Laplace's hero complex is worse than ever.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_04_2",
+                "type": "Speech",
+                "text": "Do you think it has something to do with you?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_04_3",
+                "type": "Choice",
+                "text": "I think so.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_04_5"
+            },
+            {
+                "id": "d_counseling_maxwell_04_4",
+                "type": "Choice",
+                "text": "I don't think so.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_04_8"
+            },
+            {
+                "id": "d_counseling_maxwell_04_5",
+                "type": "Speech",
+                "text": "So it does have something to do with you, doesn't it?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_04_6",
+                "type": "Speech",
+                "text": "I assume you did something to encourage her?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_04_7",
+                "type": "Speech",
+                "text": "Fine. Do whatever you want, so long as you realize this is all your fault.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_04_12"
+            },
+            {
+                "id": "d_counseling_maxwell_04_8",
+                "type": "Speech",
+                "text": "Hee hee! You sure about that?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_04_9",
+                "type": "Speech",
+                "text": "I heard you met with Laplace yesterday.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_04_10",
+                "type": "Speech",
+                "text": "Well, okay.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_04_11",
+                "type": "Speech",
+                "text": "You're adorable when you're clueless, Cutey.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_04_12",
+                "type": "Narration",
+                "text": "I have a conversation with Maxwell about Laplace.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_05_1",
+                "type": "Speech",
+                "text": "Agh! I can't take this!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_2",
+                "type": "Speech",
+                "text": "Drake's really been stressing me out lately.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_3",
+                "type": "Speech",
+                "text": "Why in the world is she always in such a rush?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_4",
+                "type": "Speech",
+                "text": "How do you put up with her, Cutey?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_5",
+                "type": "Choice",
+                "text": "I don't. She drives me up the wall as well.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_05_7"
+            },
+            {
+                "id": "d_counseling_maxwell_05_6",
+                "type": "Choice",
+                "text": "She admits her faults, so I'm willing to cut her some slack.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_05_10"
+            },
+            {
+                "id": "d_counseling_maxwell_05_7",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_8",
+                "type": "Speech",
+                "text": "I thought for sure you would be able to handle it.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_9",
+                "type": "Speech",
+                "text": "Didn't see this coming at all!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_05_14"
+            },
+            {
+                "id": "d_counseling_maxwell_05_10",
+                "type": "Speech",
+                "text": "I guess you're right.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_11",
+                "type": "Speech",
+                "text": "If that wasn't the case, she and I would have butted heads sooner.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_12",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_13",
+                "type": "Speech",
+                "text": "Either way, I'm glad you have a way of dealing with it.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_05_14",
+                "type": "Narration",
+                "text": "I have a conversation with Maxwell about Drake.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_06_1",
+                "type": "Speech",
+                "text": "Cutey, who do you think would win in a fight?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_2",
+                "type": "Speech",
+                "text": "Matis or Absolute?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_3",
+                "type": "Choice",
+                "text": "Matis.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_06_5"
+            },
+            {
+                "id": "d_counseling_maxwell_06_4",
+                "type": "Choice",
+                "text": "Absolute.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_06_9"
+            },
+            {
+                "id": "d_counseling_maxwell_06_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_6",
+                "type": "Speech",
+                "text": "You're just trying to butter me up, aren't you?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_7",
+                "type": "Speech",
+                "text": "You know how much I love flattery.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_8",
+                "type": "Speech",
+                "text": "Makes me happy to hear you say it, Cutey.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_06_15"
+            },
+            {
+                "id": "d_counseling_maxwell_06_9",
+                "type": "Speech",
+                "text": "Are you serious?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_10",
+                "type": "Speech",
+                "text": "You'd say that, even when it's a member of Matis asking the question?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_11",
+                "type": "Speech",
+                "text": "Are you sure?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_12",
+                "type": "Speech",
+                "text": "All right, then. In order to defeat the oh-so-amazing Absolute,",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_13",
+                "type": "Speech",
+                "text": "you'll have to help me do some more testing on the My Cuteys.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_14",
+                "type": "Speech",
+                "text": "Right?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_06_15",
+                "type": "Narration",
+                "text": "I have a conversation with Maxwell while doing various tests.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_07_1",
+                "type": "Speech",
+                "text": "Do you like hot or cold food better?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_07_2",
+                "type": "Choice",
+                "text": "If this is some kind of test, then neither.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_07_4"
+            },
+            {
+                "id": "d_counseling_maxwell_07_3",
+                "type": "Choice",
+                "text": "I'll eat whatever you give me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_07_6"
+            },
+            {
+                "id": "d_counseling_maxwell_07_4",
+                "type": "Speech",
+                "text": "Huh? This isn't a test at all.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_07_5",
+                "type": "Speech",
+                "text": "Have a little more trust in me! Hee hee.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_07_11"
+            },
+            {
+                "id": "d_counseling_maxwell_07_6",
+                "type": "Speech",
+                "text": "Aw, you're always so polite.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_07_7",
+                "type": "Speech",
+                "text": "We may end up spending a lot of time together in the future, you know?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_07_8",
+                "type": "Speech",
+                "text": "Going on assignments, doing tests...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_07_9",
+                "type": "Speech",
+                "text": "That's why I'm trying to learn what you like beforehand.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_07_10",
+                "type": "Speech",
+                "text": "I'll keep that in mind.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_07_11",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Maxwell.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_08_1",
+                "type": "Speech",
+                "text": "Laplace says we are all heroes.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_2",
+                "type": "Speech",
+                "text": "But in my opinion, Drake is more of the villain type.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_3",
+                "type": "Speech",
+                "text": "As for me, I'm more like a researcher.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_4",
+                "type": "Speech",
+                "text": "What do you think, Cutey? Would I be a researcher working for the villains, or for the heroes?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_5",
+                "type": "Choice",
+                "text": "You'd be working for the villains.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_08_7"
+            },
+            {
+                "id": "d_counseling_maxwell_08_6",
+                "type": "Choice",
+                "text": "You'd be working for the heroes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_08_10"
+            },
+            {
+                "id": "d_counseling_maxwell_08_7",
+                "type": "Speech",
+                "text": "Oh? Do I give off a villainous vibe?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_8",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_9",
+                "type": "Speech",
+                "text": "You're not completely off the mark.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_08_14"
+            },
+            {
+                "id": "d_counseling_maxwell_08_10",
+                "type": "Speech",
+                "text": "I'm surprised to hear you say that. You think of me like a hero?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_11",
+                "type": "Speech",
+                "text": "I'm... Well, I'm not sure if that makes me happy or sad.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_12",
+                "type": "Speech",
+                "text": "Either way, Laplace is our leader, so we all have to act like heroes for the time being.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_13",
+                "type": "Speech",
+                "text": "We'll say you're correct... for now.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_08_14",
+                "type": "Narration",
+                "text": "I have a conversation with Maxwell about heroism.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_09_1",
+                "type": "Speech",
+                "text": "Hey Cutey, do you have any unusual sleeping habits?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_09_2",
+                "type": "Speech",
+                "text": "Tossing, turning...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_09_3",
+                "type": "Speech",
+                "text": "hitting the walls and floor, that kind of thing?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_09_4",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_09_6"
+            },
+            {
+                "id": "d_counseling_maxwell_09_5",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_09_9"
+            },
+            {
+                "id": "d_counseling_maxwell_09_6",
+                "type": "Speech",
+                "text": "Really? Is that so...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_09_7",
+                "type": "Speech",
+                "text": "In that case, if I ever need to put you on anesthetics,",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_09_8",
+                "type": "Speech",
+                "text": "I'll just have to use a stronger dose.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_09_12"
+            },
+            {
+                "id": "d_counseling_maxwell_09_9",
+                "type": "Speech",
+                "text": "No? Glad to hear it.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_09_10",
+                "type": "Speech",
+                "text": "If I ever need to put you on anesthetics,",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_09_11",
+                "type": "Speech",
+                "text": "I won't need to waste too much on you.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_09_12",
+                "type": "Narration",
+                "text": "As I spend time with Maxwell, shivers run down my spine.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_10_1",
+                "type": "Speech",
+                "text": "Cutey, who would you say is more difficult to deal with?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_2",
+                "type": "Speech",
+                "text": "Mustang, or Syuen?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_3",
+                "type": "Choice",
+                "text": "Syuen.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_10_5"
+            },
+            {
+                "id": "d_counseling_maxwell_10_4",
+                "type": "Choice",
+                "text": "Mustang.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_10_9"
+            },
+            {
+                "id": "d_counseling_maxwell_10_5",
+                "type": "Speech",
+                "text": "Ha ha! You hate Syuen that much?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_6",
+                "type": "Speech",
+                "text": "I guess I can see it.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_7",
+                "type": "Speech",
+                "text": "Mustang seems easygoing on the outside,",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_8",
+                "type": "Speech",
+                "text": "but that's the kind of person you really have to watch out for.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_10_14"
+            },
+            {
+                "id": "d_counseling_maxwell_10_9",
+                "type": "Speech",
+                "text": "So, even though you're not a huge fan of Syuen, you don't find her overly difficult?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_10",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_11",
+                "type": "Speech",
+                "text": "I think Syuen is much better than Mustang.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_12",
+                "type": "Speech",
+                "text": "Syuen may have the occasional mean streak,",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_13",
+                "type": "Speech",
+                "text": "but at least it's the kind of mean that I can understand.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_10_14",
+                "type": "Narration",
+                "text": "I have a conversation with Maxwell about the CEOs of the Big Three.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_11_1",
+                "type": "Speech",
+                "text": "If there was a button in front of you that would destroy the world,",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_11_2",
+                "type": "Speech",
+                "text": "would you press it?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_11_3",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_11_5"
+            },
+            {
+                "id": "d_counseling_maxwell_11_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_11_8"
+            },
+            {
+                "id": "d_counseling_maxwell_11_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_11_6",
+                "type": "Speech",
+                "text": "Apparently you don't have any strong attachment to this world.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_11_7",
+                "type": "Speech",
+                "text": "I still have a lot that I want to research.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_11_11"
+            },
+            {
+                "id": "d_counseling_maxwell_11_8",
+                "type": "Speech",
+                "text": "No surprise there!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_11_9",
+                "type": "Speech",
+                "text": "After all, you have a grand vision of changing this world yourself.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_11_10",
+                "type": "Speech",
+                "text": "If this world was to end tomorrow, I'd be devastated.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_11_11",
+                "type": "Speech",
+                "text": "There's so much I still want to accomplish.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_11_12",
+                "type": "Narration",
+                "text": "Maxell and I talk about the end of the world.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_12_1",
+                "type": "Speech",
+                "text": "Hey Cutey, do you have a moment?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_12_2",
+                "type": "Choice",
+                "text": "For you, all the time in the world.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_12_4"
+            },
+            {
+                "id": "d_counseling_maxwell_12_3",
+                "type": "Choice",
+                "text": "Sorry, can't spare a single second.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_12_8"
+            },
+            {
+                "id": "d_counseling_maxwell_12_4",
+                "type": "Speech",
+                "text": "Perfect!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_12_5",
+                "type": "Speech",
+                "text": "Let's go out to lunch.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_12_6",
+                "type": "Speech",
+                "text": "Haha, you thought I was going to ask you to help me with an experiment, didn't you?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_12_7",
+                "type": "Speech",
+                "text": "Even then, you still said that you had time for me. You're the best!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_12_11"
+            },
+            {
+                "id": "d_counseling_maxwell_12_8",
+                "type": "Speech",
+                "text": "Really? That's too bad.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_12_9",
+                "type": "Speech",
+                "text": "I was going to ask if you wanted to get lunch.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_12_10",
+                "type": "Speech",
+                "text": "You probably thought I was going to ask you to help me with an experiment, didn't you?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_12_11",
+                "type": "Narration",
+                "text": "Maxwell and I hash out what we're going to have for lunch.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_13_1",
+                "type": "Speech",
+                "text": "Cutey, if something important came up and you couldn't get a hold of the other person, what would you do?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_13_2",
+                "type": "Choice",
+                "text": "I would just keep trying until I could get in touch with them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_13_4"
+            },
+            {
+                "id": "d_counseling_maxwell_13_3",
+                "type": "Choice",
+                "text": "I would go find them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_13_7"
+            },
+            {
+                "id": "d_counseling_maxwell_13_4",
+                "type": "Speech",
+                "text": "Even if you're not sure when you'll be able to reach them?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_13_5",
+                "type": "Speech",
+                "text": "You're more patient than me!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_13_6",
+                "type": "Speech",
+                "text": "I could never do that, I'd run out of patience almost straight away.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_13_10"
+            },
+            {
+                "id": "d_counseling_maxwell_13_7",
+                "type": "Speech",
+                "text": "That could work...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_13_8",
+                "type": "Speech",
+                "text": "Once you found them, you could talk face-to-face.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_13_9",
+                "type": "Speech",
+                "text": "And you wouldn't have to wait.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_13_10",
+                "type": "Narration",
+                "text": "Maxwell and I had a fun time talking to each other.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_14_1",
+                "type": "Speech",
+                "text": "If we succeed in reclaiming the surface",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_14_2",
+                "type": "Speech",
+                "text": "and rid the world of all Raptures,",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_14_3",
+                "type": "Speech",
+                "text": "what do you think will happen to all the Nikkes?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_14_4",
+                "type": "Choice",
+                "text": "We'll all live a peaceful coexistence on the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_14_6"
+            },
+            {
+                "id": "d_counseling_maxwell_14_5",
+                "type": "Choice",
+                "text": "... I guess you'll all be scrapped.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_14_9"
+            },
+            {
+                "id": "d_counseling_maxwell_14_6",
+                "type": "Speech",
+                "text": "That'd be great!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_14_7",
+                "type": "Speech",
+                "text": "That way you and I can continue our research, just like we are now.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_14_8",
+                "type": "Speech",
+                "text": "I like the sound of that!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_14_12"
+            },
+            {
+                "id": "d_counseling_maxwell_14_9",
+                "type": "Speech",
+                "text": "I doubt it would go that far.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_14_10",
+                "type": "Speech",
+                "text": "But, even if we're not scrapped, do you think they try and keep us hidden away?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_14_11",
+                "type": "Speech",
+                "text": "We'd be considered remnants of a violent past, obsolete weapons of war that are no longer necessary.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_14_12",
+                "type": "Narration",
+                "text": "Maxwell and I speculate about potential futures.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_15_1",
+                "type": "Speech",
+                "text": "I think I've been too focused on my research lately.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_15_2",
+                "type": "Speech",
+                "text": "My thoughts are all in a jumble.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_15_3",
+                "type": "Speech",
+                "text": "What do you do to clear your head?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_15_4",
+                "type": "Choice",
+                "text": "Space out.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_15_6"
+            },
+            {
+                "id": "d_counseling_maxwell_15_5",
+                "type": "Choice",
+                "text": "Do something that I enjoy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_15_8"
+            },
+            {
+                "id": "d_counseling_maxwell_15_6",
+                "type": "Speech",
+                "text": "Eh...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_15_7",
+                "type": "Speech",
+                "text": "When I space out, my thinking only gets more erratic.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_15_11"
+            },
+            {
+                "id": "d_counseling_maxwell_15_8",
+                "type": "Speech",
+                "text": "That sounds like a good idea.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_15_9",
+                "type": "Speech",
+                "text": "All right, it's settled then.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_15_10",
+                "type": "Speech",
+                "text": "Come to the power plant later.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_15_11",
+                "type": "Narration",
+                "text": "I spend time helping Maxwell organize her thoughts.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_16_1",
+                "type": "Speech",
+                "text": "Why does Laplace insist on leaping through the window when there's a perfectly good door nearby?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_16_2",
+                "type": "Speech",
+                "text": "We could have constructed an entire building with all the money spent repairing broken windows.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_16_3",
+                "type": "Choice",
+                "text": "It's what heroes do apparently.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_16_5"
+            },
+            {
+                "id": "d_counseling_maxwell_16_4",
+                "type": "Choice",
+                "text": "It's a bad habit she needs to fix.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_16_9"
+            },
+            {
+                "id": "d_counseling_maxwell_16_5",
+                "type": "Speech",
+                "text": "Yeah, I guess just walking through the door isn't exactly a grand entrance.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_16_6",
+                "type": "Speech",
+                "text": "Were you thinking that I'd say something like that?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_16_7",
+                "type": "Speech",
+                "text": "It's because you always spoil her, so she does it so incessantly.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_16_8",
+                "type": "Speech",
+                "text": "It's fine to humor her, but don't go overboard.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_16_12"
+            },
+            {
+                "id": "d_counseling_maxwell_16_9",
+                "type": "Speech",
+                "text": "Oh, I thought you were gonna let it slide. I totally didn't see that coming.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_16_10",
+                "type": "Speech",
+                "text": "That's great! If you keep letting her get away with it, who's going to foot the bill?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_16_11",
+                "type": "Speech",
+                "text": "How can we get her to stop leaping through windows...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_16_12",
+                "type": "Narration",
+                "text": "I spend time with Maxwell fretting about all the windows Laplace has shattered.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_17_1",
+                "type": "Speech",
+                "text": "I had a dream last night where I had achieved a historic breakthrough in my research.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_2",
+                "type": "Speech",
+                "text": "But the details are fuzzy.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_3",
+                "type": "Choice",
+                "text": "Does it really matter if you can't remember?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_17_5"
+            },
+            {
+                "id": "d_counseling_maxwell_17_4",
+                "type": "Choice",
+                "text": "Try your best to remember.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_17_9"
+            },
+            {
+                "id": "d_counseling_maxwell_17_5",
+                "type": "Speech",
+                "text": "Good point.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_6",
+                "type": "Speech",
+                "text": "It's only a dream, so I shouldn't waste time obsessing over it.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_7",
+                "type": "Speech",
+                "text": "Heck, it might be better that I can't remember it. That way I can get it out of my mind faster.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_8",
+                "type": "Speech",
+                "text": "Our minds are in sync today, Cutey!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_17_13"
+            },
+            {
+                "id": "d_counseling_maxwell_17_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_10",
+                "type": "Speech",
+                "text": "Nope, I'm drawing a blank.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_11",
+                "type": "Speech",
+                "text": "Well, it was only a dream, so there's no point in obsessing over it. I'll succeed in real life.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_12",
+                "type": "Speech",
+                "text": "Speaking of which, you and I can run some tests later.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_17_13",
+                "type": "Narration",
+                "text": "I have a conversation with Maxwell about research.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_18_1",
+                "type": "Speech",
+                "text": "Nothing in the world can beat Missilis technology!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_2",
+                "type": "Speech",
+                "text": "Wouldn't you say?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_3",
+                "type": "Choice",
+                "text": "I think you're being arrogant.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_18_5"
+            },
+            {
+                "id": "d_counseling_maxwell_18_4",
+                "type": "Choice",
+                "text": "I admire your confidence.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_18_10"
+            },
+            {
+                "id": "d_counseling_maxwell_18_5",
+                "type": "Speech",
+                "text": "... I suppose you're right. They haven't even been able to exterminate the Raptures, and here I am saying they're the best in the world.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_6",
+                "type": "Speech",
+                "text": "All right then, best in the Ark.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_7",
+                "type": "Speech",
+                "text": "If you ask me though, it's not arrogance, but confidence.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_8",
+                "type": "Speech",
+                "text": "After all, how can you expect to unveil the secrets of our world without being ambitious?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_9",
+                "type": "Speech",
+                "text": "Actually, that came off a little pompous as well, haha.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_18_15"
+            },
+            {
+                "id": "d_counseling_maxwell_18_10",
+                "type": "Speech",
+                "text": "Do you really think that?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_11",
+                "type": "Speech",
+                "text": "You really know how to make people feel good about themselves.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_12",
+                "type": "Speech",
+                "text": "You're a real social butterfly as well.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_13",
+                "type": "Speech",
+                "text": "I think that's a type of confidence as well.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_14",
+                "type": "Speech",
+                "text": "Also, if you want to get discover more of the truths behind our world, you need unbridled ambition!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_18_15",
+                "type": "Narration",
+                "text": "I have a conversation with Maxwell about Missilis technology.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_19_1",
+                "type": "Speech",
+                "text": "Hey, Cutey! Look outside.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_19_2",
+                "type": "Speech",
+                "text": "Today's perfect for running some tests, don't you think?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_19_3",
+                "type": "Choice",
+                "text": "...Sure.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_19_5"
+            },
+            {
+                "id": "d_counseling_maxwell_19_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_19_8"
+            },
+            {
+                "id": "d_counseling_maxwell_19_5",
+                "type": "Speech",
+                "text": "You say that, but your face says otherwise! Haha!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_19_6",
+                "type": "Speech",
+                "text": "I'm just kidding. Besides, it's time for us to have a talk with each other.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_19_7",
+                "type": "Speech",
+                "text": "Let's talk a bit more.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_19_11"
+            },
+            {
+                "id": "d_counseling_maxwell_19_8",
+                "type": "Speech",
+                "text": "Wow, so adamant! Truly an immovable object.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_19_9",
+                "type": "Speech",
+                "text": "Harsh!",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_19_10",
+                "type": "Speech",
+                "text": "Just kidding! Anyway, let's keep talking.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_19_11",
+                "type": "Narration",
+                "text": "Maxwell and I have a nice casual chat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_maxwell_20_1",
+                "type": "Speech",
+                "text": "Have you ever thought about the future?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_2",
+                "type": "Speech",
+                "text": "What do you imagine life will be like then?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_3",
+                "type": "Choice",
+                "text": "Probably still fighting with the Raptures, what else?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_maxwell_20_5"
+            },
+            {
+                "id": "d_counseling_maxwell_20_4",
+                "type": "Choice",
+                "text": "Hopefully we'll have reclaimed the surface.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_maxwell_20_10"
+            },
+            {
+                "id": "d_counseling_maxwell_20_5",
+                "type": "Speech",
+                "text": "I didn't think you'd have such a bleak outlook on the future.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_6",
+                "type": "Speech",
+                "text": "However, I have to say I feel the same way.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_7",
+                "type": "Speech",
+                "text": "We know so little about the Raptures, it would be foolish to entertain the idea of reclaiming the surface.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_8",
+                "type": "Speech",
+                "text": "With things as they are now, we'd need a miracle for that to happen.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_9",
+                "type": "Speech",
+                "text": "And unless it can be scientifically proven, I'm not one to believe in miracles.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": "d_counseling_maxwell_20_13"
+            },
+            {
+                "id": "d_counseling_maxwell_20_10",
+                "type": "Speech",
+                "text": "So you dream of a hopeful future?",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_11",
+                "type": "Speech",
+                "text": "I can't say the same for myself,",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_12",
+                "type": "Speech",
+                "text": "but if that's what you think, then that's what you think.",
+                "speaker": "Maxwell",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_maxwell_20_13",
+                "type": "Narration",
+                "text": "Maxwell and I discuss the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

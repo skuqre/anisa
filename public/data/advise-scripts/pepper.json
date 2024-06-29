@@ -1,0 +1,1941 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_pepper_01_1",
+                "type": "Speech",
+                "text": "It's very gloomy in the hospital these days. It feels like everyone is down in the dumps.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_01_2",
+                "type": "Speech",
+                "text": "I feel depressed as well. I can't shake the feeling.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_01_3",
+                "type": "Speech",
+                "text": "What can I do to change the atmosphere?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_01_4",
+                "type": "Choice",
+                "text": "You should dance to cheer them up.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_01_6"
+            },
+            {
+                "id": "d_counseling_pepper_01_5",
+                "type": "Choice",
+                "text": "Change your gloomy hospital lights for brighter ones.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_01_9"
+            },
+            {
+                "id": "d_counseling_pepper_01_6",
+                "type": "Speech",
+                "text": "A cheer-up dance?!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_01_7",
+                "type": "Speech",
+                "text": "H-how does that dance go?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_01_8",
+                "type": "Speech",
+                "text": "Uh... No, I won't learn it. I will never dance.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_01_12"
+            },
+            {
+                "id": "d_counseling_pepper_01_9",
+                "type": "Speech",
+                "text": "The lights?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_01_10",
+                "type": "Speech",
+                "text": "Huh, come to think of it, it looks like the lighting has become dimmer.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_01_11",
+                "type": "Speech",
+                "text": "I'll change it immediately!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_01_12",
+                "type": "Narration",
+                "text": "I help Pepper out with the atmosphere at the hospital.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_02_1",
+                "type": "Speech",
+                "text": "People at the hospital say I've never dated anyone before.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_02_2",
+                "type": "Speech",
+                "text": "Do you think that's true?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_02_3",
+                "type": "Choice",
+                "text": "No, of course not.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_02_5"
+            },
+            {
+                "id": "d_counseling_pepper_02_4",
+                "type": "Choice",
+                "text": "You've dated before?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_02_8"
+            },
+            {
+                "id": "d_counseling_pepper_02_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_02_6",
+                "type": "Speech",
+                "text": "You're telling the truth, right? That I don't come off that way?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_02_7",
+                "type": "Speech",
+                "text": "Haha. Thank you, Commander.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_02_12"
+            },
+            {
+                "id": "d_counseling_pepper_02_8",
+                "type": "Speech",
+                "text": "... No.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_02_9",
+                "type": "Speech",
+                "text": "All right, it's true! I haven't!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_02_10",
+                "type": "Speech",
+                "text": "But I don't want to look like I haven't.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_02_11",
+                "type": "Speech",
+                "text": "Commander, you are so mean!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_02_12",
+                "type": "Narration",
+                "text": "I have a conversation with Pepper about dating.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_03_1",
+                "type": "Speech",
+                "text": "Commander, where do you like to take your dates?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_03_2",
+                "type": "Choice",
+                "text": "The movie theatre.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_03_4"
+            },
+            {
+                "id": "d_counseling_pepper_03_3",
+                "type": "Choice",
+                "text": "The library.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_03_7"
+            },
+            {
+                "id": "d_counseling_pepper_03_4",
+                "type": "Speech",
+                "text": "Huh? Really?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_03_5",
+                "type": "Speech",
+                "text": "Me, too! I always want to go to the movie theater.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_03_6",
+                "type": "Speech",
+                "text": "So... I guess... It's not really a date, but would you like to go with me next time?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_03_11"
+            },
+            {
+                "id": "d_counseling_pepper_03_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_03_8",
+                "type": "Speech",
+                "text": "I didn't know you were so academic!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_03_9",
+                "type": "Speech",
+                "text": "I... prefer watching movies...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_03_10",
+                "type": "Speech",
+                "text": "But the library is nice, too!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_03_11",
+                "type": "Narration",
+                "text": "I spend a nice time with Pepper, planning where to go for fun.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_04_1",
+                "type": "Speech",
+                "text": "It seems that the number of patients faking illnesses has been increasing lately.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_04_2",
+                "type": "Speech",
+                "text": "Why do you think that is?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_04_3",
+                "type": "Choice",
+                "text": "Maybe it's because they want to see you, Pepper.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_04_5"
+            },
+            {
+                "id": "d_counseling_pepper_04_4",
+                "type": "Choice",
+                "text": "So they could see Mary.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_04_7"
+            },
+            {
+                "id": "d_counseling_pepper_04_5",
+                "type": "Speech",
+                "text": "Me? Why?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_04_6",
+                "type": "Speech",
+                "text": "I've never done anything that could get me on anyone's bad side...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_04_10"
+            },
+            {
+                "id": "d_counseling_pepper_04_7",
+                "type": "Speech",
+                "text": "Mary?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_04_8",
+                "type": "Speech",
+                "text": "Mmm... I guess that's possible.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_04_9",
+                "type": "Speech",
+                "text": "Occasionally, some patients intentionally come to get a stinging shot from Mary...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_04_10",
+                "type": "Narration",
+                "text": "I talk with Pepper about patients with fake sicknesses.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_05_1",
+                "type": "Speech",
+                "text": "Commander, I admire Mary a lot.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_05_2",
+                "type": "Speech",
+                "text": "I want to become the best doctor, just like her.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_05_3",
+                "type": "Speech",
+                "text": "So, what do you think I should study?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_05_4",
+                "type": "Choice",
+                "text": "How to cure a patient's fake illness?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_05_6"
+            },
+            {
+                "id": "d_counseling_pepper_05_5",
+                "type": "Choice",
+                "text": "How to kill someone with a smile?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_05_8"
+            },
+            {
+                "id": "d_counseling_pepper_05_6",
+                "type": "Speech",
+                "text": "Mary is known to be kind to patients and scary to fake patients.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_05_7",
+                "type": "Speech",
+                "text": "If I study hard, I think I will be able to become a sharp doctor like her!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_05_10"
+            },
+            {
+                "id": "d_counseling_pepper_05_8",
+                "type": "Speech",
+                "text": "Does she have a scary smile?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_05_9",
+                "type": "Speech",
+                "text": "I never noticed that.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_05_10",
+                "type": "Narration",
+                "text": "I have a conversation with Pepper about Mary.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_06_1",
+                "type": "Speech",
+                "text": "I've been thinking about this real hard. When you feel sick,",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_06_2",
+                "type": "Speech",
+                "text": "I think it's best to get diagnosed and treated fast as possible.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_06_3",
+                "type": "Speech",
+                "text": "So, why do people hate coming to the hospital?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_06_4",
+                "type": "Choice",
+                "text": "Because getting a shot is scary.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_06_6"
+            },
+            {
+                "id": "d_counseling_pepper_06_5",
+                "type": "Choice",
+                "text": "Because Mary is scary.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_06_8"
+            },
+            {
+                "id": "d_counseling_pepper_06_6",
+                "type": "Speech",
+                "text": "I see! Getting a shot is quite scary...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_06_7",
+                "type": "Speech",
+                "text": "A lot of people are afraid of needles.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_06_11"
+            },
+            {
+                "id": "d_counseling_pepper_06_8",
+                "type": "Speech",
+                "text": "Because of Mary?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_06_9",
+                "type": "Speech",
+                "text": "No way. She is so nice to everyone! Except for fake patients...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_06_10",
+                "type": "Speech",
+                "text": "... or annyoying patients...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_06_11",
+                "type": "Narration",
+                "text": "I talk with Pepper about how to bring more people to the hospital.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_07_1",
+                "type": "Speech",
+                "text": "Terrorists! Criminals!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_2",
+                "type": "Speech",
+                "text": "I hope they suffer!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_3",
+                "type": "Speech",
+                "text": "I hope they suffer more than everyone they've hurt!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_4",
+                "type": "Choice",
+                "text": "Calm down.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_07_6"
+            },
+            {
+                "id": "d_counseling_pepper_07_5",
+                "type": "Choice",
+                "text": "... I agree.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_07_9"
+            },
+            {
+                "id": "d_counseling_pepper_07_6",
+                "type": "Speech",
+                "text": "Sorry. I just get so worked up.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_7",
+                "type": "Speech",
+                "text": "There were patients who came to the hospital because of a terrorist attack...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_8",
+                "type": "Speech",
+                "text": "I can't help but feel so angry about it.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_07_14"
+            },
+            {
+                "id": "d_counseling_pepper_07_9",
+                "type": "Speech",
+                "text": "Commander, do you also think the same way?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_10",
+                "type": "Speech",
+                "text": "I didn't expect you'd be agreeing with me. I thought you were going to tell me to calm down...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_11",
+                "type": "Speech",
+                "text": "I got so angry because some new patients came to the hospital after a terrorist attack...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_12",
+                "type": "Speech",
+                "text": "I feel better knowing you're on my side.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_13",
+                "type": "Speech",
+                "text": "Thank you, Commander.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_07_14",
+                "type": "Narration",
+                "text": "I console an angry Pepper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_08_1",
+                "type": "Speech",
+                "text": "I heard tomorrow's weather will be very nice.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_08_2",
+                "type": "Speech",
+                "text": "What should we do?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_08_3",
+                "type": "Choice",
+                "text": "Clean the hospital.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_08_5"
+            },
+            {
+                "id": "d_counseling_pepper_08_4",
+                "type": "Choice",
+                "text": "Let's go on a date.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_08_8"
+            },
+            {
+                "id": "d_counseling_pepper_08_5",
+                "type": "Speech",
+                "text": "Uh... Right. If the weather is nice, we should stay inside and clean.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_08_6",
+                "type": "Speech",
+                "text": "I was expecting something else, like... a date, maybe?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_08_7",
+                "type": "Speech",
+                "text": "... I guess I was a little immature.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_08_11"
+            },
+            {
+                "id": "d_counseling_pepper_08_8",
+                "type": "Speech",
+                "text": "Right! A date!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_08_9",
+                "type": "Speech",
+                "text": "But, I have no one to go with...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_08_10",
+                "type": "Speech",
+                "text": "Commander, would you... like to go out with me?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_08_11",
+                "type": "Narration",
+                "text": "I spend time with Pepper, talking about tomorrow's plans.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_09_1",
+                "type": "Speech",
+                "text": "Commander, please tell me your definition of a real doctor!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_09_2",
+                "type": "Choice",
+                "text": "Someone with the skill to heal all kinds of patients.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_09_4"
+            },
+            {
+                "id": "d_counseling_pepper_09_3",
+                "type": "Choice",
+                "text": "Someone who works for the patient.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_09_6"
+            },
+            {
+                "id": "d_counseling_pepper_09_4",
+                "type": "Speech",
+                "text": "You're right. Skills are very important!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_09_5",
+                "type": "Speech",
+                "text": "If you don't have the skill, the patients are not going to believe that you can save them.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_09_10"
+            },
+            {
+                "id": "d_counseling_pepper_09_6",
+                "type": "Speech",
+                "text": "Haha. To be honest, I feel the same way.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_09_7",
+                "type": "Speech",
+                "text": "Even though the skill to save the patient's life is important,",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_09_8",
+                "type": "Speech",
+                "text": "I feel a doctor who focuses on serving the patient",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_09_9",
+                "type": "Speech",
+                "text": "is always greater.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_09_10",
+                "type": "Narration",
+                "text": "I have a serious conversation with Pepper about doctors.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_10_1",
+                "type": "Speech",
+                "text": "Between having something refreshing and something sweet,",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_2",
+                "type": "Speech",
+                "text": "which one do you think can give you more energy?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_3",
+                "type": "Choice",
+                "text": "Something refreshing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_10_5"
+            },
+            {
+                "id": "d_counseling_pepper_10_4",
+                "type": "Choice",
+                "text": "Something sweet.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_10_10"
+            },
+            {
+                "id": "d_counseling_pepper_10_5",
+                "type": "Speech",
+                "text": "I feel the same way!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_6",
+                "type": "Speech",
+                "text": "When I eat something refreshing, I feel like energy is flowing back to my body.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_7",
+                "type": "Speech",
+                "text": "Like my blood is getting filled up with vitamins.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_8",
+                "type": "Speech",
+                "text": "As if nothing can stop me!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_9",
+                "type": "Speech",
+                "text": "It's decided: the children's snack at the hospital will be lemon-flavored Splendamin!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_10_14"
+            },
+            {
+                "id": "d_counseling_pepper_10_10",
+                "type": "Speech",
+                "text": "Uh... Is that so?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_11",
+                "type": "Speech",
+                "text": "Hmmm... I thought you were going to choose something refreshing.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_12",
+                "type": "Speech",
+                "text": "Hmmm. Come to think of it, when you're tired, it means you're low on sugar.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_13",
+                "type": "Speech",
+                "text": "I guess eating something sweet really can give you some energy.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_10_14",
+                "type": "Narration",
+                "text": "I discuss energy-giving foods with Pepper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_11_1",
+                "type": "Speech",
+                "text": "Commander, it's been a while since you last came to the hospital.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_11_2",
+                "type": "Speech",
+                "text": "I take it that means you're feeling well?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_11_3",
+                "type": "Choice",
+                "text": "Fit as a fiddle.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_11_5"
+            },
+            {
+                "id": "d_counseling_pepper_11_4",
+                "type": "Choice",
+                "text": "Actually, I'm not feeling too hot.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_11_8"
+            },
+            {
+                "id": "d_counseling_pepper_11_5",
+                "type": "Speech",
+                "text": "That's a relief.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_11_6",
+                "type": "Speech",
+                "text": "Your health is the number one priority.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_11_7",
+                "type": "Speech",
+                "text": "Even if you're feeling perfectly fine, drop by every once in a while for a checkup.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_11_12"
+            },
+            {
+                "id": "d_counseling_pepper_11_8",
+                "type": "Speech",
+                "text": "What?!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_11_9",
+                "type": "Speech",
+                "text": "Where aren't you feeling well?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_11_10",
+                "type": "Speech",
+                "text": "Why haven't you come to the hospital?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_11_11",
+                "type": "Speech",
+                "text": "Tell me about your symptoms. I want all the details.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_11_12",
+                "type": "Narration",
+                "text": "I talk to Pepper about my health.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_12_1",
+                "type": "Speech",
+                "text": "According to Signal,",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_12_2",
+                "type": "Speech",
+                "text": "a lot of TV shows about doctor-patient relationships are trending right now.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_12_3",
+                "type": "Speech",
+                "text": "What do you make of that?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_12_4",
+                "type": "Choice",
+                "text": "I find it all very romantic.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_12_6"
+            },
+            {
+                "id": "d_counseling_pepper_12_5",
+                "type": "Choice",
+                "text": "Doctors should treat their patients as just that: a patient.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_12_9"
+            },
+            {
+                "id": "d_counseling_pepper_12_6",
+                "type": "Speech",
+                "text": "It's incredibly romantic!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_12_7",
+                "type": "Speech",
+                "text": "I hope one day I can experience a love like that.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_12_8",
+                "type": "Speech",
+                "text": "With that being said, I always keep my relationships with my patients strictly professional!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_12_12"
+            },
+            {
+                "id": "d_counseling_pepper_12_9",
+                "type": "Speech",
+                "text": "You're right...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_12_10",
+                "type": "Speech",
+                "text": "In actuality, we should never breach the trust between us and our patients like that.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_12_11",
+                "type": "Speech",
+                "text": "I guess at the end of the day, TV shows really are just works of fiction.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_12_12",
+                "type": "Narration",
+                "text": "Pepper and I have fun dissecting the intricacies of various medical field-related romantic fantasies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_13_1",
+                "type": "Speech",
+                "text": "Mary's smile always puts the people around her at ease.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_13_2",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_13_3",
+                "type": "Speech",
+                "text": "If I smile like this, do I look like her?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_13_4",
+                "type": "Choice",
+                "text": "Your eyes should be more moon-shaped.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_13_6"
+            },
+            {
+                "id": "d_counseling_pepper_13_5",
+                "type": "Choice",
+                "text": "Your smile also comforts those around you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_13_9"
+            },
+            {
+                "id": "d_counseling_pepper_13_6",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_13_7",
+                "type": "Speech",
+                "text": "But my eyes are all the way closed at this point!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_13_8",
+                "type": "Speech",
+                "text": "So Pepper is practically blind whenever she's smiling.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_13_12"
+            },
+            {
+                "id": "d_counseling_pepper_13_9",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_13_10",
+                "type": "Speech",
+                "text": "Hehe... thank you, Commander.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_13_11",
+                "type": "Speech",
+                "text": "So... how do you feel right now?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_13_12",
+                "type": "Narration",
+                "text": "Pepper and I continue our conversation with permanent grins on our faces.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_14_1",
+                "type": "Speech",
+                "text": "Administering a shot to younger patients is a real challenge.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_14_2",
+                "type": "Speech",
+                "text": "Is there any way to make it easier?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_14_3",
+                "type": "Choice",
+                "text": "You should use anesthesia.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_14_5"
+            },
+            {
+                "id": "d_counseling_pepper_14_4",
+                "type": "Choice",
+                "text": "Give them some candy, like a lollipop.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_14_8"
+            },
+            {
+                "id": "d_counseling_pepper_14_5",
+                "type": "Speech",
+                "text": "You mustn't use anesthesia so recklessly!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_14_6",
+                "type": "Speech",
+                "text": "You could end up causing serious injury to someone.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_14_7",
+                "type": "Speech",
+                "text": "I guess all I can do is do my best to comfort them to get them through it.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_14_11"
+            },
+            {
+                "id": "d_counseling_pepper_14_8",
+                "type": "Speech",
+                "text": "Good idea!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_14_9",
+                "type": "Speech",
+                "text": "After they get their shot, I'll give them a little treat.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_14_10",
+                "type": "Speech",
+                "text": "That way they won't be as terrified about getting a shot.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_14_11",
+                "type": "Narration",
+                "text": "Pepper and I discuss the widely held fear of shots.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_15_1",
+                "type": "Speech",
+                "text": "In private rooms, we can personalize the music that we play for the patient.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_2",
+                "type": "Speech",
+                "text": "If you were in a private room, what kind of music would you like to hear?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_3",
+                "type": "Choice",
+                "text": "Something quiet and calming.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_15_5"
+            },
+            {
+                "id": "d_counseling_pepper_15_4",
+                "type": "Choice",
+                "text": "Something light and hopeful.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_15_9"
+            },
+            {
+                "id": "d_counseling_pepper_15_5",
+                "type": "Speech",
+                "text": "Just as I thought.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_6",
+                "type": "Speech",
+                "text": "Most of the patients prefer calmer music as well.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_7",
+                "type": "Speech",
+                "text": "I'm sure it helps put their minds at ease.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_8",
+                "type": "Speech",
+                "text": "As for me, I personally enjoy music with a lighter touch.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_15_14"
+            },
+            {
+                "id": "d_counseling_pepper_15_9",
+                "type": "Speech",
+                "text": "I'm surprised to hear you say that, Commander.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_10",
+                "type": "Speech",
+                "text": "Most people prefer calmer music,",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_11",
+                "type": "Speech",
+                "text": "but there are a few patients who go the other way.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_12",
+                "type": "Speech",
+                "text": "They say lighter music energizes them.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_13",
+                "type": "Speech",
+                "text": "Personally, I agree with them!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_15_14",
+                "type": "Narration",
+                "text": "Pepper and I talk about the different genres of music that are played in hospital rooms.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_16_1",
+                "type": "Speech",
+                "text": "Um, Commander... I was curious about something.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_16_2",
+                "type": "Speech",
+                "text": "What do you look for in a significant other?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_16_3",
+                "type": "Choice",
+                "text": "Someone who is bright and energetic.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_16_5"
+            },
+            {
+                "id": "d_counseling_pepper_16_4",
+                "type": "Choice",
+                "text": "Someone who is kind and loves to laugh.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_16_8"
+            },
+            {
+                "id": "d_counseling_pepper_16_5",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_16_6",
+                "type": "Speech",
+                "text": "That means I have a chance!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_16_7",
+                "type": "Speech",
+                "text": "Or... maybe not? Is it possible? Yes? No? Ugh...!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_16_12"
+            },
+            {
+                "id": "d_counseling_pepper_16_8",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_16_9",
+                "type": "Speech",
+                "text": "Don't tell me it's Mary?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_16_10",
+                "type": "Speech",
+                "text": "If it is Mary, she is certainly the ideal type for a lot of people.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_16_11",
+                "type": "Speech",
+                "text": "It's certainly possible.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_16_12",
+                "type": "Narration",
+                "text": "I calm down the overexcited Pepper.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_17_1",
+                "type": "Speech",
+                "text": "Commander, do you prefer movies with a happy or sad ending?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_17_2",
+                "type": "Choice",
+                "text": "Sad ending.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_17_4"
+            },
+            {
+                "id": "d_counseling_pepper_17_3",
+                "type": "Choice",
+                "text": "Happy ending.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_17_9"
+            },
+            {
+                "id": "d_counseling_pepper_17_4",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_17_5",
+                "type": "Speech",
+                "text": "I didn't realize there were people who preferred sad endings!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_17_6",
+                "type": "Speech",
+                "text": "I suppose they do leave a deeper impression. Is it because of that?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_17_7",
+                "type": "Speech",
+                "text": "Hmm... I'm not sure I agree.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_17_8",
+                "type": "Speech",
+                "text": "I prefer when everybody can laugh and get along, whether it's in a movie or in real life.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_17_12"
+            },
+            {
+                "id": "d_counseling_pepper_17_9",
+                "type": "Speech",
+                "text": "Yeah, nothing beats a feel-good ending!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_17_10",
+                "type": "Speech",
+                "text": "I love it when everybody can laugh and get along, whether it's in a movie or in real life.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_17_11",
+                "type": "Speech",
+                "text": "It makes you feel all warm and fuzzy inside.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_17_12",
+                "type": "Narration",
+                "text": "Pepper and I talk about movies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_18_1",
+                "type": "Speech",
+                "text": "I'm thinking of buying some perfume.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_18_2",
+                "type": "Speech",
+                "text": "Commander... what kind of scent do you prefer?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_18_3",
+                "type": "Choice",
+                "text": "That great hospital smell.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_18_5"
+            },
+            {
+                "id": "d_counseling_pepper_18_4",
+                "type": "Choice",
+                "text": "You smell good even without perfume.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_18_8"
+            },
+            {
+                "id": "d_counseling_pepper_18_5",
+                "type": "Speech",
+                "text": "Are you serious?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_18_6",
+                "type": "Speech",
+                "text": "There's no perfume that smells like that!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_18_7",
+                "type": "Speech",
+                "text": "You're just making fun of me since it's my first time buying perfume!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_18_10"
+            },
+            {
+                "id": "d_counseling_pepper_18_8",
+                "type": "Speech",
+                "text": "Wait, you really think that...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_18_9",
+                "type": "Speech",
+                "text": "Hehe. Thank you.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_18_10",
+                "type": "Narration",
+                "text": "Pepper and I talk about our favorite scents.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_19_1",
+                "type": "Speech",
+                "text": "Commander...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_2",
+                "type": "Speech",
+                "text": "Will there ever come a time when there are no injured or sick?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_3",
+                "type": "Choice",
+                "text": "Um...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_19_5"
+            },
+            {
+                "id": "d_counseling_pepper_19_4",
+                "type": "Choice",
+                "text": "I'm sure that day will come eventually.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_19_9"
+            },
+            {
+                "id": "d_counseling_pepper_19_5",
+                "type": "Speech",
+                "text": "Oh, sorry for putting you on the spot.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_6",
+                "type": "Speech",
+                "text": "I know it may just be a pipe dream, but...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_7",
+                "type": "Speech",
+                "text": "I've had a lot of patients pass away full of regrets. I guess it all got to me.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_8",
+                "type": "Speech",
+                "text": "Thank you for listening to me.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_19_13"
+            },
+            {
+                "id": "d_counseling_pepper_19_9",
+                "type": "Speech",
+                "text": "I know it may just be a pipe dream, but...",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_10",
+                "type": "Speech",
+                "text": "I've had a lot of patients pass away full of regrets. I guess it all got to me.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_11",
+                "type": "Speech",
+                "text": "But hearing you say that makes me feel like even the most outlandish pipe dream is possible.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_12",
+                "type": "Speech",
+                "text": "Thank you, Commander.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_19_13",
+                "type": "Narration",
+                "text": "I patted Pepper on her shoulder.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_pepper_20_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_2",
+                "type": "Speech",
+                "text": "When you look at me, what's the first phrase that pops into your head?",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_3",
+                "type": "Choice",
+                "text": "A doctor who makes people happy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_pepper_20_5"
+            },
+            {
+                "id": "d_counseling_pepper_20_4",
+                "type": "Choice",
+                "text": "A highly-skilled medical professional.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_pepper_20_10"
+            },
+            {
+                "id": "d_counseling_pepper_20_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_6",
+                "type": "Speech",
+                "text": "Wow... I'm really touched.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_7",
+                "type": "Speech",
+                "text": "My dream is to be a doctor that makes people happy.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_8",
+                "type": "Speech",
+                "text": "I still have a long way to go, but I'll do my best to live up to that idea.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_9",
+                "type": "Speech",
+                "text": "Thank you, Commander.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": "d_counseling_pepper_20_14"
+            },
+            {
+                "id": "d_counseling_pepper_20_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_11",
+                "type": "Speech",
+                "text": "I have a long way to go before I can be called a medical professional.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_12",
+                "type": "Speech",
+                "text": "Sigh... I'm sorry. I'm happy to hear you say that, but I wouldn't say I fit that description just yet.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_13",
+                "type": "Speech",
+                "text": "But thank you anyway for saying that.",
+                "speaker": "Pepper",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_pepper_20_14",
+                "type": "Narration",
+                "text": "I continue showering Pepper with compliments.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

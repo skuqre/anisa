@@ -1,0 +1,1941 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_soline_01_1",
+                "type": "Speech",
+                "text": "Commander! I heard something interesting.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_01_2",
+                "type": "Speech",
+                "text": "Someone said that if you eat something bitter,",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_01_3",
+                "type": "Speech",
+                "text": "mugwort-flavored or garlic-flavored Splendamin, then you'll become an adult. Is that true?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_01_4",
+                "type": "Choice",
+                "text": "Actually, it'll turn you into a human.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_01_6"
+            },
+            {
+                "id": "d_counseling_soline_01_5",
+                "type": "Choice",
+                "text": "It's true.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_01_9"
+            },
+            {
+                "id": "d_counseling_soline_01_6",
+                "type": "Speech",
+                "text": "A Nikke can become human again?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_01_7",
+                "type": "Speech",
+                "text": "There's no way that Splendamin has that kind of effect.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_01_8",
+                "type": "Speech",
+                "text": "Commander, do not fall for ridiculous rumors, okay?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_01_11"
+            },
+            {
+                "id": "d_counseling_soline_01_9",
+                "type": "Speech",
+                "text": "Just as I thought! The rumors are true!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_01_10",
+                "type": "Speech",
+                "text": "Hehe! I'm going to buy a bunch and eat them all!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_01_11",
+                "type": "Narration",
+                "text": "I talk with Soline about becoming an adult.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_02_1",
+                "type": "Speech",
+                "text": "You know, at the Outpost...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_02_2",
+                "type": "Speech",
+                "text": "there's a... toy store.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_02_3",
+                "type": "Speech",
+                "text": "N-not that I'm really interested!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_02_4",
+                "type": "Speech",
+                "text": "But... have you been there before?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_02_5",
+                "type": "Choice",
+                "text": "I have.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_02_7"
+            },
+            {
+                "id": "d_counseling_soline_02_6",
+                "type": "Choice",
+                "text": "I haven't.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_02_9"
+            },
+            {
+                "id": "d_counseling_soline_02_7",
+                "type": "Speech",
+                "text": "Y-you have? When?!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_02_8",
+                "type": "Speech",
+                "text": "You should have taken me with you! You're so mean!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_02_12"
+            },
+            {
+                "id": "d_counseling_soline_02_9",
+                "type": "Speech",
+                "text": "Yeah? Th-then... Do you want to go with me?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_02_10",
+                "type": "Speech",
+                "text": "I'm not interested! But, I just thought that you might want to go there.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_02_11",
+                "type": "Speech",
+                "text": "So, will you go with me?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_02_12",
+                "type": "Narration",
+                "text": "Soline and I plan a visit to the toy store.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_03_1",
+                "type": "Speech",
+                "text": "Brid is so mean to me these days.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_03_2",
+                "type": "Speech",
+                "text": "Every time I say something, she just sighs...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_03_3",
+                "type": "Speech",
+                "text": "And then she tells me to go away, because I'm noisy.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_03_4",
+                "type": "Speech",
+                "text": "Do you think she is too mean to me?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_03_5",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_03_7"
+            },
+            {
+                "id": "d_counseling_soline_03_6",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_03_10"
+            },
+            {
+                "id": "d_counseling_soline_03_7",
+                "type": "Speech",
+                "text": "Right?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_03_8",
+                "type": "Speech",
+                "text": "I'm so relieved that you think the same way as me.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_03_9",
+                "type": "Speech",
+                "text": "Just like I thought, I wasn't the one acting childish!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_03_12"
+            },
+            {
+                "id": "d_counseling_soline_03_10",
+                "type": "Speech",
+                "text": "N-no?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_03_11",
+                "type": "Speech",
+                "text": "Then you're a big meanie, too!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_03_12",
+                "type": "Narration",
+                "text": "I soothe Soline, who is offended.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_04_1",
+                "type": "Speech",
+                "text": "I'm so tired of Diesel only giving me strawberry candy all the time.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_2",
+                "type": "Speech",
+                "text": "I don't even like candy that much.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_3",
+                "type": "Speech",
+                "text": "I've suffered through it because it's from Diesel... And I can't stand it anymore!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_4",
+                "type": "Speech",
+                "text": "But... I think she will be upset if I ask for a different flavor.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_5",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_6",
+                "type": "Choice",
+                "text": "Buy Diesel a new flavor of candy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_04_8"
+            },
+            {
+                "id": "d_counseling_soline_04_7",
+                "type": "Choice",
+                "text": "Lie down in front of Diesel and throw a tantrum because you want a different flavor.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_04_13"
+            },
+            {
+                "id": "d_counseling_soline_04_8",
+                "type": "Speech",
+                "text": "Buy her new candy?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_9",
+                "type": "Speech",
+                "text": "Hmm... That's a good idea.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_10",
+                "type": "Speech",
+                "text": "I can give Diesel a present",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_11",
+                "type": "Speech",
+                "text": "and be freed from the tyranny of strawberry at the same time!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_12",
+                "type": "Speech",
+                "text": "Perfect! I'll get right on it!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_04_15"
+            },
+            {
+                "id": "d_counseling_soline_04_13",
+                "type": "Speech",
+                "text": "I'm not a kid!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_14",
+                "type": "Speech",
+                "text": "I don't throw tantrums!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_04_15",
+                "type": "Narration",
+                "text": "I talk with Soline about strawberry candy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_05_1",
+                "type": "Speech",
+                "text": "Commander, tell me.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_2",
+                "type": "Speech",
+                "text": "Imagine two people. One is cute, and the other is mature.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_3",
+                "type": "Speech",
+                "text": "Which one would you date?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_4",
+                "type": "Choice",
+                "text": "The cute one.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_05_6"
+            },
+            {
+                "id": "d_counseling_soline_05_5",
+                "type": "Choice",
+                "text": "The mature one.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_05_10"
+            },
+            {
+                "id": "d_counseling_soline_05_6",
+                "type": "Speech",
+                "text": "... Really?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_7",
+                "type": "Speech",
+                "text": "That's not what I expected.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_8",
+                "type": "Speech",
+                "text": "Why can't you just like the mature one?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_9",
+                "type": "Speech",
+                "text": "After all, I'm not cute at all...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_05_14"
+            },
+            {
+                "id": "d_counseling_soline_05_10",
+                "type": "Speech",
+                "text": "Really? You'd like the mature one?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_11",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_12",
+                "type": "Speech",
+                "text": "Just as I thought.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_13",
+                "type": "Speech",
+                "text": "Just you wait! I'll become mature in no time!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_05_14",
+                "type": "Narration",
+                "text": "I listen to Soline's lecture on becoming mature.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_06_1",
+                "type": "Speech",
+                "text": "These days, when Diesel and Brid see me,",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_2",
+                "type": "Speech",
+                "text": "they keep patting my head and saying I'm cute.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_3",
+                "type": "Speech",
+                "text": "I think it's because they've never seen me at my best.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_4",
+                "type": "Speech",
+                "text": "They don't know how competent and charismatic I am!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_5",
+                "type": "Speech",
+                "text": "What do I have to do for them to stop seeing me as cute?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_6",
+                "type": "Choice",
+                "text": "Say \"stop seeing me as cute\" with your charisma.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_06_8"
+            },
+            {
+                "id": "d_counseling_soline_06_7",
+                "type": "Choice",
+                "text": "Chug a cup of bitter coffee in front of them.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_06_11"
+            },
+            {
+                "id": "d_counseling_soline_06_8",
+                "type": "Speech",
+                "text": "How do I talk with charisma?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_9",
+                "type": "Speech",
+                "text": "Also, I already tried that before.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_10",
+                "type": "Speech",
+                "text": "But it doesn't get through. Instead, they pat my head even more.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_06_15"
+            },
+            {
+                "id": "d_counseling_soline_06_11",
+                "type": "Speech",
+                "text": "Chug a bitter cup of coffee?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_12",
+                "type": "Speech",
+                "text": "Hmm... I guess if they see me drinking bitter coffee without flinching, then their impressions will be changed.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_13",
+                "type": "Speech",
+                "text": "Okay, might as well give it a try! Since I'm an adult and all!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_14",
+                "type": "Speech",
+                "text": "That's good advice. Thanks!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_06_15",
+                "type": "Narration",
+                "text": "I discuss how to not look cute with Soline.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_07_1",
+                "type": "Speech",
+                "text": "A couple days ago, I went to the park.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_2",
+                "type": "Speech",
+                "text": "Cafe Sweety saw me and asked if I was a lost child!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_3",
+                "type": "Speech",
+                "text": "Then they called those kid cops A.C.P.U. and Diesel to take me home!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_4",
+                "type": "Speech",
+                "text": "I told them I was a Nikke, but they completely ignored me.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_5",
+                "type": "Speech",
+                "text": "I'm so angry. How should I take revenge on them?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_6",
+                "type": "Choice",
+                "text": "Next time you see them, report that some scary big sisters are bothering you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_07_8"
+            },
+            {
+                "id": "d_counseling_soline_07_7",
+                "type": "Choice",
+                "text": "Next time you see them, report them as missing children as well.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_07_12"
+            },
+            {
+                "id": "d_counseling_soline_07_8",
+                "type": "Speech",
+                "text": "Scary big sisters?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_9",
+                "type": "Speech",
+                "text": "No! I won't call them big sisters!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_10",
+                "type": "Speech",
+                "text": "Anyway, no matter how bad they might be, I'll never report them.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_11",
+                "type": "Speech",
+                "text": "I need another solution.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_07_16"
+            },
+            {
+                "id": "d_counseling_soline_07_12",
+                "type": "Speech",
+                "text": "You mean, and an eye for an eye, a tooth for a tooth?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_13",
+                "type": "Speech",
+                "text": "Hmm, I like it!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_14",
+                "type": "Speech",
+                "text": "I'm going to report them, too!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_15",
+                "type": "Speech",
+                "text": "Then they will know how embarrassing it is!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_07_16",
+                "type": "Narration",
+                "text": "I explore ways to take revenge on Cafe Sweety with Soline.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_08_1",
+                "type": "Speech",
+                "text": "So annoying. So annoying!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_2",
+                "type": "Speech",
+                "text": "Today I was working at the station, minding my own business...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_3",
+                "type": "Speech",
+                "text": "Then someone came up to me and said, \"Isn't it illegal for children to be working?\" But, I'm an adult!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_4",
+                "type": "Speech",
+                "text": "Argh. I'm so angry! It's so annoying!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_5",
+                "type": "Choice",
+                "text": "That person just hasn't seen your competence yet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_08_7"
+            },
+            {
+                "id": "d_counseling_soline_08_6",
+                "type": "Choice",
+                "text": "Do you want to take revenge on that person?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_08_10"
+            },
+            {
+                "id": "d_counseling_soline_08_7",
+                "type": "Speech",
+                "text": "That must be it, right?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_8",
+                "type": "Speech",
+                "text": "Just wait. One day I will show everyone my competence!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_9",
+                "type": "Speech",
+                "text": "They'll say that there is no attendant like Soline!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_08_13"
+            },
+            {
+                "id": "d_counseling_soline_08_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_11",
+                "type": "Speech",
+                "text": "What do you mean revenge? Take revenge on a passenger?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_12",
+                "type": "Speech",
+                "text": "I'm just saying I'm annoyed, that's all! You're so dumb!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_08_13",
+                "type": "Narration",
+                "text": "I soothe Soline, who is enraged.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_09_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_3",
+                "type": "Speech",
+                "text": "N-never mind.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_4",
+                "type": "Choice",
+                "text": "Are you bored or something?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_09_6"
+            },
+            {
+                "id": "d_counseling_soline_09_5",
+                "type": "Choice",
+                "text": "Do you want some candy?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_09_9"
+            },
+            {
+                "id": "d_counseling_soline_09_6",
+                "type": "Speech",
+                "text": "N-no!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_7",
+                "type": "Speech",
+                "text": "You think I poke you every time I'm bored?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_8",
+                "type": "Speech",
+                "text": "I was just... curious if you wanted to eat something.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_09_13"
+            },
+            {
+                "id": "d_counseling_soline_09_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_10",
+                "type": "Speech",
+                "text": "How did you know?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_11",
+                "type": "Speech",
+                "text": "Can you read minds or something?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_12",
+                "type": "Speech",
+                "text": "That's so fascinating!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_09_13",
+                "type": "Narration",
+                "text": "I have a joyful counseling time after putting some candy in Soline's mouth.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_10_1",
+                "type": "Speech",
+                "text": "I saw that Nikke Rumani on TV.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_10_2",
+                "type": "Speech",
+                "text": "She said you need to exercise with weights to have an adult body.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_10_3",
+                "type": "Speech",
+                "text": "So, I'm going to start lifting weights today!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_10_4",
+                "type": "Speech",
+                "text": "Then I'll grow taller and look more like an adult!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_10_5",
+                "type": "Choice",
+                "text": "Do you really believe that you will grow taller?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_10_7"
+            },
+            {
+                "id": "d_counseling_soline_10_6",
+                "type": "Choice",
+                "text": "Good luck.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_10_10"
+            },
+            {
+                "id": "d_counseling_soline_10_7",
+                "type": "Speech",
+                "text": "Yes! Of course!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_10_8",
+                "type": "Speech",
+                "text": "Hmm, you don't seem to agree.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_10_9",
+                "type": "Speech",
+                "text": "Hmph!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_10_12"
+            },
+            {
+                "id": "d_counseling_soline_10_10",
+                "type": "Speech",
+                "text": "Well, whether or not you support me...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_10_11",
+                "type": "Speech",
+                "text": "I'm still going to do my best!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_10_12",
+                "type": "Narration",
+                "text": "I make exercise plans with Soline in hopes of helping her grow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_11_1",
+                "type": "Speech",
+                "text": "I'm not sure why, but I've been craving some good food for a while now.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_11_2",
+                "type": "Speech",
+                "text": "Preferably something sweet.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_11_3",
+                "type": "Choice",
+                "text": "You're just going through a growth spurt.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_11_5"
+            },
+            {
+                "id": "d_counseling_soline_11_4",
+                "type": "Choice",
+                "text": "Be careful or else you'll be putting on the pounds.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_11_8"
+            },
+            {
+                "id": "d_counseling_soline_11_5",
+                "type": "Speech",
+                "text": "A growth spurt?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_11_6",
+                "type": "Speech",
+                "text": "No wonder my body feels different than it did a few days ago.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_11_7",
+                "type": "Speech",
+                "text": "So that's what it was!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_11_10"
+            },
+            {
+                "id": "d_counseling_soline_11_8",
+                "type": "Speech",
+                "text": "What? That can't be it!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_11_9",
+                "type": "Speech",
+                "text": "My weight hasn't changed! Gosh, you're so annoying!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_11_10",
+                "type": "Narration",
+                "text": "Soline and I talk about the different foods that we have a craving for.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_12_1",
+                "type": "Speech",
+                "text": "If we reclaim the surface, do you think we could go on a trip?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_12_2",
+                "type": "Speech",
+                "text": "Traveling on a train... something like that.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_12_3",
+                "type": "Choice",
+                "text": "Sure we can. Let's start planning our itinerary.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_12_5"
+            },
+            {
+                "id": "d_counseling_soline_12_4",
+                "type": "Choice",
+                "text": "It may be a little soon to be thinking of that...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_12_7"
+            },
+            {
+                "id": "d_counseling_soline_12_5",
+                "type": "Speech",
+                "text": "The first thing I want to do is ride the AZX through the snowy terrain!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_12_6",
+                "type": "Speech",
+                "text": "And I want to make a snowman as well! What about you, Commander?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_12_10"
+            },
+            {
+                "id": "d_counseling_soline_12_7",
+                "type": "Speech",
+                "text": "You could have at least humored me for a minute...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_12_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_12_9",
+                "type": "Speech",
+                "text": "I hope it's not too far down the line.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_12_10",
+                "type": "Narration",
+                "text": "I have a conversation with Soline about the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_13_1",
+                "type": "Speech",
+                "text": "I wanted to buy Brid a coffee so I went to the Cafe and asked for an americano.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_13_2",
+                "type": "Speech",
+                "text": "But the employee there said a kid shouldn't be drinking coffee!!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_13_3",
+                "type": "Speech",
+                "text": "How rude!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_13_4",
+                "type": "Choice",
+                "text": "We'll go to a different caf\u00e9 next time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_13_6"
+            },
+            {
+                "id": "d_counseling_soline_13_5",
+                "type": "Choice",
+                "text": "Let's have Brid and Diesel come with us.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_13_9"
+            },
+            {
+                "id": "d_counseling_soline_13_6",
+                "type": "Speech",
+                "text": "For sure, I'm never going there again!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_13_7",
+                "type": "Speech",
+                "text": "There are plenty of other cafes around here.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_13_8",
+                "type": "Speech",
+                "text": "I feel a lot better after talking to you!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_13_11"
+            },
+            {
+                "id": "d_counseling_soline_13_9",
+                "type": "Speech",
+                "text": "What would that change?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_13_10",
+                "type": "Speech",
+                "text": "If anything, it'd just make us all look even younger.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_13_11",
+                "type": "Narration",
+                "text": "I help Soline look for other cafes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_14_1",
+                "type": "Speech",
+                "text": "Commander, do you like tall girls?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_14_2",
+                "type": "Speech",
+                "text": "Or do you prefer someone smaller... like me?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_14_3",
+                "type": "Choice",
+                "text": "Personally, I prefer shorter women.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_14_5"
+            },
+            {
+                "id": "d_counseling_soline_14_4",
+                "type": "Choice",
+                "text": "I'd prefer if they were about my height.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_14_7"
+            },
+            {
+                "id": "d_counseling_soline_14_5",
+                "type": "Speech",
+                "text": "Do you really?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_14_6",
+                "type": "Speech",
+                "text": "Then I don't have to try so hard to grow taller.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_14_10"
+            },
+            {
+                "id": "d_counseling_soline_14_7",
+                "type": "Speech",
+                "text": "In that case...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_14_8",
+                "type": "Speech",
+                "text": "how many more centimeters do I have to grow...?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_14_9",
+                "type": "Speech",
+                "text": "I'm gonna start drinking more milk.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_14_10",
+                "type": "Narration",
+                "text": "I have a conversation with Soline about height.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_15_1",
+                "type": "Speech",
+                "text": "I think I need to change my image.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_15_2",
+                "type": "Speech",
+                "text": "First up is how I dress. What kind of clothing should I wear?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_15_3",
+                "type": "Choice",
+                "text": "Something that's all business.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_15_5"
+            },
+            {
+                "id": "d_counseling_soline_15_4",
+                "type": "Choice",
+                "text": "Something more casual.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_15_8"
+            },
+            {
+                "id": "d_counseling_soline_15_5",
+                "type": "Speech",
+                "text": "I like the sound of that!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_15_6",
+                "type": "Speech",
+                "text": "That would probably make me look more mature.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_15_7",
+                "type": "Speech",
+                "text": "Not that I'm not already mature!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_15_10"
+            },
+            {
+                "id": "d_counseling_soline_15_8",
+                "type": "Speech",
+                "text": "Hmm... I don't think that's much different from how I dress now.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_15_9",
+                "type": "Speech",
+                "text": "What other styles could I try?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_15_10",
+                "type": "Narration",
+                "text": "I look for suitable styles with Soline.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_16_1",
+                "type": "Speech",
+                "text": "I heard that married couples on the surface used to go on trips together.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_16_2",
+                "type": "Speech",
+                "text": "A... honeymoon, was it? Have you heard about this before?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_16_3",
+                "type": "Choice",
+                "text": "I came back from one before.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_16_5"
+            },
+            {
+                "id": "d_counseling_soline_16_4",
+                "type": "Choice",
+                "text": "It'd be nice for you and I to go on a honeymoon.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_16_8"
+            },
+            {
+                "id": "d_counseling_soline_16_5",
+                "type": "Speech",
+                "text": "Hmm?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_16_6",
+                "type": "Speech",
+                "text": "What do you mean?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_16_7",
+                "type": "Speech",
+                "text": "Wait... were you married before?!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_16_11"
+            },
+            {
+                "id": "d_counseling_soline_16_8",
+                "type": "Speech",
+                "text": "Huh...?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_16_9",
+                "type": "Speech",
+                "text": "Wh-what? Are you confessing your feelings for me? This is all so sudden...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_16_10",
+                "type": "Speech",
+                "text": "You're just pulling my leg, aren't you? Argh, you're the worst!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_16_11",
+                "type": "Narration",
+                "text": "I dodged a beating from Soline the entire time we were talking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_17_1",
+                "type": "Speech",
+                "text": "Diesel and Brid are my best friends. I feel so carefree around them.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_17_2",
+                "type": "Speech",
+                "text": "Do you think they feel the same way about me?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_17_3",
+                "type": "Choice",
+                "text": "I'm sure they do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_17_5"
+            },
+            {
+                "id": "d_counseling_soline_17_4",
+                "type": "Choice",
+                "text": "Why don't you ask them?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_17_7"
+            },
+            {
+                "id": "d_counseling_soline_17_5",
+                "type": "Speech",
+                "text": "Yeah, exactly! I'm sure the feeling is mutual!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_17_6",
+                "type": "Speech",
+                "text": "It feels nice knowing that.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_17_9"
+            },
+            {
+                "id": "d_counseling_soline_17_7",
+                "type": "Speech",
+                "text": "No way! That'd be so awkward!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_17_8",
+                "type": "Speech",
+                "text": "Not a word of this to anyone!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_17_9",
+                "type": "Narration",
+                "text": "I listen to Soline as she spoke highly of Diesel and Brid.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_18_1",
+                "type": "Speech",
+                "text": "I was about to brush my teeth yesterday, when I noticed something...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_18_2",
+                "type": "Speech",
+                "text": "Diesel swapped the regular toothpaste for strawberry-flavored! Can you believe that?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_18_3",
+                "type": "Speech",
+                "text": "Strawberry candy is one thing, but strawberry toothpaste? No thanks.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_18_4",
+                "type": "Choice",
+                "text": "It probably tastes nice and sweet.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_18_6"
+            },
+            {
+                "id": "d_counseling_soline_18_5",
+                "type": "Choice",
+                "text": "Let's change it to another toothpaste.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_18_9"
+            },
+            {
+                "id": "d_counseling_soline_18_6",
+                "type": "Speech",
+                "text": "Well... it did end up tasting really nice actually...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_18_7",
+                "type": "Speech",
+                "text": "It was like brushing your teeth with candy.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_18_8",
+                "type": "Speech",
+                "text": "I can't complain.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_18_11"
+            },
+            {
+                "id": "d_counseling_soline_18_9",
+                "type": "Speech",
+                "text": "Hmmm. We don't have to go that far.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_18_10",
+                "type": "Speech",
+                "text": "And the taste actually wasn't half bad after all.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_18_11",
+                "type": "Narration",
+                "text": "I listen to Soline tell me more about the strawberry toothpaste incident.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_19_1",
+                "type": "Speech",
+                "text": "Commander, have you ever been in love?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_19_2",
+                "type": "Speech",
+                "text": "I was watching TV today, and there was a show about people trying to find love.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_19_3",
+                "type": "Speech",
+                "text": "So it made me curious.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_19_4",
+                "type": "Choice",
+                "text": "Of course, she's standing right in front of me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_19_6"
+            },
+            {
+                "id": "d_counseling_soline_19_5",
+                "type": "Choice",
+                "text": "Do you want to hear my love story?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_19_9"
+            },
+            {
+                "id": "d_counseling_soline_19_6",
+                "type": "Speech",
+                "text": "Hm? In front of Commander?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_19_7",
+                "type": "Speech",
+                "text": "W-wait for a second... me?! You're in love with me?",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_19_8",
+                "type": "Speech",
+                "text": "You better not be kidding around this time!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_19_12"
+            },
+            {
+                "id": "d_counseling_soline_19_9",
+                "type": "Speech",
+                "text": "NO!!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_19_10",
+                "type": "Speech",
+                "text": "I don't want to hear it. Don't say it. I don't need to hear this.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_19_11",
+                "type": "Speech",
+                "text": "I shouldn't have said anything...",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_19_12",
+                "type": "Narration",
+                "text": "Soline and I have a conversation about love.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_soline_20_1",
+                "type": "Speech",
+                "text": "It's such a pain cleaning the AZX. This isn't a one-woman job!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_20_2",
+                "type": "Speech",
+                "text": "I'd like to see Brid and Diesel try and do this on their own. Then they'd see how hard it is.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_20_3",
+                "type": "Choice",
+                "text": "Let's go on strike.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_soline_20_5"
+            },
+            {
+                "id": "d_counseling_soline_20_4",
+                "type": "Choice",
+                "text": "I'll help you with the cleaning.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_soline_20_7"
+            },
+            {
+                "id": "d_counseling_soline_20_5",
+                "type": "Speech",
+                "text": "I don't think that would change anything.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_20_6",
+                "type": "Speech",
+                "text": "Not to mention that Diesel that Brid are even busier than I am.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": "d_counseling_soline_20_10"
+            },
+            {
+                "id": "d_counseling_soline_20_7",
+                "type": "Speech",
+                "text": "Really? You better not change your mind!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_20_8",
+                "type": "Speech",
+                "text": "I was planning on getting back to it in a moment.",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_20_9",
+                "type": "Speech",
+                "text": "Good thing I brought this up with you, Commander!",
+                "speaker": "Soline",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_soline_20_10",
+                "type": "Narration",
+                "text": "I cleaned the AZX with Soline.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

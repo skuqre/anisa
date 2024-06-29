@@ -1,0 +1,2357 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_snowwhite_young_01_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_2",
+                "type": "Narration",
+                "text": "She concentrates on polishing her weapon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_3",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_4",
+                "type": "Choice",
+                "text": "What's this? A new toy?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_01_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_5",
+                "type": "Choice",
+                "text": "Cool weapon.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_01_8"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_6",
+                "type": "Speech",
+                "text": "It's not a toy!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_7",
+                "type": "Speech",
+                "text": "Go away, Commander!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_01_15"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_8",
+                "type": "Speech",
+                "text": "Huh...?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_9",
+                "type": "Speech",
+                "text": "How did you know?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_10",
+                "type": "Speech",
+                "text": "Yeah, it's a modified...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_11",
+                "type": "Self",
+                "text": "What's that other thing beside you? Some kind of toy?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_12",
+                "type": "Speech",
+                "text": "Oh, this?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_13",
+                "type": "Speech",
+                "text": "It's a pistol, not a toy!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_14",
+                "type": "Speech",
+                "text": "If you've come here just to tease me again, you can leave.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_01_15"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_15",
+                "type": "Narration",
+                "text": "*Bang*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_01_16",
+                "type": "Self",
+                "text": "I guess people are right when they say teens are temperamental.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_02_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_2",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_3",
+                "type": "Speech",
+                "text": "how can I become as strong as Lilith?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_4",
+                "type": "Choice",
+                "text": "That's something you must figure out for yourself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_02_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_5",
+                "type": "Choice",
+                "text": "Have you not gotten enough sleep or something?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_02_9"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_6",
+                "type": "Speech",
+                "text": "Oh, okay...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_7",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_8",
+                "type": "Speech",
+                "text": "I'll try my best.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_02_12"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_9",
+                "type": "Speech",
+                "text": "There you go again, treating me like a child!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_10",
+                "type": "Speech",
+                "text": "You just wait and see,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_11",
+                "type": "Speech",
+                "text": "I'll become stronger for sure!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_02_12"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_02_12",
+                "type": "Narration",
+                "text": "Snow White storms off into her room and spends some time alone thinking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_03_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_2",
+                "type": "Speech",
+                "text": "Commander...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_3",
+                "type": "Self",
+                "text": "Yes?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_4",
+                "type": "Speech",
+                "text": "What are you eating?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_5",
+                "type": "Self",
+                "text": "Oh, this?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_6",
+                "type": "Choice",
+                "text": "Share snack with Snow White.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_03_8"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_7",
+                "type": "Choice",
+                "text": "Pretend to share snack with Snow White.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_03_12"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_8",
+                "type": "Self",
+                "text": "Have some.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_9",
+                "type": "Speech",
+                "text": "Thanks!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_10",
+                "type": "Narration",
+                "text": "*Munch munch*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_11",
+                "type": "Speech",
+                "text": "It's delicious!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_03_19"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_12",
+                "type": "Self",
+                "text": "Here.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_13",
+                "type": "Speech",
+                "text": "Thanks.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_14",
+                "type": "Narration",
+                "text": "*Yoink*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_15",
+                "type": "Speech",
+                "text": "Huh...?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_16",
+                "type": "Narration",
+                "text": "After feigning that I'm going to share my snack with Snow White, I proceed to yank it back and eat it myself.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_17",
+                "type": "Self",
+                "text": "Ah, delicious.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_18",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_03_19"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_03_19",
+                "type": "Narration",
+                "text": "After getting the snack, Snow White goes back to her room happily.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_04_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_2",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_3",
+                "type": "Speech",
+                "text": "why does Red Hood always make fun of me?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_4",
+                "type": "Choice",
+                "text": "Because you're so cute.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_04_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_5",
+                "type": "Choice",
+                "text": "Because she considers you a good friend.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_04_10"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_7",
+                "type": "Speech",
+                "text": "That's just a nice way of saying she considers me a child, isn't it?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_8",
+                "type": "Self",
+                "text": "How did you know?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_9",
+                "type": "Speech",
+                "text": "How could I not? It's so obvious.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_04_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_10",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_11",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_12",
+                "type": "Speech",
+                "text": "She's always pranking me because she's fond of me.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_13",
+                "type": "Speech",
+                "text": "Thanks for letting me know, Commander.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_04_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_04_14",
+                "type": "Narration",
+                "text": "Snow White turns to head back to her room, and is promptly put into a headlock by Red Hood.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_05_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_2",
+                "type": "Speech",
+                "text": "Commander, Red Hood told me the nudie mag she has",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_3",
+                "type": "Speech",
+                "text": "was a gift from you.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_4",
+                "type": "Speech",
+                "text": "Is that true?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_5",
+                "type": "Choice",
+                "text": "Not at all.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_05_7"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_6",
+                "type": "Choice",
+                "text": "Yes, it's true.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_05_10"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_7",
+                "type": "Speech",
+                "text": "I knew it.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_8",
+                "type": "Speech",
+                "text": "You wouldn't be caught dead with that kind of reading material.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_9",
+                "type": "Speech",
+                "text": "I'm glad my hunch was correct.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_05_15"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_10",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_11",
+                "type": "Speech",
+                "text": "For real?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_12",
+                "type": "Self",
+                "text": "Just kidding. She's lying.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_13",
+                "type": "Speech",
+                "text": "I knew it!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_14",
+                "type": "Speech",
+                "text": "What a relief.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_05_15"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_05_15",
+                "type": "Narration",
+                "text": "Snow White returns to her room, thoroughly reassured.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_06_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_2",
+                "type": "Speech",
+                "text": "Scarlet's sword is amazing.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_3",
+                "type": "Speech",
+                "text": "Sometimes, it looks as though it has a life of its own.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_4",
+                "type": "Choice",
+                "text": "You didn't know? It is alive.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_06_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_5",
+                "type": "Choice",
+                "text": "Perhaps because she wields it with such passion.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_06_9"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_6",
+                "type": "Speech",
+                "text": "\"Gee willikers, no kidding!\"",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_7",
+                "type": "Speech",
+                "text": "...Is that what you expected me to say?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_8",
+                "type": "Speech",
+                "text": "I'm not as gullible as you think, Commander.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_06_13"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_9",
+                "type": "Speech",
+                "text": "Right...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_10",
+                "type": "Speech",
+                "text": "I think Scarlet said something like that before.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_11",
+                "type": "Speech",
+                "text": "It's a good thing I asked you, hehe.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_12",
+                "type": "Speech",
+                "text": "Thanks.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_06_13"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_06_13",
+                "type": "Narration",
+                "text": "After returning to her room, Snow White decides to delve seriously into swords again.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_07_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_2",
+                "type": "Speech",
+                "text": "Dorothy always seems hard to approach.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_3",
+                "type": "Speech",
+                "text": "Do you get the same feeling, Commander?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_4",
+                "type": "Choice",
+                "text": "Yeah, she can be a bit standoffish.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_07_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_5",
+                "type": "Choice",
+                "text": "Hmm...is she? I've never felt anything like that.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_07_9"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_6",
+                "type": "Speech",
+                "text": "I wouldn't go as far as saying \"standoffish\", but...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_7",
+                "type": "Speech",
+                "text": "How should I put it...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_8",
+                "type": "Speech",
+                "text": "She's a bit like you when you get upset.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_07_12"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_9",
+                "type": "Speech",
+                "text": "... Right, I nearly forgot.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_10",
+                "type": "Speech",
+                "text": "You can make friends with everyone so easily.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_11",
+                "type": "Speech",
+                "text": "I suppose that would make you approachable.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_07_12"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_12",
+                "type": "Self",
+                "text": "Why does it feel like there's a hidden meaning there...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_07_13",
+                "type": "Narration",
+                "text": "Even after Snow White returns to her room, she continues to think about Dorothy's temperament.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_08_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_2",
+                "type": "Speech",
+                "text": "Rapunzel has been acting a little strange lately.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_3",
+                "type": "Speech",
+                "text": "She'll breathe all heavily, and her face turns beet red.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_4",
+                "type": "Speech",
+                "text": "What's going on with her?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_5",
+                "type": "Choice",
+                "text": "I think she's gotten addicted to that nudie mag.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_08_7"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_6",
+                "type": "Choice",
+                "text": "She's attempting mightily to be reborn as a true saint, so she needs all the help you can give her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_08_11"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_7",
+                "type": "Speech",
+                "text": "?!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_8",
+                "type": "Speech",
+                "text": "I can't believe she'd become addicted to such smut!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_9",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_10",
+                "type": "Speech",
+                "text": "Could it be because of Red Hood?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_08_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_11",
+                "type": "Speech",
+                "text": "A true saint?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_12",
+                "type": "Speech",
+                "text": "... Wow, amazing.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_13",
+                "type": "Speech",
+                "text": "So that's what you have to go through to achieve sainthood?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_08_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_08_14",
+                "type": "Narration",
+                "text": "In the end, Snow White doesn't get a satisfactory answer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_09_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_2",
+                "type": "Speech",
+                "text": "I want to become as mature as Lilith.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_3",
+                "type": "Speech",
+                "text": "That way, I'll be able to get back at Red Hood whenever she teases me.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_4",
+                "type": "Choice",
+                "text": "I don't think being mature has anything to do with it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_09_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_5",
+                "type": "Choice",
+                "text": "Sorry to tell you, but I don't think it's possible for you to ever become like Lilith.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_09_11"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_6",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_7",
+                "type": "Speech",
+                "text": "Oh, I get it!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_8",
+                "type": "Speech",
+                "text": "You're saying I can get back at Red Hood whenever I want!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_9",
+                "type": "Speech",
+                "text": "Hehe, thanks, Commander!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_10",
+                "type": "Speech",
+                "text": "I'll think of something.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_09_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_12",
+                "type": "Speech",
+                "text": "You didn't have to rub it in my face, you know.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_13",
+                "type": "Speech",
+                "text": "You're worse than Red Hood sometimes.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_09_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_14",
+                "type": "Self",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_09_15",
+                "type": "Narration",
+                "text": "Snow White storms off, leaving me behind, slightly hurt and bewildered.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_10_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_2",
+                "type": "Speech",
+                "text": "Ugh, Commander.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_3",
+                "type": "Speech",
+                "text": "Could you please have a word with Scarlet and Dorothy?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_4",
+                "type": "Speech",
+                "text": "They had another squabble today and made a total mess of the barracks.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_5",
+                "type": "Choice",
+                "text": "Okay, but just one word, no more.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_10_7"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_6",
+                "type": "Choice",
+                "text": "Okay, I'll tell them to behave.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_10_11"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_8",
+                "type": "Self",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_10",
+                "type": "Self",
+                "text": "You don't have to look at me like you want to squash me under your bootheel...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_10_16"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_11",
+                "type": "Speech",
+                "text": "Wow...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_12",
+                "type": "Self",
+                "text": "What?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_13",
+                "type": "Speech",
+                "text": "Uh... Nothing. Thanks.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_14",
+                "type": "Self",
+                "text": "...?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_15",
+                "type": "Speech",
+                "text": "It's just that I thought you'd brush me off again, but you didn't.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_10_16"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_10_16",
+                "type": "Narration",
+                "text": "Snow White hurries back to her room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_11_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_2",
+                "type": "Speech",
+                "text": "If there's any kind of weapon that you need,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_3",
+                "type": "Speech",
+                "text": "just let me know,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_4",
+                "type": "Speech",
+                "text": "and I can make it for you.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_5",
+                "type": "Choice",
+                "text": "I don't need anything as long as I have you protecting me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_11_7"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_6",
+                "type": "Choice",
+                "text": "It's okay, what I have right now suits me just fine.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_11_11"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_7",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_8",
+                "type": "Speech",
+                "text": "Well, of course I'll always protect you.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_9",
+                "type": "Speech",
+                "text": "But I may not always be around,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_10",
+                "type": "Speech",
+                "text": "so all the same, feel free to tell me if you need anything crafted.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_11_16"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_11",
+                "type": "Speech",
+                "text": "I've had a look at your current loadout,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_12",
+                "type": "Speech",
+                "text": "and it's seen better days.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_13",
+                "type": "Speech",
+                "text": "You really should let me craft a new one for you,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_14",
+                "type": "Speech",
+                "text": "or at least let me refurbish your current arsenal.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_15",
+                "type": "Speech",
+                "text": "Is that okay?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_11_16"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_11_16",
+                "type": "Narration",
+                "text": "After some quibbling back and forth, I finally relent, and Snow White leaves content with the outcome.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_12_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_2",
+                "type": "Speech",
+                "text": "What do you usually do when you've got some time to rest, Commander?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_3",
+                "type": "Choice",
+                "text": "I take a rest, literally.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_12_5"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_4",
+                "type": "Choice",
+                "text": "Take a guess.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_12_10"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_5",
+                "type": "Speech",
+                "text": "Makes sense.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_6",
+                "type": "Speech",
+                "text": "Sufficient rest is imperative for a healthy body and mind.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_7",
+                "type": "Self",
+                "text": "Exactly, so you should go to bed at a reasonable hour instead of staying up all night polishing your weapon.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_8",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_9",
+                "type": "Speech",
+                "text": "How did you know?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_12_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_10",
+                "type": "Speech",
+                "text": "Hmm... I think you...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_11",
+                "type": "Speech",
+                "text": "Meditate?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_12",
+                "type": "Self",
+                "text": "That's correct.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_13",
+                "type": "Speech",
+                "text": "You're not just saying that, are you?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_12_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_12_14",
+                "type": "Narration",
+                "text": "Snow White goes back early to rest.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_13_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_2",
+                "type": "Speech",
+                "text": "If we reclaim the surface,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_3",
+                "type": "Speech",
+                "text": "what do you intend to do there?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_4",
+                "type": "Choice",
+                "text": "To be honest, I've never given it much thought.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_13_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_5",
+                "type": "Choice",
+                "text": "I suppose I'd go on an outing with all of you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_13_11"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_6",
+                "type": "Speech",
+                "text": "I thought that might be the case.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_7",
+                "type": "Self",
+                "text": "Do you have any suggestions?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_8",
+                "type": "Speech",
+                "text": "I...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_9",
+                "type": "Speech",
+                "text": "I want to go on a trip.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_10",
+                "type": "Speech",
+                "text": "With everyone else, I mean.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_13_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_11",
+                "type": "Speech",
+                "text": "You mean like a trip?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_12",
+                "type": "Speech",
+                "text": "That'd be nice.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_13",
+                "type": "Speech",
+                "text": "I'd love to go with you!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_13_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_13_14",
+                "type": "Narration",
+                "text": "Back in her room, Snow White daydreams of reclaiming the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_14_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_2",
+                "type": "Speech",
+                "text": "Commander, do you cherish old stuff of yours more?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_3",
+                "type": "Choice",
+                "text": "They do have their own unique charm.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_14_5"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_4",
+                "type": "Choice",
+                "text": "No, I have no attachment to old things.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_14_8"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_5",
+                "type": "Speech",
+                "text": "Red Hood said the same thing.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_6",
+                "type": "Speech",
+                "text": "You two really do have a lot in common,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_7",
+                "type": "Speech",
+                "text": "even down to the fact that you both talk super loudly.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_14_10"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_8",
+                "type": "Speech",
+                "text": "Oh, that's surprising.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_9",
+                "type": "Speech",
+                "text": "I thought for sure that you'd say you did.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_14_10"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_14_10",
+                "type": "Narration",
+                "text": "Our conversation is interrupted by Lilith, who comes in to notify us about mealtime.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_15_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_2",
+                "type": "Speech",
+                "text": "Why don't Scarlet and Dorothy get along?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_3",
+                "type": "Speech",
+                "text": "They're always at each others' throats whenever they're in the same room.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_4",
+                "type": "Choice",
+                "text": "Maybe they were enemies in a past life.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_15_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_5",
+                "type": "Choice",
+                "text": "Maybe that's just their way of showing affection.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_15_10"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_6",
+                "type": "Speech",
+                "text": "... Do Nikkes have past lives, too?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_7",
+                "type": "Self",
+                "text": "I think so... maybe?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_8",
+                "type": "Speech",
+                "text": "You just made that up, didn't you?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_9",
+                "type": "Speech",
+                "text": "Ugh. Why do I even bother?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_15_13"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_10",
+                "type": "Speech",
+                "text": "I don't know about that.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_11",
+                "type": "Speech",
+                "text": "Some of their fights have gotten so bad that I was worried one of them might end up dead.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_12",
+                "type": "Speech",
+                "text": "But still, they are squadmates. Maybe you're right.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_15_13"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_15_13",
+                "type": "Narration",
+                "text": "Later that day, Snow White once again spends time breaking up yet another altercation between Scarlet and Dorothy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_16_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_2",
+                "type": "Speech",
+                "text": "Commander, what kind of weather do you prefer?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_3",
+                "type": "Speech",
+                "text": "Sunny or cloudy?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_4",
+                "type": "Choice",
+                "text": "Neither.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_16_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_5",
+                "type": "Choice",
+                "text": "I actually prefer snowy days.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_16_10"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_6",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_7",
+                "type": "Speech",
+                "text": "So what do you like?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_8",
+                "type": "Self",
+                "text": "It's a secret.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_9",
+                "type": "Speech",
+                "text": "Aw, come on! That's not nice.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_16_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_10",
+                "type": "Speech",
+                "text": "So your favorite weather involves snow? How unique...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_11",
+                "type": "Speech",
+                "text": "Wait...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_12",
+                "type": "Speech",
+                "text": "Why are you staring at me like that?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_13",
+                "type": "Speech",
+                "text": "What is it?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_16_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_16_14",
+                "type": "Narration",
+                "text": "That night, for some reason, Snow White finds herself unable to sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_17_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_2",
+                "type": "Speech",
+                "text": "Sometimes I have nightmares at night.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_3",
+                "type": "Speech",
+                "text": "I dream that everyone has disappeared and I've been left all alone.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_4",
+                "type": "Choice",
+                "text": "How about I sleep next to you tonight?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_17_6"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_5",
+                "type": "Choice",
+                "text": "It's all just a dream, nothing more.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_17_10"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_6",
+                "type": "Speech",
+                "text": "W-what are you saying?!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_8",
+                "type": "Speech",
+                "text": "That won't be necessary.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_9",
+                "type": "Speech",
+                "text": "Sorry, but can we take a small break?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_17_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_10",
+                "type": "Speech",
+                "text": "I know that,",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_11",
+                "type": "Speech",
+                "text": "but they were so vivid...it all felt so real.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_12",
+                "type": "Speech",
+                "text": "Fortunately, they only last for a while.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_13",
+                "type": "Speech",
+                "text": "Anyway, I'm going to take a short break.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_17_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_17_14",
+                "type": "Narration",
+                "text": "Snow White falls asleep almost immediately.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_18_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_2",
+                "type": "Speech",
+                "text": "Hello, Commander.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_3",
+                "type": "Narration",
+                "text": "Snow White is holding a steaming potato.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_4",
+                "type": "Speech",
+                "text": "Would you like to share this potato?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_5",
+                "type": "Choice",
+                "text": "I'm good. It's all yours.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_18_7"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_6",
+                "type": "Choice",
+                "text": "Okay then, just a little bite.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_18_9"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_7",
+                "type": "Speech",
+                "text": "Hehe, thanks.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_8",
+                "type": "Speech",
+                "text": "I'm famished. I could eat several of these.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_18_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_9",
+                "type": "Speech",
+                "text": "Okay, here you go.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_10",
+                "type": "Narration",
+                "text": "*Chomp*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_11",
+                "type": "Speech",
+                "text": "Hey, you call that a bite?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_12",
+                "type": "Speech",
+                "text": "You nearly ate the whole thing!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_13",
+                "type": "Speech",
+                "text": "Give it back!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_18_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_18_14",
+                "type": "Narration",
+                "text": "Snow White, still hungry, sets out to forage for other food.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_19_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_2",
+                "type": "Narration",
+                "text": "She is sleeping.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_3",
+                "type": "Choice",
+                "text": "Wake her up by poking her cheek.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_19_5"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_4",
+                "type": "Choice",
+                "text": "Wake her up by tickling her nose.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_19_12"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_5",
+                "type": "Narration",
+                "text": "*Poke*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_6",
+                "type": "Speech",
+                "text": "Mmm...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_7",
+                "type": "Narration",
+                "text": "*Poke poke*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_8",
+                "type": "Speech",
+                "text": "Mmm...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_9",
+                "type": "Speech",
+                "text": "?!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_10",
+                "type": "Speech",
+                "text": "Oh jeez, I must have fallen asleep while polishing my weapons.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_11",
+                "type": "Speech",
+                "text": "Thanks for waking me up, Commander.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_19_19"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_12",
+                "type": "Narration",
+                "text": "*Tickle*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_13",
+                "type": "Speech",
+                "text": "Mmm...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_14",
+                "type": "Narration",
+                "text": "*Tickle tickle*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_15",
+                "type": "Speech",
+                "text": "Achoo!",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_16",
+                "type": "Speech",
+                "text": "... Hmm? Commander?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_17",
+                "type": "Speech",
+                "text": "Is it raining outside?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_18",
+                "type": "Speech",
+                "text": "Why are you so wet?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_19_19"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_19_19",
+                "type": "Narration",
+                "text": "Snow White goes back to her room and sleeps soundly that night.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_snowwhite_young_20_1",
+                "type": "Narration",
+                "text": "Snow White closes her eyes and recalls the past, which has become a blur.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_2",
+                "type": "Speech",
+                "text": "Do you have any hobbies, Commander?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_3",
+                "type": "Speech",
+                "text": "Or something that you enjoy doing?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_4",
+                "type": "Speech",
+                "text": "Kind of like me with crafting weapons.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_5",
+                "type": "Choice",
+                "text": "Honestly, I'm a big fan of times like these. What we're doing right now.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_snowwhite_young_20_7"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_6",
+                "type": "Choice",
+                "text": "Nothing in particular, I'm afraid.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_snowwhite_young_20_11"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_7",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_9",
+                "type": "Speech",
+                "text": "Me too. Well, at least I certainly don't find it unpleasant...",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_10",
+                "type": "Speech",
+                "text": "Times like these, that is.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_20_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_11",
+                "type": "Speech",
+                "text": "Same old answer.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_12",
+                "type": "Speech",
+                "text": "Anyway, would you like some mints?",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_13",
+                "type": "Speech",
+                "text": "You yelled a whole bunch during the meeting earlier.",
+                "speaker": "Snow White",
+                "points": null,
+                "jumpTo": "d_counseling_snowwhite_young_20_14"
+            },
+            {
+                "id": "d_counseling_snowwhite_young_20_14",
+                "type": "Narration",
+                "text": "Snow White proceeds to have an ordinary day like any other.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,1861 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_delta_01_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_01_2",
+                "type": "Speech",
+                "text": "I heard your schedule has been exhausting lately.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_01_3",
+                "type": "Speech",
+                "text": "Take this opportunity to get some rest and relaxation at the Outpost.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_01_4",
+                "type": "Choice",
+                "text": "Thank you. I'll get some rest.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_01_6"
+            },
+            {
+                "id": "d_counseling_delta_01_5",
+                "type": "Choice",
+                "text": "I'm afraid not. No way I'm letting my guard down.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_01_9"
+            },
+            {
+                "id": "d_counseling_delta_01_6",
+                "type": "Speech",
+                "text": "I knew it.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_01_7",
+                "type": "Speech",
+                "text": "You are not taking the mission seriously enough.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_01_8",
+                "type": "Speech",
+                "text": "I must do a better job of training you to stay focused.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_01_12"
+            },
+            {
+                "id": "d_counseling_delta_01_9",
+                "type": "Speech",
+                "text": "... Good.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_01_10",
+                "type": "Speech",
+                "text": "In wartime, letting your guard down is no different from surrender.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_01_11",
+                "type": "Speech",
+                "text": "Our training continues tomorrow.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_01_12",
+                "type": "Narration",
+                "text": "I talk with Delta about training.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_02_1",
+                "type": "Speech",
+                "text": "Lately,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_02_2",
+                "type": "Speech",
+                "text": "I am worried that I have been too harsh when talking to Signal.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_02_3",
+                "type": "Choice",
+                "text": "I don't think so. You sound warm and kind.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_02_5"
+            },
+            {
+                "id": "d_counseling_delta_02_4",
+                "type": "Choice",
+                "text": "You really should treat Signal better.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_02_8"
+            },
+            {
+                "id": "d_counseling_delta_02_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_02_6",
+                "type": "Speech",
+                "text": "Incorrect.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_02_7",
+                "type": "Speech",
+                "text": "No need to comfort me with lies.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_02_10"
+            },
+            {
+                "id": "d_counseling_delta_02_8",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_02_9",
+                "type": "Speech",
+                "text": "Thank you for your sincere feedback.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_02_10",
+                "type": "Narration",
+                "text": "I talk with Delta about Signal.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_03_1",
+                "type": "Speech",
+                "text": "What kind of food do you prefer?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_03_2",
+                "type": "Speech",
+                "text": "Spicy, or not spicy?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_03_3",
+                "type": "Choice",
+                "text": "In war, any food will do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_03_5"
+            },
+            {
+                "id": "d_counseling_delta_03_4",
+                "type": "Choice",
+                "text": "Not spicy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_03_9"
+            },
+            {
+                "id": "d_counseling_delta_03_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_03_6",
+                "type": "Speech",
+                "text": "That is correct, Commander.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_03_7",
+                "type": "Speech",
+                "text": "Rations are a valuable resource in war.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_03_8",
+                "type": "Speech",
+                "text": "This is the only opinion that matters.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_03_12"
+            },
+            {
+                "id": "d_counseling_delta_03_9",
+                "type": "Speech",
+                "text": "... Is that so?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_03_10",
+                "type": "Speech",
+                "text": "Your answer is spoken without great conviction.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_03_11",
+                "type": "Speech",
+                "text": "Yet, I still choose to believe you.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_03_12",
+                "type": "Narration",
+                "text": "I talk with Delta about our favorite foods.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_04_1",
+                "type": "Speech",
+                "text": "Seraphim advised me to get some rest,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_04_2",
+                "type": "Speech",
+                "text": "but all I want to do is train.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_04_3",
+                "type": "Speech",
+                "text": "What is the correct course of action?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_04_4",
+                "type": "Choice",
+                "text": "Take the effort you would have put into rest and put it into training.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_04_6"
+            },
+            {
+                "id": "d_counseling_delta_04_5",
+                "type": "Choice",
+                "text": "Follow Seraphim's advice.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_04_8"
+            },
+            {
+                "id": "d_counseling_delta_04_6",
+                "type": "Speech",
+                "text": "I had not considered this approach!",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_04_7",
+                "type": "Speech",
+                "text": "I will give your proposal careful consideration.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_04_12"
+            },
+            {
+                "id": "d_counseling_delta_04_8",
+                "type": "Speech",
+                "text": "Is that your official opinion, Commander?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_04_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_04_10",
+                "type": "Speech",
+                "text": "Apologies. I cannot neglect my training.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_04_11",
+                "type": "Speech",
+                "text": "I must consider alternative solutions.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_04_12",
+                "type": "Narration",
+                "text": "I talk with Delta about taking breaks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_05_1",
+                "type": "Speech",
+                "text": "Commander, do you have a type?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_05_2",
+                "type": "Choice",
+                "text": "Why do you ask?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_05_4"
+            },
+            {
+                "id": "d_counseling_delta_05_3",
+                "type": "Choice",
+                "text": "I like people who work hard for themselves.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_05_7"
+            },
+            {
+                "id": "d_counseling_delta_05_4",
+                "type": "Speech",
+                "text": "Answering a question with a question is considered impolite, Commander.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_05_5",
+                "type": "Speech",
+                "text": "I ask because I infer that many of the Nikkes are curious about what you like.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_05_6",
+                "type": "Speech",
+                "text": "But if you don't have one, that is also an acceptable answer.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_05_10"
+            },
+            {
+                "id": "d_counseling_delta_05_7",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_05_8",
+                "type": "Speech",
+                "text": "Hard work... an admirable answer.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_05_9",
+                "type": "Speech",
+                "text": "When the Nikkes hear this, I believe it will motivate them to better themselves.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_05_10",
+                "type": "Narration",
+                "text": "I have a serious conversation about types with Delta.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_06_1",
+                "type": "Speech",
+                "text": "Someone asked me about my hobbies. I said my hobby is training.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_06_2",
+                "type": "Speech",
+                "text": "They thought it was a joke.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_06_3",
+                "type": "Speech",
+                "text": "Is it funny to treat training as a hobby?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_06_4",
+                "type": "Choice",
+                "text": "Nothing could be more serious than training.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_06_6"
+            },
+            {
+                "id": "d_counseling_delta_06_5",
+                "type": "Choice",
+                "text": "Maybe they just thought your answer was unusual.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_06_8"
+            },
+            {
+                "id": "d_counseling_delta_06_6",
+                "type": "Speech",
+                "text": "I am happy that you think so.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_06_7",
+                "type": "Speech",
+                "text": "Yet, you did not answer my question.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_06_11"
+            },
+            {
+                "id": "d_counseling_delta_06_8",
+                "type": "Speech",
+                "text": "I cannot understand what is unusual about my answer.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_06_9",
+                "type": "Speech",
+                "text": "However, your reply has given me a clue about how others see me.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_06_10",
+                "type": "Speech",
+                "text": "Thank you for your advice.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_06_11",
+                "type": "Narration",
+                "text": "I have a conversation with Delta about hobbies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_07_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_07_2",
+                "type": "Speech",
+                "text": "What goes through your mind during battle?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_07_3",
+                "type": "Choice",
+                "text": "I'm thinking about how to save everyone.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_07_5"
+            },
+            {
+                "id": "d_counseling_delta_07_4",
+                "type": "Choice",
+                "text": "I'm thinking about how to win.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_07_9"
+            },
+            {
+                "id": "d_counseling_delta_07_5",
+                "type": "Speech",
+                "text": "Save... everyone?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_07_6",
+                "type": "Speech",
+                "text": "What a naive and arrogant answer.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_07_7",
+                "type": "Speech",
+                "text": "But,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_07_8",
+                "type": "Speech",
+                "text": "I honestly appreciate your concern.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_07_11"
+            },
+            {
+                "id": "d_counseling_delta_07_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_07_10",
+                "type": "Speech",
+                "text": "Of course. That is the only possible answer.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_07_11",
+                "type": "Narration",
+                "text": "I have a conversation with Delta about thoughts during battle.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_08_1",
+                "type": "Speech",
+                "text": "I've heard that music can bring you inner peace.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_08_2",
+                "type": "Speech",
+                "text": "Could you recommend some music?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_08_3",
+                "type": "Choice",
+                "text": "Julia's violin performance.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_08_5"
+            },
+            {
+                "id": "d_counseling_delta_08_4",
+                "type": "Choice",
+                "text": "Military anthems.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_08_7"
+            },
+            {
+                "id": "d_counseling_delta_08_5",
+                "type": "Speech",
+                "text": "Hm... Her music does exhibit calming effects.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_08_6",
+                "type": "Speech",
+                "text": "However, I do not enjoy it. I do not know why.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_08_11"
+            },
+            {
+                "id": "d_counseling_delta_08_7",
+                "type": "Speech",
+                "text": "The purpose of a military anthem is not to create inner peace.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_08_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_08_9",
+                "type": "Speech",
+                "text": "But, in my case, perhaps it would work perfectly.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_08_10",
+                "type": "Speech",
+                "text": "Thank you for your advice.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_08_11",
+                "type": "Narration",
+                "text": "I have a conversation with Delta about music for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_09_1",
+                "type": "Speech",
+                "text": "Signal invited me to the Royal Road today,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_09_2",
+                "type": "Speech",
+                "text": "but I never feel at ease in that kind of place.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_09_3",
+                "type": "Speech",
+                "text": "How should I decline her offer?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_09_4",
+                "type": "Choice",
+                "text": "Just tell her you'll be training.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_09_6"
+            },
+            {
+                "id": "d_counseling_delta_09_5",
+                "type": "Choice",
+                "text": "Think of it as team building.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_09_8"
+            },
+            {
+                "id": "d_counseling_delta_09_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_09_7",
+                "type": "Speech",
+                "text": "I thought you would at least give me a well-considered answer.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_09_11"
+            },
+            {
+                "id": "d_counseling_delta_09_8",
+                "type": "Speech",
+                "text": "Team building...",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_09_9",
+                "type": "Speech",
+                "text": "Fine. If I see it as a mission with an objective, I can accept it.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_09_10",
+                "type": "Speech",
+                "text": "Thank you for your advice.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_09_11",
+                "type": "Narration",
+                "text": "Delta and I discuss ways to adapt to Royal Road.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_10_1",
+                "type": "Speech",
+                "text": "Someone once told me,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_2",
+                "type": "Speech",
+                "text": "I live my life like there is no future.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_3",
+                "type": "Speech",
+                "text": "I suppose it is true. I have never considered the future.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_4",
+                "type": "Speech",
+                "text": "Do you ever think about it, Commander?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_5",
+                "type": "Choice",
+                "text": "No. I live in the moment.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_10_7"
+            },
+            {
+                "id": "d_counseling_delta_10_6",
+                "type": "Choice",
+                "text": "All the time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_10_11"
+            },
+            {
+                "id": "d_counseling_delta_10_7",
+                "type": "Speech",
+                "text": "Is that so, Commander?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_8",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_9",
+                "type": "Speech",
+                "text": "I want to live my life to the fullest, not waste it longing for a distant future.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_10",
+                "type": "Speech",
+                "text": "It suits me better.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_10_15"
+            },
+            {
+                "id": "d_counseling_delta_10_11",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_12",
+                "type": "Speech",
+                "text": "I agree that it is good to hold a dream in your heart, but...",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_13",
+                "type": "Speech",
+                "text": "If you think too much about the future,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_14",
+                "type": "Speech",
+                "text": "you will feel miserable in the present. I hope you will take this into consideration.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_10_15",
+                "type": "Narration",
+                "text": "I have a deep discussion about the present and the future with Delta.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_11_1",
+                "type": "Speech",
+                "text": "I don't invest in anything unless it truly impresses me.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_11_2",
+                "type": "Speech",
+                "text": "That's why I think Signal is awesome.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_11_3",
+                "type": "Speech",
+                "text": "What are you willing to invest your time and money into?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_11_4",
+                "type": "Choice",
+                "text": "Something that piques my interest.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_11_6"
+            },
+            {
+                "id": "d_counseling_delta_11_5",
+                "type": "Choice",
+                "text": "Someone that piques my interest.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_11_9"
+            },
+            {
+                "id": "d_counseling_delta_11_6",
+                "type": "Speech",
+                "text": "You don't say...",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_11_7",
+                "type": "Speech",
+                "text": "As for me, my interests lie in work-related tasks and training.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_11_8",
+                "type": "Speech",
+                "text": "It's hard for me to imagine being interested in much else.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_11_12"
+            },
+            {
+                "id": "d_counseling_delta_11_9",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_11_10",
+                "type": "Speech",
+                "text": "Is that something that you make a habit of doing?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_11_11",
+                "type": "Speech",
+                "text": "Very well then, I'll try to invest in you a little more, Commander.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_11_12",
+                "type": "Narration",
+                "text": "Delta and I invest our time and energy into having a discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_12_1",
+                "type": "Speech",
+                "text": "I think it's important to set personal goals for yourself.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_12_2",
+                "type": "Speech",
+                "text": "What are you setting out to accomplish this year, Commander?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_12_3",
+                "type": "Choice",
+                "text": "To just get through it alive.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_12_5"
+            },
+            {
+                "id": "d_counseling_delta_12_4",
+                "type": "Choice",
+                "text": "To reclaim the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_12_8"
+            },
+            {
+                "id": "d_counseling_delta_12_5",
+                "type": "Speech",
+                "text": "Sure, keeping yourself out of harm's way is important,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_12_6",
+                "type": "Speech",
+                "text": "but I thought someone like you",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_12_7",
+                "type": "Speech",
+                "text": "would have set a more defined goal for themselves.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_12_11"
+            },
+            {
+                "id": "d_counseling_delta_12_8",
+                "type": "Speech",
+                "text": "I thought you would say that.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_12_9",
+                "type": "Speech",
+                "text": "I myself aspire to the same goal.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_12_10",
+                "type": "Speech",
+                "text": "I will do everything I can to make it happen.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_12_11",
+                "type": "Narration",
+                "text": "Delta and I promised each other that we would succeed with our goals.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_13_1",
+                "type": "Speech",
+                "text": "I've heard hobbies can be more enjoyable when done with other people.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_13_2",
+                "type": "Speech",
+                "text": "So I was thinking about picking up one of your hobbies, so we can share it.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_13_3",
+                "type": "Speech",
+                "text": "What are you setting out to accomplish this year, Commander?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_13_4",
+                "type": "Choice",
+                "text": "What pastimes do you often indulge in?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_13_6"
+            },
+            {
+                "id": "d_counseling_delta_13_5",
+                "type": "Choice",
+                "text": "Weapons research.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_13_9"
+            },
+            {
+                "id": "d_counseling_delta_13_6",
+                "type": "Speech",
+                "text": "As in, the mall and all of that?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_13_7",
+                "type": "Speech",
+                "text": "I'm not a very materialistic person, so I'm not sure whether that will suit me.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_13_8",
+                "type": "Speech",
+                "text": "Still, I'll give it a try.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_13_12"
+            },
+            {
+                "id": "d_counseling_delta_13_9",
+                "type": "Speech",
+                "text": "I didn't know you were so interested in weaponry.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_13_10",
+                "type": "Speech",
+                "text": "That's something I'd gladly participate in.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_13_11",
+                "type": "Speech",
+                "text": "Let me know the next time you're conducting any weapons research.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_13_12",
+                "type": "Narration",
+                "text": "Delta and I speak more on the topic of hobbies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_14_1",
+                "type": "Speech",
+                "text": "What would you do",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_14_2",
+                "type": "Speech",
+                "text": "if we fail to reclaim the surface and things merely remain as they are?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_14_3",
+                "type": "Choice",
+                "text": "I'd refuse to give up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_14_5"
+            },
+            {
+                "id": "d_counseling_delta_14_4",
+                "type": "Choice",
+                "text": "I would feel quite exasperated.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_14_7"
+            },
+            {
+                "id": "d_counseling_delta_14_5",
+                "type": "Speech",
+                "text": "As expected, you were never a quitter.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_14_6",
+                "type": "Speech",
+                "text": "No matter where this path we're on leads us, I'll follow you until the very end.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_14_11"
+            },
+            {
+                "id": "d_counseling_delta_14_7",
+                "type": "Speech",
+                "text": "If the days pass without any noticeable change,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_14_8",
+                "type": "Speech",
+                "text": "it will get to the best of us, even if it is you, Commander.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_14_9",
+                "type": "Speech",
+                "text": "But don't you worry",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_14_10",
+                "type": "Speech",
+                "text": "since I will never give up.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_14_11",
+                "type": "Narration",
+                "text": "Delta and I continue to have a conversation about the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_15_1",
+                "type": "Speech",
+                "text": "I've heard certain animals dance upon hearing compliments.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_15_2",
+                "type": "Speech",
+                "text": "If you received a compliment, what type of dance would you like to do?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_15_3",
+                "type": "Choice",
+                "text": "Shouldn't you be asking me what kind of compliment I'd want to hear instead?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_15_5"
+            },
+            {
+                "id": "d_counseling_delta_15_4",
+                "type": "Choice",
+                "text": "Popping and locking.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_15_8"
+            },
+            {
+                "id": "d_counseling_delta_15_5",
+                "type": "Speech",
+                "text": "Oh, is that what I should be focusing on?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_15_6",
+                "type": "Speech",
+                "text": "Actually, I just wanted to see you dance.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_15_7",
+                "type": "Speech",
+                "text": "All right then, what kind of compliment would you like to be given?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_15_10"
+            },
+            {
+                "id": "d_counseling_delta_15_8",
+                "type": "Speech",
+                "text": "I don't know what dance that is, but I'm sure it's great.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_15_9",
+                "type": "Speech",
+                "text": "I'll be sure to shower you with some compliments soon.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_15_10",
+                "type": "Narration",
+                "text": "Delta and I talk about the positive power of complimenting others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_16_1",
+                "type": "Speech",
+                "text": "Hey Commander, how are you feeling?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_16_2",
+                "type": "Choice",
+                "text": "Great.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_16_4"
+            },
+            {
+                "id": "d_counseling_delta_16_3",
+                "type": "Choice",
+                "text": "Not so good.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_16_8"
+            },
+            {
+                "id": "d_counseling_delta_16_4",
+                "type": "Speech",
+                "text": "You always keep yourself in tip-top shape.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_16_5",
+                "type": "Speech",
+                "text": "However, you are still human, so it's easy to overexert yourself.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_16_6",
+                "type": "Speech",
+                "text": "Therefore, you must continue to build up your stamina.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_16_7",
+                "type": "Speech",
+                "text": "Let's train together later.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_16_12"
+            },
+            {
+                "id": "d_counseling_delta_16_8",
+                "type": "Speech",
+                "text": "Have you not been taking good care of yourself?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_16_9",
+                "type": "Speech",
+                "text": "Although it's good not to have a lax attitude towards everything.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_16_10",
+                "type": "Speech",
+                "text": "it's just as important to rest whenever your body is telling you it doesn't feel well.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_16_11",
+                "type": "Speech",
+                "text": "You're not a Nikke, after all.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_16_12",
+                "type": "Narration",
+                "text": "Delta and I have a conversation about the health condition.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_17_1",
+                "type": "Speech",
+                "text": "I always end up making the same mistakes during training.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_2",
+                "type": "Speech",
+                "text": "I'm worried that I'll make the same mistake when out in the field.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_3",
+                "type": "Speech",
+                "text": "Do you have any advice for me?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_4",
+                "type": "Choice",
+                "text": "Trust yourself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_17_6"
+            },
+            {
+                "id": "d_counseling_delta_17_5",
+                "type": "Choice",
+                "text": "Trust me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_17_9"
+            },
+            {
+                "id": "d_counseling_delta_17_6",
+                "type": "Speech",
+                "text": "Because I keep repeating the same mistake,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_7",
+                "type": "Speech",
+                "text": "I end up questioning myself, when I should be trusting myself.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_8",
+                "type": "Speech",
+                "text": "... I apologize for being so weak.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_17_13"
+            },
+            {
+                "id": "d_counseling_delta_17_9",
+                "type": "Speech",
+                "text": "Very well...",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_10",
+                "type": "Speech",
+                "text": "Since you have trust in me, I will trust you.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_11",
+                "type": "Speech",
+                "text": "Thank you.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_12",
+                "type": "Monologue",
+                "text": "Suddenly, I feel a chill for some reason.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_17_13",
+                "type": "Narration",
+                "text": "Delta and I talk about the influence one's mindset can have.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_18_1",
+                "type": "Speech",
+                "text": "Do you think it's important how food tastes?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_18_2",
+                "type": "Choice",
+                "text": "Of course it is.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_18_4"
+            },
+            {
+                "id": "d_counseling_delta_18_3",
+                "type": "Choice",
+                "text": "No, it's not terribly important.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_18_7"
+            },
+            {
+                "id": "d_counseling_delta_18_4",
+                "type": "Speech",
+                "text": "I'm not so sure I agree.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_18_5",
+                "type": "Speech",
+                "text": "Of course, it's nice if the food you're eating tastes good,",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_18_6",
+                "type": "Speech",
+                "text": "but in times of war, more pressing matters take precedence.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_18_10"
+            },
+            {
+                "id": "d_counseling_delta_18_7",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_18_8",
+                "type": "Speech",
+                "text": "In times of war, we cannot afford the luxury of being so fussy about how our food tastes.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_18_9",
+                "type": "Speech",
+                "text": "So I'm thankful even to have prepackaged rations.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_18_10",
+                "type": "Narration",
+                "text": "Delta and I talk more about food and its taste.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_19_1",
+                "type": "Speech",
+                "text": "I'm considering letting the other Nikkes in the Outpost join in on our morning training.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_19_2",
+                "type": "Speech",
+                "text": "Could you please transmit a bugle call from the radio tower at approximately 6 AM?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_19_3",
+                "type": "Choice",
+                "text": "Private {AccountData.NickName}, reporting for duty!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_19_5"
+            },
+            {
+                "id": "d_counseling_delta_19_4",
+                "type": "Choice",
+                "text": "... I don't think that's such a good idea.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_19_8"
+            },
+            {
+                "id": "d_counseling_delta_19_5",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_19_6",
+                "type": "Speech",
+                "text": "You sound very convincing!",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_19_7",
+                "type": "Speech",
+                "text": "Will you be joining us in the morning as well?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_19_11"
+            },
+            {
+                "id": "d_counseling_delta_19_8",
+                "type": "Speech",
+                "text": "You don't think so?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_19_9",
+                "type": "Speech",
+                "text": "To be fair, even I was getting a little tired of the wake-up call.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_19_10",
+                "type": "Speech",
+                "text": "Any other recommendations as far as the music we can play to get people up and out of bed?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_19_11",
+                "type": "Narration",
+                "text": "Delta and I discuss what music would be best to wake up others in the morning.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_delta_20_1",
+                "type": "Speech",
+                "text": "These new Nikkes recruits have no discipline.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_20_2",
+                "type": "Speech",
+                "text": "What do you think, Commander?",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_20_3",
+                "type": "Choice",
+                "text": "We'd have never allowed such indolence back in my day.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_delta_20_5"
+            },
+            {
+                "id": "d_counseling_delta_20_4",
+                "type": "Choice",
+                "text": "Well, they're still just a bunch of greenhorns.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_delta_20_8"
+            },
+            {
+                "id": "d_counseling_delta_20_5",
+                "type": "Speech",
+                "text": "I couldn't agree more.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_20_6",
+                "type": "Speech",
+                "text": "We can't allow such a sad state of affairs to continue.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_20_7",
+                "type": "Speech",
+                "text": "I'll arrange for some special late-night training sessions.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": "d_counseling_delta_20_10"
+            },
+            {
+                "id": "d_counseling_delta_20_8",
+                "type": "Speech",
+                "text": "That's no excuse!",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_20_9",
+                "type": "Speech",
+                "text": "We must give them proper training so that they can work together down the line.",
+                "speaker": "Delta",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_delta_20_10",
+                "type": "Narration",
+                "text": "Delta and I reminisce about our days as new recruits back in the day.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

@@ -1,0 +1,1797 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_milk_01_1",
+                "type": "Speech",
+                "text": "Hey, Pal, how about sparring? You and me?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_01_2",
+                "type": "Speech",
+                "text": "Come on. For fun.\nYou're not chicken, are you?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_01_3",
+                "type": "Speech",
+                "text": "I promise I'll go easy on you.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_01_4",
+                "type": "Choice",
+                "text": "An amateur going easy on a pro?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_01_6"
+            },
+            {
+                "id": "d_counseling_milk_01_5",
+                "type": "Choice",
+                "text": "Please, be gentle with me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_01_8"
+            },
+            {
+                "id": "d_counseling_milk_01_6",
+                "type": "Speech",
+                "text": "Oooh! You seem confident.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_01_7",
+                "type": "Speech",
+                "text": "Get ready, then. I'll give you everything I've got!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_01_11"
+            },
+            {
+                "id": "d_counseling_milk_01_8",
+                "type": "Speech",
+                "text": "Mmm... Okay.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_01_9",
+                "type": "Speech",
+                "text": "You're more of a chicken than I thought, Pal.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_01_10",
+                "type": "Speech",
+                "text": "Really surprising.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_01_11",
+                "type": "Narration",
+                "text": "I spend time with Milk, sparring.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_02_1",
+                "type": "Speech",
+                "text": "Hey, you ever put milk in your coffee?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_02_2",
+                "type": "Speech",
+                "text": "What's your milk-to-coffee ratio?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_02_3",
+                "type": "Choice",
+                "text": "Milk 9, coffee 1.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_02_5"
+            },
+            {
+                "id": "d_counseling_milk_02_4",
+                "type": "Choice",
+                "text": "Milk 5, coffee 5.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_02_6"
+            },
+            {
+                "id": "d_counseling_milk_02_5",
+                "type": "Speech",
+                "text": "Can you even call that coffee?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_02_9"
+            },
+            {
+                "id": "d_counseling_milk_02_6",
+                "type": "Speech",
+                "text": "Right? That's the best ratio.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_02_7",
+                "type": "Speech",
+                "text": "I both like coffee and milk, so having it in equal parts is just right!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_02_8",
+                "type": "Speech",
+                "text": "That's my kind of coffee.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_02_9",
+                "type": "Narration",
+                "text": "I talk with Milk over some coffee.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_03_1",
+                "type": "Speech",
+                "text": "I love hand-to-hand combat, but nobody around here can match my muscle. It gets kinda lonely.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_03_2",
+                "type": "Speech",
+                "text": "You know of any worthy opponents?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_03_3",
+                "type": "Choice",
+                "text": "Milk.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_03_5"
+            },
+            {
+                "id": "d_counseling_milk_03_4",
+                "type": "Choice",
+                "text": "Sugar.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_03_8"
+            },
+            {
+                "id": "d_counseling_milk_03_5",
+                "type": "Speech",
+                "text": "Me?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_03_6",
+                "type": "Speech",
+                "text": "Hah! Right. The only worthy opponent is me. Makes sense.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_03_7",
+                "type": "Speech",
+                "text": "After all, I'm the best there is.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_03_11"
+            },
+            {
+                "id": "d_counseling_milk_03_8",
+                "type": "Speech",
+                "text": "Sugar?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_03_9",
+                "type": "Speech",
+                "text": "Do you know what she'd do if she got really fired up?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_03_10",
+                "type": "Speech",
+                "text": "She'd run me over with her bike.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_03_11",
+                "type": "Narration",
+                "text": "I study hand-to-hand combat with Milk.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_04_1",
+                "type": "Speech",
+                "text": "Sometimes, I get assignments where I have to scavenge really carefully.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_04_2",
+                "type": "Speech",
+                "text": "I hate them so much.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_04_3",
+                "type": "Speech",
+                "text": "Can't I just get requests where I get to destroy things?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_04_4",
+                "type": "Choice",
+                "text": "It's worth a shot.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_04_6"
+            },
+            {
+                "id": "d_counseling_milk_04_5",
+                "type": "Choice",
+                "text": "But you're a scavenger, not a destroyer.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_04_10"
+            },
+            {
+                "id": "d_counseling_milk_04_6",
+                "type": "Speech",
+                "text": "Oh! So you think I should give it a try?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_04_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_04_8",
+                "type": "Speech",
+                "text": "... That kind of request is very rare.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_04_9",
+                "type": "Speech",
+                "text": "It's perfect for the adventure-hungry Nikke.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_04_12"
+            },
+            {
+                "id": "d_counseling_milk_04_10",
+                "type": "Speech",
+                "text": "Hmmm. That's true.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_04_11",
+                "type": "Speech",
+                "text": "Well, if I wanted to become a destroyer, I would have found another squad.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_04_12",
+                "type": "Narration",
+                "text": "I talk with Milk about being delicate.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_05_1",
+                "type": "Speech",
+                "text": "Hey. You know our cafe?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_05_2",
+                "type": "Speech",
+                "text": "It's just as good as that other one in the Ark.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_05_3",
+                "type": "Speech",
+                "text": "That's why I want to hire an ad agency for it. Any recommendations?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_05_4",
+                "type": "Choice",
+                "text": "Mustang.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_05_6"
+            },
+            {
+                "id": "d_counseling_milk_05_5",
+                "type": "Choice",
+                "text": "The Talentum squad.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_05_9"
+            },
+            {
+                "id": "d_counseling_milk_05_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_05_7",
+                "type": "Speech",
+                "text": "That could work.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_05_8",
+                "type": "Speech",
+                "text": "That will absolutely work.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_05_12"
+            },
+            {
+                "id": "d_counseling_milk_05_9",
+                "type": "Speech",
+                "text": "They are pretty amazing.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_05_10",
+                "type": "Speech",
+                "text": "But, how do I say this...\nThey lack a certain explosive quality.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_05_11",
+                "type": "Speech",
+                "text": "I will put them on the list for now.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_05_12",
+                "type": "Narration",
+                "text": "I talk to Milk about ways to promote the cafe.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_06_1",
+                "type": "Speech",
+                "text": "Yesterday, I got up in the middle of the night to drink some water.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_06_2",
+                "type": "Speech",
+                "text": "But, I stepped on Frima's back. She was just sleeping there on the floor.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_06_3",
+                "type": "Speech",
+                "text": "She got really worked up about it. But, is it really my fault?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_06_4",
+                "type": "Choice",
+                "text": "It is your fault.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_06_6"
+            },
+            {
+                "id": "d_counseling_milk_06_5",
+                "type": "Choice",
+                "text": "It's Frima's fault.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_06_8"
+            },
+            {
+                "id": "d_counseling_milk_06_6",
+                "type": "Speech",
+                "text": "What did I do wrong?!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_06_7",
+                "type": "Speech",
+                "text": "Isn't it common sense not to sleep on the last step of the stairs? Or anywhere on the stairs, for that matter?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_06_11"
+            },
+            {
+                "id": "d_counseling_milk_06_8",
+                "type": "Speech",
+                "text": "Right? Don't you think so?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_06_9",
+                "type": "Speech",
+                "text": "It's her fault for falling asleep on the stairs.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_06_10",
+                "type": "Speech",
+                "text": "If she does it again, I'll sit on her and crush her.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_06_11",
+                "type": "Narration",
+                "text": "I talk to Milk about Frima's sleeping habits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_07_1",
+                "type": "Speech",
+                "text": "Sugar is so noisy.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_07_2",
+                "type": "Speech",
+                "text": "Well, not Sugar herself. It's her bike.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_07_3",
+                "type": "Speech",
+                "text": "I can't stand that annoying *vroooooom* sound.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_07_4",
+                "type": "Choice",
+                "text": "Let's put a silencer on it!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_07_6"
+            },
+            {
+                "id": "d_counseling_milk_07_5",
+                "type": "Choice",
+                "text": "Let's break her bike!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_07_8"
+            },
+            {
+                "id": "d_counseling_milk_07_6",
+                "type": "Speech",
+                "text": "Hey! That's a great idea.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_07_7",
+                "type": "Speech",
+                "text": "That'll put a stop to the noise for sure.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_07_10"
+            },
+            {
+                "id": "d_counseling_milk_07_8",
+                "type": "Speech",
+                "text": "Isn't that... overkill?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_07_9",
+                "type": "Speech",
+                "text": "You know how much Sugar cares about her bike.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_07_10",
+                "type": "Narration",
+                "text": "I have a conversation with Milk about Sugar's bike.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_08_1",
+                "type": "Speech",
+                "text": "Hey, Pal...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_08_2",
+                "type": "Speech",
+                "text": "Do you think I look... uh... violent?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_08_3",
+                "type": "Choice",
+                "text": "Yes. Like an angry gorilla.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_08_5"
+            },
+            {
+                "id": "d_counseling_milk_08_4",
+                "type": "Choice",
+                "text": "Not at all. I think you're cute.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_08_7"
+            },
+            {
+                "id": "d_counseling_milk_08_5",
+                "type": "Speech",
+                "text": "You...!! What did you just say!?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_08_6",
+                "type": "Speech",
+                "text": "Do you want to taste my gorilla punch!?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_08_9"
+            },
+            {
+                "id": "d_counseling_milk_08_7",
+                "type": "Speech",
+                "text": "What's with this all of a sudden?!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_08_8",
+                "type": "Speech",
+                "text": "Y-you shouldn't say \"cute\" to a grown lady, you loser!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_08_9",
+                "type": "Narration",
+                "text": "I spend time with Milk, teasing her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_09_1",
+                "type": "Speech",
+                "text": "Do you know what a Hadouken is?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_09_2",
+                "type": "Speech",
+                "text": "They say if you get good enough at martial arts, you can shoot a wave of energy out of your bare hands.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_09_3",
+                "type": "Speech",
+                "text": "I wanna learn how to do that...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_09_4",
+                "type": "Choice",
+                "text": "But aren't guns much better?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_09_6"
+            },
+            {
+                "id": "d_counseling_milk_09_5",
+                "type": "Choice",
+                "text": "The only way to find out is to train.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_09_9"
+            },
+            {
+                "id": "d_counseling_milk_09_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_09_7",
+                "type": "Speech",
+                "text": "I guess you're right.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_09_8",
+                "type": "Speech",
+                "text": "A bullet is probably stronger than anything I can make from my hands.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_09_11"
+            },
+            {
+                "id": "d_counseling_milk_09_9",
+                "type": "Speech",
+                "text": "You want me to just train without knowing any particular method?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_09_10",
+                "type": "Speech",
+                "text": "... Stupid. That'll be a waste of time.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_09_11",
+                "type": "Narration",
+                "text": "I research special martial arts techniques with Milk.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_10_1",
+                "type": "Speech",
+                "text": "Sugar has her bike.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_10_2",
+                "type": "Speech",
+                "text": "Frima has her sofa.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_10_3",
+                "type": "Speech",
+                "text": "I also need something as my mount.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_10_4",
+                "type": "Choice",
+                "text": "A sofa isn't a mount.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_10_6"
+            },
+            {
+                "id": "d_counseling_milk_10_5",
+                "type": "Choice",
+                "text": "What about me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_10_8"
+            },
+            {
+                "id": "d_counseling_milk_10_6",
+                "type": "Speech",
+                "text": "Well she sure rides it like one.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_10_7",
+                "type": "Speech",
+                "text": "Who knows? It might fly off into the sky someday.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_10_12"
+            },
+            {
+                "id": "d_counseling_milk_10_8",
+                "type": "Speech",
+                "text": "Oh? You're saying I can ride on you, Pal?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_10_9",
+                "type": "Speech",
+                "text": "Hmm... a Pal you can ride, huh...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_10_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_10_11",
+                "type": "Speech",
+                "text": "Uh... wait. That came off a little naughty.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_10_12",
+                "type": "Narration",
+                "text": "I talk with Milk about mounts.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_11_1",
+                "type": "Speech",
+                "text": "Hey, Pal...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_2",
+                "type": "Speech",
+                "text": "This is just a question, okay?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_3",
+                "type": "Speech",
+                "text": "What would you think of me wearing a dress?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_4",
+                "type": "Choice",
+                "text": "I just might fall in love with one glance.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_11_6"
+            },
+            {
+                "id": "d_counseling_milk_11_5",
+                "type": "Choice",
+                "text": "It would be hilarious.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_11_10"
+            },
+            {
+                "id": "d_counseling_milk_11_6",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_7",
+                "type": "Speech",
+                "text": "Ah, you know, I just happened to get one, so...!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_8",
+                "type": "Speech",
+                "text": "I will go try it on and you will...!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_9",
+                "type": "Speech",
+                "text": "No way! You absolutely won't!\nForget I said anything!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_11_14"
+            },
+            {
+                "id": "d_counseling_milk_11_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_11",
+                "type": "Speech",
+                "text": "Hilarious? You think it would be funny?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_12",
+                "type": "Speech",
+                "text": "Do I look like I'm joking?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_13",
+                "type": "Speech",
+                "text": "Do you want me to give you something to laugh about? Do you?!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_11_14",
+                "type": "Narration",
+                "text": "I spend time with Milk, talking about her looks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_12_1",
+                "type": "Speech",
+                "text": "If I wasn't a Scavenger,",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_12_2",
+                "type": "Speech",
+                "text": "what do you think I'd be doing?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_12_3",
+                "type": "Choice",
+                "text": "Boxing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_12_5"
+            },
+            {
+                "id": "d_counseling_milk_12_4",
+                "type": "Choice",
+                "text": "Unemployed, most likely.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_12_8"
+            },
+            {
+                "id": "d_counseling_milk_12_5",
+                "type": "Speech",
+                "text": "That doesn't sound too bad.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_12_6",
+                "type": "Speech",
+                "text": "I'd fight my way to the top, win the prize money, then live high off the hog for the next few months.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_12_7",
+                "type": "Speech",
+                "text": "After that, I'd... Actually, should I even be thinking this far out?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_12_11"
+            },
+            {
+                "id": "d_counseling_milk_12_8",
+                "type": "Speech",
+                "text": "... Are you done?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_12_9",
+                "type": "Speech",
+                "text": "This job isn't the be-all and end-all in my life, you know.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_12_10",
+                "type": "Speech",
+                "text": "There's more to me than that. Never mind, forget I said anything.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_12_11",
+                "type": "Narration",
+                "text": "Milk and I talk about her future prospects.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_13_1",
+                "type": "Speech",
+                "text": "All right, let's flip a coin.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_2",
+                "type": "Speech",
+                "text": "Heads, you've gotta grant one of my wishes. Tails, I grant one of yours.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_3",
+                "type": "Speech",
+                "text": "Okay?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_4",
+                "type": "Choice",
+                "text": "Go for it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_13_6"
+            },
+            {
+                "id": "d_counseling_milk_13_5",
+                "type": "Choice",
+                "text": "First I want to make sure it's not a double-sided coin.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_13_10"
+            },
+            {
+                "id": "d_counseling_milk_13_6",
+                "type": "Speech",
+                "text": "All right, let's do this.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_7",
+                "type": "Narration",
+                "text": "Milk lightly flips the coin.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_8",
+                "type": "Speech",
+                "text": "Heads!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_9",
+                "type": "Speech",
+                "text": "That's too bad for you, buddy. Looks like you'll be spending the day with me.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_13_13"
+            },
+            {
+                "id": "d_counseling_milk_13_10",
+                "type": "Speech",
+                "text": "Hey! What kind of person do you think I am?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_11",
+                "type": "Speech",
+                "text": "You really think I'd use a cheap trick like rigging the coin?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_12",
+                "type": "Speech",
+                "text": "You ever considered that it could just be a bum coin?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_13_13",
+                "type": "Narration",
+                "text": "Milk and I start bickering with one another.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_14_1",
+                "type": "Speech",
+                "text": "The caf\u00e9 has been a ghost town lately. No idea why...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_14_2",
+                "type": "Speech",
+                "text": "What do you think is causing this?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_14_3",
+                "type": "Choice",
+                "text": "It's because of Frima.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_14_5"
+            },
+            {
+                "id": "d_counseling_milk_14_4",
+                "type": "Choice",
+                "text": "It's because of you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_14_8"
+            },
+            {
+                "id": "d_counseling_milk_14_5",
+                "type": "Speech",
+                "text": "I was thinking the same thing.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_14_6",
+                "type": "Speech",
+                "text": "That lazy oaf never serves a single customer and just sleeps all day.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_14_7",
+                "type": "Speech",
+                "text": "This place is so dead, there might as well be buzzards circling above our heads.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_14_11"
+            },
+            {
+                "id": "d_counseling_milk_14_8",
+                "type": "Speech",
+                "text": "Come again? Are you trying to start a fight?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_14_9",
+                "type": "Speech",
+                "text": "What did I ever do? I get into a few fights with customers,",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_14_10",
+                "type": "Speech",
+                "text": "and suddenly I'm the sole reason that business is suffering?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_14_11",
+                "type": "Narration",
+                "text": "Milk and I racked our brains as to why the caf\u00e9 was losing customers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_15_1",
+                "type": "Speech",
+                "text": "What do you think of a girl who does martial arts?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_15_2",
+                "type": "Speech",
+                "text": "Be as objective as possible.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_15_3",
+                "type": "Choice",
+                "text": "I think it's awesome.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_15_5"
+            },
+            {
+                "id": "d_counseling_milk_15_4",
+                "type": "Choice",
+                "text": "I think it's a little intimidating.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_15_8"
+            },
+            {
+                "id": "d_counseling_milk_15_5",
+                "type": "Speech",
+                "text": "No kidding?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_15_6",
+                "type": "Speech",
+                "text": "I guess most people would feel the same way.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_15_7",
+                "type": "Speech",
+                "text": "Why is my face getting so red all of a sudden?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_15_11"
+            },
+            {
+                "id": "d_counseling_milk_15_8",
+                "type": "Speech",
+                "text": "What the hell?!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_15_9",
+                "type": "Speech",
+                "text": "So are you saying that I should give up on martial arts? Is that it?!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_15_10",
+                "type": "Speech",
+                "text": "It's not like I smack you around or anything. On the contrary, I've protected you more times than I can count!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_15_11",
+                "type": "Narration",
+                "text": "I talk to Milk about the correlation between martial arts and attractiveness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_16_1",
+                "type": "Speech",
+                "text": "If I punched someone, how many weeks do you think they would need to recover?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_16_2",
+                "type": "Choice",
+                "text": "I'm not sure about weeks... days would be more like it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_16_4"
+            },
+            {
+                "id": "d_counseling_milk_16_3",
+                "type": "Choice",
+                "text": "I don't know... 12 weeks?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_16_6"
+            },
+            {
+                "id": "d_counseling_milk_16_4",
+                "type": "Speech",
+                "text": "What was that? Say that to my face!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_16_5",
+                "type": "Speech",
+                "text": "Get over here so I can bop you one.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_16_9"
+            },
+            {
+                "id": "d_counseling_milk_16_6",
+                "type": "Speech",
+                "text": "Wowee, you really think my punch is that powerful?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_16_7",
+                "type": "Speech",
+                "text": "12 weeks is a long time though... what if they ended up croaking?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_16_8",
+                "type": "Speech",
+                "text": "Eh, whatever, you hit the nail on the head at any rate. You're a good egg!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_16_9",
+                "type": "Narration",
+                "text": "Milk and I talk more about her punching skills.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_17_1",
+                "type": "Speech",
+                "text": "I had someone tell me today that it might be beneficial for me to change how I talk to people.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_17_2",
+                "type": "Speech",
+                "text": "I told them, \"I think punching you right in the mouth would be beneficial for me.\"",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_17_3",
+                "type": "Speech",
+                "text": "Do you think there's something wrong with how I talk to people?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_17_4",
+                "type": "Choice",
+                "text": "I get a big kick out of how you talk to me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_17_6"
+            },
+            {
+                "id": "d_counseling_milk_17_5",
+                "type": "Choice",
+                "text": "I think you could afford to tone down the aggression...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_17_9"
+            },
+            {
+                "id": "d_counseling_milk_17_6",
+                "type": "Speech",
+                "text": "You always have the right answer, Pal.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_17_7",
+                "type": "Speech",
+                "text": "I wasn't intending on changing it anyways.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_17_8",
+                "type": "Speech",
+                "text": "There's no need to!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_17_11"
+            },
+            {
+                "id": "d_counseling_milk_17_9",
+                "type": "Speech",
+                "text": "I think how I'm talking now is plenty friendly.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_17_10",
+                "type": "Speech",
+                "text": "But it doesn't look like you agree with me...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_17_11",
+                "type": "Narration",
+                "text": "Milk and I discuss how she could possibly change her way of speaking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_18_1",
+                "type": "Speech",
+                "text": "Hey, are you up for a match?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_18_2",
+                "type": "Speech",
+                "text": "The loser has to take a sucker punch. How about it?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_18_3",
+                "type": "Choice",
+                "text": "Just hit me and get it over with.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_18_5"
+            },
+            {
+                "id": "d_counseling_milk_18_4",
+                "type": "Choice",
+                "text": "Agreed.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_18_7"
+            },
+            {
+                "id": "d_counseling_milk_18_5",
+                "type": "Speech",
+                "text": "Pfft, boooorrring.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_18_6",
+                "type": "Speech",
+                "text": "Have you always been this weak?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_18_10"
+            },
+            {
+                "id": "d_counseling_milk_18_7",
+                "type": "Speech",
+                "text": "All right, this'll be fun!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_18_8",
+                "type": "Speech",
+                "text": "Let's see who has to be the punching bag.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_18_9",
+                "type": "Speech",
+                "text": "Game on!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_18_10",
+                "type": "Narration",
+                "text": "I tried with all my might not to lose to Milk.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_19_1",
+                "type": "Speech",
+                "text": "I've been thinking about entering a martial arts competition.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_19_2",
+                "type": "Speech",
+                "text": "One's being held near here soon.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_19_3",
+                "type": "Choice",
+                "text": "If you do enter, you'll be the champion for sure.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_19_5"
+            },
+            {
+                "id": "d_counseling_milk_19_4",
+                "type": "Choice",
+                "text": "There are a lot of people who are great at martial arts.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_19_8"
+            },
+            {
+                "id": "d_counseling_milk_19_5",
+                "type": "Speech",
+                "text": "You think so too?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_19_6",
+                "type": "Speech",
+                "text": "Now I'm really interested.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_19_7",
+                "type": "Speech",
+                "text": "come again? Are you trying to start a fight?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_19_10"
+            },
+            {
+                "id": "d_counseling_milk_19_8",
+                "type": "Speech",
+                "text": "What of it?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_19_9",
+                "type": "Speech",
+                "text": "I know there are a lot of capable fighters out there, but I won't lose to any of them.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_19_10",
+                "type": "Narration",
+                "text": "Milk and I looked for additional martial arts competitions.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_milk_20_1",
+                "type": "Speech",
+                "text": "I had a Milk Tea yesterday, and it was delicious as always.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_20_2",
+                "type": "Speech",
+                "text": "Anything's good if it's got milk in it.",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_20_3",
+                "type": "Choice",
+                "text": "Milk thistle is pretty gross.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_milk_20_5"
+            },
+            {
+                "id": "d_counseling_milk_20_4",
+                "type": "Choice",
+                "text": "I also like milk.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_milk_20_7"
+            },
+            {
+                "id": "d_counseling_milk_20_5",
+                "type": "Speech",
+                "text": "... Is that supposed to be a joke?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_20_6",
+                "type": "Speech",
+                "text": "You need to work on your sense of humor... talk about corny...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": "d_counseling_milk_20_11"
+            },
+            {
+                "id": "d_counseling_milk_20_7",
+                "type": "Speech",
+                "text": "So you like milk too?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_20_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_20_9",
+                "type": "Speech",
+                "text": "Wait, are you talking about the drink, or me?",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_20_10",
+                "type": "Speech",
+                "text": "Damn you! Be more clear next time!",
+                "speaker": "Milk",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_milk_20_11",
+                "type": "Narration",
+                "text": "Milk and I have fun chit-chatting.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

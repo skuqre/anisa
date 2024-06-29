@@ -1,0 +1,2005 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_privaty_01_1",
+                "type": "Speech",
+                "text": "I've been a little spend-happy recently.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_01_2",
+                "type": "Speech",
+                "text": "How do I cut back on my spending and save money?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_01_3",
+                "type": "Choice",
+                "text": "Just stop shopping.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_01_5"
+            },
+            {
+                "id": "d_counseling_privaty_01_4",
+                "type": "Choice",
+                "text": "Keep spending. When you go bankrupt, naturally you'll stop spending.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_01_8"
+            },
+            {
+                "id": "d_counseling_privaty_01_5",
+                "type": "Speech",
+                "text": "H-how can you suggest such a thing?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_01_6",
+                "type": "Speech",
+                "text": "It's one of the few joys I have left in my life...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_01_7",
+                "type": "Speech",
+                "text": "You should be more sensitive, Commander!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_01_12"
+            },
+            {
+                "id": "d_counseling_privaty_01_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_01_9",
+                "type": "Speech",
+                "text": "C'mon, I'm not that much of a lost cause!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_01_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_01_11",
+                "type": "Speech",
+                "text": "Well, maybe I will spend a little more. But I'm not going bankrupt!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_01_12"
+            },
+            {
+                "id": "d_counseling_privaty_01_12",
+                "type": "Narration",
+                "text": "I talk more with Privaty about finances.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_02_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_02_2",
+                "type": "Speech",
+                "text": "Would you splurge for good quality? Or do you always save money?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_02_3",
+                "type": "Choice",
+                "text": "The cheaper the better.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_02_5"
+            },
+            {
+                "id": "d_counseling_privaty_02_4",
+                "type": "Choice",
+                "text": "I'm fine with anything, so long as it tastes good.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_02_8"
+            },
+            {
+                "id": "d_counseling_privaty_02_5",
+                "type": "Speech",
+                "text": "Hm! I expected as much.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_02_6",
+                "type": "Speech",
+                "text": "Spoken like someone just scraping by in a slum.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_02_7",
+                "type": "Speech",
+                "text": "And by 'slum', I mean your Outpost, of course.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_02_12"
+            },
+            {
+                "id": "d_counseling_privaty_02_8",
+                "type": "Speech",
+                "text": "Well, of course! That's a given!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_02_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_02_10",
+                "type": "Speech",
+                "text": "But it is a wise answer.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_02_11",
+                "type": "Speech",
+                "text": "It's not what I expected, so I like it.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_02_12"
+            },
+            {
+                "id": "d_counseling_privaty_02_12",
+                "type": "Narration",
+                "text": "I hang out a little longer with Privaty, who is grumpy but enjoys gossiping.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_03_1",
+                "type": "Speech",
+                "text": "Yulha's been nagging me a lot lately.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_03_2",
+                "type": "Speech",
+                "text": "Admi's really been on my case, too.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_03_3",
+                "type": "Speech",
+                "text": "What's their problem?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_03_4",
+                "type": "Choice",
+                "text": "It's because they like you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_03_6"
+            },
+            {
+                "id": "d_counseling_privaty_03_5",
+                "type": "Choice",
+                "text": "It's because you're sloppy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_03_10"
+            },
+            {
+                "id": "d_counseling_privaty_03_6",
+                "type": "Speech",
+                "text": "That's what I thought too...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_03_7",
+                "type": "Speech",
+                "text": "Well... I can't say I feel the same way about them.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_03_8",
+                "type": "Speech",
+                "text": "Then again, I do trust them as teammates...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_03_9",
+                "type": "Speech",
+                "text": "So maybe I should listen to their advice. Just a little.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_03_13"
+            },
+            {
+                "id": "d_counseling_privaty_03_10",
+                "type": "Speech",
+                "text": "Me? Sloppy?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_03_11",
+                "type": "Speech",
+                "text": "Who are you calling sloppy?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_03_12",
+                "type": "Speech",
+                "text": "You're full of it!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_03_13"
+            },
+            {
+                "id": "d_counseling_privaty_03_13",
+                "type": "Narration",
+                "text": "I hang out a little while longer with Privaty, who pretends she doesn't like to gossip.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_04_1",
+                "type": "Speech",
+                "text": "Commander, you have to tell the truth.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_04_2",
+                "type": "Speech",
+                "text": "If Rapi and I got into a fight, whose side would you take?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_04_3",
+                "type": "Choice",
+                "text": "Yours.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_04_5"
+            },
+            {
+                "id": "d_counseling_privaty_04_4",
+                "type": "Choice",
+                "text": "Can I say Rapi?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_04_8"
+            },
+            {
+                "id": "d_counseling_privaty_04_5",
+                "type": "Speech",
+                "text": "No surprise there.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_04_6",
+                "type": "Speech",
+                "text": "Even though you and Rapi are practically joined at the hip, you still have a soft spot for me.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_04_7",
+                "type": "Speech",
+                "text": "I'll keep that in mind.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_04_11"
+            },
+            {
+                "id": "d_counseling_privaty_04_8",
+                "type": "Speech",
+                "text": "Of course not!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_04_9",
+                "type": "Speech",
+                "text": "I'm the one asking, so you have to pick me!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_04_10",
+                "type": "Speech",
+                "text": "How can you even ask such a thing? Do you really like Rapi that much?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_04_11",
+                "type": "Narration",
+                "text": "I spend time with a thoroughly irascible Privaty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_05_1",
+                "type": "Speech",
+                "text": "I ran into Yulha, but she just gave me a death glare the whole time.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_2",
+                "type": "Speech",
+                "text": "She nagged me half to death, then just walked off.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_3",
+                "type": "Speech",
+                "text": "I'm feeling a little upset about it.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_4",
+                "type": "Choice",
+                "text": "Isn't that how Yulha always is?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_05_6"
+            },
+            {
+                "id": "d_counseling_privaty_05_5",
+                "type": "Choice",
+                "text": "Yulha isn't being fair to you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_05_9"
+            },
+            {
+                "id": "d_counseling_privaty_05_6",
+                "type": "Speech",
+                "text": "You think I don't know that?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_7",
+                "type": "Speech",
+                "text": "Comfort, you idiot! I want someone to comfort me!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_8",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_05_14"
+            },
+            {
+                "id": "d_counseling_privaty_05_9",
+                "type": "Speech",
+                "text": "Not really.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_10",
+                "type": "Speech",
+                "text": "Yulha is just like that with everyone.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_11",
+                "type": "Speech",
+                "text": "It didn't upset me that much.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_12",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_13",
+                "type": "Speech",
+                "text": "But I feel better after hearing you take my side.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_05_14",
+                "type": "Narration",
+                "text": "I comfort Privaty, who is upset.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_06_1",
+                "type": "Speech",
+                "text": "I think Admi may be going through puberty.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_2",
+                "type": "Speech",
+                "text": "She's been making all these heavy sighing noises lately.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_3",
+                "type": "Speech",
+                "text": "I hope nothing's wrong with her.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_4",
+                "type": "Choice",
+                "text": "Does she only sigh when she sees you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_06_6"
+            },
+            {
+                "id": "d_counseling_privaty_06_5",
+                "type": "Choice",
+                "text": "Puberty is often a very perplexing thing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_06_10"
+            },
+            {
+                "id": "d_counseling_privaty_06_6",
+                "type": "Speech",
+                "text": "Maybe? Does she?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_7",
+                "type": "Speech",
+                "text": "... Wait a minute.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_8",
+                "type": "Speech",
+                "text": "What does that mean?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_9",
+                "type": "Speech",
+                "text": "Are you saying I'm the one that's making her feel this way?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_06_13"
+            },
+            {
+                "id": "d_counseling_privaty_06_10",
+                "type": "Speech",
+                "text": "You're right. Everyone gets a little confused when they're going through puberty.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_11",
+                "type": "Speech",
+                "text": "I guess all her sighing isn't so strange.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_12",
+                "type": "Speech",
+                "text": "Maybe I should start treating her more like an adult.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_06_13",
+                "type": "Narration",
+                "text": "I chat a while longer with Privaty about Admi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_07_1",
+                "type": "Speech",
+                "text": "Look, I'm gonna ask you a question, but don't read too much into it.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_2",
+                "type": "Speech",
+                "text": "I'm not even that curious! Honestly!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_3",
+                "type": "Speech",
+                "text": "But... what's your type?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_4",
+                "type": "Choice",
+                "text": "Someone who's aloof and chic, but not TOO well put together.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_07_6"
+            },
+            {
+                "id": "d_counseling_privaty_07_5",
+                "type": "Choice",
+                "text": "Someone with a tough exterior, but who is sweet and innocent once you get to know them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_07_10"
+            },
+            {
+                "id": "d_counseling_privaty_07_6",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_7",
+                "type": "Speech",
+                "text": "That sounds so dumb.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_8",
+                "type": "Speech",
+                "text": "Still though, aloof and chic describes me pretty well.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_9",
+                "type": "Speech",
+                "text": "I'll take it.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_07_15"
+            },
+            {
+                "id": "d_counseling_privaty_07_10",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_11",
+                "type": "Speech",
+                "text": "What kind of idiot...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_12",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_13",
+                "type": "Speech",
+                "text": "Wait, don't tell me you like Yulha?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_14",
+                "type": "Speech",
+                "text": "That's a perfect description of her.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_07_15",
+                "type": "Narration",
+                "text": "I argue with Privaty about what we look for in a person.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_08_1",
+                "type": "Speech",
+                "text": "Commander, why do you want to operate on the surface?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_2",
+                "type": "Speech",
+                "text": "Have you ever considered...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_3",
+                "type": "Speech",
+                "text": "working for the Central Government?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_4",
+                "type": "Choice",
+                "text": "So, you want to work more closely with me?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_08_6"
+            },
+            {
+                "id": "d_counseling_privaty_08_5",
+                "type": "Choice",
+                "text": "I'm perfectly happy being a Commander.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_08_9"
+            },
+            {
+                "id": "d_counseling_privaty_08_6",
+                "type": "Speech",
+                "text": "W-w-who says I want to work with you?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_7",
+                "type": "Speech",
+                "text": "I just wanted to see if you'd ever have a change of heart, that's all!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_8",
+                "type": "Speech",
+                "text": "Yeah, that's it. I'm just testing you to see whether or not you truly like the Outpost.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_08_13"
+            },
+            {
+                "id": "d_counseling_privaty_08_9",
+                "type": "Speech",
+                "text": "I knew you would say that.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_10",
+                "type": "Speech",
+                "text": "That's what I've always liked about...!!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_11",
+                "type": "Speech",
+                "text": "W-wait! That's not what I meant!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_12",
+                "type": "Speech",
+                "text": "I-I just meant it's good for a Commander to think that way!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_08_13",
+                "type": "Narration",
+                "text": "I calm down the flustered Privaty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_09_1",
+                "type": "Speech",
+                "text": "Commander, I've made up my mind.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_2",
+                "type": "Speech",
+                "text": "Starting today, I won't let what anyone else says affect me.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_3",
+                "type": "Speech",
+                "text": "O-of course I've always been strong, but starting today I'll be even stronger.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_4",
+                "type": "Speech",
+                "text": "So, with that in mind, go on and try to say something that would upset me.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_5",
+                "type": "Choice",
+                "text": "I'm dating Rapi.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_09_7"
+            },
+            {
+                "id": "d_counseling_privaty_09_6",
+                "type": "Choice",
+                "text": "Privaty, I like you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_09_11"
+            },
+            {
+                "id": "d_counseling_privaty_09_7",
+                "type": "Speech",
+                "text": "Pssh, is that all you've got?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_8",
+                "type": "Speech",
+                "text": "Trying to get my goat with such tired methods... how disappointing.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_10",
+                "type": "Speech",
+                "text": "You're not actually serious, are you?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_09_14"
+            },
+            {
+                "id": "d_counseling_privaty_09_11",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_12",
+                "type": "Speech",
+                "text": "Um... Erm... Uhhhh!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_13",
+                "type": "Speech",
+                "text": "How can you say something like that?! That's cheating!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_09_14",
+                "type": "Narration",
+                "text": "I spend some time chatting with Privaty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_10_1",
+                "type": "Speech",
+                "text": "Commander, um...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_2",
+                "type": "Speech",
+                "text": "if you were in a relationship, and went out on a date...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_3",
+                "type": "Speech",
+                "text": "where would you want to go?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_4",
+                "type": "Choice",
+                "text": "The stores on Royal Road.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_10_6"
+            },
+            {
+                "id": "d_counseling_privaty_10_5",
+                "type": "Choice",
+                "text": "A cafe in the Outpost.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_10_9"
+            },
+            {
+                "id": "d_counseling_privaty_10_6",
+                "type": "Speech",
+                "text": "Royal Road? That's unexpected.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_7",
+                "type": "Speech",
+                "text": "I thought you had no interest in shopping...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_8",
+                "type": "Speech",
+                "text": "Well, there's certainly plenty to see and do around Royal Road. It would be perfect for a date.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_10_14"
+            },
+            {
+                "id": "d_counseling_privaty_10_9",
+                "type": "Speech",
+                "text": "A cafe at the Outpost?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_10",
+                "type": "Speech",
+                "text": "Why on earth would you go on a date there?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_11",
+                "type": "Speech",
+                "text": "I mean, sure, I like coffee, but still!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_12",
+                "type": "Speech",
+                "text": "That's not a proper date at all!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_13",
+                "type": "Speech",
+                "text": "You've got to go somewhere nicer than that!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_10_14",
+                "type": "Narration",
+                "text": "I argue with Privaty about this imaginary date.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_11_1",
+                "type": "Speech",
+                "text": "I lucked out and managed to snag two tickets to the movies,",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_11_2",
+                "type": "Speech",
+                "text": "but Yulha is busy and I can't seem to find Admi...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_11_3",
+                "type": "Speech",
+                "text": "Who else could I possibly go to the movies with?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_11_4",
+                "type": "Choice",
+                "text": "Is it okay if I go with you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_11_6"
+            },
+            {
+                "id": "d_counseling_privaty_11_5",
+                "type": "Choice",
+                "text": "If you want me to go with you, just ask.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_11_9"
+            },
+            {
+                "id": "d_counseling_privaty_11_6",
+                "type": "Speech",
+                "text": "Sigh...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_11_7",
+                "type": "Speech",
+                "text": "I guess I'm all out of options at this point. Fine, if you want to.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_11_8",
+                "type": "Speech",
+                "text": "What time should we meet up?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_11_12"
+            },
+            {
+                "id": "d_counseling_privaty_11_9",
+                "type": "Speech",
+                "text": "What?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_11_10",
+                "type": "Speech",
+                "text": "You don't think I brought this up just to get you to come along, do you?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_11_11",
+                "type": "Speech",
+                "text": "Besides, why are you eavesdropping on me when I'm talking to myself?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_11_12",
+                "type": "Narration",
+                "text": "Privaty and I talk about movies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_12_1",
+                "type": "Speech",
+                "text": "If peace is one day restored up on the surface,",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_12_2",
+                "type": "Speech",
+                "text": "what kind of life do you want to live?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_12_3",
+                "type": "Choice",
+                "text": "I'd like to spend my days raising a family.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_12_5"
+            },
+            {
+                "id": "d_counseling_privaty_12_4",
+                "type": "Choice",
+                "text": "I want to live alone in a quiet place.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_12_8"
+            },
+            {
+                "id": "d_counseling_privaty_12_5",
+                "type": "Speech",
+                "text": "F-family?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_12_6",
+                "type": "Speech",
+                "text": "Just who exactly makes up this family?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_12_7",
+                "type": "Speech",
+                "text": "No, don't tell me!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_12_11"
+            },
+            {
+                "id": "d_counseling_privaty_12_8",
+                "type": "Speech",
+                "text": "I knew it.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_12_9",
+                "type": "Speech",
+                "text": "so I can't blame you for feeling that way.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_12_10",
+                "type": "Speech",
+                "text": "But wouldn't it be lonely being all on your own?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_12_11",
+                "type": "Narration",
+                "text": "Before we finished our discussion, Privaty and I speculated on my future life.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_13_1",
+                "type": "Speech",
+                "text": "I've noticed there are a lot of new TV shows and novels about forbidden love affairs between a Commander and their Nikkes.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_13_2",
+                "type": "Speech",
+                "text": "What are your thoughts, Commander?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_13_3",
+                "type": "Choice",
+                "text": "Sounds like a fascinating plot.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_13_5"
+            },
+            {
+                "id": "d_counseling_privaty_13_4",
+                "type": "Choice",
+                "text": "I'm not too fond of it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_13_8"
+            },
+            {
+                "id": "d_counseling_privaty_13_5",
+                "type": "Speech",
+                "text": "R-r-really?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_13_6",
+                "type": "Speech",
+                "text": "Actually, I think it's not too bad either.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_13_7",
+                "type": "Speech",
+                "text": "Who knows... Maybe it could even happen in real life...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_13_11"
+            },
+            {
+                "id": "d_counseling_privaty_13_8",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_13_9",
+                "type": "Speech",
+                "text": "I mean... yeah, right!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_13_10",
+                "type": "Speech",
+                "text": "Come on, forbidden love between a Commander and a Nikke? It's absurd!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_13_11",
+                "type": "Narration",
+                "text": "Privaty and I talk more about forbidden love.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_14_1",
+                "type": "Speech",
+                "text": "I'm thinking of changing my hairstyle.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_2",
+                "type": "Speech",
+                "text": "I wanted to know what you think...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_3",
+                "type": "Speech",
+                "text": "What kind of hairstyle do you think would suit me?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_4",
+                "type": "Choice",
+                "text": "Nothing could top the hairstyle you have now.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_14_6"
+            },
+            {
+                "id": "d_counseling_privaty_14_5",
+                "type": "Choice",
+                "text": "I'm not sure.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_14_9"
+            },
+            {
+                "id": "d_counseling_privaty_14_6",
+                "type": "Speech",
+                "text": "Seriously?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_7",
+                "type": "Speech",
+                "text": "I'll keep this hairstyle... for now.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_8",
+                "type": "Speech",
+                "text": "Don't get it twisted, this has nothing to do with what you just said!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_14_13"
+            },
+            {
+                "id": "d_counseling_privaty_14_9",
+                "type": "Speech",
+                "text": "Come on, throw me a bone here!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_10",
+                "type": "Speech",
+                "text": "You could at least say if you like it better tied up or let down...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_11",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_12",
+                "type": "Speech",
+                "text": "Forget it. I'll just leave it like this.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_14_13",
+                "type": "Narration",
+                "text": "I spend some time thinking about new potential hairstyles for Privaty.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_15_1",
+                "type": "Speech",
+                "text": "Your room smells nice today.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_15_2",
+                "type": "Choice",
+                "text": "I just came out of the shower.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_15_4"
+            },
+            {
+                "id": "d_counseling_privaty_15_3",
+                "type": "Choice",
+                "text": "I'm using a new air freshener.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_15_7"
+            },
+            {
+                "id": "d_counseling_privaty_15_4",
+                "type": "Speech",
+                "text": "Oh, er... then...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_15_5",
+                "type": "Speech",
+                "text": "That smell must be Commander's shampoo...?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_15_6",
+                "type": "Speech",
+                "text": "Gah! I mean... I was just talking to myself! Just ignore me!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_15_9"
+            },
+            {
+                "id": "d_counseling_privaty_15_7",
+                "type": "Speech",
+                "text": "R-really?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_15_8",
+                "type": "Speech",
+                "text": "Can you tell me what brand you're using?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_15_9",
+                "type": "Narration",
+                "text": "I ended my discussion with Privaty while surrounded by a pleasant aroma.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_16_1",
+                "type": "Speech",
+                "text": "Special occasions like a birthday or anniversary",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_16_2",
+                "type": "Speech",
+                "text": "can make an otherwise normal day special.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_16_3",
+                "type": "Speech",
+                "text": "If you were to make today as a special day, what would it be for?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_16_4",
+                "type": "Choice",
+                "text": "Our very first time.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_16_6"
+            },
+            {
+                "id": "d_counseling_privaty_16_5",
+                "type": "Choice",
+                "text": "One of the days where we sit down and talk.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_16_9"
+            },
+            {
+                "id": "d_counseling_privaty_16_6",
+                "type": "Speech",
+                "text": "O-our first time?!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_16_7",
+                "type": "Speech",
+                "text": "First time for what?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_16_8",
+                "type": "Speech",
+                "text": "S-stop filling my head with dirty thoughts!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_16_12"
+            },
+            {
+                "id": "d_counseling_privaty_16_9",
+                "type": "Speech",
+                "text": "But we always have these discussions.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_16_10",
+                "type": "Speech",
+                "text": "Y-you do it with all the other Nikkes too...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_16_11",
+                "type": "Speech",
+                "text": "What makes you consider this day to be so special?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_16_12",
+                "type": "Narration",
+                "text": "Privaty and I share a special moment together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_17_1",
+                "type": "Speech",
+                "text": "I went shopping recently.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_17_2",
+                "type": "Speech",
+                "text": "How do you think this looks on me?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_17_3",
+                "type": "Choice",
+                "text": "It's perfect.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_17_5"
+            },
+            {
+                "id": "d_counseling_privaty_17_4",
+                "type": "Choice",
+                "text": "It doesn't really suit you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_17_8"
+            },
+            {
+                "id": "d_counseling_privaty_17_5",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_17_6",
+                "type": "Speech",
+                "text": "I knew it would look good on me,",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_17_7",
+                "type": "Speech",
+                "text": "but it's nice to hear it from someone else.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_17_10"
+            },
+            {
+                "id": "d_counseling_privaty_17_8",
+                "type": "Speech",
+                "text": "Hey! You could at least say it looks okay on me!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_17_9",
+                "type": "Speech",
+                "text": "Don't you have any common sense?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_17_10",
+                "type": "Narration",
+                "text": "Privaty and I share yet another meaningful discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_18_1",
+                "type": "Speech",
+                "text": "I've been having the worst dreams.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_18_2",
+                "type": "Speech",
+                "text": "Have you had any memorable dreams lately?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_18_3",
+                "type": "Choice",
+                "text": "Yes... but it'd be a bit awkward telling you about it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_18_5"
+            },
+            {
+                "id": "d_counseling_privaty_18_4",
+                "type": "Choice",
+                "text": "No, not really.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_18_9"
+            },
+            {
+                "id": "d_counseling_privaty_18_5",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_18_6",
+                "type": "Speech",
+                "text": "What kind of dream could it possibly be...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_18_7",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_18_8",
+                "type": "Speech",
+                "text": "D-don't tell me anything more! How embarrassing!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_18_12"
+            },
+            {
+                "id": "d_counseling_privaty_18_9",
+                "type": "Speech",
+                "text": "Yeah?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_18_10",
+                "type": "Speech",
+                "text": "I guess there are a lot of dreams that we don't remember.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_18_11",
+                "type": "Speech",
+                "text": "A bit of a boring answer... although I expected as much.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_18_12",
+                "type": "Narration",
+                "text": "Privaty and I talk about dreams.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_19_1",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_19_2",
+                "type": "Speech",
+                "text": "You don't look so good.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_19_3",
+                "type": "Speech",
+                "text": "Did you not sleep well last night?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_19_4",
+                "type": "Choice",
+                "text": "How did you know?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_19_6"
+            },
+            {
+                "id": "d_counseling_privaty_19_5",
+                "type": "Choice",
+                "text": "Not at all, I slept great.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_19_9"
+            },
+            {
+                "id": "d_counseling_privaty_19_6",
+                "type": "Speech",
+                "text": "I'm just attentive, that's all!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_19_7",
+                "type": "Speech",
+                "text": "It's not like I single you out for attention any more than anyone else!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_19_8",
+                "type": "Speech",
+                "text": "... But if you're tired, we can go easy with our discussion today.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_19_12"
+            },
+            {
+                "id": "d_counseling_privaty_19_9",
+                "type": "Speech",
+                "text": "Really...?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_19_10",
+                "type": "Speech",
+                "text": "You seem more tired than usual...",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_19_11",
+                "type": "Speech",
+                "text": "Well, if you say you're okay, I'll just take your word for it.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_19_12",
+                "type": "Narration",
+                "text": "Privaty and I share yet another meaningful discussion.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_privaty_20_1",
+                "type": "Speech",
+                "text": "Commander, isn't there anything you covet?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_20_2",
+                "type": "Speech",
+                "text": "Anything that you would kill to have right now?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_20_3",
+                "type": "Choice",
+                "text": "No I haven't.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_privaty_20_5"
+            },
+            {
+                "id": "d_counseling_privaty_20_4",
+                "type": "Choice",
+                "text": "Maybe some new clothes... or a pair of shoes...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_privaty_20_8"
+            },
+            {
+                "id": "d_counseling_privaty_20_5",
+                "type": "Speech",
+                "text": "Ha! I envy you.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_20_6",
+                "type": "Speech",
+                "text": "I've been filled with so much desire lately, that it's honestly a little worrying.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_20_7",
+                "type": "Speech",
+                "text": "... After we're done here, I should go shopping.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": "d_counseling_privaty_20_12"
+            },
+            {
+                "id": "d_counseling_privaty_20_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_20_9",
+                "type": "Speech",
+                "text": "So there is something you would like to have!",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_20_10",
+                "type": "Speech",
+                "text": "Why don't you come with me once we're done here?",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_20_11",
+                "type": "Speech",
+                "text": "Erm... by that I mean you can tag along and we can go shopping together, that's all.",
+                "speaker": "Privaty",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_privaty_20_12",
+                "type": "Narration",
+                "text": "I have a conversation with Privaty about various things we want.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

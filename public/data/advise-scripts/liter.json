@@ -1,0 +1,1989 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_liter_01_1",
+                "type": "Speech",
+                "text": "Young Nikkes these days don't have any manners.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_01_2",
+                "type": "Speech",
+                "text": "When I give them advice as their senior, they either just yawn or scratch their heads.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_01_3",
+                "type": "Speech",
+                "text": "Hey, Greenhorn. Do you think my advice is useless, too?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_01_4",
+                "type": "Choice",
+                "text": "Don't you remember what it's like to be young?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_01_6"
+            },
+            {
+                "id": "d_counseling_liter_01_5",
+                "type": "Choice",
+                "text": "Advice is the greatest gift that the old can give the young.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_01_9"
+            },
+            {
+                "id": "d_counseling_liter_01_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_01_7",
+                "type": "Speech",
+                "text": "I used to think old folks didn't know anything, either.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_01_8",
+                "type": "Speech",
+                "text": "Mmm... I see. I guess nothing's really changed.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_01_11"
+            },
+            {
+                "id": "d_counseling_liter_01_9",
+                "type": "Speech",
+                "text": "That's exactly what I'm talking about!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_01_10",
+                "type": "Speech",
+                "text": "... But, seeing how much they hate it, that may indicate that something's wrong with me.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_01_11",
+                "type": "Narration",
+                "text": "I have a discussion with Liter about giving advice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_02_1",
+                "type": "Speech",
+                "text": "Greenhorn, imagine you had a dog.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_02_2",
+                "type": "Speech",
+                "text": "Now, imagine that dog was doing its business in a place where people don't usually go.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_02_3",
+                "type": "Speech",
+                "text": "Would you clean it up, or just leave it?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_02_4",
+                "type": "Choice",
+                "text": "It wouldn't be so bad to leave it, right? Just once?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_02_6"
+            },
+            {
+                "id": "d_counseling_liter_02_5",
+                "type": "Choice",
+                "text": "I would still clean it up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_02_8"
+            },
+            {
+                "id": "d_counseling_liter_02_6",
+                "type": "Speech",
+                "text": "You rapscallion!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_02_7",
+                "type": "Speech",
+                "text": "You don't deserve to be a dog owner!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_02_11"
+            },
+            {
+                "id": "d_counseling_liter_02_8",
+                "type": "Speech",
+                "text": "That's right! Of course you have to clean it up!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_02_9",
+                "type": "Speech",
+                "text": "You can't just leave it even if nobody's around. You're going to make all of us dog owners look bad!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_02_10",
+                "type": "Speech",
+                "text": "Hey, you're a pretty good dog owner, Greenhorn!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_02_11",
+                "type": "Narration",
+                "text": "... I don't have the heart to tell Liter I don't actually have a dog.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_03_1",
+                "type": "Speech",
+                "text": "Do you ever think about leashes?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_03_2",
+                "type": "Speech",
+                "text": "A lot of people think a leash restricts a dog's freedom.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_03_3",
+                "type": "Speech",
+                "text": "But what do you think, Greenhorn?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_03_4",
+                "type": "Choice",
+                "text": "It's about their safety, not their freedom.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_03_6"
+            },
+            {
+                "id": "d_counseling_liter_03_5",
+                "type": "Choice",
+                "text": "Dogs deserve their freedom.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_03_9"
+            },
+            {
+                "id": "d_counseling_liter_03_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_03_7",
+                "type": "Speech",
+                "text": "That's a great response.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_03_8",
+                "type": "Speech",
+                "text": "You never know when and where an accident will happen. We need to protect dogs.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_03_12"
+            },
+            {
+                "id": "d_counseling_liter_03_9",
+                "type": "Speech",
+                "text": "Hmmm... I see.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_03_10",
+                "type": "Speech",
+                "text": "Well, what good is freedom if you don't have safety?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_03_11",
+                "type": "Speech",
+                "text": "You listen to me, youngster...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_03_12",
+                "type": "Narration",
+                "text": "I listen to Liter about the benefits of the leash.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_04_1",
+                "type": "Speech",
+                "text": "There are times you have to be strict with people when giving instructions for work.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_04_2",
+                "type": "Speech",
+                "text": "I've been thinking if I've been too harsh recently... Well, I mean sometimes.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_04_3",
+                "type": "Speech",
+                "text": "Should I change my ways?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_04_4",
+                "type": "Choice",
+                "text": "I think a change might do you good.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_04_6"
+            },
+            {
+                "id": "d_counseling_liter_04_5",
+                "type": "Choice",
+                "text": "Being strict is a matter of safety.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_04_9"
+            },
+            {
+                "id": "d_counseling_liter_04_6",
+                "type": "Speech",
+                "text": "Is that so.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_04_7",
+                "type": "Speech",
+                "text": "But, I'm worried about everyone's safety.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_04_8",
+                "type": "Speech",
+                "text": "If I'm not strict, they'll get complacent quickly...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_04_12"
+            },
+            {
+                "id": "d_counseling_liter_04_9",
+                "type": "Speech",
+                "text": "Hmmm... That's right.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_04_10",
+                "type": "Speech",
+                "text": "If I'm strict, they are more careful. That's the most important.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_04_11",
+                "type": "Speech",
+                "text": "I need to play the villain to make sure that everyone is safe.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_04_12",
+                "type": "Narration",
+                "text": "I listen to Liter lecture about lecturing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_05_1",
+                "type": "Speech",
+                "text": "Centi is such an amazing kid.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_05_2",
+                "type": "Speech",
+                "text": "She does everything I tell her, without any complaining.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_05_3",
+                "type": "Speech",
+                "text": "But, I'm worried that she might become too dependent.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_05_4",
+                "type": "Choice",
+                "text": "Centi is not a kid.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_05_6"
+            },
+            {
+                "id": "d_counseling_liter_05_5",
+                "type": "Choice",
+                "text": "It's okay. She has you to watch out for her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_05_9"
+            },
+            {
+                "id": "d_counseling_liter_05_6",
+                "type": "Speech",
+                "text": "... Right. She probably has thoughts of her own, I suppose.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_05_7",
+                "type": "Speech",
+                "text": "Soon, she will be independent enough to make it without me.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_05_8",
+                "type": "Speech",
+                "text": "Haha. When I think about it, delight and sorrow mix in my heart...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_05_12"
+            },
+            {
+                "id": "d_counseling_liter_05_9",
+                "type": "Speech",
+                "text": "Haha! That's the right answer.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_05_10",
+                "type": "Speech",
+                "text": "... But, you know, even I will die one day.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_05_11",
+                "type": "Speech",
+                "text": "I can't always be by her side.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_05_12",
+                "type": "Narration",
+                "text": "I listen to Liter brag about Centi.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_06_1",
+                "type": "Speech",
+                "text": "I'm getting older and older.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_06_2",
+                "type": "Speech",
+                "text": "Someday, I will no longer do this work.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_06_3",
+                "type": "Speech",
+                "text": "But every time I think about life without work, I get frustrated.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_06_4",
+                "type": "Choice",
+                "text": "You should prepare for your retirement.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_06_6"
+            },
+            {
+                "id": "d_counseling_liter_06_5",
+                "type": "Choice",
+                "text": "When that day comes, you'll find something else to do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_06_9"
+            },
+            {
+                "id": "d_counseling_liter_06_6",
+                "type": "Speech",
+                "text": "Retirement... I suppose you're right.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_06_7",
+                "type": "Speech",
+                "text": "But, you know...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_06_8",
+                "type": "Speech",
+                "text": "I don't know how meaningful life could be after being retired, if it can't be enjoyed.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_06_12"
+            },
+            {
+                "id": "d_counseling_liter_06_9",
+                "type": "Speech",
+                "text": "Do you truly think so?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_06_10",
+                "type": "Speech",
+                "text": "Even when these old bones can't do this job anymore,",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_06_11",
+                "type": "Speech",
+                "text": "there's bound to be something else that I'll enjoy.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_06_12",
+                "type": "Narration",
+                "text": "I have a conversation with Liter about the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_07_1",
+                "type": "Speech",
+                "text": "About Ludmilla, there are moments when she seems too mature.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_07_2",
+                "type": "Speech",
+                "text": "As far as I know, she is much younger than me so I wonder why.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_07_3",
+                "type": "Speech",
+                "text": "... Could she be lying about her age?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_07_4",
+                "type": "Choice",
+                "text": "Maybe it's because of her high quality of life.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_07_6"
+            },
+            {
+                "id": "d_counseling_liter_07_5",
+                "type": "Choice",
+                "text": "... Maybe it's because you're less mature than you thought?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_07_9"
+            },
+            {
+                "id": "d_counseling_liter_07_6",
+                "type": "Speech",
+                "text": "Quality of life... I see.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_07_7",
+                "type": "Speech",
+                "text": "I guess it doesn't matter how long you have lived. What's important is the quality of life you've lived...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_07_8",
+                "type": "Speech",
+                "text": "Hmm... I understand. Thank you, Greenhorn.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_07_12"
+            },
+            {
+                "id": "d_counseling_liter_07_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_07_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_07_11",
+                "type": "Speech",
+                "text": "Frankly, I'm offended.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_07_12",
+                "type": "Narration",
+                "text": "I have a conversation with Liter about Ludmilla.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_08_1",
+                "type": "Speech",
+                "text": "Why is Anis like that?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_08_2",
+                "type": "Speech",
+                "text": "Why does she keep taking her socks off everywhere?!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_08_3",
+                "type": "Speech",
+                "text": "I can only clean up after her for so long!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_08_4",
+                "type": "Choice",
+                "text": "From now on, if you see her socks lying around, just come and tell me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_08_6"
+            },
+            {
+                "id": "d_counseling_liter_08_5",
+                "type": "Choice",
+                "text": "It's a bit of a secret, but Anis actually has a medical condition with her feet...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_08_8"
+            },
+            {
+                "id": "d_counseling_liter_08_6",
+                "type": "Speech",
+                "text": "... Greenhorn.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_08_7",
+                "type": "Speech",
+                "text": "I'm actually speechless that you just said that.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_08_12"
+            },
+            {
+                "id": "d_counseling_liter_08_8",
+                "type": "Speech",
+                "text": "... Ah. Is that so.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_08_9",
+                "type": "Speech",
+                "text": "Hmmm... I didn't even know, and I...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_08_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_08_11",
+                "type": "Speech",
+                "text": "... You. You're lying.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_08_12",
+                "type": "Narration",
+                "text": "I listen to Liter gossip about Anis for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_09_1",
+                "type": "Speech",
+                "text": "Mmmm... I got a new task at work,",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_09_2",
+                "type": "Speech",
+                "text": "but for some reason, I just can't seem to focus.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_09_3",
+                "type": "Speech",
+                "text": "Maybe I'm getting old... Or maybe I'm just tired...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_09_4",
+                "type": "Choice",
+                "text": "Maybe it's because you don't find the work interesting anymore?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_09_6"
+            },
+            {
+                "id": "d_counseling_liter_09_5",
+                "type": "Choice",
+                "text": "You just need a good rest.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_09_9"
+            },
+            {
+                "id": "d_counseling_liter_09_6",
+                "type": "Speech",
+                "text": "Oh. I think that might be it.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_09_7",
+                "type": "Speech",
+                "text": "I had an inkling that might be it. After all, the work is similar to what I've done before.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_09_8",
+                "type": "Speech",
+                "text": "But I guess I'll just have to grin and bear it...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_09_12"
+            },
+            {
+                "id": "d_counseling_liter_09_9",
+                "type": "Speech",
+                "text": "If I slack off, who could replace me?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_09_10",
+                "type": "Speech",
+                "text": "There are dozens of people who are relying on me.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_09_11",
+                "type": "Speech",
+                "text": "Thank you for your words, but I can't.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_09_12",
+                "type": "Narration",
+                "text": "I listen to Liter talk about the work that she enjoys.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_10_1",
+                "type": "Speech",
+                "text": "When I look at Volt, I always think to myself...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_10_2",
+                "type": "Speech",
+                "text": "What a great life to live.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_10_3",
+                "type": "Speech",
+                "text": "No one lives as comfortably as she does.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_10_4",
+                "type": "Choice",
+                "text": "I'm envious.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_10_6"
+            },
+            {
+                "id": "d_counseling_liter_10_5",
+                "type": "Choice",
+                "text": "Volt also has her own troubles.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_10_7"
+            },
+            {
+                "id": "d_counseling_liter_10_6",
+                "type": "Speech",
+                "text": "... Don't be jealous of a dog.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_10_10"
+            },
+            {
+                "id": "d_counseling_liter_10_7",
+                "type": "Speech",
+                "text": "What? This bastard? No way.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_10_8",
+                "type": "Speech",
+                "text": "Woof! Woof woof!",
+                "speaker": "Volt",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_10_9",
+                "type": "Speech",
+                "text": "Argh! What's gotten into you all of a sudden?!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_10_10",
+                "type": "Narration",
+                "text": "I spend a good time with Volt.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_11_1",
+                "type": "Speech",
+                "text": "I have a long-time customer. He's been coming to Mighty Tools for over 10 years.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_2",
+                "type": "Speech",
+                "text": "We're actually close enough that we've gone out to eat a couple of times.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_3",
+                "type": "Speech",
+                "text": "However, I recently discovered he's been tampering with the construction funds.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_4",
+                "type": "Speech",
+                "text": "I'm at a loss. What do I do?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_5",
+                "type": "Choice",
+                "text": "Give him a piece of your mind.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_11_7"
+            },
+            {
+                "id": "d_counseling_liter_11_6",
+                "type": "Choice",
+                "text": "Let it slide so your relationship can remain intact.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_11_10"
+            },
+            {
+                "id": "d_counseling_liter_11_7",
+                "type": "Speech",
+                "text": "That's what I was thinking.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_8",
+                "type": "Speech",
+                "text": "But I keep psyching myself out and can't take the plunge. I was hoping someone could give me one last push.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_9",
+                "type": "Speech",
+                "text": "And thanks to you, I got just that!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_11_13"
+            },
+            {
+                "id": "d_counseling_liter_11_10",
+                "type": "Speech",
+                "text": "You're right. He and I have a good thing going with our friendship.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_11",
+                "type": "Speech",
+                "text": "No matter what, I won't jeopardize that.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_12",
+                "type": "Speech",
+                "text": "Gosh, living in this world sure isn't easy.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_11_13",
+                "type": "Narration",
+                "text": "Liter tells me more about this customer that was giving her trouble.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_12_1",
+                "type": "Speech",
+                "text": "I was thinking about picking up a new hobby.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_2",
+                "type": "Speech",
+                "text": "That board that Epinel rides looks like a lot of fun.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_3",
+                "type": "Speech",
+                "text": "I was thinking about giving it a try.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_4",
+                "type": "Speech",
+                "text": "But, aren't I a bit too old for that sort of thing?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_5",
+                "type": "Choice",
+                "text": "If you injure yourself at your age, you'll have a harder time recovering.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_12_7"
+            },
+            {
+                "id": "d_counseling_liter_12_6",
+                "type": "Choice",
+                "text": "Age doesn't matter when it comes to hobbies.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_12_11"
+            },
+            {
+                "id": "d_counseling_liter_12_7",
+                "type": "Speech",
+                "text": "*Bark*",
+                "speaker": "Volt",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_8",
+                "type": "Speech",
+                "text": "Looks like Volt agrees with you. I guess you're right... It'd be bad news if I ended up hurting myself...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_10",
+                "type": "Speech",
+                "text": "Oh, screw the both of you!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_12_14"
+            },
+            {
+                "id": "d_counseling_liter_12_11",
+                "type": "Speech",
+                "text": "You've got a point.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_12",
+                "type": "Speech",
+                "text": "Come to think of it, Nikkes don't get any weaker when we age.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_13",
+                "type": "Speech",
+                "text": "All right, it's settled. I'll give it a shot.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_12_14",
+                "type": "Narration",
+                "text": "I listened to Liter as she listed off all the reasons she wanted to give boarding a try.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_13_1",
+                "type": "Speech",
+                "text": "I was thinking of getting Volt a younger brother.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_13_2",
+                "type": "Speech",
+                "text": "I'm not at home a lot, and Volt looks like he's feeling a little lonely.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_13_3",
+                "type": "Speech",
+                "text": "If I get him a little brother to play with, he might not be as lonely.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_13_4",
+                "type": "Choice",
+                "text": "Then you'll just end up with two lonely dogs instead of one.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_13_6"
+            },
+            {
+                "id": "d_counseling_liter_13_5",
+                "type": "Choice",
+                "text": "How about bringing two more dogs?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_13_9"
+            },
+            {
+                "id": "d_counseling_liter_13_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_13_7",
+                "type": "Speech",
+                "text": "You could be right...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_13_8",
+                "type": "Speech",
+                "text": "What I should do instead is just bring Volt with me wherever I go.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_13_12"
+            },
+            {
+                "id": "d_counseling_liter_13_9",
+                "type": "Speech",
+                "text": "Two plus Volt... That'd be three dogs altogether.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_13_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_13_11",
+                "type": "Speech",
+                "text": "No, I can't take care of them like Biscuit.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_13_12",
+                "type": "Narration",
+                "text": "Liter shares a few more of her worries about Volt with me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_14_1",
+                "type": "Speech",
+                "text": "Thanks to advances in medical technology and there not being any risk of car accidents or natural disasters,",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_14_2",
+                "type": "Speech",
+                "text": "I've heard that the elderly population in the Ark is on the rise.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_14_3",
+                "type": "Speech",
+                "text": "Apparently, there's been some friction between the younger populace and the elderly.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_14_4",
+                "type": "Speech",
+                "text": "If you had to choose, who would you side with?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_14_5",
+                "type": "Choice",
+                "text": "I don't want any part in it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_14_7"
+            },
+            {
+                "id": "d_counseling_liter_14_6",
+                "type": "Choice",
+                "text": "I can't choose. I see both sides.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_14_9"
+            },
+            {
+                "id": "d_counseling_liter_14_7",
+                "type": "Speech",
+                "text": "You shouldn't ignore such important social issues!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_14_8",
+                "type": "Speech",
+                "text": "You don't have to pick a side, but you should at least be following it!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_14_12"
+            },
+            {
+                "id": "d_counseling_liter_14_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_14_10",
+                "type": "Speech",
+                "text": "It's important to listen to both sides of the story but...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_14_11",
+                "type": "Speech",
+                "text": "that could easily lead to indifference and you ignoring the issue, so be careful.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_14_12",
+                "type": "Narration",
+                "text": "Liter and I debate about social issues.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_15_1",
+                "type": "Speech",
+                "text": "Time catches up to all of us eventually. Even you'll grow old someday, Greenhorn.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_15_2",
+                "type": "Speech",
+                "text": "So, how old would you like to be?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_15_3",
+                "type": "Choice",
+                "text": "I wanna become an old geezer.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_15_5"
+            },
+            {
+                "id": "d_counseling_liter_15_4",
+                "type": "Choice",
+                "text": "I'd like to live as a hot charming middle-aged guy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_15_8"
+            },
+            {
+                "id": "d_counseling_liter_15_5",
+                "type": "Speech",
+                "text": "Haha, what a sight that would be!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_15_6",
+                "type": "Speech",
+                "text": "Once you get old enough, you stop caring about what anyone else thinks.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_15_7",
+                "type": "Speech",
+                "text": "It might be fun to be able to do whatever you want.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_15_11"
+            },
+            {
+                "id": "d_counseling_liter_15_8",
+                "type": "Speech",
+                "text": "Well, you'll have to do more than just wish for it to make it happen.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_15_9",
+                "type": "Speech",
+                "text": "You'd also need to have the looks for it.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_15_10",
+                "type": "Speech",
+                "text": "However, for you Greenhorn, I can comfortably see that in your future.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_15_11",
+                "type": "Narration",
+                "text": "Liter and I look up various ways on how to stay young.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_16_1",
+                "type": "Speech",
+                "text": "There aren't any restaurants near the construction site I'm working at right now, so I've been packing my lunch.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_16_2",
+                "type": "Speech",
+                "text": "It wasn't so bad at first, but I'm starting to get a little tired of it.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_16_3",
+                "type": "Speech",
+                "text": "What can I do to change things up?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_16_4",
+                "type": "Choice",
+                "text": "I'll ask Emma if she can pack you a lunch.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_16_6"
+            },
+            {
+                "id": "d_counseling_liter_16_5",
+                "type": "Choice",
+                "text": "I'll pack your lunch.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_16_9"
+            },
+            {
+                "id": "d_counseling_liter_16_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_16_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_16_8",
+                "type": "Speech",
+                "text": "... Um, no thanks. That's all right.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_16_12"
+            },
+            {
+                "id": "d_counseling_liter_16_9",
+                "type": "Speech",
+                "text": "You?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_16_10",
+                "type": "Speech",
+                "text": "Haha. That's very sweet of you.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_16_11",
+                "type": "Speech",
+                "text": "But I couldn't ask you to do that. I appreciate your offering though.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_16_12",
+                "type": "Narration",
+                "text": "Liter and I discuss what we think is the perfect packed lunch.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_17_1",
+                "type": "Speech",
+                "text": "Even I will die someday.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_2",
+                "type": "Speech",
+                "text": "I know people say Nikkes are immortal, but nothing in this world lasts forever.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_3",
+                "type": "Speech",
+                "text": "I already know what kind of death I want.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_4",
+                "type": "Speech",
+                "text": "What about you, Greenhorn? Is there any way you'd prefer to leave this world?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_5",
+                "type": "Choice",
+                "text": "Surrounded by beautiful women.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_17_7"
+            },
+            {
+                "id": "d_counseling_liter_17_6",
+                "type": "Choice",
+                "text": "Dying peacefully in my sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_17_10"
+            },
+            {
+                "id": "d_counseling_liter_17_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_8",
+                "type": "Speech",
+                "text": "Er... well, it's a free country, so if that's what you want...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_9",
+                "type": "Speech",
+                "text": "More power to you, I suppose.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_17_13"
+            },
+            {
+                "id": "d_counseling_liter_17_10",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_11",
+                "type": "Speech",
+                "text": "A lot of people prefer that kind of death.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_12",
+                "type": "Speech",
+                "text": "But for you, it just seems so...ordinary.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_17_13",
+                "type": "Narration",
+                "text": "Liter and I have a heavy conversation about death.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_18_1",
+                "type": "Speech",
+                "text": "You can tell a lot about a person by how they clean. I get a big kick out of it.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_2",
+                "type": "Speech",
+                "text": "Rapi, to be honest, is kinda boring. She doesn't spill anything, and never makes a mess.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_3",
+                "type": "Speech",
+                "text": "If I see gunpowder residue everywhere, I know Neon is the culprit.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_4",
+                "type": "Speech",
+                "text": "And for Anis...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_5",
+                "type": "Choice",
+                "text": "Soda cans lying everywhere?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_18_7"
+            },
+            {
+                "id": "d_counseling_liter_18_6",
+                "type": "Choice",
+                "text": "Socks all strewn about?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_18_11"
+            },
+            {
+                "id": "d_counseling_liter_18_7",
+                "type": "Speech",
+                "text": "Precisely. I think she has soda instead of blood pumping through her veins.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_8",
+                "type": "Speech",
+                "text": "She's always tossing the cans on the floor when she's done.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_9",
+                "type": "Speech",
+                "text": "At least put them all in one spot! Everywhere I go, I'm stepping on cans!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_10",
+                "type": "Speech",
+                "text": "If I see one more can, I'm gonna lose it!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_18_15"
+            },
+            {
+                "id": "d_counseling_liter_18_11",
+                "type": "Speech",
+                "text": "Yes! Why on earth does she take off her socks wherever she goes?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_12",
+                "type": "Speech",
+                "text": "Just how many pairs of socks does she have, anyway?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_13",
+                "type": "Speech",
+                "text": "You'd think she just wears them once and then buys another pair later.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_14",
+                "type": "Speech",
+                "text": "Wait... I think that may be actually what's happening! That's it! I'm gonna go talk to her!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_18_15",
+                "type": "Narration",
+                "text": "Liter and I look for Anis.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_19_1",
+                "type": "Speech",
+                "text": "What are some of your favorite foods, Greenhorn?",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_2",
+                "type": "Speech",
+                "text": "Me personally, I like...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_3",
+                "type": "Speech",
+                "text": "Wait, no.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_4",
+                "type": "Speech",
+                "text": "Try guessing what food I like.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_5",
+                "type": "Choice",
+                "text": "... Porridge?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_19_7"
+            },
+            {
+                "id": "d_counseling_liter_19_6",
+                "type": "Choice",
+                "text": "Dog treats?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_19_10"
+            },
+            {
+                "id": "d_counseling_liter_19_7",
+                "type": "Speech",
+                "text": "C'mon, I'm not THAT old!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_9",
+                "type": "Speech",
+                "text": "But I do like eating porridge.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_19_14"
+            },
+            {
+                "id": "d_counseling_liter_19_10",
+                "type": "Speech",
+                "text": "*Bark*",
+                "speaker": "Volt",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_11",
+                "type": "Speech",
+                "text": "Quit making fun of me!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_12",
+                "type": "Speech",
+                "text": "I don't like dog treats, okay?!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_13",
+                "type": "Speech",
+                "text": "So stop looking at me like that!",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_19_14",
+                "type": "Narration",
+                "text": "Liter and I talk about our favorite foods.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_liter_20_1",
+                "type": "Speech",
+                "text": "I'm loving this new toolset that I got.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_20_2",
+                "type": "Speech",
+                "text": "Centi's eyes were practically green with envy.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_20_3",
+                "type": "Speech",
+                "text": "So I just...",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_20_4",
+                "type": "Choice",
+                "text": "You didn't poke her in the eye, did you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_liter_20_6"
+            },
+            {
+                "id": "d_counseling_liter_20_5",
+                "type": "Choice",
+                "text": "Did you sell it for a premium?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_liter_20_8"
+            },
+            {
+                "id": "d_counseling_liter_20_6",
+                "type": "Speech",
+                "text": "I couldn't help myself... wait.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_20_7",
+                "type": "Speech",
+                "text": "I would never do something like that.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": "d_counseling_liter_20_11"
+            },
+            {
+                "id": "d_counseling_liter_20_8",
+                "type": "Speech",
+                "text": "I wouldn't say for a premium, but I did get a few Credits for it.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_20_9",
+                "type": "Speech",
+                "text": "Although I am Centi's master, the closer the relationship, the clearer the account.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_20_10",
+                "type": "Speech",
+                "text": "And after giving money, she will also treasure those tools more.",
+                "speaker": "Liter",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_liter_20_11",
+                "type": "Narration",
+                "text": "Liter teaches me how to distinguish good tools from bad.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

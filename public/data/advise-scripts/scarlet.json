@@ -1,0 +1,1901 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_hongryeon_01_1",
+                "type": "Speech",
+                "text": "Tell me, my Lord. Which do you prefer?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_01_2",
+                "type": "Speech",
+                "text": "Bitter spirits, or sweet?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_01_3",
+                "type": "Choice",
+                "text": "Sweet!",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_01_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_01_4",
+                "type": "Choice",
+                "text": "Bitter!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_01_7"
+            },
+            {
+                "id": "d_counseling_hongryeon_01_5",
+                "type": "Speech",
+                "text": "So you are still partial to alcohol's sweet embrace?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_01_6",
+                "type": "Speech",
+                "text": "My Lord, you are but a novice still.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_01_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_01_7",
+                "type": "Speech",
+                "text": "Never have truer words been spoken! Spirits are much like life itself.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_01_8",
+                "type": "Speech",
+                "text": "One adjusts to life's ebb and flow much in the way you allow the bitterness of spirits to ease down your gullet.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_01_9",
+                "type": "Speech",
+                "text": "You possess a greater mind than your looks let on, my Lord!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_01_10",
+                "type": "Narration",
+                "text": "I spend time with Scarlet and share a drunken conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_02_1",
+                "type": "Speech",
+                "text": "My Lord, do you fancy the Outpost?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_02_2",
+                "type": "Choice",
+                "text": "Yes, I do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_02_4"
+            },
+            {
+                "id": "d_counseling_hongryeon_02_3",
+                "type": "Choice",
+                "text": "No, I don't.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_02_6"
+            },
+            {
+                "id": "d_counseling_hongryeon_02_4",
+                "type": "Speech",
+                "text": "I see. So it is very much to my Lord's liking.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_02_5",
+                "type": "Speech",
+                "text": "Because this is my Lord's home.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_02_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_02_6",
+                "type": "Speech",
+                "text": "Is that so?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_02_7",
+                "type": "Speech",
+                "text": "If I may say so, I myself am not partial to this particular locale.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_02_8",
+                "type": "Speech",
+                "text": "There is no sky, no moonlight, no wind here.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_02_9",
+                "type": "Speech",
+                "text": "It's all rather stuffy.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_02_10",
+                "type": "Narration",
+                "text": "I have a conversation with Scarlet about the Outpost.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_03_1",
+                "type": "Speech",
+                "text": "My Lord, are you not taken with how Fleetly Fading",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_2",
+                "type": "Speech",
+                "text": "doth cleave through Raptures with such aplomb?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_3",
+                "type": "Choice",
+                "text": "Yes, it's truly fascinating.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_03_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_03_4",
+                "type": "Choice",
+                "text": "That's just what blades do.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_03_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_03_5",
+                "type": "Speech",
+                "text": "As it very well should be.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_6",
+                "type": "Speech",
+                "text": "As it stands, the Ark would never endorse the usage of such a dangerous method.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_7",
+                "type": "Speech",
+                "text": "Much blood and many tears were shed in order to acquire this blade.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_8",
+                "type": "Speech",
+                "text": "Perhaps the fact that these sacrifices have ceased",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_9",
+                "type": "Speech",
+                "text": "is what lies behind my Lord's fascination.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_03_14"
+            },
+            {
+                "id": "d_counseling_hongryeon_03_10",
+                "type": "Speech",
+                "text": "Is that so?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_11",
+                "type": "Speech",
+                "text": "You are a strange bird indeed, my Lord.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_12",
+                "type": "Speech",
+                "text": "Most humans tend to be wary when faced with the unfamiliar.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_13",
+                "type": "Speech",
+                "text": "Yet the same cannot be said of you, my Lord. Most peculiar indeed.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_03_14",
+                "type": "Narration",
+                "text": "I have a conversation with Scarlet about Fleetly Fading.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_04_1",
+                "type": "Speech",
+                "text": "What is my Lord's opinion on farming?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_04_2",
+                "type": "Choice",
+                "text": "It would be a rewarding job.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_04_4"
+            },
+            {
+                "id": "d_counseling_hongryeon_04_3",
+                "type": "Choice",
+                "text": "Just hearing that word makes my body ache.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_04_7"
+            },
+            {
+                "id": "d_counseling_hongryeon_04_4",
+                "type": "Speech",
+                "text": "My thoughts exactly!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_04_5",
+                "type": "Speech",
+                "text": "We give the land our labor, and the land provides us with sustenance.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_04_6",
+                "type": "Speech",
+                "text": "Certainly there is no reward more certain, more logical than this.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_04_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_04_7",
+                "type": "Speech",
+                "text": "Could this be due to my Lord never having been trained on a daily basis?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_04_8",
+                "type": "Speech",
+                "text": "I must say, I expected my Lord to have a better appreciation of the philosophy behind tending the land.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_04_9",
+                "type": "Speech",
+                "text": "The thought saddens me.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_04_10",
+                "type": "Narration",
+                "text": "I have a conversation with Scarlet about farming.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_05_1",
+                "type": "Speech",
+                "text": "Snow White appears to be having have a hard time. She must scrounge for morsels to call a feast.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_2",
+                "type": "Speech",
+                "text": "She would be wise to take some of that time spent dispatching Raptures",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_3",
+                "type": "Speech",
+                "text": "and instead devote it to farming, so that she does not starve.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_4",
+                "type": "Choice",
+                "text": "Why don't you farm for her?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_05_6"
+            },
+            {
+                "id": "d_counseling_hongryeon_05_5",
+                "type": "Choice",
+                "text": "She doesn't need sympathy. This is the life she chose.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_05_12"
+            },
+            {
+                "id": "d_counseling_hongryeon_05_6",
+                "type": "Speech",
+                "text": "That, I cannot do.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_7",
+                "type": "Speech",
+                "text": "We have agreed not to involve ourselves in each other's lives.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_8",
+                "type": "Speech",
+                "text": "Living a life of starvation is what Snow White chose.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_9",
+                "type": "Speech",
+                "text": "The moment we intervene,",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_10",
+                "type": "Speech",
+                "text": "we are then meddling in her life.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_11",
+                "type": "Speech",
+                "text": "Therefore, I shan't ever do anything in her stead.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_05_15"
+            },
+            {
+                "id": "d_counseling_hongryeon_05_12",
+                "type": "Speech",
+                "text": "Precisely. Sympathy is for fools.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_13",
+                "type": "Speech",
+                "text": "This is the life that Snow White has chosen.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_14",
+                "type": "Speech",
+                "text": "I have learned something from you today, my Lord.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_05_15",
+                "type": "Narration",
+                "text": "I have a conversation with Scarlet about Snow White.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_06_1",
+                "type": "Speech",
+                "text": "I met Rapunzel at our regular meeting this month.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_06_2",
+                "type": "Speech",
+                "text": "She was practically drooling over you, my Lord.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_06_3",
+                "type": "Speech",
+                "text": "What has transpired between the two of you?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_06_4",
+                "type": "Choice",
+                "text": "I have become a victim of her fantasy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_06_6"
+            },
+            {
+                "id": "d_counseling_hongryeon_06_5",
+                "type": "Choice",
+                "text": "She and I are indulging in a pleasant fantasy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_06_9"
+            },
+            {
+                "id": "d_counseling_hongryeon_06_6",
+                "type": "Speech",
+                "text": "Good heavens.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_06_7",
+                "type": "Speech",
+                "text": "You have truly been put through the wringer, my Lord.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_06_8",
+                "type": "Speech",
+                "text": "But alas, that is merely Rapunzel's way of showing affection.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_06_12"
+            },
+            {
+                "id": "d_counseling_hongryeon_06_9",
+                "type": "Speech",
+                "text": "Yes. Word of you becoming the subject of Rapunzel's fantasy has reached my ears.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_06_10",
+                "type": "Speech",
+                "text": "Have you been enjoying it?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_06_11",
+                "type": "Speech",
+                "text": "My Lord is certainly more... open-minded than I imagined.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_06_12",
+                "type": "Narration",
+                "text": "I have a conversation with Scarlet about Rapunzel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_07_1",
+                "type": "Speech",
+                "text": "Tell me, my Lord, and be honest...",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_07_2",
+                "type": "Speech",
+                "text": "are you positive you do not wish to spend your days on the surface?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_07_3",
+                "type": "Choice",
+                "text": "I've considered it, but I don't think I can.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_07_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_07_4",
+                "type": "Choice",
+                "text": "I don't want to think about it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_07_9"
+            },
+            {
+                "id": "d_counseling_hongryeon_07_5",
+                "type": "Speech",
+                "text": "I see. Very well, then.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_07_6",
+                "type": "Speech",
+                "text": "My Lord has much to protect. I understand that.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_07_7",
+                "type": "Speech",
+                "text": "That is one thing I admire about you, my Lord.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_07_8",
+                "type": "Speech",
+                "text": "I eagerly await your return to the surface.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_07_12"
+            },
+            {
+                "id": "d_counseling_hongryeon_07_9",
+                "type": "Speech",
+                "text": "Haha! You are most adamant.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_07_10",
+                "type": "Speech",
+                "text": "If that is the case, then I am afraid there is nothing much I can do.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_07_11",
+                "type": "Speech",
+                "text": "If however, you one day have a change of heart, do come and find me.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_07_12",
+                "type": "Narration",
+                "text": "I chat with Scarlet while thinking about life up on the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_08_1",
+                "type": "Speech",
+                "text": "Hic... well met, my Lord!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_08_2",
+                "type": "Speech",
+                "text": "Fancy a drop or two?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_08_3",
+                "type": "Choice",
+                "text": "Sure, I'll have a drink.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_08_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_08_4",
+                "type": "Choice",
+                "text": "I think you've had enough for tonight.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_08_7"
+            },
+            {
+                "id": "d_counseling_hongryeon_08_5",
+                "type": "Speech",
+                "text": "Hic... excellent! As a good Lord should!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_08_6",
+                "type": "Speech",
+                "text": "Looks like you know how to have a little fun after all!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_08_9"
+            },
+            {
+                "id": "d_counseling_hongryeon_08_7",
+                "type": "Speech",
+                "text": "Don't say that! I haven't drunk that much.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_08_8",
+                "type": "Speech",
+                "text": "My Lord knows how to be a spoilsport, it seems.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_08_9",
+                "type": "Narration",
+                "text": "I have a cheerful time with Scarlet.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_09_1",
+                "type": "Speech",
+                "text": "Tell me, my Lord. What do you think goes best with spirits?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_09_2",
+                "type": "Choice",
+                "text": "Moonlight and the wind?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_09_4"
+            },
+            {
+                "id": "d_counseling_hongryeon_09_3",
+                "type": "Choice",
+                "text": "Delicious food.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_09_7"
+            },
+            {
+                "id": "d_counseling_hongryeon_09_4",
+                "type": "Speech",
+                "text": "Precisely!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_09_5",
+                "type": "Speech",
+                "text": "There is nothing greater than imbibing spirits while basking in nature.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_09_6",
+                "type": "Speech",
+                "text": "I had you pegged for a tenderfoot, but I had you all wrong!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_09_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_09_7",
+                "type": "Speech",
+                "text": "A fine choice.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_09_8",
+                "type": "Speech",
+                "text": "There's a surfeit of delicious morsels up on the surface.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_09_9",
+                "type": "Speech",
+                "text": "They and spirits make for fine bedfellows.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_09_10",
+                "type": "Narration",
+                "text": "I chat with Scarlet about what goes best with alcohol.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_10_1",
+                "type": "Speech",
+                "text": "Be honest with me.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_2",
+                "type": "Speech",
+                "text": "Do you have a lady in your life?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_3",
+                "type": "Choice",
+                "text": "Yes, a drunkard who wanders the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_10_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_10_4",
+                "type": "Choice",
+                "text": "No one in particular.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_10_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_10_5",
+                "type": "Speech",
+                "text": "A drunkard who wanders the surface, you say...",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_6",
+                "type": "Speech",
+                "text": "Is it me?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_7",
+                "type": "Speech",
+                "text": "Haha! Oh, that makes me very happy, indeed.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_8",
+                "type": "Speech",
+                "text": "Very good! Today I will drink to celebrate the fact that",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_9",
+                "type": "Speech",
+                "text": "my Lord has chosen to make me his Lady!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_10_13"
+            },
+            {
+                "id": "d_counseling_hongryeon_10_10",
+                "type": "Speech",
+                "text": "Hmm... I suppose you have no intention of telling me.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_11",
+                "type": "Speech",
+                "text": "I was hoping this could be our topic of discussion while we drank.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_12",
+                "type": "Speech",
+                "text": "What a pity.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_10_13",
+                "type": "Narration",
+                "text": "I drink with Scarlet while we share a casual conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_11_1",
+                "type": "Speech",
+                "text": "When ye have imbibed one's fair share of spirits, what typically proceeds?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_11_2",
+                "type": "Choice",
+                "text": "I go to sleep.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_11_4"
+            },
+            {
+                "id": "d_counseling_hongryeon_11_3",
+                "type": "Choice",
+                "text": "I end up crying my eyes out.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_11_7"
+            },
+            {
+                "id": "d_counseling_hongryeon_11_4",
+                "type": "Speech",
+                "text": "A most ordinary response.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_11_5",
+                "type": "Speech",
+                "text": "Yes, surely a desirable habit to have in one's company.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_11_6",
+                "type": "Speech",
+                "text": "I must ask ye, what dost thou imagine mine habits are whilst in a state of inebriation?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_11_12"
+            },
+            {
+                "id": "d_counseling_hongryeon_11_7",
+                "type": "Speech",
+                "text": "Spirits do reveal the emotions trapped inside us all.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_11_8",
+                "type": "Speech",
+                "text": "Allowing the tears to flow when one must is paramount.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_11_9",
+                "type": "Speech",
+                "text": "Should one keep it bottled up for too long, ye might manifest stomach ulcers and the like.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_11_10",
+                "type": "Speech",
+                "text": "I shan't be the most proficient in comforting those in need,",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_11_11",
+                "type": "Speech",
+                "text": "but I am a most capable drinking companion, so do reach out to me when the time is right.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_11_12",
+                "type": "Narration",
+                "text": "Scarlet and I have a conversation about drinking habits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_12_1",
+                "type": "Speech",
+                "text": "Snow White inquired unto me what I find so enchanting about drinking.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_12_2",
+                "type": "Speech",
+                "text": "Tell me, my good fellow, why do you drink?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_12_3",
+                "type": "Choice",
+                "text": "I like the taste.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_12_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_12_4",
+                "type": "Choice",
+                "text": "To get drunk.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_12_8"
+            },
+            {
+                "id": "d_counseling_hongryeon_12_5",
+                "type": "Speech",
+                "text": "Indeed, spirits are a most intoxicating elixir.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_12_6",
+                "type": "Speech",
+                "text": "It is most upsetting that others of the female persuasion shan't appreciate its flavor.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_12_7",
+                "type": "Speech",
+                "text": "To that end, I brought some of the finest spirits with me. Would you perchance care to have a nip?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_12_12"
+            },
+            {
+                "id": "d_counseling_hongryeon_12_8",
+                "type": "Speech",
+                "text": "To imbibe simply to be three sheets to the wind is a rather trying experience on one's body.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_12_9",
+                "type": "Speech",
+                "text": "There are as many flavors of spirit as there are stars in the sky, and you can have your pick of the lot.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_12_10",
+                "type": "Speech",
+                "text": "However, one must take care not to overdo it, as inebriation must not be one's end goal.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_12_11",
+                "type": "Speech",
+                "text": "With that being said, why don't we have a drink?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_12_12",
+                "type": "Narration",
+                "text": "Scarlet and I had a conversation about different flavors of alcohol.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_13_1",
+                "type": "Speech",
+                "text": "To drink inquietude is most pleasurable,",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_13_2",
+                "type": "Speech",
+                "text": "but to drink in revelry, accompanied by music, can be quite alluring as well.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_13_3",
+                "type": "Speech",
+                "text": "When ye takes to the bottle, what music dost thou prefer to listen to?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_13_4",
+                "type": "Choice",
+                "text": "Jazz music, to help set the mood.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_13_6"
+            },
+            {
+                "id": "d_counseling_hongryeon_13_5",
+                "type": "Choice",
+                "text": "Folk music that has a good feel to it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_13_9"
+            },
+            {
+                "id": "d_counseling_hongryeon_13_6",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_13_7",
+                "type": "Speech",
+                "text": "Perhaps not in alignment with mine own preference, but thou doth piqued mine interest.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_13_8",
+                "type": "Speech",
+                "text": "Let our ears take in the dulcet tones of jazz next time we indulge in the spirits.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_13_12"
+            },
+            {
+                "id": "d_counseling_hongryeon_13_9",
+                "type": "Speech",
+                "text": "So you also are one for folk music!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_13_10",
+                "type": "Speech",
+                "text": "Let us indulge in spirits under the moonlight, all accompanied by the dulcet tones of folk melodies.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_13_11",
+                "type": "Speech",
+                "text": "I shall bring the finest spirits that suit the music.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_13_12",
+                "type": "Narration",
+                "text": "Scarlet and I talk about what type of music goes well with alcohol.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_14_1",
+                "type": "Speech",
+                "text": "I must say, the weather up on the surface has been most inclement.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_14_2",
+                "type": "Speech",
+                "text": "What say ye to imbibing the spirits on a rainy day?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_14_3",
+                "type": "Choice",
+                "text": "I think it's perfectly acceptable to drink on a rainy day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_14_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_14_4",
+                "type": "Choice",
+                "text": "I personally think it's better to drink on a sunny day.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_14_8"
+            },
+            {
+                "id": "d_counseling_hongryeon_14_5",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_14_6",
+                "type": "Speech",
+                "text": "Indeed, to enjoy the bottle amidst the rainfall is an experience like no other. Poetic, emotional...",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_14_7",
+                "type": "Speech",
+                "text": "However, as mine eyes shan't chance upon the light of the moon, I do not prefer it.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_14_11"
+            },
+            {
+                "id": "d_counseling_hongryeon_14_8",
+                "type": "Speech",
+                "text": "It is as I thought. You and I are peas in a pod, my good fellow.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_14_9",
+                "type": "Speech",
+                "text": "To drink on a clear day is ideal, as only then can one capture the moonlight in one's glass.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_14_10",
+                "type": "Speech",
+                "text": "The moonlight and a gentle breeze are perfect bedfellows for a fine glass of spirits.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_14_11",
+                "type": "Narration",
+                "text": "Scarlet and I talk about what we think is the perfect drinking weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_15_1",
+                "type": "Speech",
+                "text": "If perchance one day we doth succeed in reclaiming the surface, what shall ye do with the days that remain?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_15_2",
+                "type": "Choice",
+                "text": "I'd be content living a quiet life on my own patch of land.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_15_4"
+            },
+            {
+                "id": "d_counseling_hongryeon_15_3",
+                "type": "Choice",
+                "text": "I'd want to spend it with the friends that are closest to me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_15_7"
+            },
+            {
+                "id": "d_counseling_hongryeon_15_4",
+                "type": "Speech",
+                "text": "A fine notion indeed.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_15_5",
+                "type": "Speech",
+                "text": "Up until now, thy life has been one full of strife and fractiousness.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_15_6",
+                "type": "Speech",
+                "text": "The day will come when we can bask in the light of the sun, and the moon alike.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_15_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_15_7",
+                "type": "Speech",
+                "text": "Ye will live a life much different than mine.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_15_8",
+                "type": "Speech",
+                "text": "As it stands, the surface is a land of great strife and disarray.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_15_9",
+                "type": "Speech",
+                "text": "When this all comes to an end, mine greatest desire is to live a quiet life.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_15_10",
+                "type": "Narration",
+                "text": "Scarlet and I dreamt about the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_16_1",
+                "type": "Speech",
+                "text": "My good fellow, what are your views on romance?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_2",
+                "type": "Speech",
+                "text": "Given the sad state of our world, is it something we must have?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_3",
+                "type": "Speech",
+                "text": "Or does it not have a place in the world as it is?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_4",
+                "type": "Choice",
+                "text": "As soon as you start overanalyzing it, any romance ceases to exist.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_16_6"
+            },
+            {
+                "id": "d_counseling_hongryeon_16_5",
+                "type": "Choice",
+                "text": "I think you could make a case for both.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_16_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_16_6",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_7",
+                "type": "Speech",
+                "text": "I cannot deny the truth in your words.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_8",
+                "type": "Speech",
+                "text": "The moment one begins to ponder such matters, they are drained of any semblance of romance.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_9",
+                "type": "Speech",
+                "text": "Well then, let us drink to romance on this day.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_16_13"
+            },
+            {
+                "id": "d_counseling_hongryeon_16_10",
+                "type": "Speech",
+                "text": "Haha, you would not perchance be reticent on siding with either argument, would you?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_11",
+                "type": "Speech",
+                "text": "In an ideal world, perhaps you could get by with such a vague answer.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_12",
+                "type": "Speech",
+                "text": "It is, however, not suitable for a world in which thy life is constantly in peril.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_16_13",
+                "type": "Narration",
+                "text": "Scarlet and I debate the meaning of romance.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_17_1",
+                "type": "Speech",
+                "text": "My good fellow, what say ye about",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_17_2",
+                "type": "Speech",
+                "text": "drinking until one loses one's faculties?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_17_3",
+                "type": "Choice",
+                "text": "When someone drinks to excess, there is always a reason behind it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_17_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_17_4",
+                "type": "Choice",
+                "text": "To me, that's allowing alcohol to consume you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_17_8"
+            },
+            {
+                "id": "d_counseling_hongryeon_17_5",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_17_6",
+                "type": "Speech",
+                "text": "I dare not attempt to presume what others are going through,",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_17_7",
+                "type": "Speech",
+                "text": "but when one begins to depend on the spirits, it is most undesirable. Thy memory goes blank, despite there being no vicissitudes in the outside world.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_17_11"
+            },
+            {
+                "id": "d_counseling_hongryeon_17_8",
+                "type": "Speech",
+                "text": "Our minds are one with this issue.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_17_9",
+                "type": "Speech",
+                "text": "I am the one consuming the alcohol, not the other way around.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_17_10",
+                "type": "Speech",
+                "text": "So, let us raise our glasses and drink. Ye and I shall be the ones in command of the bottle.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_17_11",
+                "type": "Narration",
+                "text": "Scarlet and I enjoyed a drink.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_18_1",
+                "type": "Speech",
+                "text": "Many lives are at play in the realm of agriculture.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_2",
+                "type": "Speech",
+                "text": "I smite the pests that afflict my crops. I drive out or slay the beasts that roam my fields.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_3",
+                "type": "Speech",
+                "text": "There are those to whom farming is but a puritanical pursuit, one which the stench of death does not penetrate. They are mistaken.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_4",
+                "type": "Speech",
+                "text": "Tell me, my good fellow,",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_5",
+                "type": "Speech",
+                "text": "What says ye about achieving something from the sacrifice of something else?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_6",
+                "type": "Choice",
+                "text": "There must be another way.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_18_8"
+            },
+            {
+                "id": "d_counseling_hongryeon_18_7",
+                "type": "Choice",
+                "text": "Sacrifice is inevitable.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_18_11"
+            },
+            {
+                "id": "d_counseling_hongryeon_18_8",
+                "type": "Speech",
+                "text": "Aye, should I be thee, I would feel the same.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_9",
+                "type": "Speech",
+                "text": "But I myself believe nothing can be accomplished without sacrifice.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_10",
+                "type": "Speech",
+                "text": "I hope that one day ye shall come to this realization as well.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_18_14"
+            },
+            {
+                "id": "d_counseling_hongryeon_18_11",
+                "type": "Speech",
+                "text": "It is truly so?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_12",
+                "type": "Speech",
+                "text": "Aye, I feel the same as thee, but",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_13",
+                "type": "Speech",
+                "text": "it is not an answer that warms the cockles of mine heart.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_18_14",
+                "type": "Narration",
+                "text": "Scarlet teaches me about various farming methods.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_19_1",
+                "type": "Speech",
+                "text": "Perchance this is a foolish inquiry, but",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_19_2",
+                "type": "Speech",
+                "text": "hath ye ever felt as if thine and another were intertwined in some way?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_19_3",
+                "type": "Choice",
+                "text": "Yes, I have.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_19_5"
+            },
+            {
+                "id": "d_counseling_hongryeon_19_4",
+                "type": "Choice",
+                "text": "No, I haven't.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_19_8"
+            },
+            {
+                "id": "d_counseling_hongryeon_19_5",
+                "type": "Speech",
+                "text": "Is that so?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_19_6",
+                "type": "Speech",
+                "text": "That is why I have felt a connection with you from the very beginning.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_19_7",
+                "type": "Speech",
+                "text": "We must partake in the bottle the next time we meet.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_19_10"
+            },
+            {
+                "id": "d_counseling_hongryeon_19_8",
+                "type": "Speech",
+                "text": "Is that so?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_19_9",
+                "type": "Speech",
+                "text": "To live such a life, would be freedom incarnate.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_19_10",
+                "type": "Narration",
+                "text": "Scarlet and I have a conversation about fate.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_hongryeon_20_1",
+                "type": "Speech",
+                "text": "My good fellow,",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_20_2",
+                "type": "Speech",
+                "text": "up on the surface, flowers bloom as far as the eye can see.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_20_3",
+                "type": "Speech",
+                "text": "Would ye perchance express any interest in gazing upon them?",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_20_4",
+                "type": "Choice",
+                "text": "You go on ahead. I'll follow you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_hongryeon_20_6"
+            },
+            {
+                "id": "d_counseling_hongryeon_20_5",
+                "type": "Choice",
+                "text": "I have other things I have to take care of.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_hongryeon_20_9"
+            },
+            {
+                "id": "d_counseling_hongryeon_20_6",
+                "type": "Speech",
+                "text": "Very well.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_20_7",
+                "type": "Speech",
+                "text": "I shall find the perfect place, and await your arrival.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_20_8",
+                "type": "Speech",
+                "text": "You shall have a glass of spirits awaiting you, do not keep it waiting long!",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": "d_counseling_hongryeon_20_12"
+            },
+            {
+                "id": "d_counseling_hongryeon_20_9",
+                "type": "Speech",
+                "text": "By the heavens...",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_20_10",
+                "type": "Speech",
+                "text": "ye have but nary a shrivel of appreciation for sentimentality.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_20_11",
+                "type": "Speech",
+                "text": "I shan't say whether such a thing is unfortunate, or merely pitiable.",
+                "speaker": "Scarlet",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_hongryeon_20_12",
+                "type": "Narration",
+                "text": "I have a conversation with Scarlet about going to see the flowers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

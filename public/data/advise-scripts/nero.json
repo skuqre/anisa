@@ -1,0 +1,2517 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_nero_01_1",
+                "type": "Speech",
+                "text": "Scoops.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_01_2",
+                "type": "Speech",
+                "text": "I feel like going somewhere high up.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_01_3",
+                "type": "Choice",
+                "text": "How about the upper part of the Command Center?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_01_5"
+            },
+            {
+                "id": "d_counseling_nero_01_4",
+                "type": "Choice",
+                "text": "Do you want me to carry you on my back?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_01_8"
+            },
+            {
+                "id": "d_counseling_nero_01_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_01_6",
+                "type": "Speech",
+                "text": "That's too high for me.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_01_7",
+                "type": "Speech",
+                "text": "Just... can I lie on your lap instead?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_01_13"
+            },
+            {
+                "id": "d_counseling_nero_01_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_01_9",
+                "type": "Speech",
+                "text": "Well... That'd be pawesome,",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_01_10",
+                "type": "Speech",
+                "text": "but it might be tiring for you.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_01_11",
+                "type": "Speech",
+                "text": "Just let me lie on your lap,",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_01_12",
+                "type": "Speech",
+                "text": "that'll be enough.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_01_13"
+            },
+            {
+                "id": "d_counseling_nero_01_13",
+                "type": "Narration",
+                "text": "I let Nero lie on my lap.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_02_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_02_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_02_3",
+                "type": "Choice",
+                "text": "... Meow?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_02_5"
+            },
+            {
+                "id": "d_counseling_nero_02_4",
+                "type": "Choice",
+                "text": "... Sleepy?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_02_8"
+            },
+            {
+                "id": "d_counseling_nero_02_5",
+                "type": "Speech",
+                "text": "What are you doing?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_02_6",
+                "type": "Speech",
+                "text": "*Yawn* I'm feeling sleepy.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_02_7",
+                "type": "Speech",
+                "text": "Can we talk while lying down today?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_02_11"
+            },
+            {
+                "id": "d_counseling_nero_02_8",
+                "type": "Speech",
+                "text": "*Yawn* Yes.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_02_9",
+                "type": "Speech",
+                "text": "You're very observant.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_02_10",
+                "type": "Speech",
+                "text": "Can I lie down now?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_02_11"
+            },
+            {
+                "id": "d_counseling_nero_02_11",
+                "type": "Narration",
+                "text": "Nero curls up on the couch in the Commander's Room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_03_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_03_2",
+                "type": "Monologue",
+                "text": "Nero approaches me and rubs her head against my arm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_03_3",
+                "type": "Choice",
+                "text": "Touch her head.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_03_5"
+            },
+            {
+                "id": "d_counseling_nero_03_4",
+                "type": "Choice",
+                "text": "Want some treats?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_03_8"
+            },
+            {
+                "id": "d_counseling_nero_03_5",
+                "type": "Monologue",
+                "text": "Nero moves away.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_03_6",
+                "type": "Speech",
+                "text": "I don't want pats. Do you have any food?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_03_7",
+                "type": "Speech",
+                "text": "I feel like snacking.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_03_11"
+            },
+            {
+                "id": "d_counseling_nero_03_8",
+                "type": "Speech",
+                "text": "You're so tactful, Scoops.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_03_9",
+                "type": "Speech",
+                "text": "I actually feel like snacking right now.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_03_10",
+                "type": "Speech",
+                "text": "It'd be purrfect if you could give me some.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_03_11"
+            },
+            {
+                "id": "d_counseling_nero_03_11",
+                "type": "Narration",
+                "text": "I give Nero some cat treats.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_04_1",
+                "type": "Speech",
+                "text": "I'm curious about something.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_2",
+                "type": "Speech",
+                "text": "Do you also want to understand cats?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_3",
+                "type": "Choice",
+                "text": "I can already communicate with you though.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_04_5"
+            },
+            {
+                "id": "d_counseling_nero_04_4",
+                "type": "Choice",
+                "text": "I don't mind if I don't understand them. They're cute anyway.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_04_12"
+            },
+            {
+                "id": "d_counseling_nero_04_5",
+                "type": "Speech",
+                "text": "Are you sure about that?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_6",
+                "type": "Speech",
+                "text": "Then... Meow.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_7",
+                "type": "Self",
+                "text": "??",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_8",
+                "type": "Speech",
+                "text": "Meow meow. Meow meow meow meow. Meow.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_9",
+                "type": "Speech",
+                "text": "Did you get that?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_10",
+                "type": "Self",
+                "text": "... No.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_11",
+                "type": "Speech",
+                "text": "I knew it.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_04_18"
+            },
+            {
+                "id": "d_counseling_nero_04_12",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_13",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_14",
+                "type": "Speech",
+                "text": "Do you really find me cute when you look at me?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_15",
+                "type": "Monologue",
+                "text": "I nod.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_16",
+                "type": "Speech",
+                "text": "Then look to your heart's content.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_04_17",
+                "type": "Speech",
+                "text": "I can make you feel better.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_04_18"
+            },
+            {
+                "id": "d_counseling_nero_04_18",
+                "type": "Narration",
+                "text": "Nero teaches me the language of cats.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_05_1",
+                "type": "Speech",
+                "text": "Scoops.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_2",
+                "type": "Speech",
+                "text": "Be honest with me.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_3",
+                "type": "Speech",
+                "text": "Which one do you like better: cats or dogs?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_4",
+                "type": "Choice",
+                "text": "I prefer cats.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_05_6"
+            },
+            {
+                "id": "d_counseling_nero_05_5",
+                "type": "Choice",
+                "text": "I prefer dogs.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_05_10"
+            },
+            {
+                "id": "d_counseling_nero_05_6",
+                "type": "Speech",
+                "text": "I knew it,",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_7",
+                "type": "Speech",
+                "text": "it's so obvious.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_8",
+                "type": "Monologue",
+                "text": "Nero sways her tail lightly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_9",
+                "type": "Speech",
+                "text": "Of course, cats are the best choice.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_05_17"
+            },
+            {
+                "id": "d_counseling_nero_05_10",
+                "type": "Speech",
+                "text": "!!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_11",
+                "type": "Speech",
+                "text": "Is that a well-considered answer, meow?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_12",
+                "type": "Speech",
+                "text": "Do you really like dogs over cats?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_13",
+                "type": "Speech",
+                "text": "That hurts...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_14",
+                "type": "Self",
+                "text": "... I was just kidding.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_15",
+                "type": "Speech",
+                "text": "... Right?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_05_16",
+                "type": "Speech",
+                "text": "I knew it.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_05_17"
+            },
+            {
+                "id": "d_counseling_nero_05_17",
+                "type": "Narration",
+                "text": "Nero begins purring happily.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_06_1",
+                "type": "Speech",
+                "text": "Scoops.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_2",
+                "type": "Monologue",
+                "text": "Nero takes out a can of tuna.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_3",
+                "type": "Choice",
+                "text": "Shall I open it for you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_06_5"
+            },
+            {
+                "id": "d_counseling_nero_06_4",
+                "type": "Choice",
+                "text": "Thank you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_06_9"
+            },
+            {
+                "id": "d_counseling_nero_06_5",
+                "type": "Speech",
+                "text": "Meow!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_6",
+                "type": "Speech",
+                "text": "You're so considerate, I love it.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_7",
+                "type": "Speech",
+                "text": "I've been waiting for you to return",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_8",
+                "type": "Speech",
+                "text": "so I could ask you to open it for me.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_06_14"
+            },
+            {
+                "id": "d_counseling_nero_06_9",
+                "type": "Speech",
+                "text": "??",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_10",
+                "type": "Monologue",
+                "text": "Nero slaps the floor with her tail.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_11",
+                "type": "Speech",
+                "text": "This isn't for you. I want you to open it for me.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_12",
+                "type": "Speech",
+                "text": "I've been waiting for you to come back",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_06_13",
+                "type": "Speech",
+                "text": "because I trust you to lend me a helping paw.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_06_14"
+            },
+            {
+                "id": "d_counseling_nero_06_14",
+                "type": "Narration",
+                "text": "I help Nero open the canned tuna.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_07_1",
+                "type": "Speech",
+                "text": "Scoops, things have been tough lately.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_2",
+                "type": "Speech",
+                "text": "Any idea why?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_3",
+                "type": "Choice",
+                "text": "Because Biscuit keeps asking you to play with her?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_07_5"
+            },
+            {
+                "id": "d_counseling_nero_07_4",
+                "type": "Choice",
+                "text": "What could be causing someone like you to struggle?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_07_7"
+            },
+            {
+                "id": "d_counseling_nero_07_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_6",
+                "type": "Speech",
+                "text": "You're a genius, Scoops.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_07_11"
+            },
+            {
+                "id": "d_counseling_nero_07_7",
+                "type": "Speech",
+                "text": "What do you mean?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_8",
+                "type": "Speech",
+                "text": "Every creature has its own struggles.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_9",
+                "type": "Self",
+                "text": "Is something bothering you?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_10",
+                "type": "Speech",
+                "text": "Well...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_07_11"
+            },
+            {
+                "id": "d_counseling_nero_07_11",
+                "type": "Speech",
+                "text": "Biscuit has been asking me to play with her a lot lately.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_12",
+                "type": "Speech",
+                "text": "She never seems to get tired, and if I agree to play with her, I have to do it all day.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_13",
+                "type": "Speech",
+                "text": "It's so exhausting.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_07_14",
+                "type": "Narration",
+                "text": "I lay a blanket out on the couch so Nero can rest.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_08_1",
+                "type": "Speech",
+                "text": "Meow...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_2",
+                "type": "Monologue",
+                "text": "Nero cleans her face with her hands.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_3",
+                "type": "Narration",
+                "text": "*Lick* *Lick*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_4",
+                "type": "Speech",
+                "text": "Purr... Purr...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_5",
+                "type": "Speech",
+                "text": "Meow.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_6",
+                "type": "Speech",
+                "text": "I'm done washing my face.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_7",
+                "type": "Choice",
+                "text": "You wash your face just like a cat.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_08_9"
+            },
+            {
+                "id": "d_counseling_nero_08_8",
+                "type": "Choice",
+                "text": "As a Nikke, you can't just clean yourself like that and call it a day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_08_13"
+            },
+            {
+                "id": "d_counseling_nero_08_9",
+                "type": "Speech",
+                "text": "That's because I am a cat.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_10",
+                "type": "Speech",
+                "text": "Meow.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_11",
+                "type": "Speech",
+                "text": "Anyway, I'm going now.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_12",
+                "type": "Monologue",
+                "text": "Nero stalks away.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_nero_08_16"
+            },
+            {
+                "id": "d_counseling_nero_08_13",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_14",
+                "type": "Speech",
+                "text": "I hate water!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_08_15",
+                "type": "Monologue",
+                "text": "Nero scurries away.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_nero_08_16"
+            },
+            {
+                "id": "d_counseling_nero_08_16",
+                "type": "Narration",
+                "text": "I set out to search for Nero, who has left.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_09_1",
+                "type": "Monologue",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_2",
+                "type": "Monologue",
+                "text": "It's time for our counseling session, but Nero hasn't shown up yet.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_3",
+                "type": "Choice",
+                "text": "Call out loudly for Nero.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_09_5"
+            },
+            {
+                "id": "d_counseling_nero_09_4",
+                "type": "Choice",
+                "text": "Quietly swing the cat teaser in the air.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_09_10"
+            },
+            {
+                "id": "d_counseling_nero_09_5",
+                "type": "Narration",
+                "text": "*Clack*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_6",
+                "type": "Monologue",
+                "text": "A sound comes from the window.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_7",
+                "type": "Narration",
+                "text": "*Thud thud thud*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_8",
+                "type": "Self",
+                "text": "...?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_9",
+                "type": "Monologue",
+                "text": "But Nero still doesn't appear.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_nero_09_17"
+            },
+            {
+                "id": "d_counseling_nero_09_10",
+                "type": "Narration",
+                "text": "*Clack*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_11",
+                "type": "Monologue",
+                "text": "A sound comes from the window.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_12",
+                "type": "Narration",
+                "text": "*Thud thud thud*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_13",
+                "type": "Speech",
+                "text": "Meow!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_14",
+                "type": "Monologue",
+                "text": "There she is!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_15",
+                "type": "Self",
+                "text": "Let's start our session\u2014",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_09_16",
+                "type": "Speech",
+                "text": "Aren't you going to swing the toy anymore?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_09_17"
+            },
+            {
+                "id": "d_counseling_nero_09_17",
+                "type": "Narration",
+                "text": "I guess I'll have to schedule the session with her for another time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_10_1",
+                "type": "Speech",
+                "text": "*Sniff sniff*",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_2",
+                "type": "Speech",
+                "text": "Meow? You smell so good.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_3",
+                "type": "Choice",
+                "text": "Could it be the milk I drank?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_10_5"
+            },
+            {
+                "id": "d_counseling_nero_10_4",
+                "type": "Choice",
+                "text": "Huh? I don't know what smell you're talking about.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_10_9"
+            },
+            {
+                "id": "d_counseling_nero_10_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_6",
+                "type": "Speech",
+                "text": "Milk...!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_7",
+                "type": "Speech",
+                "text": "My nose knows best.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_8",
+                "type": "Speech",
+                "text": "This sweet scent is definitely from delicious milk.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_10_14"
+            },
+            {
+                "id": "d_counseling_nero_10_9",
+                "type": "Speech",
+                "text": "No... I smell something delicious.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_10",
+                "type": "Speech",
+                "text": "*Sniff sniff sniff*",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_11",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_12",
+                "type": "Speech",
+                "text": "It's the smell of milk.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_13",
+                "type": "Speech",
+                "text": "I'm sure you drank milk.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_10_14"
+            },
+            {
+                "id": "d_counseling_nero_10_14",
+                "type": "Speech",
+                "text": "Do you have any left?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_15",
+                "type": "Speech",
+                "text": "I want some too. Some sweet, sweet milk.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_16",
+                "type": "Self",
+                "text": "... No.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_17",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_10_18",
+                "type": "Narration",
+                "text": "Nero and I go buy some milk together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_11_1",
+                "type": "Speech",
+                "text": "Scoops, what kind of weather do you like?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_11_2",
+                "type": "Choice",
+                "text": "Rainy weather.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_11_4"
+            },
+            {
+                "id": "d_counseling_nero_11_3",
+                "type": "Choice",
+                "text": "Sunny weather.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_11_8"
+            },
+            {
+                "id": "d_counseling_nero_11_4",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_11_5",
+                "type": "Speech",
+                "text": "I don't like rainy days.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_11_6",
+                "type": "Speech",
+                "text": "Too much water falling, and no sun. It gets so cold.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_11_7",
+                "type": "Speech",
+                "text": "... I hate the cold.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_11_13"
+            },
+            {
+                "id": "d_counseling_nero_11_8",
+                "type": "Speech",
+                "text": "You like sunny days too?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_11_9",
+                "type": "Speech",
+                "text": "Me too.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_11_10",
+                "type": "Speech",
+                "text": "The sun makes everything warm.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_11_11",
+                "type": "Speech",
+                "text": "My fur becomes fluffy, and my paws feel warm.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_11_12",
+                "type": "Speech",
+                "text": "I love feeling warm.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_11_13"
+            },
+            {
+                "id": "d_counseling_nero_11_13",
+                "type": "Narration",
+                "text": "Nero and I hope for a bright and sunny day tomorrow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_12_1",
+                "type": "Speech",
+                "text": "It feels so cozy and comfortable hanging out with Admi.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_12_2",
+                "type": "Speech",
+                "text": "Purr... I just feel that she smells like me.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_12_3",
+                "type": "Choice",
+                "text": "Because you're both children?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_12_5"
+            },
+            {
+                "id": "d_counseling_nero_12_4",
+                "type": "Choice",
+                "text": "Because you're both cats?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_12_8"
+            },
+            {
+                "id": "d_counseling_nero_12_5",
+                "type": "Speech",
+                "text": "Children?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_12_6",
+                "type": "Speech",
+                "text": "I don't know about Admi, but I'm not a child.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_12_7",
+                "type": "Speech",
+                "text": "I was trying to say that we both smell like cats.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_12_12"
+            },
+            {
+                "id": "d_counseling_nero_12_8",
+                "type": "Speech",
+                "text": "Purr... That may be the case.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_12_9",
+                "type": "Speech",
+                "text": "Admi also smells like a cat.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_12_10",
+                "type": "Speech",
+                "text": "I'm not sure if it's because she likes cats or because she resembles one...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_12_11",
+                "type": "Speech",
+                "text": "Either way, I feel pawsitive and comfortable whenever I see her.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_12_12"
+            },
+            {
+                "id": "d_counseling_nero_12_12",
+                "type": "Narration",
+                "text": "Nero and I talk about Admi while thinking of her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_13_1",
+                "type": "Speech",
+                "text": "Biscuit gets really scared when she sees Leona",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_2",
+                "type": "Speech",
+                "text": "even when Leona didn't do anything.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_3",
+                "type": "Speech",
+                "text": "I wonder why.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_4",
+                "type": "Choice",
+                "text": "Maybe her existence itself is intimidating?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_13_6"
+            },
+            {
+                "id": "d_counseling_nero_13_5",
+                "type": "Choice",
+                "text": "Maybe Biscuit is just too timid?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_13_10"
+            },
+            {
+                "id": "d_counseling_nero_13_6",
+                "type": "Speech",
+                "text": "Meow?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_7",
+                "type": "Speech",
+                "text": "I'm not sure about that.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_8",
+                "type": "Speech",
+                "text": "Leona is just bigger in size, but she's not scary.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_9",
+                "type": "Speech",
+                "text": "No matter how I think of it, I believe it's because Biscuit is simply a scaredy-dog.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_13_14"
+            },
+            {
+                "id": "d_counseling_nero_13_10",
+                "type": "Speech",
+                "text": "Do you think so too?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_11",
+                "type": "Speech",
+                "text": "I agree.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_12",
+                "type": "Speech",
+                "text": "Leona is just bigger in size, but she's not scary.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_13",
+                "type": "Speech",
+                "text": "Biscuit is just a scaredy-dog.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_13_14"
+            },
+            {
+                "id": "d_counseling_nero_13_14",
+                "type": "Speech",
+                "text": "That's just how small animals are.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_15",
+                "type": "Self",
+                "text": "Why don't you help them get closer?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_16",
+                "type": "Speech",
+                "text": "No way.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_17",
+                "type": "Self",
+                "text": "Why not?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_18",
+                "type": "Speech",
+                "text": "It's too much work.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_13_19",
+                "type": "Narration",
+                "text": "I talk to Nero about how to get along well with friends.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_14_1",
+                "type": "Speech",
+                "text": "Meow.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_2",
+                "type": "Speech",
+                "text": "Biscuit has been so annoying lately...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_3",
+                "type": "Choice",
+                "text": "Should I tell her to stay away from you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_14_5"
+            },
+            {
+                "id": "d_counseling_nero_14_4",
+                "type": "Choice",
+                "text": "But wouldn't it be a shame if she's not around?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_14_10"
+            },
+            {
+                "id": "d_counseling_nero_14_5",
+                "type": "Speech",
+                "text": "?!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_6",
+                "type": "Speech",
+                "text": "... No.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_7",
+                "type": "Speech",
+                "text": "I need her to pass me treats when I'm feeling lazy.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_8",
+                "type": "Speech",
+                "text": "When I'm hot, I need her to fan me...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_9",
+                "type": "Speech",
+                "text": "And when I'm cold, I need her to tuck me in.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_14_15"
+            },
+            {
+                "id": "d_counseling_nero_14_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_11",
+                "type": "Speech",
+                "text": "... True.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_12",
+                "type": "Speech",
+                "text": "She's a bother sometimes, but when she's not here, I miss her.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_13",
+                "type": "Speech",
+                "text": "When I'm hot, I need her to fan me.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_14",
+                "type": "Speech",
+                "text": "And when I'm cold, I need her to tuck me in.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_14_15"
+            },
+            {
+                "id": "d_counseling_nero_14_15",
+                "type": "Speech",
+                "text": "So...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_16",
+                "type": "Speech",
+                "text": "I need her.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_17",
+                "type": "Self",
+                "text": "Because she's an important friend?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_18",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_19",
+                "type": "Speech",
+                "text": "No need to state the obvious.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_14_20",
+                "type": "Narration",
+                "text": "Nero and I discuss Biscuit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_15_1",
+                "type": "Speech",
+                "text": "Scoops, I'm in big trouble.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_15_2",
+                "type": "Speech",
+                "text": "Mary and Pepper said that they'll come looking for me if I don't get a check-up within this week.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_15_3",
+                "type": "Speech",
+                "text": "Where do you think would be a good place to hide?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_15_4",
+                "type": "Choice",
+                "text": "How about the Commander's Room?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_15_6"
+            },
+            {
+                "id": "d_counseling_nero_15_5",
+                "type": "Choice",
+                "text": "I'll be with you. Let's go to the hospital.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_15_10"
+            },
+            {
+                "id": "d_counseling_nero_15_6",
+                "type": "Speech",
+                "text": "Thanks.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_15_7",
+                "type": "Speech",
+                "text": "Then I'll hide under the bed.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_15_8",
+                "type": "Speech",
+                "text": "... No, scratch that. I should stay in the closet.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_15_9",
+                "type": "Speech",
+                "text": "That doesn't seem right...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_15_13"
+            },
+            {
+                "id": "d_counseling_nero_15_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_15_11",
+                "type": "Speech",
+                "text": "No way, I'm not going to the hospital. It's too scary.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_15_12",
+                "type": "Speech",
+                "text": "I'll find somewhere to hide on my own.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_15_13"
+            },
+            {
+                "id": "d_counseling_nero_15_13",
+                "type": "Narration",
+                "text": "I comfort Nero, who is clearly frightened.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_16_1",
+                "type": "Monologue",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_2",
+                "type": "Monologue",
+                "text": "It's time for counseling, but Nero hasn't shown up yet.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_3",
+                "type": "Monologue",
+                "text": "No cat toys are in sight either.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_4",
+                "type": "Choice",
+                "text": "Open an empty box and place it on the floor.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_16_6"
+            },
+            {
+                "id": "d_counseling_nero_16_5",
+                "type": "Choice",
+                "text": "Make sounds with an empty plastic bag.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_16_14"
+            },
+            {
+                "id": "d_counseling_nero_16_6",
+                "type": "Narration",
+                "text": "*Clack*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_7",
+                "type": "Monologue",
+                "text": "There's a rustling sound from the bed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_8",
+                "type": "Self",
+                "text": "?!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_9",
+                "type": "Monologue",
+                "text": "Nero rolls out from under the bed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_10",
+                "type": "Speech",
+                "text": "Oh, it's a box.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_11",
+                "type": "Monologue",
+                "text": "Nero jumps into the box.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_12",
+                "type": "Self",
+                "text": "Okay, let's start our session\u2014",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_13",
+                "type": "Speech",
+                "text": "Being in this box makes me sleepy...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_16_22"
+            },
+            {
+                "id": "d_counseling_nero_16_14",
+                "type": "Narration",
+                "text": "*Clack*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_15",
+                "type": "Monologue",
+                "text": "There's a rustling sound from the bed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_16",
+                "type": "Self",
+                "text": "?!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_17",
+                "type": "Monologue",
+                "text": "Nero rolls out from under the bed.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_18",
+                "type": "Speech",
+                "text": "... It's not a treat.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_19",
+                "type": "Narration",
+                "text": "*Thud thud thud thud*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_20",
+                "type": "Monologue",
+                "text": "Nero dashes out of the door!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_16_21",
+                "type": "Self",
+                "text": "!!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_nero_16_22"
+            },
+            {
+                "id": "d_counseling_nero_16_22",
+                "type": "Narration",
+                "text": "I guess I'll have to reschedule Nero's session for another time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_17_1",
+                "type": "Speech",
+                "text": "Scoops.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_2",
+                "type": "Speech",
+                "text": "What will you do when you feel lonely?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_3",
+                "type": "Choice",
+                "text": "I'll hold your hand.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_17_5"
+            },
+            {
+                "id": "d_counseling_nero_17_4",
+                "type": "Choice",
+                "text": "I'll grab your tail.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_17_10"
+            },
+            {
+                "id": "d_counseling_nero_17_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_6",
+                "type": "Speech",
+                "text": "My hands will get sweaty if we hold hands for too long.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_7",
+                "type": "Speech",
+                "text": "But...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_8",
+                "type": "Speech",
+                "text": "If that's what you want, I won't mind.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_9",
+                "type": "Speech",
+                "text": "So... Make sure to visit me when you're lonely.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_17_14"
+            },
+            {
+                "id": "d_counseling_nero_17_10",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_11",
+                "type": "Speech",
+                "text": "No way!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_12",
+                "type": "Monologue",
+                "text": "Nero hides her tail.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_17_13",
+                "type": "Speech",
+                "text": "My tail is off-limits, even for you.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_17_14"
+            },
+            {
+                "id": "d_counseling_nero_17_14",
+                "type": "Narration",
+                "text": "I talk to Nero about ways to relieve loneliness.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_18_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_2",
+                "type": "Monologue",
+                "text": "Nero stares out the window in a daze.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_3",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_4",
+                "type": "Choice",
+                "text": "Leave her be.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_18_6"
+            },
+            {
+                "id": "d_counseling_nero_18_5",
+                "type": "Choice",
+                "text": "... What are you up to?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_18_9"
+            },
+            {
+                "id": "d_counseling_nero_18_6",
+                "type": "Speech",
+                "text": "... Meow.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_7",
+                "type": "Monologue",
+                "text": "After a while, Nero turns her attention to her surroundings.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_8",
+                "type": "Speech",
+                "text": "Found ya.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_18_12"
+            },
+            {
+                "id": "d_counseling_nero_18_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_10",
+                "type": "Speech",
+                "text": "You startled me.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_11",
+                "type": "Speech",
+                "text": "I was staring out of the window, and I didn't notice you were here.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_18_12"
+            },
+            {
+                "id": "d_counseling_nero_18_12",
+                "type": "Self",
+                "text": "What were you looking at?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_13",
+                "type": "Speech",
+                "text": "Nothing.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_14",
+                "type": "Self",
+                "text": "??",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_15",
+                "type": "Speech",
+                "text": "Just gazing out of the window makes me feel content.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_16",
+                "type": "Speech",
+                "text": "Would you like to join me?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_18_17",
+                "type": "Narration",
+                "text": "I take a brief break, gazing out of the window with Nero.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_19_1",
+                "type": "Speech",
+                "text": "Meowww...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_2",
+                "type": "Monologue",
+                "text": "*Shiver*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_3",
+                "type": "Speech",
+                "text": "It's too cold today...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_4",
+                "type": "Choice",
+                "text": "Put some clothes over her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_19_6"
+            },
+            {
+                "id": "d_counseling_nero_19_5",
+                "type": "Choice",
+                "text": "Put a blanket over her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_19_10"
+            },
+            {
+                "id": "d_counseling_nero_19_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_7",
+                "type": "Speech",
+                "text": "Meow... I don't want more clothes...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_8",
+                "type": "Speech",
+                "text": "I want a cozy blanket...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_9",
+                "type": "Speech",
+                "text": "... and you.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_19_15"
+            },
+            {
+                "id": "d_counseling_nero_19_10",
+                "type": "Speech",
+                "text": "Meow!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_11",
+                "type": "Speech",
+                "text": "Blankets are the best when it's cold outside.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_12",
+                "type": "Speech",
+                "text": "Purr... Purr...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_13",
+                "type": "Speech",
+                "text": "It'll be warmer if we cuddle together...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_19_14",
+                "type": "Speech",
+                "text": "Can't we do that?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_19_15"
+            },
+            {
+                "id": "d_counseling_nero_19_15",
+                "type": "Narration",
+                "text": "I snuggle under the blanket with Nero to stay warm.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nero_20_1",
+                "type": "Speech",
+                "text": "Scoops, do you know any place that will brighten up the day?",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_2",
+                "type": "Choice",
+                "text": "The shelter where you're at.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nero_20_4"
+            },
+            {
+                "id": "d_counseling_nero_20_3",
+                "type": "Choice",
+                "text": "The supermarket where I can find everything I need.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nero_20_8"
+            },
+            {
+                "id": "d_counseling_nero_20_4",
+                "type": "Speech",
+                "text": "Hmm, that answer feels a bit too deliberate...",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_5",
+                "type": "Monologue",
+                "text": "Nero sways her tail lightly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_6",
+                "type": "Speech",
+                "text": "But it does make me happy.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_7",
+                "type": "Speech",
+                "text": "You can come by often.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_20_15"
+            },
+            {
+                "id": "d_counseling_nero_20_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_9",
+                "type": "Speech",
+                "text": "... Meow.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_10",
+                "type": "Speech",
+                "text": "That's not the answer I expected.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_11",
+                "type": "Speech",
+                "text": "You're too practical.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_12",
+                "type": "Self",
+                "text": "But they have cat toys and treats there. Isn't that great?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_13",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nero_20_14",
+                "type": "Speech",
+                "text": "... It seems like the supermarket could be a pawesome place.",
+                "speaker": "Nero",
+                "points": null,
+                "jumpTo": "d_counseling_nero_20_15"
+            },
+            {
+                "id": "d_counseling_nero_20_15",
+                "type": "Narration",
+                "text": "Nero and I decide to go to a place that makes us both happy.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

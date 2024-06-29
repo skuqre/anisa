@@ -1,0 +1,2085 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_nihilister_01_1",
+                "type": "Self",
+                "text": "Your hairstyle is rather unique.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_01_2",
+                "type": "Speech",
+                "text": "Huh? Why are you talking about my hair all of a sudden?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_01_3",
+                "type": "Speech",
+                "text": "... How exactly is it unique?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_01_4",
+                "type": "Choice",
+                "text": "It looks like a firework going off mid-explosion.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_01_6"
+            },
+            {
+                "id": "d_counseling_nihilister_01_5",
+                "type": "Choice",
+                "text": "It looks like a majestic lion's mane.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_01_9"
+            },
+            {
+                "id": "d_counseling_nihilister_01_6",
+                "type": "Speech",
+                "text": "Haha, fireworks, huh?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_01_7",
+                "type": "Speech",
+                "text": "You've got a good eye. Better than I initially thought, at least.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_01_8",
+                "type": "Speech",
+                "text": "However, you can suck up to me all you want, but I'm never holding your hand.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_01_12"
+            },
+            {
+                "id": "d_counseling_nihilister_01_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_01_10",
+                "type": "Speech",
+                "text": "Have you ever seen a lion before?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_01_11",
+                "type": "Speech",
+                "text": "If you have nothing better to do than pester me, I suggest you go to sleep, Human.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_01_12",
+                "type": "Monologue",
+                "text": "My conversation with Nihilister didn't last very long.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_02_1",
+                "type": "Self",
+                "text": "How strong would you say you are?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_2",
+                "type": "Speech",
+                "text": "Do you really have to ask?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_3",
+                "type": "Speech",
+                "text": "You should know better than most. You've fought against me before.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_4",
+                "type": "Speech",
+                "text": "Let me throw that question back at you.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_5",
+                "type": "Speech",
+                "text": "How strong do I look to you?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_6",
+                "type": "Choice",
+                "text": "Um... your strength is beyond compare.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_02_8"
+            },
+            {
+                "id": "d_counseling_nihilister_02_7",
+                "type": "Choice",
+                "text": "You've got a clear weakness, so I don't feel you're all that strong.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_02_12"
+            },
+            {
+                "id": "d_counseling_nihilister_02_8",
+                "type": "Speech",
+                "text": "I should have expected as much from a weakling like yourself.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_9",
+                "type": "Speech",
+                "text": "Or is this just tiresome flattery?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_10",
+                "type": "Speech",
+                "text": "Now, it goes without saying that I blow you and your compadres out of the water,",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_11",
+                "type": "Speech",
+                "text": "but so long as my cohorts and the Queen exist, I don't want any brown-nosing from you.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_02_16"
+            },
+            {
+                "id": "d_counseling_nihilister_02_12",
+                "type": "Speech",
+                "text": "You have no idea how much that hurts coming from a human.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_13",
+                "type": "Speech",
+                "text": "What's worse... it's true.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_14",
+                "type": "Speech",
+                "text": "I'm working on it.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_15",
+                "type": "Speech",
+                "text": "One day, I will personally take care of everyone who ever had any doubts about my strength.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_02_16",
+                "type": "Monologue",
+                "text": "I share a short conversation with Nihilister.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_03_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_2",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_3",
+                "type": "Choice",
+                "text": "You seem stressed.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_03_5"
+            },
+            {
+                "id": "d_counseling_nihilister_03_4",
+                "type": "Choice",
+                "text": "You seem chipper.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_03_9"
+            },
+            {
+                "id": "d_counseling_nihilister_03_5",
+                "type": "Speech",
+                "text": "That obvious, huh?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_6",
+                "type": "Speech",
+                "text": "I've got an appetite for destruction, and I'm starving.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_7",
+                "type": "Speech",
+                "text": "I feel like my patience is quickly coming to an end.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_8",
+                "type": "Speech",
+                "text": "A word of advice: If you don't want to get on my nerves, get lost.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_03_13"
+            },
+            {
+                "id": "d_counseling_nihilister_03_9",
+                "type": "Speech",
+                "text": "... Chipper?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_10",
+                "type": "Speech",
+                "text": "Does me being helpless strike you as something that'd make me happy?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_11",
+                "type": "Speech",
+                "text": "Don't test my patience any further. Run along and get back to work.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_12",
+                "type": "Speech",
+                "text": "Before I incinerate this place and everyone in it.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_03_13",
+                "type": "Monologue",
+                "text": "It seems that leaving Nihilister alone is the best option for today.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_04_1",
+                "type": "Self",
+                "text": "Nihilister, let's eat together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_2",
+                "type": "Speech",
+                "text": "Sorry.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_3",
+                "type": "Speech",
+                "text": "I don't really eat food.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_4",
+                "type": "Speech",
+                "text": "Besides, what reason would I have to eat with you of all people?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_5",
+                "type": "Choice",
+                "text": "Fair point.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_04_7"
+            },
+            {
+                "id": "d_counseling_nihilister_04_6",
+                "type": "Choice",
+                "text": "Come on, indulge me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_04_10"
+            },
+            {
+                "id": "d_counseling_nihilister_04_7",
+                "type": "Speech",
+                "text": "Good. You catch on quick.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_8",
+                "type": "Speech",
+                "text": "How irritating it must be to have a human body.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_9",
+                "type": "Speech",
+                "text": "Having to eat and sleep even in a situation like this.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_04_13"
+            },
+            {
+                "id": "d_counseling_nihilister_04_10",
+                "type": "Speech",
+                "text": "Do you not understand English?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_11",
+                "type": "Speech",
+                "text": "Let me put this in a way that your little pea brain will comprehend:",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_12",
+                "type": "Speech",
+                "text": "No.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_04_13",
+                "type": "Monologue",
+                "text": "After being rejected by Nihilister, I finish my food on my own.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_05_1",
+                "type": "Speech",
+                "text": "Have you always had a such flagrant disregard for your own well-being?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_05_2",
+                "type": "Choice",
+                "text": "What? No, of course not.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_05_4"
+            },
+            {
+                "id": "d_counseling_nihilister_05_3",
+                "type": "Choice",
+                "text": "Kinda.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_05_8"
+            },
+            {
+                "id": "d_counseling_nihilister_05_4",
+                "type": "Speech",
+                "text": "Oh?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_05_5",
+                "type": "Speech",
+                "text": "What about the way you act towards me?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_05_6",
+                "type": "Speech",
+                "text": "If that's not considered careless, I don't know what is.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_05_7",
+                "type": "Speech",
+                "text": "I'm disappointed you didn't pick up on that sooner.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_05_11"
+            },
+            {
+                "id": "d_counseling_nihilister_05_8",
+                "type": "Speech",
+                "text": "I don't know if you're the luckiest person on earth, or something else...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_05_9",
+                "type": "Speech",
+                "text": "Anyway, I can clearly see how far you're willing to go.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_05_10",
+                "type": "Speech",
+                "text": "A mere human willing to cast themselves into the fiery pits of hell itself... Very intriguing.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_05_11",
+                "type": "Monologue",
+                "text": "Our short conversation ends.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_06_1",
+                "type": "Self",
+                "text": "...",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_06_2",
+                "type": "Speech",
+                "text": "...?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_06_3",
+                "type": "Speech",
+                "text": "What are you starting at?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_06_4",
+                "type": "Choice",
+                "text": "I was admiring your weapons.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_06_6"
+            },
+            {
+                "id": "d_counseling_nihilister_06_5",
+                "type": "Choice",
+                "text": "I was admiring your face.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_06_9"
+            },
+            {
+                "id": "d_counseling_nihilister_06_6",
+                "type": "Speech",
+                "text": "Oh, these?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_06_7",
+                "type": "Speech",
+                "text": "These little guys really come in handy at times.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_06_8",
+                "type": "Speech",
+                "text": "They can turn pretty much anything into a shish kebab instantaneously.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_06_12"
+            },
+            {
+                "id": "d_counseling_nihilister_06_9",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_06_10",
+                "type": "Speech",
+                "text": "You're lucky. Any other human wouldn't get to live long enough to see my face.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_06_11",
+                "type": "Speech",
+                "text": "At any rate, you're weirding me out.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_06_12",
+                "type": "Monologue",
+                "text": "I have a conversation with Nihilister.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_07_1",
+                "type": "Self",
+                "text": "Nihilister, I have something I'm curious about.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_07_2",
+                "type": "Speech",
+                "text": "Your curiosity knows no bounds, Human.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_07_3",
+                "type": "Speech",
+                "text": "I'm not in the mood to deal with your incessant questions.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_07_4",
+                "type": "Speech",
+                "text": "Fine, you get to ask one question. And make it quick.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_07_5",
+                "type": "Choice",
+                "text": "Do you still have any of your memories as a Nikke?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_07_7"
+            },
+            {
+                "id": "d_counseling_nihilister_07_6",
+                "type": "Choice",
+                "text": "On second thought, I'll come back when you're feeling better.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_07_9"
+            },
+            {
+                "id": "d_counseling_nihilister_07_7",
+                "type": "Speech",
+                "text": "No.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_07_8",
+                "type": "Speech",
+                "text": "Satisfied? Now get out. You're getting on my last nerve.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_07_12"
+            },
+            {
+                "id": "d_counseling_nihilister_07_9",
+                "type": "Speech",
+                "text": "Actually...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_07_10",
+                "type": "Speech",
+                "text": "I'm feeling a little better now.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_07_11",
+                "type": "Speech",
+                "text": "What are you so curious about, anyway?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_07_12",
+                "type": "Monologue",
+                "text": "I have a conversation with Nihilister while trying to cheer her up.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_08_1",
+                "type": "Self",
+                "text": "Do you have any hobbies?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_2",
+                "type": "Speech",
+                "text": "Hobbies?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_3",
+                "type": "Speech",
+                "text": "Not really.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_4",
+                "type": "Speech",
+                "text": "What kind of thing did you think I'd do in my spare time?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_5",
+                "type": "Choice",
+                "text": "... Reading?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_08_7"
+            },
+            {
+                "id": "d_counseling_nihilister_08_6",
+                "type": "Choice",
+                "text": "... Exercise?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_08_10"
+            },
+            {
+                "id": "d_counseling_nihilister_08_7",
+                "type": "Speech",
+                "text": "Look, Human.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_8",
+                "type": "Speech",
+                "text": "I don't know how you got it in your head that I'm some kind of a bookworm,",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_9",
+                "type": "Speech",
+                "text": "but reading isn't really my bag, all right?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_08_13"
+            },
+            {
+                "id": "d_counseling_nihilister_08_10",
+                "type": "Speech",
+                "text": "Well, I do feel a sort of release of tension whenever I break things.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_11",
+                "type": "Speech",
+                "text": "I suppose you could call that a kind of exercise.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_12",
+                "type": "Speech",
+                "text": "All right then, my hobby is destroying things, haha!",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_08_13",
+                "type": "Monologue",
+                "text": "Nihilister and I continue to talk about hobbies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_09_1",
+                "type": "Speech",
+                "text": "*Sigh* I'm going stir-crazy in this place.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_2",
+                "type": "Speech",
+                "text": "Something needs to change or I'm going to start busting heads.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_3",
+                "type": "Speech",
+                "text": "Got any ideas how I can release some tension?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_4",
+                "type": "Choice",
+                "text": "Let's do some breathing exercises.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_09_6"
+            },
+            {
+                "id": "d_counseling_nihilister_09_5",
+                "type": "Choice",
+                "text": "We could play a game.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_09_10"
+            },
+            {
+                "id": "d_counseling_nihilister_09_6",
+                "type": "Speech",
+                "text": "Oh, that's a good idea!",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_7",
+                "type": "Speech",
+                "text": "Some fire breathing is sure to do me some good.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_8",
+                "type": "Speech",
+                "text": "*whoooosh*",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_9",
+                "type": "Self",
+                "text": "Wait! Not fire!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_09_13"
+            },
+            {
+                "id": "d_counseling_nihilister_09_10",
+                "type": "Speech",
+                "text": "What kind of game?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_11",
+                "type": "Speech",
+                "text": "Whoever kills the most people wins?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_12",
+                "type": "Speech",
+                "text": "It doesn't matter what game you pick, I'll stomp you either way.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_09_13",
+                "type": "Monologue",
+                "text": "I spend time distracting Nihilister from her ennui.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_10_1",
+                "type": "Self",
+                "text": "What do you think it'd be like if Vapaus was easy to obtain?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_2",
+                "type": "Speech",
+                "text": "Either I wouldn't be here, or you wouldn't be here.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_3",
+                "type": "Speech",
+                "text": "Either of the two.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_4",
+                "type": "Choice",
+                "text": "Maybe both of us would be here.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_10_6"
+            },
+            {
+                "id": "d_counseling_nihilister_10_5",
+                "type": "Choice",
+                "text": "Or maybe neither of us would be here.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_10_9"
+            },
+            {
+                "id": "d_counseling_nihilister_10_6",
+                "type": "Speech",
+                "text": "If the two of us saved each other, then perhaps that'd be a possibility.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_7",
+                "type": "Speech",
+                "text": "The only thing is that we wouldn't have done that.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_8",
+                "type": "Speech",
+                "text": "At least I wouldn't have.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_10_14"
+            },
+            {
+                "id": "d_counseling_nihilister_10_9",
+                "type": "Speech",
+                "text": "No, impossible.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_10",
+                "type": "Speech",
+                "text": "If no human could kill me, then it would stand to reason that I would be the ultimate weapon.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_11",
+                "type": "Speech",
+                "text": "That would mean I'd have to do whatever it took to defend my title.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_12",
+                "type": "Speech",
+                "text": "Anyone who defied me would be obliterated and turned into ashes.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_13",
+                "type": "Speech",
+                "text": "That would include you, Human.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_10_14",
+                "type": "Monologue",
+                "text": "Nihilister and I pontificate about other hypothetical scenarios.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_11_1",
+                "type": "Speech",
+                "text": "Human, how do you like it?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_11_2",
+                "type": "Choice",
+                "text": "... Sexy?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_11_4"
+            },
+            {
+                "id": "d_counseling_nihilister_11_3",
+                "type": "Choice",
+                "text": "... Well-done?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_11_8"
+            },
+            {
+                "id": "d_counseling_nihilister_11_4",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_11_5",
+                "type": "Speech",
+                "text": "What are you talking about?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_11_6",
+                "type": "Speech",
+                "text": "I'm talking about how you like your steaks.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_11_7",
+                "type": "Speech",
+                "text": "Meanwhile, you're with your head in the gutter talking about what can I only presume is women.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_11_11"
+            },
+            {
+                "id": "d_counseling_nihilister_11_8",
+                "type": "Speech",
+                "text": "Finally, something we can agree on.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_11_9",
+                "type": "Speech",
+                "text": "Nothing beats a nice crispy char on some well-done meat.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_11_10",
+                "type": "Speech",
+                "text": "If you're exposing your food to open flame anyway, why not go all the way and go for well-done?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_11_11",
+                "type": "Monologue",
+                "text": "I share a short conversation with Nihilister.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_12_1",
+                "type": "Self",
+                "text": "Nihilister, I need fire.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_2",
+                "type": "Speech",
+                "text": "Fire? Is it a battle?!",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_3",
+                "type": "Speech",
+                "text": "What do I need to burn?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_4",
+                "type": "Choice",
+                "text": "I need some help making a bonfire.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_12_6"
+            },
+            {
+                "id": "d_counseling_nihilister_12_5",
+                "type": "Choice",
+                "text": "I just need a small fire to cook some food.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_12_10"
+            },
+            {
+                "id": "d_counseling_nihilister_12_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_7",
+                "type": "Speech",
+                "text": "Fine. Just this once.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_8",
+                "type": "Speech",
+                "text": "If you ever call me again for something this menial again,",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_9",
+                "type": "Speech",
+                "text": "you'll be what's burning.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_12_15"
+            },
+            {
+                "id": "d_counseling_nihilister_12_10",
+                "type": "Speech",
+                "text": "Wait a minute...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_11",
+                "type": "Speech",
+                "text": "Are you telling me you actually found some decent food on the surface? That's no mean feat.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_12",
+                "type": "Speech",
+                "text": "I suppose I can make an exception and do you a favor.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_13",
+                "type": "Speech",
+                "text": "I'll cook you up nice and crispy.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_14",
+                "type": "Self",
+                "text": "No, wait...!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_12_15",
+                "type": "Monologue",
+                "text": "With Nihilister's help, I manage to procure some fire.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_13_1",
+                "type": "Speech",
+                "text": "You said whichever Nikkes stick by your side end up performing better, didn't you?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_13_2",
+                "type": "Speech",
+                "text": "What's the secret? Does it really amount to just sticking close to you?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_13_3",
+                "type": "Choice",
+                "text": "My devilish good looks.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_13_5"
+            },
+            {
+                "id": "d_counseling_nihilister_13_4",
+                "type": "Choice",
+                "text": "My skills as a commander.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_13_9"
+            },
+            {
+                "id": "d_counseling_nihilister_13_5",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_13_6",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_13_7",
+                "type": "Speech",
+                "text": "You're somewhat easy on the eyes, I'll give you that.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_13_8",
+                "type": "Speech",
+                "text": "But not enough to entice all these Nikkes into following you.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_13_12"
+            },
+            {
+                "id": "d_counseling_nihilister_13_9",
+                "type": "Speech",
+                "text": "Pompous humans trying to be commanders for the clout are a dime a dozen.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_13_10",
+                "type": "Speech",
+                "text": "Fame isn't what you're after, I know that much.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_13_11",
+                "type": "Speech",
+                "text": "If you don't want to tell me, just say so.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_13_12",
+                "type": "Monologue",
+                "text": "I have a short conversation with Nihilister.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_14_1",
+                "type": "Self",
+                "text": "What would you most want in a partner, Nihilister?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_2",
+                "type": "Speech",
+                "text": "That's a bit random...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_3",
+                "type": "Speech",
+                "text": "What I'd want most...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_4",
+                "type": "Speech",
+                "text": "I don't think I've ever thought about it.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_5",
+                "type": "Choice",
+                "text": "How about someone who protects you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_14_7"
+            },
+            {
+                "id": "d_counseling_nihilister_14_6",
+                "type": "Choice",
+                "text": "Or someone who needs protecting?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_14_10"
+            },
+            {
+                "id": "d_counseling_nihilister_14_7",
+                "type": "Speech",
+                "text": "Nah.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_8",
+                "type": "Speech",
+                "text": "I prefer to do my own fighting.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_9",
+                "type": "Speech",
+                "text": "If someone got in my way trying to protect me, I'd probably end up toasting them.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_14_13"
+            },
+            {
+                "id": "d_counseling_nihilister_14_10",
+                "type": "Speech",
+                "text": "Hmm... you're probably right. I suppose it'd be better for me to protect them.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_11",
+                "type": "Speech",
+                "text": "That way I could be in battles all day.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_12",
+                "type": "Speech",
+                "text": "Sounds kinda fun, don't you think?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_14_13",
+                "type": "Monologue",
+                "text": "I have a short conversation with Nihilister.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_15_1",
+                "type": "Speech",
+                "text": "Why are humans trying to reclaim the surface?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_15_2",
+                "type": "Speech",
+                "text": "From what I hear, the Ark is perfectly livable.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_15_3",
+                "type": "Choice",
+                "text": "We're reclaiming what was originally ours.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_15_5"
+            },
+            {
+                "id": "d_counseling_nihilister_15_4",
+                "type": "Choice",
+                "text": "It gives us the strength to go on.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_15_9"
+            },
+            {
+                "id": "d_counseling_nihilister_15_5",
+                "type": "Speech",
+                "text": "What, so you own it?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_15_6",
+                "type": "Speech",
+                "text": "Don't be ridiculous.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_15_7",
+                "type": "Speech",
+                "text": "There's no such thing as ownership in this world.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_15_8",
+                "type": "Speech",
+                "text": "Those with power, steal, and those without power get stolen from.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_15_12"
+            },
+            {
+                "id": "d_counseling_nihilister_15_9",
+                "type": "Speech",
+                "text": "Hm...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_15_10",
+                "type": "Speech",
+                "text": "I think I'm beginning to understand why you pathetic humans are still clinging on.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_15_11",
+                "type": "Speech",
+                "text": "Muddling through is still a way of surviving.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_15_12",
+                "type": "Monologue",
+                "text": "Nihilister and I have a deep conversation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_16_1",
+                "type": "Self",
+                "text": "Can you tell me more about Liberalio?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_16_2",
+                "type": "Speech",
+                "text": "Ha! Now you're asking about my cohorts? You really have become brazen.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_16_3",
+                "type": "Speech",
+                "text": "Why should I tell you anything?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_16_4",
+                "type": "Choice",
+                "text": "She's someone you'll have to deal with down the line anyway.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_16_6"
+            },
+            {
+                "id": "d_counseling_nihilister_16_5",
+                "type": "Choice",
+                "text": "Something tells me you two aren't on good terms.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_16_9"
+            },
+            {
+                "id": "d_counseling_nihilister_16_6",
+                "type": "Speech",
+                "text": "True enough.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_16_7",
+                "type": "Speech",
+                "text": "But the same goes for you too, Human.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_16_8",
+                "type": "Speech",
+                "text": "We may have made a deal, but we didn't shake on it.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_16_12"
+            },
+            {
+                "id": "d_counseling_nihilister_16_9",
+                "type": "Speech",
+                "text": "We could never be on good terms.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_16_10",
+                "type": "Speech",
+                "text": "She's a mind-numbingly boring narcoleptic child.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_16_11",
+                "type": "Speech",
+                "text": "At any rate, I haven't gone toe to toe with her, so I don't have much else to add.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_16_12",
+                "type": "Monologue",
+                "text": "I have a short conversation with Nihilister.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_17_1",
+                "type": "Self",
+                "text": "Nihilister, how is life up on the surface?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_2",
+                "type": "Speech",
+                "text": "I don't know what you want me to tell you.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_3",
+                "type": "Speech",
+                "text": "Are you genuinely curious about what I do up on the surface?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_4",
+                "type": "Choice",
+                "text": "I'm just curious about what it's like to live on the surface all the time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_17_6"
+            },
+            {
+                "id": "d_counseling_nihilister_17_5",
+                "type": "Choice",
+                "text": "It's not often I get to talk to someone who spends most of their time up on the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_17_10"
+            },
+            {
+                "id": "d_counseling_nihilister_17_6",
+                "type": "Speech",
+                "text": "That's not a good enough reason to ask such a stupid question.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_7",
+                "type": "Speech",
+                "text": "I burn. I destroy. I kill.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_8",
+                "type": "Speech",
+                "text": "That's what life on the surface consists of.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_9",
+                "type": "Speech",
+                "text": "If you're looking for a sappy love story, then go read a book.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_17_13"
+            },
+            {
+                "id": "d_counseling_nihilister_17_10",
+                "type": "Speech",
+                "text": "You've spent a good chunk of time up there, you should know. You've probably seen your fair share of mangled-up bodies.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_11",
+                "type": "Speech",
+                "text": "I hate to tell you, but you've seen pretty much all there is to see.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_12",
+                "type": "Speech",
+                "text": "As for myself, I have a ball up here torching, destroying, and killing whatever I see.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_17_13",
+                "type": "Monologue",
+                "text": "Nihilister and I have a conversation about the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_18_1",
+                "type": "Self",
+                "text": "Do you know about Johan?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_2",
+                "type": "Speech",
+                "text": "Johan?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_3",
+                "type": "Speech",
+                "text": "Who is that?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_4",
+                "type": "Choice",
+                "text": "The commander who fired the Vapaus at you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_18_6"
+            },
+            {
+                "id": "d_counseling_nihilister_18_5",
+                "type": "Choice",
+                "text": "The commander who was at Eden.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_18_9"
+            },
+            {
+                "id": "d_counseling_nihilister_18_6",
+                "type": "Speech",
+                "text": "Oh, that little pest?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_7",
+                "type": "Speech",
+                "text": "Why bring up such an embarrassing memory?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_8",
+                "type": "Speech",
+                "text": "Now you managed to worsen my bad mood.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_18_13"
+            },
+            {
+                "id": "d_counseling_nihilister_18_9",
+                "type": "Speech",
+                "text": "So, I see that pest has a name.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_10",
+                "type": "Speech",
+                "text": "He is an irksome fly that",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_11",
+                "type": "Speech",
+                "text": "insists on getting in my way at every turn.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_12",
+                "type": "Speech",
+                "text": "I will take great pleasure in cremating him myself.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_18_13",
+                "type": "Monologue",
+                "text": "Nihilister and I converse while thinking of Johan.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_19_1",
+                "type": "Monologue",
+                "text": "I go towards Nihilister and hand her some water.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_2",
+                "type": "Speech",
+                "text": "...?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_3",
+                "type": "Speech",
+                "text": "What is this?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_4",
+                "type": "Choice",
+                "text": "Want some?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_19_6"
+            },
+            {
+                "id": "d_counseling_nihilister_19_5",
+                "type": "Choice",
+                "text": "If we're talking about elements, water beats fire.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_19_9"
+            },
+            {
+                "id": "d_counseling_nihilister_19_6",
+                "type": "Speech",
+                "text": "Don't try and kiss up to me.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_7",
+                "type": "Speech",
+                "text": "Besides, I know how important water is for humans who are up on the surface.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_8",
+                "type": "Speech",
+                "text": "You drink it.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_19_13"
+            },
+            {
+                "id": "d_counseling_nihilister_19_9",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_10",
+                "type": "Speech",
+                "text": "And?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_11",
+                "type": "Speech",
+                "text": "Am I supposed to get into a fistfight with this bottle of water?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_12",
+                "type": "Speech",
+                "text": "Are you intentionally trying to piss me off?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_19_13",
+                "type": "Monologue",
+                "text": "I have a short conversation with Nihilister.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_nihilister_20_1",
+                "type": "Self",
+                "text": "What do you think it would have been like if we met under different circumstances?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_20_2",
+                "type": "Speech",
+                "text": "What do you mean?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_20_3",
+                "type": "Speech",
+                "text": "How would that change anything?",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_20_4",
+                "type": "Choice",
+                "text": "Perhaps we'd be on better terms.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_nihilister_20_6"
+            },
+            {
+                "id": "d_counseling_nihilister_20_5",
+                "type": "Choice",
+                "text": "Maybe the situation wouldn't be as dire as it is.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_nihilister_20_10"
+            },
+            {
+                "id": "d_counseling_nihilister_20_6",
+                "type": "Speech",
+                "text": "I don't know if you're just a happy-go-lucky person, or if you're delusional.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_20_7",
+                "type": "Speech",
+                "text": "The only way that we would ever be on friendly terms",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_20_8",
+                "type": "Speech",
+                "text": "is if we were reborn as siblings.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_20_9",
+                "type": "Speech",
+                "text": "If you came here to waste my time on insipid fantasies, then I suggest you leave.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": "d_counseling_nihilister_20_12"
+            },
+            {
+                "id": "d_counseling_nihilister_20_10",
+                "type": "Speech",
+                "text": "Believe me, things between you and me are as good as they could ever get.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_20_11",
+                "type": "Speech",
+                "text": "You know why? Because you're still alive.",
+                "speaker": "Nihilister",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_nihilister_20_12",
+                "type": "Monologue",
+                "text": "I have a short conversation with Nihilister.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

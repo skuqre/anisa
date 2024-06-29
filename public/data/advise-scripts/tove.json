@@ -1,0 +1,2037 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_tove_01_1",
+                "type": "Speech",
+                "text": "The great survivors of the olden days,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_2",
+                "type": "Speech",
+                "text": "they always had a cameraman following them around.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_3",
+                "type": "Speech",
+                "text": "They would be chased by the bears together, run from avalanches together,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_4",
+                "type": "Speech",
+                "text": "eat roasted cockroaches together, jump off cliffs together...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_5",
+                "type": "Speech",
+                "text": "When will I ever be able to find a cameraman like that?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_6",
+                "type": "Choice",
+                "text": "How about you do it yourself?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_01_8"
+            },
+            {
+                "id": "d_counseling_tove_01_7",
+                "type": "Choice",
+                "text": "I can do it when I retire.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_01_11"
+            },
+            {
+                "id": "d_counseling_tove_01_8",
+                "type": "Speech",
+                "text": "Well, there are some pretty high-end selfie sticks these days.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_9",
+                "type": "Speech",
+                "text": "... No, that wouldn't be right.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_10",
+                "type": "Speech",
+                "text": "You can't experience the passionate bonds that are formed from facing extreme conditions together by yourself!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_01_15"
+            },
+            {
+                "id": "d_counseling_tove_01_11",
+                "type": "Speech",
+                "text": "Come on. That's too far in the future. Can't you just do it now?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_12",
+                "type": "Speech",
+                "text": "It's fine if you just think of it as part-time...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_13",
+                "type": "Self",
+                "text": "Sorry, I'm just really focused on survival right now.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_14",
+                "type": "Speech",
+                "text": "Hmph.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_01_15",
+                "type": "Narration",
+                "text": "I discuss extreme careers in the olden days with Tove.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_02_1",
+                "type": "Speech",
+                "text": "You've been going through a rough patch, haven't you?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_2",
+                "type": "Speech",
+                "text": "That's why I brought you some nourishment.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_3",
+                "type": "Monologue",
+                "text": "Tove takes two bags out of her pocket.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_4",
+                "type": "Speech",
+                "text": "I'll eat one and give one to you. Now, pick one!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_5",
+                "type": "Choice",
+                "text": "Pick the bag that is wriggling.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_02_7"
+            },
+            {
+                "id": "d_counseling_tove_02_6",
+                "type": "Choice",
+                "text": "Pick the bag that is tinged with a faint touch of red.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_02_10"
+            },
+            {
+                "id": "d_counseling_tove_02_7",
+                "type": "Speech",
+                "text": "Oh, you chose a high-protein diet!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_8",
+                "type": "Speech",
+                "text": "These are beetles. They are a species that only lives in the north.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_9",
+                "type": "Speech",
+                "text": "The texture is very nice. Hehe. But putting it in your mouth is the hardest part.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_02_16"
+            },
+            {
+                "id": "d_counseling_tove_02_10",
+                "type": "Speech",
+                "text": "Haha. You chose the liver of an Elk!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_11",
+                "type": "Speech",
+                "text": "It's not only high in protein but also rich in iron and vitamins.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_12",
+                "type": "Speech",
+                "text": "If you can endure the bitterness, it is a great nourishing meal.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_13",
+                "type": "Self",
+                "text": "... But why are you making that face?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_14",
+                "type": "Speech",
+                "text": "It's nothing. Haha.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_15",
+                "type": "Speech",
+                "text": "I just get so excited that I get to keep the other one.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_02_16",
+                "type": "Narration",
+                "text": "I have an enjoyable and bizarre mealtime with Tove.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_03_1",
+                "type": "Speech",
+                "text": "I've been focusing on inventing a new survival tool recently.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_2",
+                "type": "Speech",
+                "text": "If it's possible I'm hoping it would help make up for my squadmates' weak points.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_3",
+                "type": "Speech",
+                "text": "Do you have any good ideas?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_4",
+                "type": "Choice",
+                "text": "A pillow that guarantees a good night's sleep anywhere.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_03_6"
+            },
+            {
+                "id": "d_counseling_tove_03_5",
+                "type": "Choice",
+                "text": "A magical shield that prevents any machine malfunctions.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_03_10"
+            },
+            {
+                "id": "d_counseling_tove_03_6",
+                "type": "Speech",
+                "text": "For Neve?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_7",
+                "type": "Speech",
+                "text": "This pillow can use leather to make, with soft moss or leaves to fill,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_8",
+                "type": "Speech",
+                "text": "and it would be good to make it resemble you as closely as possible.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_9",
+                "type": "Speech",
+                "text": "To do that, I'll need you to accompany me as a reference! Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_03_13"
+            },
+            {
+                "id": "d_counseling_tove_03_10",
+                "type": "Speech",
+                "text": "Something like gloves that could prevent electronic devices from being destroyed? Ludmilla would probably like that.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_11",
+                "type": "Speech",
+                "text": "But I don't think it exists in reality.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_12",
+                "type": "Speech",
+                "text": "... Should I look into myths?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_03_13",
+                "type": "Narration",
+                "text": "I have a conversation with Tove about methods to make unconventional tools.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_04_1",
+                "type": "Speech",
+                "text": "Earlier, Ludmilla invited me to have tea.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_2",
+                "type": "Speech",
+                "text": "She asked me to bring tea leaves of my choice.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_3",
+                "type": "Speech",
+                "text": "So I gathered some, which do you think I should take?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_4",
+                "type": "Choice",
+                "text": "Some unknown plant roots.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_04_6"
+            },
+            {
+                "id": "d_counseling_tove_04_5",
+                "type": "Choice",
+                "text": "A branch of pine needles.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_04_8"
+            },
+            {
+                "id": "d_counseling_tove_04_6",
+                "type": "Speech",
+                "text": "This one, right?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_7",
+                "type": "Speech",
+                "text": "They are dandelion roots so I can say it's a flower tea. Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_04_15"
+            },
+            {
+                "id": "d_counseling_tove_04_8",
+                "type": "Speech",
+                "text": "Well, pine needle tea is said to boost your immune system.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_9",
+                "type": "Speech",
+                "text": "Then, I'll just pluck some needles from the branch...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_10",
+                "type": "Narration",
+                "text": "*Plop*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_11",
+                "type": "Monologue",
+                "text": "A caterpillar drops from the branch.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_12",
+                "type": "Speech",
+                "text": "Eeeek!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_13",
+                "type": "Speech",
+                "text": "T-today must be my lucky day! A high-protein meal just fell from the sky!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_14",
+                "type": "Self",
+                "text": "Didn't you just say eeeek?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_04_15",
+                "type": "Monologue",
+                "text": "I prepare for an exciting tea time with Tove.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_05_1",
+                "type": "Speech",
+                "text": "One time, there was a sudden gust of wind during one of my missions,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_2",
+                "type": "Speech",
+                "text": "so I went to a nearby ice cave to take shelter.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_3",
+                "type": "Speech",
+                "text": "But, someone was already inside!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_4",
+                "type": "Choice",
+                "text": "Don't tell me it was... Neve?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_05_6"
+            },
+            {
+                "id": "d_counseling_tove_05_5",
+                "type": "Choice",
+                "text": "Don't tell me it was... a bear?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_05_10"
+            },
+            {
+                "id": "d_counseling_tove_05_6",
+                "type": "Speech",
+                "text": "... Uh?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_7",
+                "type": "Speech",
+                "text": "Oh, if it was then I wouldn't be here right now.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_8",
+                "type": "Speech",
+                "text": "Neve is usually friendly but if you bother her when she's sleeping...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_9",
+                "type": "Speech",
+                "text": "She'd probably tear you to shreds.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_05_13"
+            },
+            {
+                "id": "d_counseling_tove_05_10",
+                "type": "Speech",
+                "text": "Right.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_11",
+                "type": "Speech",
+                "text": "So I gently walked backwards while avoiding eye contact.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_12",
+                "type": "Speech",
+                "text": "*Sigh* I still get goosebumps thinking about it.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_05_13",
+                "type": "Monologue",
+                "text": "Tove and I share our experiences of encountering wild animals during our missions.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_06_1",
+                "type": "Speech",
+                "text": "You know how Ludmilla",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_06_2",
+                "type": "Speech",
+                "text": "breaks all machines she touches?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_06_3",
+                "type": "Speech",
+                "text": "Don't you think we can use that against the Raptures?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_06_4",
+                "type": "Choice",
+                "text": "Why didn't we think of that before?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_06_6"
+            },
+            {
+                "id": "d_counseling_tove_06_5",
+                "type": "Choice",
+                "text": "It's hard to get that close to them.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_06_8"
+            },
+            {
+                "id": "d_counseling_tove_06_6",
+                "type": "Speech",
+                "text": "You think so?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_06_7",
+                "type": "Speech",
+                "text": "I'll go tell Ludmilla right now.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_06_11"
+            },
+            {
+                "id": "d_counseling_tove_06_8",
+                "type": "Speech",
+                "text": "... That's true.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_06_9",
+                "type": "Speech",
+                "text": "It's impossible to get that close to a Rapture.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_06_10",
+                "type": "Speech",
+                "text": "I just mentioned it because I thought it would be amazing if it was possible.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_06_11",
+                "type": "Monologue",
+                "text": "Tove and I let our imaginations run wild about Ludmilla's constitution.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_07_1",
+                "type": "Speech",
+                "text": "I admire some survivalists from the olden days.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_07_2",
+                "type": "Speech",
+                "text": "What would you think if I tried making survival videos like them?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_07_3",
+                "type": "Choice",
+                "text": "Are you confident you could perform eating bizarre foods in your videos?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_07_5"
+            },
+            {
+                "id": "d_counseling_tove_07_4",
+                "type": "Choice",
+                "text": "I don't think there are any shows with a similar concept so I think it would work well.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_07_8"
+            },
+            {
+                "id": "d_counseling_tove_07_5",
+                "type": "Speech",
+                "text": "Come on. I'm a survival expert. You think I'm not capable of that?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_07_6",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_07_7",
+                "type": "Speech",
+                "text": "Well, if it comes down to it, I can hold the camera and you can perform.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_07_11"
+            },
+            {
+                "id": "d_counseling_tove_07_8",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_07_9",
+                "type": "Speech",
+                "text": "After all, there is no such thing as nature in the Ark!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_07_10",
+                "type": "Speech",
+                "text": "I should plan it out when I have some time.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_07_11",
+                "type": "Monologue",
+                "text": "Tove and I watch extreme survival videos from the olden days.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_08_1",
+                "type": "Speech",
+                "text": "I always study survival tactics really hard,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_08_2",
+                "type": "Speech",
+                "text": "but when I actually find myself in a survival situation, it doesn't go as smoothly as I imagined.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_08_3",
+                "type": "Choice",
+                "text": "You can just rely on me as you always have.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_08_5"
+            },
+            {
+                "id": "d_counseling_tove_08_4",
+                "type": "Choice",
+                "text": "You just need to keep practicing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_08_8"
+            },
+            {
+                "id": "d_counseling_tove_08_5",
+                "type": "Speech",
+                "text": "Huh? I don't think I relied on you that much.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_08_6",
+                "type": "Speech",
+                "text": "Of course there was that time I sought your help when I couldn't use the flint to start the fire or when a centipede popped out of nowhere!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_08_7",
+                "type": "Speech",
+                "text": "But those were unexpected situations!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_08_11"
+            },
+            {
+                "id": "d_counseling_tove_08_8",
+                "type": "Speech",
+                "text": "Hmm... Still, they had to do with survival.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_08_9",
+                "type": "Speech",
+                "text": "If you make even a single mistake, there might not be another chance.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_08_10",
+                "type": "Speech",
+                "text": "But hearing you say that makes me feel at ease. Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_08_11",
+                "type": "Monologue",
+                "text": "I have a conversation with Tove about the limits of studying survival only from books.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_09_1",
+                "type": "Speech",
+                "text": "There is something I've been curious about for a while.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_09_2",
+                "type": "Speech",
+                "text": "How are you so good at eating unusual foods?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_09_3",
+                "type": "Choice",
+                "text": "I learned from the master of the wild.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_09_5"
+            },
+            {
+                "id": "d_counseling_tove_09_4",
+                "type": "Choice",
+                "text": "It's just lunch to me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_09_8"
+            },
+            {
+                "id": "d_counseling_tove_09_5",
+                "type": "Speech",
+                "text": "What? You mean there's another survival expert in this day and age?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_09_6",
+                "type": "Monologue",
+                "text": "Tove subtly grabs onto my sleeve.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_09_7",
+                "type": "Speech",
+                "text": "Um... Perhaps can you put in a good word for me? Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_09_11"
+            },
+            {
+                "id": "d_counseling_tove_09_8",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_09_9",
+                "type": "Speech",
+                "text": "By that you mean you're born with it, right?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_09_10",
+                "type": "Speech",
+                "text": "Darn! This unfair world!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_09_11",
+                "type": "Monologue",
+                "text": "I have a conversation with Tove about the various edible insects.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_10_1",
+                "type": "Speech",
+                "text": "I hugged Alice tightly yesterday.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_2",
+                "type": "Speech",
+                "text": "Her body is warm which is an advantage for surviving in the cold.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_3",
+                "type": "Speech",
+                "text": "Is there any way I can become more like Alice?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_4",
+                "type": "Choice",
+                "text": "Try acting like a bunny.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_10_6"
+            },
+            {
+                "id": "d_counseling_tove_10_5",
+                "type": "Choice",
+                "text": "You are fine just the way you are.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_10_11"
+            },
+            {
+                "id": "d_counseling_tove_10_6",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_7",
+                "type": "Monologue",
+                "text": "Tove makes a V sign with both hands and puts it on her head,",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_8",
+                "type": "Monologue",
+                "text": "and with both feet together, starts hopping.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_9",
+                "type": "Speech",
+                "text": "Like this?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_10",
+                "type": "Self",
+                "text": "... Sorry, just kidding.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_tove_10_14"
+            },
+            {
+                "id": "d_counseling_tove_10_11",
+                "type": "Speech",
+                "text": "Well... Even though I don't have a warm body like Alice,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_12",
+                "type": "Speech",
+                "text": "I have the skills to make survival tools that can function like that.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_13",
+                "type": "Speech",
+                "text": "Thank you for recognition. Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_10_14",
+                "type": "Monologue",
+                "text": "I hear 10 adorable moments of Alice from Tove.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_11_1",
+                "type": "Speech",
+                "text": "This just came to mind,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_11_2",
+                "type": "Speech",
+                "text": "but what do you think I would be doing if I wasn't a survival expert?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_11_3",
+                "type": "Choice",
+                "text": "A new generation rookie employee.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_11_5"
+            },
+            {
+                "id": "d_counseling_tove_11_4",
+                "type": "Choice",
+                "text": "Firefighter.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_11_9"
+            },
+            {
+                "id": "d_counseling_tove_11_5",
+                "type": "Speech",
+                "text": "Ah! I've seen that a lot on Tetra TV recently.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_11_6",
+                "type": "Speech",
+                "text": "You mean someone who wears noise-cancelling earphones while they work,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_11_7",
+                "type": "Speech",
+                "text": "and takes care of plants during work hours?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_11_8",
+                "type": "Speech",
+                "text": "Wow, I'm shocked. I didn't know I gave off that kind of impression.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_11_12"
+            },
+            {
+                "id": "d_counseling_tove_11_9",
+                "type": "Speech",
+                "text": "Huh? But...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_11_10",
+                "type": "Speech",
+                "text": "I prefer making fires to putting them out.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_11_11",
+                "type": "Speech",
+                "text": "Still, there is a connection since it's saving people's lives, hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_11_12",
+                "type": "Monologue",
+                "text": "I have a conversation with Tove about different occupations in another life.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_12_1",
+                "type": "Speech",
+                "text": "Between a black mamba and I,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_12_2",
+                "type": "Speech",
+                "text": "if the two of us fought, who do you think would win?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_12_3",
+                "type": "Choice",
+                "text": "You, of course.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_12_5"
+            },
+            {
+                "id": "d_counseling_tove_12_4",
+                "type": "Choice",
+                "text": "Black Mamba.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_12_9"
+            },
+            {
+                "id": "d_counseling_tove_12_5",
+                "type": "Speech",
+                "text": "Ooh, you trust me that much? So much pressure...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_12_6",
+                "type": "Speech",
+                "text": "Did you know? A black mamba's venom is 70 times stronger than that of a rattlesnake.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_12_7",
+                "type": "Speech",
+                "text": "And its top speed for short distances is 20km per hour.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_12_8",
+                "type": "Speech",
+                "text": "... But it doesn't mean that I'm not confident, hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_12_12"
+            },
+            {
+                "id": "d_counseling_tove_12_9",
+                "type": "Speech",
+                "text": "Wow, you're not holding back.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_12_10",
+                "type": "Speech",
+                "text": "Of course it's better to run rather than face a dangerous venomous snake like a Black Mamba.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_12_11",
+                "type": "Speech",
+                "text": "But still... my pride as a survival expert is...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_12_12",
+                "type": "Monologue",
+                "text": "I learn about the venomous snakes to avoid in the wild.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_13_1",
+                "type": "Speech",
+                "text": "Survivalist, do you have a goal in life?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_13_2",
+                "type": "Speech",
+                "text": "My goal is all about survival. About continuing to live as long as I can.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_13_3",
+                "type": "Choice",
+                "text": "Of course it's reclaiming the surface.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_13_5"
+            },
+            {
+                "id": "d_counseling_tove_13_4",
+                "type": "Choice",
+                "text": "Survival is also my goal.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_13_7"
+            },
+            {
+                "id": "d_counseling_tove_13_5",
+                "type": "Speech",
+                "text": "Wow... Of course yours is on a whole different scale compared to mine.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_13_6",
+                "type": "Speech",
+                "text": "If you achieve your goal, it might make it easier for me to achieve mine. Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_13_10"
+            },
+            {
+                "id": "d_counseling_tove_13_7",
+                "type": "Speech",
+                "text": "...!!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_13_8",
+                "type": "Speech",
+                "text": "I can help you achieve it right now.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_13_9",
+                "type": "Speech",
+                "text": "If we go a little further from the Northern Base, you can experience survival there. Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_13_10",
+                "type": "Monologue",
+                "text": "Tove and I compile a bucket list of 30 things in life.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_14_1",
+                "type": "Speech",
+                "text": "The Unlimited is a squad that rescues people who are lost.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_3",
+                "type": "Speech",
+                "text": "But sometimes we can't save everyone.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_4",
+                "type": "Speech",
+                "text": "I know it can't be helped but it still lingers in my heart... What should I do?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_5",
+                "type": "Choice",
+                "text": "There is nothing that time can't resolve.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_14_7"
+            },
+            {
+                "id": "d_counseling_tove_14_6",
+                "type": "Choice",
+                "text": "Instead of those you couldn\u2019t rescue, you should think about the ones you did.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_14_10"
+            },
+            {
+                "id": "d_counseling_tove_14_7",
+                "type": "Speech",
+                "text": "Hmm... I know you're right,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_8",
+                "type": "Speech",
+                "text": "but it's still so hard right now.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_9",
+                "type": "Speech",
+                "text": "I wish I had something to look forward to.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_14_13"
+            },
+            {
+                "id": "d_counseling_tove_14_10",
+                "type": "Speech",
+                "text": "You're right.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_11",
+                "type": "Speech",
+                "text": "Everything has both a bright and a dark side,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_12",
+                "type": "Speech",
+                "text": "and I decide which one to focus on! Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_14_13",
+                "type": "Monologue",
+                "text": "I have a serious conversation with Tove.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_15_1",
+                "type": "Speech",
+                "text": "I heard that it has extreme conditions",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_15_2",
+                "type": "Speech",
+                "text": "in the Outer Rim.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_15_3",
+                "type": "Speech",
+                "text": "Is there any special method of survival?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_15_4",
+                "type": "Choice",
+                "text": "To fight and steal?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_15_6"
+            },
+            {
+                "id": "d_counseling_tove_15_5",
+                "type": "Choice",
+                "text": "It's about utilizing the resources that you have. No matter how scarce they are.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_15_9"
+            },
+            {
+                "id": "d_counseling_tove_15_6",
+                "type": "Speech",
+                "text": "Applying that to my situation would mean",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_15_7",
+                "type": "Speech",
+                "text": "fighting against my squadmates for survival.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_15_8",
+                "type": "Speech",
+                "text": "Yikes... I'd rather jump into freezing water without any gear on!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_15_11"
+            },
+            {
+                "id": "d_counseling_tove_15_9",
+                "type": "Speech",
+                "text": "Basically it's not that different from the survival knowledge that I know.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_15_10",
+                "type": "Speech",
+                "text": "We might have more in common with the people there than I thought.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_15_11",
+                "type": "Monologue",
+                "text": "I have a conversation about Outer Rim with Tove.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_16_1",
+                "type": "Speech",
+                "text": "Hey, Survivalist, can I ask you something?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_2",
+                "type": "Speech",
+                "text": "What does it feel like to like someone?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_3",
+                "type": "Choice",
+                "text": "Why are you suddenly interested in that?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_16_5"
+            },
+            {
+                "id": "d_counseling_tove_16_4",
+                "type": "Choice",
+                "text": "Like feeling you could survive any extreme situation with that person.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_16_9"
+            },
+            {
+                "id": "d_counseling_tove_16_5",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_6",
+                "type": "Speech",
+                "text": "To tell you the truth, the algorithm led me here. Haha.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_7",
+                "type": "Speech",
+                "text": "While I was looking for survival videos, a video about that automatically popped up.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_8",
+                "type": "Speech",
+                "text": "So what's the answer?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_16_13"
+            },
+            {
+                "id": "d_counseling_tove_16_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_10",
+                "type": "Speech",
+                "text": "Of course, physically I rely on my squadmates,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_11",
+                "type": "Speech",
+                "text": "but mentally you're the one I rely on the most.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_12",
+                "type": "Speech",
+                "text": "Then does that mean I like you? Huhhh?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_16_13",
+                "type": "Monologue",
+                "text": "I have a heart-beating conversation with Tove.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_17_1",
+                "type": "Speech",
+                "text": "I wonder what the Unlimited members were like when they first started.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_17_2",
+                "type": "Speech",
+                "text": "Somehow I get the feeling that they were amazing even then.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_17_3",
+                "type": "Speech",
+                "text": "They might have even been a super rookie like me? Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_17_4",
+                "type": "Choice",
+                "text": "To be honest, it's hard to imagine.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_17_6"
+            },
+            {
+                "id": "d_counseling_tove_17_5",
+                "type": "Choice",
+                "text": "They might have been more sloppy than you think.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_17_8"
+            },
+            {
+                "id": "d_counseling_tove_17_6",
+                "type": "Speech",
+                "text": "To be honest, me too.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_17_7",
+                "type": "Speech",
+                "text": "Especially Ludmilla... I thought she was perfect from the beginning.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_17_11"
+            },
+            {
+                "id": "d_counseling_tove_17_8",
+                "type": "Speech",
+                "text": "Hmm... You're right.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_17_9",
+                "type": "Speech",
+                "text": "Even now, they still show a human side.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_17_10",
+                "type": "Speech",
+                "text": "For me, that side is more approachable and likable. Hehe.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_17_11",
+                "type": "Monologue",
+                "text": "I learn about how Tove has adapted to The Unlimited squad.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_18_1",
+                "type": "Speech",
+                "text": "It seems that when you are in the Northern Base,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_2",
+                "type": "Speech",
+                "text": "you only accumulate experience surviving in the bitter cold.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_3",
+                "type": "Speech",
+                "text": "Sometimes I would like to experience a new environment.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_4",
+                "type": "Choice",
+                "text": "Then you can come to the Ark sometime.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_18_6"
+            },
+            {
+                "id": "d_counseling_tove_18_5",
+                "type": "Choice",
+                "text": "What about going to the desert?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_18_10"
+            },
+            {
+                "id": "d_counseling_tove_18_6",
+                "type": "Speech",
+                "text": "Uh? But there is no such thing as nature in the Ark.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_7",
+                "type": "Self",
+                "text": "Instead, there is still a jungle but in a different sense.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_8",
+                "type": "Speech",
+                "text": "Ah... Do you mean the jungle of society?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_9",
+                "type": "Speech",
+                "text": "If it's not a real jungle, I don't think I'd have anything to do there.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_18_14"
+            },
+            {
+                "id": "d_counseling_tove_18_10",
+                "type": "Speech",
+                "text": "Wow! A desert!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_11",
+                "type": "Speech",
+                "text": "I know everything about avoiding the sun, staying hydrated,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_12",
+                "type": "Speech",
+                "text": "and even distinguishing edible spiders in the desert.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_13",
+                "type": "Speech",
+                "text": "I never tried surviving in an environment like that. Do you want to go there with me in the future?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_18_14",
+                "type": "Monologue",
+                "text": "I have a conversation with Tove about surviving in various regions.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_19_1",
+                "type": "Speech",
+                "text": "What genre of music do you like?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_19_2",
+                "type": "Choice",
+                "text": "The sound of nature.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_19_4"
+            },
+            {
+                "id": "d_counseling_tove_19_3",
+                "type": "Choice",
+                "text": "Noise.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_19_7"
+            },
+            {
+                "id": "d_counseling_tove_19_4",
+                "type": "Speech",
+                "text": "Hehe, same here.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_19_5",
+                "type": "Speech",
+                "text": "Especially when I've created a warm shelter and snuggled inside,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_19_6",
+                "type": "Speech",
+                "text": "I like the sound of rain.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_19_10"
+            },
+            {
+                "id": "d_counseling_tove_19_7",
+                "type": "Speech",
+                "text": "Huh? That is not a genre.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_19_8",
+                "type": "Speech",
+                "text": "It's the name of a famous singer in the Ark!",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_19_9",
+                "type": "Self",
+                "text": "Sometimes a singer can create their own genre.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_19_10",
+                "type": "Monologue",
+                "text": "Tove and I listen to the music that we like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_tove_20_1",
+                "type": "Speech",
+                "text": "Splendamin or bizarre survival food,",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_20_2",
+                "type": "Speech",
+                "text": "which one do you think is better suited as a punishment in a game?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_20_3",
+                "type": "Choice",
+                "text": "Bizarre survival food.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_tove_20_5"
+            },
+            {
+                "id": "d_counseling_tove_20_4",
+                "type": "Choice",
+                "text": "Splendamin.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_tove_20_8"
+            },
+            {
+                "id": "d_counseling_tove_20_5",
+                "type": "Speech",
+                "text": "Hmm... you're right.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_20_6",
+                "type": "Speech",
+                "text": "Survival food includes things like spiders and animal eyeballs which usually people avoid.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_20_7",
+                "type": "Speech",
+                "text": "However, if you look closer, you can also find a lot of really delicious foods too.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_20_11"
+            },
+            {
+                "id": "d_counseling_tove_20_8",
+                "type": "Speech",
+                "text": "I second that.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_20_9",
+                "type": "Speech",
+                "text": "Do you know that I can't eat any more Splendamin even though it's not been so long since I came to the surface?",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_20_10",
+                "type": "Speech",
+                "text": "Of course I eat it when I have to, but there is a huge difference in freshness.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": "d_counseling_tove_20_11"
+            },
+            {
+                "id": "d_counseling_tove_20_11",
+                "type": "Speech",
+                "text": "Anyways, I'll take your opinions into account.",
+                "speaker": "Tove",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_20_12",
+                "type": "Self",
+                "text": "What?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_tove_20_13",
+                "type": "Monologue",
+                "text": "I play a punishment game with Tove.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

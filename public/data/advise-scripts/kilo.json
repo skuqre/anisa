@@ -1,0 +1,2389 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_kilo_01_1",
+                "type": "Speech",
+                "text": "Erm...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_2",
+                "type": "Self",
+                "text": "Did something happen?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_3",
+                "type": "Speech",
+                "text": "I...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_4",
+                "type": "Speech",
+                "text": "I slipped again during the test.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_5",
+                "type": "Speech",
+                "text": "Ugh, I'm hopeless.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_6",
+                "type": "Choice",
+                "text": "Cheer up, you'll do better next time.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_01_8"
+            },
+            {
+                "id": "d_counseling_kilo_01_7",
+                "type": "Choice",
+                "text": "Was the test really difficult?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_01_11"
+            },
+            {
+                "id": "d_counseling_kilo_01_8",
+                "type": "Speech",
+                "text": "I know you're just saying that to make me feel better,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_9",
+                "type": "Speech",
+                "text": "but thank you.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_10",
+                "type": "Speech",
+                "text": "I'll try harder next time.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_01_15"
+            },
+            {
+                "id": "d_counseling_kilo_01_11",
+                "type": "Speech",
+                "text": "Well...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_12",
+                "type": "Speech",
+                "text": "Negative. I would categorize the test as exceedingly easy, perhaps overly so.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_13",
+                "type": "Speech",
+                "text": "T.A.L.O.S.!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_01_14",
+                "type": "Speech",
+                "text": "Why would you say that?!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_01_15"
+            },
+            {
+                "id": "d_counseling_kilo_01_15",
+                "type": "Narration",
+                "text": "I comfort Kilo, who is feeling down.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_02_1",
+                "type": "Speech",
+                "text": "I've bounced around from squad to squad for so long,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_2",
+                "type": "Speech",
+                "text": "that it's been nearly impossible to build relationships with anyone.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_3",
+                "type": "Speech",
+                "text": "I think that's why I feel jealous when I see people form close connections with others.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_4",
+                "type": "Self",
+                "text": "What are you talking about? You have something that you're close to.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_5",
+                "type": "Speech",
+                "text": "Huh? Who?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_6",
+                "type": "Choice",
+                "text": "T.A.L.O.S.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_02_8"
+            },
+            {
+                "id": "d_counseling_kilo_02_7",
+                "type": "Choice",
+                "text": "Me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_02_12"
+            },
+            {
+                "id": "d_counseling_kilo_02_8",
+                "type": "Speech",
+                "text": "That is correct.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_9",
+                "type": "Speech",
+                "text": "I will never abandon you, so do not fret.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_10",
+                "type": "Speech",
+                "text": "I guess you're right...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_11",
+                "type": "Speech",
+                "text": "I mean, you're not technically what I'd call a partner, but still...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_02_17"
+            },
+            {
+                "id": "d_counseling_kilo_02_12",
+                "type": "Speech",
+                "text": "...!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_13",
+                "type": "Speech",
+                "text": "I... I guess you're right.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_14",
+                "type": "Speech",
+                "text": "That makes me feel warm and fuzzy inside.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_15",
+                "type": "Speech",
+                "text": "Er, no, I-I mean!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_16",
+                "type": "Speech",
+                "text": "Commander...!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_02_17"
+            },
+            {
+                "id": "d_counseling_kilo_02_17",
+                "type": "Speech",
+                "text": "I meant something platonic, like a fellow squad member!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_02_18",
+                "type": "Narration",
+                "text": "Kilo and I discuss how we each define the term \"partner\".",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_03_1",
+                "type": "Speech",
+                "text": "Commander, in your eyes,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_2",
+                "type": "Speech",
+                "text": "what do you think I'm good at?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_3",
+                "type": "Speech",
+                "text": "If I'm even good at anything...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_4",
+                "type": "Speech",
+                "text": "I'm not so sure myself.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_5",
+                "type": "Choice",
+                "text": "You're good at piloting T.A.L.O.S.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_03_7"
+            },
+            {
+                "id": "d_counseling_kilo_03_6",
+                "type": "Choice",
+                "text": "Hmm... let me think about that for a moment.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_03_12"
+            },
+            {
+                "id": "d_counseling_kilo_03_7",
+                "type": "Speech",
+                "text": "Well yeah, that's a given.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_8",
+                "type": "Speech",
+                "text": "What kind of pilot would I be if I could not operate this system properly?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_9",
+                "type": "Speech",
+                "text": "You are a skilled pilot, Kilo.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_10",
+                "type": "Speech",
+                "text": "That is something you can be proud of.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_11",
+                "type": "Speech",
+                "text": "Oh jeez, all these compliments are kind of embarrassing...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_03_16"
+            },
+            {
+                "id": "d_counseling_kilo_03_12",
+                "type": "Speech",
+                "text": "I knew it.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_13",
+                "type": "Speech",
+                "text": "I guess you can't think of anything...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_14",
+                "type": "Speech",
+                "text": "It's fine. You don't have to force yourself to come up with something just to comfort me.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_03_15",
+                "type": "Speech",
+                "text": "I know what I am.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_03_16"
+            },
+            {
+                "id": "d_counseling_kilo_03_16",
+                "type": "Narration",
+                "text": "Kilo and I have a serious conversation about what she's good at.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_04_1",
+                "type": "Speech",
+                "text": "Um... Commander...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_04_2",
+                "type": "Speech",
+                "text": "How is it that you're so... popular?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_04_3",
+                "type": "Speech",
+                "text": "I-I was just curious...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_04_4",
+                "type": "Choice",
+                "text": "Because of my devilish good looks.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_04_6"
+            },
+            {
+                "id": "d_counseling_kilo_04_5",
+                "type": "Choice",
+                "text": "Because I care for the people I surround myself with.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_04_10"
+            },
+            {
+                "id": "d_counseling_kilo_04_6",
+                "type": "Speech",
+                "text": "I mean...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_04_7",
+                "type": "Speech",
+                "text": "No one can refute that, sure.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_04_8",
+                "type": "Speech",
+                "text": "You're super cool, and there's no denying that,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_04_9",
+                "type": "Speech",
+                "text": "but surely there must be other reasons, don't you think?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_04_13"
+            },
+            {
+                "id": "d_counseling_kilo_04_10",
+                "type": "Speech",
+                "text": "I think you're right.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_04_11",
+                "type": "Speech",
+                "text": "You're so kind and considerate all the time.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_04_12",
+                "type": "Speech",
+                "text": "I think that's why I'm so drawn to you, sometimes without even realizing it.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_04_13"
+            },
+            {
+                "id": "d_counseling_kilo_04_13",
+                "type": "Narration",
+                "text": "Kilo and I discuss other people who we think are popular.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_05_1",
+                "type": "Speech",
+                "text": "Hello, Commander.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_05_2",
+                "type": "Monologue",
+                "text": "T.A.L.O.S. is nowhere to be seen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_05_3",
+                "type": "Choice",
+                "text": "Where's your partner?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_05_5"
+            },
+            {
+                "id": "d_counseling_kilo_05_4",
+                "type": "Choice",
+                "text": "Looks like it'll be just you and me today. How intimate.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_05_9"
+            },
+            {
+                "id": "d_counseling_kilo_05_5",
+                "type": "Speech",
+                "text": "Partner?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_05_6",
+                "type": "Speech",
+                "text": "Oh, you mean T.A.L.O.S.?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_05_7",
+                "type": "Speech",
+                "text": "It's in the shop for maintenance today.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_05_8",
+                "type": "Speech",
+                "text": "You don't feel awkward if it's just the two of us interacting, do you?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_05_13"
+            },
+            {
+                "id": "d_counseling_kilo_05_9",
+                "type": "Speech",
+                "text": "I-Intimate?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_05_10",
+                "type": "Speech",
+                "text": "Er... Ah.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_05_11",
+                "type": "Speech",
+                "text": "Oh boy...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_05_12",
+                "type": "Speech",
+                "text": "I-I'm kinda nervous all of a sudden... can't concentrate...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_05_13"
+            },
+            {
+                "id": "d_counseling_kilo_05_13",
+                "type": "Narration",
+                "text": "Kilo and I have a short chat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_06_1",
+                "type": "Speech",
+                "text": "Hello, {AccountData.NickName}.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_2",
+                "type": "Self",
+                "text": "Is Kilo not with you?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_3",
+                "type": "Speech",
+                "text": "She is currently sleeping in the cockpit.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_4",
+                "type": "Speech",
+                "text": "Shall I wake her up?",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_5",
+                "type": "Choice",
+                "text": "Yes, if you could.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_06_7"
+            },
+            {
+                "id": "d_counseling_kilo_06_6",
+                "type": "Choice",
+                "text": "No, I'll wait for her to wake up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_06_11"
+            },
+            {
+                "id": "d_counseling_kilo_06_7",
+                "type": "Narration",
+                "text": "*Whooosh*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_8",
+                "type": "Speech",
+                "text": "... Hmm? Oh, hi Commander.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_9",
+                "type": "Speech",
+                "text": "Sorry for sleeping in so late. I got to bed late yesterday since I was doing work.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_10",
+                "type": "Speech",
+                "text": "*Yawn* I still don't feel fully rested.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_06_20"
+            },
+            {
+                "id": "d_counseling_kilo_06_11",
+                "type": "Narration",
+                "text": "A moment later.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_12",
+                "type": "Narration",
+                "text": "*Pooshook*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_13",
+                "type": "Speech",
+                "text": "*Yawn* When did I fall asleep... huh?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_14",
+                "type": "Speech",
+                "text": "Commander?!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_15",
+                "type": "Speech",
+                "text": "How long have you been standing there?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_16",
+                "type": "Speech",
+                "text": "You should have woken me up!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_17",
+                "type": "Self",
+                "text": "It's okay. If you're tired, it's important to get proper sleep.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_18",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_06_19",
+                "type": "Speech",
+                "text": "I appreciate you being so understanding.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_06_20"
+            },
+            {
+                "id": "d_counseling_kilo_06_20",
+                "type": "Narration",
+                "text": "Kilo tells me more about why she stayed up late last night.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_07_1",
+                "type": "Speech",
+                "text": "An old colleague I used to work with was saying how she finds it annoying to address T.A.L.O.S. and me separately.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_2",
+                "type": "Speech",
+                "text": "She even suggested collectively referring to us as Kilos to make it easier.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_3",
+                "type": "Speech",
+                "text": "I don't know why, but that makes me feel kinda weird...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_4",
+                "type": "Choice",
+                "text": "You are both your own individual people.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_07_6"
+            },
+            {
+                "id": "d_counseling_kilo_07_5",
+                "type": "Choice",
+                "text": "Kilos, huh? Has a nice ring to it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_07_11"
+            },
+            {
+                "id": "d_counseling_kilo_07_6",
+                "type": "Speech",
+                "text": "... Ah.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_7",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_8",
+                "type": "Speech",
+                "text": "You're the best, Commander.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_9",
+                "type": "Speech",
+                "text": "That's exactly what I wanted to hear.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_10",
+                "type": "Speech",
+                "text": "Thank you.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_07_16"
+            },
+            {
+                "id": "d_counseling_kilo_07_11",
+                "type": "Speech",
+                "text": "Wha... you think so?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_12",
+                "type": "Speech",
+                "text": "I wasn't saying there was anything inherently wrong with the name.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_13",
+                "type": "Speech",
+                "text": "It was more that I felt like my own individuality was being diminished...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_14",
+                "type": "Self",
+                "text": "... Excuse me?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_07_15",
+                "type": "Speech",
+                "text": "... Never mind.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_07_16"
+            },
+            {
+                "id": "d_counseling_kilo_07_16",
+                "type": "Narration",
+                "text": "Kilos and I spend some time conjuring up more nicknames to refer to her and T.A.L.O.S.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_08_1",
+                "type": "Speech",
+                "text": "Hehe!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_2",
+                "type": "Self",
+                "text": "What's up?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_3",
+                "type": "Speech",
+                "text": "Ah, Commander!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_4",
+                "type": "Speech",
+                "text": "Today's test results were pretty darn good!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_5",
+                "type": "Speech",
+                "text": "Of course, luck played a big factor, but still.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_6",
+                "type": "Choice",
+                "text": "Yeah, there are some days when luck just seems to be on your side.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_08_8"
+            },
+            {
+                "id": "d_counseling_kilo_08_7",
+                "type": "Choice",
+                "text": "Don't downplay your own contribution. Your skill is what did it, not luck.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_08_11"
+            },
+            {
+                "id": "d_counseling_kilo_08_8",
+                "type": "Speech",
+                "text": "Yeah...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_9",
+                "type": "Speech",
+                "text": "I wish I could be so lucky all the time.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_10",
+                "type": "Speech",
+                "text": "At least that would be more consistent than my own skill level, which is so erratic.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_08_15"
+            },
+            {
+                "id": "d_counseling_kilo_08_11",
+                "type": "Speech",
+                "text": "W-What? That can't be it.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_12",
+                "type": "Speech",
+                "text": "Someone like me doesn't have skills. Not like that.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_13",
+                "type": "Speech",
+                "text": "... But still,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_08_14",
+                "type": "Speech",
+                "text": "it's nice to hear you say that. Thank you.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_08_15"
+            },
+            {
+                "id": "d_counseling_kilo_08_15",
+                "type": "Narration",
+                "text": "Kilo and I talk more about the tests she's taking.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_09_1",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_09_2",
+                "type": "Speech",
+                "text": "what do you think is the most important trait a pilot should possess?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_09_3",
+                "type": "Choice",
+                "text": "A thorough understanding of the machine they're commandeering.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_09_5"
+            },
+            {
+                "id": "d_counseling_kilo_09_4",
+                "type": "Choice",
+                "text": "Objectivity and quick decision-making.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_09_7"
+            },
+            {
+                "id": "d_counseling_kilo_09_5",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_09_6",
+                "type": "Speech",
+                "text": "I guess that's one way to look at it.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_09_10"
+            },
+            {
+                "id": "d_counseling_kilo_09_7",
+                "type": "Speech",
+                "text": "That's right!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_09_8",
+                "type": "Speech",
+                "text": "If you find yourself hesitating at a critical moment,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_09_9",
+                "type": "Speech",
+                "text": "you're toast!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_09_10"
+            },
+            {
+                "id": "d_counseling_kilo_09_10",
+                "type": "Narration",
+                "text": "Kilo and I continue to discuss what it takes to be an ace pilot.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_10_1",
+                "type": "Speech",
+                "text": "Commander! Commander!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_10_2",
+                "type": "Speech",
+                "text": "T.A.L.O.S. did something amazing today!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_10_3",
+                "type": "Speech",
+                "text": "We ran a simulation that had only a 20% success rate,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_10_4",
+                "type": "Speech",
+                "text": "and T.A.L.O.S. passed with flying colors.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_10_5",
+                "type": "Choice",
+                "text": "Wow, that's incredible.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_10_7"
+            },
+            {
+                "id": "d_counseling_kilo_10_6",
+                "type": "Choice",
+                "text": "Oh come on, are you pulling my leg?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_10_10"
+            },
+            {
+                "id": "d_counseling_kilo_10_7",
+                "type": "Speech",
+                "text": "Isn't it?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_10_8",
+                "type": "Speech",
+                "text": "I can't tell you how proud I was!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_10_9",
+                "type": "Speech",
+                "text": "I'll never forget this!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_10_13"
+            },
+            {
+                "id": "d_counseling_kilo_10_10",
+                "type": "Speech",
+                "text": "Huh?!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_10_11",
+                "type": "Speech",
+                "text": "Of course not!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_10_12",
+                "type": "Speech",
+                "text": "I would never lie about something like this!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_10_13"
+            },
+            {
+                "id": "d_counseling_kilo_10_13",
+                "type": "Narration",
+                "text": "Kilo proceeds to gush about T.A.L.O.S. for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_11_1",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_11_2",
+                "type": "Speech",
+                "text": "have you ever encountered a Pilgrim by any chance?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_11_3",
+                "type": "Choice",
+                "text": "Yes.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_11_5"
+            },
+            {
+                "id": "d_counseling_kilo_11_4",
+                "type": "Choice",
+                "text": "No.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_11_9"
+            },
+            {
+                "id": "d_counseling_kilo_11_5",
+                "type": "Speech",
+                "text": "Wow! I figured you would have. So cool!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_11_6",
+                "type": "Speech",
+                "text": "How was it meeting them in person?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_11_7",
+                "type": "Speech",
+                "text": "They're way stronger than ordinary Nikkes, aren't they?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_11_8",
+                "type": "Speech",
+                "text": "I hope to be as impressive as they are one day.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_11_12"
+            },
+            {
+                "id": "d_counseling_kilo_11_9",
+                "type": "Speech",
+                "text": "Oh, you've never met one?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_11_10",
+                "type": "Speech",
+                "text": "I thought you would have.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_11_11",
+                "type": "Speech",
+                "text": "Sorry for assuming.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_11_12"
+            },
+            {
+                "id": "d_counseling_kilo_11_12",
+                "type": "Narration",
+                "text": "I have a conversation with Kilo about Pilgrims.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_12_1",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_12_2",
+                "type": "Speech",
+                "text": "do you prefer cloudy or clear weather?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_12_3",
+                "type": "Choice",
+                "text": "Clear days.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_12_5"
+            },
+            {
+                "id": "d_counseling_kilo_12_4",
+                "type": "Choice",
+                "text": "Cloudy days.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_12_9"
+            },
+            {
+                "id": "d_counseling_kilo_12_5",
+                "type": "Speech",
+                "text": "Me too!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_12_6",
+                "type": "Speech",
+                "text": "For some reason,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_12_7",
+                "type": "Speech",
+                "text": "I always perform better when training is held on clear days.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_12_8",
+                "type": "Speech",
+                "text": "Plus you can see further out when the weather is clear.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_12_13"
+            },
+            {
+                "id": "d_counseling_kilo_12_9",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_12_10",
+                "type": "Speech",
+                "text": "If it's a cloudy day, I feel like my own mood becomes overcast.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_12_11",
+                "type": "Speech",
+                "text": "Like I'm being drained of energy.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_12_12",
+                "type": "Speech",
+                "text": "So I don't really like cloudy days.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_12_13"
+            },
+            {
+                "id": "d_counseling_kilo_12_13",
+                "type": "Narration",
+                "text": "Kilo and I converse about our favorite types of weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_13_1",
+                "type": "Speech",
+                "text": "Whenever you're feeling down,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_13_2",
+                "type": "Speech",
+                "text": "what do you do?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_13_3",
+                "type": "Choice",
+                "text": "I just relinquish control and let it wash over me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_13_5"
+            },
+            {
+                "id": "d_counseling_kilo_13_4",
+                "type": "Choice",
+                "text": "I think of the times I did well and try not to be too hard on myself.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_13_8"
+            },
+            {
+                "id": "d_counseling_kilo_13_5",
+                "type": "Speech",
+                "text": "Wash over you?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_13_6",
+                "type": "Speech",
+                "text": "You mean like detach yourself from your emotions?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_13_7",
+                "type": "Speech",
+                "text": "That's... not always easy to do.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_13_13"
+            },
+            {
+                "id": "d_counseling_kilo_13_8",
+                "type": "Speech",
+                "text": "Times when you did well...?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_13_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_13_10",
+                "type": "Speech",
+                "text": "Might I suggest recalling last week when you obtained a high score in the Simulation Room?",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_13_11",
+                "type": "Speech",
+                "text": "Oh right. I did do that!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_13_12",
+                "type": "Speech",
+                "text": "Thanks, T.A.L.O.S.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_13_13"
+            },
+            {
+                "id": "d_counseling_kilo_13_13",
+                "type": "Narration",
+                "text": "I teach Kilo various other ways to overcome self-doubt.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_14_1",
+                "type": "Speech",
+                "text": "I've found myself",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_2",
+                "type": "Speech",
+                "text": "wanting more and more to settle down.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_3",
+                "type": "Speech",
+                "text": "I want to have a regular work schedule for once, and steady colleagues.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_4",
+                "type": "Speech",
+                "text": "That's been on my mind quite a lot.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_5",
+                "type": "Choice",
+                "text": "Isn't that what you're doing now?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_14_7"
+            },
+            {
+                "id": "d_counseling_kilo_14_6",
+                "type": "Choice",
+                "text": "It will happen to you someday.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_14_11"
+            },
+            {
+                "id": "d_counseling_kilo_14_7",
+                "type": "Speech",
+                "text": "No...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_8",
+                "type": "Speech",
+                "text": "I don't have any outstanding abilities",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_9",
+                "type": "Speech",
+                "text": "or talents.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_10",
+                "type": "Speech",
+                "text": "That's why I can't settle down in one place.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_14_15"
+            },
+            {
+                "id": "d_counseling_kilo_14_11",
+                "type": "Speech",
+                "text": "You really think so?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_12",
+                "type": "Speech",
+                "text": "Should I just keep my head down and work hard at it?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_13",
+                "type": "Speech",
+                "text": "No matter how improbable it may seem, I know that a path will one day open itself to me.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_14_14",
+                "type": "Speech",
+                "text": "... Thank you, Commander. I feel so much better, hehe.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_14_15"
+            },
+            {
+                "id": "d_counseling_kilo_14_15",
+                "type": "Narration",
+                "text": "I envision what Kilo's future will be like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_15_1",
+                "type": "Speech",
+                "text": "I wonder...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_2",
+                "type": "Speech",
+                "text": "If I were to have someone I worked with steadily,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_3",
+                "type": "Speech",
+                "text": "what kind of personality would mesh well with mine?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_4",
+                "type": "Choice",
+                "text": "Someone sunny and positive.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_15_6"
+            },
+            {
+                "id": "d_counseling_kilo_15_5",
+                "type": "Choice",
+                "text": "Someone reliable and assertive.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_15_11"
+            },
+            {
+                "id": "d_counseling_kilo_15_6",
+                "type": "Speech",
+                "text": "You mean like someone who lightens the mood all the time?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_7",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_8",
+                "type": "Speech",
+                "text": "I guess that would be nice,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_9",
+                "type": "Speech",
+                "text": "but if I were always around someone so bubbly,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_10",
+                "type": "Speech",
+                "text": "they might make me seem like a rain cloud, don't you think?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_15_15"
+            },
+            {
+                "id": "d_counseling_kilo_15_11",
+                "type": "Speech",
+                "text": "Oh, that's a good idea!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_12",
+                "type": "Speech",
+                "text": "That would make me have to be more assertive myself.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_13",
+                "type": "Speech",
+                "text": "Plus I could ask them all sorts of stuff.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_15_14",
+                "type": "Speech",
+                "text": "I think it'd make me feel really safe and reassured.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_15_15"
+            },
+            {
+                "id": "d_counseling_kilo_15_15",
+                "type": "Narration",
+                "text": "Kilo and I make conjectures about her hypothetical future colleague.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_16_1",
+                "type": "Speech",
+                "text": "Umm, I couldn't help but notice...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_16_2",
+                "type": "Speech",
+                "text": "the handle on your desk drawer seems to be broken.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_16_3",
+                "type": "Speech",
+                "text": "I could replace it for you if you'd like.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_16_4",
+                "type": "Choice",
+                "text": "How would you do that?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_16_6"
+            },
+            {
+                "id": "d_counseling_kilo_16_5",
+                "type": "Choice",
+                "text": "It's okay. Don't worry about it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_16_10"
+            },
+            {
+                "id": "d_counseling_kilo_16_6",
+                "type": "Speech",
+                "text": "Ah!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_16_7",
+                "type": "Speech",
+                "text": "I'd use the 3D printer.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_16_8",
+                "type": "Speech",
+                "text": "It shouldn't take too long.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_16_9",
+                "type": "Speech",
+                "text": "In fact, it should be ready by the time we're done with this session.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_16_13"
+            },
+            {
+                "id": "d_counseling_kilo_16_10",
+                "type": "Speech",
+                "text": "Oh... okay.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_16_11",
+                "type": "Speech",
+                "text": "I'm sorry if I overstepped any boundaries.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_16_12",
+                "type": "Speech",
+                "text": "I just saw how the handle was dangling there...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_16_13"
+            },
+            {
+                "id": "d_counseling_kilo_16_13",
+                "type": "Narration",
+                "text": "Kilo and I continue with our counseling session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_17_1",
+                "type": "Speech",
+                "text": "Commander, you're here early!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_2",
+                "type": "Speech",
+                "text": "I... er...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_3",
+                "type": "Speech",
+                "text": "How does T.A.L.O.S. look today?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_4",
+                "type": "Choice",
+                "text": "What do you mean?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_17_6"
+            },
+            {
+                "id": "d_counseling_kilo_17_5",
+                "type": "Choice",
+                "text": "Hmm... It seems shinier.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_17_11"
+            },
+            {
+                "id": "d_counseling_kilo_17_6",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_7",
+                "type": "Speech",
+                "text": "Don't you notice anything different?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_8",
+                "type": "Self",
+                "text": "No.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_9",
+                "type": "Speech",
+                "text": "No way...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_10",
+                "type": "Speech",
+                "text": "I've been spending so much time cleaning it...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_17_15"
+            },
+            {
+                "id": "d_counseling_kilo_17_11",
+                "type": "Speech",
+                "text": "Hehe, that's right!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_12",
+                "type": "Speech",
+                "text": "I've spent the better half of the day",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_13",
+                "type": "Speech",
+                "text": "giving it a spit shine.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_14",
+                "type": "Speech",
+                "text": "I'm so glad you noticed!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_17_15"
+            },
+            {
+                "id": "d_counseling_kilo_17_15",
+                "type": "Speech",
+                "text": "I appreciate you doing this,",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_16",
+                "type": "Speech",
+                "text": "Kilo.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_17_17",
+                "type": "Narration",
+                "text": "Kilo fills me in on the details of how she cleaned up T.A.L.O.S.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_18_1",
+                "type": "Speech",
+                "text": "I-I finally got some time off,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_18_2",
+                "type": "Speech",
+                "text": "but I don't know what I should do.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_18_3",
+                "type": "Choice",
+                "text": "What about just resting?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_18_5"
+            },
+            {
+                "id": "d_counseling_kilo_18_4",
+                "type": "Choice",
+                "text": "Do whatever you want.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_18_9"
+            },
+            {
+                "id": "d_counseling_kilo_18_5",
+                "type": "Speech",
+                "text": "You mean... just do nothing?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_18_6",
+                "type": "Speech",
+                "text": "Actually, come to think of it, it's been ages since I last had a proper rest.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_18_7",
+                "type": "Speech",
+                "text": "That's not a bad idea!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_18_8",
+                "type": "Speech",
+                "text": "Thanks for the suggestion.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_18_13"
+            },
+            {
+                "id": "d_counseling_kilo_18_9",
+                "type": "Speech",
+                "text": "Hmm, what do I want to do?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_18_10",
+                "type": "Speech",
+                "text": "I'd like...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_18_11",
+                "type": "Speech",
+                "text": "to get a good score on the tests.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_18_12",
+                "type": "Speech",
+                "text": "That's all I can think of.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_18_13"
+            },
+            {
+                "id": "d_counseling_kilo_18_13",
+                "type": "Narration",
+                "text": "Kilo and I have a conversation about vacations.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_19_1",
+                "type": "Speech",
+                "text": "Hello, {AccountData.NickName}.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_2",
+                "type": "Speech",
+                "text": "Kilo is currently occupied.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_3",
+                "type": "Speech",
+                "text": "She will return momentarily, however.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_4",
+                "type": "Monologue",
+                "text": "If we're going to wait, I might as well entertain myself.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_5",
+                "type": "Monologue",
+                "text": "T.A.L.O.S. is capable of all sorts of things, so let's see what it can do.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_6",
+                "type": "Choice",
+                "text": "T.A.L.O.S., sing a song.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_19_8"
+            },
+            {
+                "id": "d_counseling_kilo_19_7",
+                "type": "Choice",
+                "text": "T.A.L.O.S., dance.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_19_13"
+            },
+            {
+                "id": "d_counseling_kilo_19_8",
+                "type": "Speech",
+                "text": "Which genre would you prefer?",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_9",
+                "type": "Self",
+                "text": "Anything, whatever you're good at.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_10",
+                "type": "Speech",
+                "text": "Understood.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_11",
+                "type": "Speech",
+                "text": "Butterfly\u266a, butterfly\u266a",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_12",
+                "type": "Speech",
+                "text": "Come fly over here\u266a",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_19_17"
+            },
+            {
+                "id": "d_counseling_kilo_19_13",
+                "type": "Speech",
+                "text": "To dance, I would require a larger surface.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_14",
+                "type": "Speech",
+                "text": "I do not recommend dancing in this location, as doing so could cause damage to the Commander's Room.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_15",
+                "type": "Self",
+                "text": "Okay... then how about singing?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_16",
+                "type": "Speech",
+                "text": "Understood.",
+                "speaker": "T.A.L.O.S.",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_19_17"
+            },
+            {
+                "id": "d_counseling_kilo_19_17",
+                "type": "Monologue",
+                "text": "The sound of T.A.L.O.S. singing a children's lullaby fills the room.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_18",
+                "type": "Narration",
+                "text": "*Zing*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_19",
+                "type": "Speech",
+                "text": "Sorry that I'm late...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_20",
+                "type": "Speech",
+                "text": "Huh? What's going on here?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_19_21",
+                "type": "Narration",
+                "text": "Kilo and I proceed to listen to T.A.L.O.S. sing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_kilo_20_1",
+                "type": "Speech",
+                "text": "If I want to be liked by someone that I've only met recently,",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_20_2",
+                "type": "Speech",
+                "text": "how should I act?",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_20_3",
+                "type": "Choice",
+                "text": "The most important thing is confidence. Conduct yourself as if that person is already a long-time friend.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_kilo_20_5"
+            },
+            {
+                "id": "d_counseling_kilo_20_4",
+                "type": "Choice",
+                "text": "Be careful not to act too impetuously, so as not to arouse suspicion.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_kilo_20_8"
+            },
+            {
+                "id": "d_counseling_kilo_20_5",
+                "type": "Speech",
+                "text": "Oh...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_20_6",
+                "type": "Speech",
+                "text": "I've never had a close friend...",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_20_7",
+                "type": "Speech",
+                "text": "so I don't really know what that feels like.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_20_12"
+            },
+            {
+                "id": "d_counseling_kilo_20_8",
+                "type": "Speech",
+                "text": "Oh, okay!",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_20_9",
+                "type": "Speech",
+                "text": "That is exactly what I do anyway.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_20_10",
+                "type": "Speech",
+                "text": "As long as the other person doesn't think poorly of me or think I'm strange, that's good enough for me.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_kilo_20_11",
+                "type": "Speech",
+                "text": "I'm glad that I'm on the right track.",
+                "speaker": "Kilo",
+                "points": null,
+                "jumpTo": "d_counseling_kilo_20_12"
+            },
+            {
+                "id": "d_counseling_kilo_20_12",
+                "type": "Narration",
+                "text": "I have a conversation with Kilo about how to be liked by someone.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

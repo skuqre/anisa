@@ -1,0 +1,1989 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_brid_01_1",
+                "type": "Speech",
+                "text": "A word of advice.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_01_2",
+                "type": "Speech",
+                "text": "If Soline comes over and nags you to do something,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_01_3",
+                "type": "Speech",
+                "text": "please refuse all her requests.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_01_4",
+                "type": "Speech",
+                "text": "She relies on others too much. It's a bad habit.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_01_5",
+                "type": "Choice",
+                "text": "Ignoring her won't fix that.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_01_7"
+            },
+            {
+                "id": "d_counseling_brid_01_6",
+                "type": "Choice",
+                "text": "If I ignore her, she'll keep nagging.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_01_9"
+            },
+            {
+                "id": "d_counseling_brid_01_7",
+                "type": "Speech",
+                "text": "*Sigh* That's true.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_01_8",
+                "type": "Speech",
+                "text": "It must be difficult for you, Commander.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_01_11"
+            },
+            {
+                "id": "d_counseling_brid_01_9",
+                "type": "Speech",
+                "text": "If that happens, please notify me.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_01_10",
+                "type": "Speech",
+                "text": "I will make myself of assistance.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_01_11",
+                "type": "Narration",
+                "text": "Brid and I sigh while thinking of Soline.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_02_1",
+                "type": "Speech",
+                "text": "*Sigh*",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_02_2",
+                "type": "Speech",
+                "text": "What even is this schedule?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_02_3",
+                "type": "Speech",
+                "text": "Who made this?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_02_4",
+                "type": "Choice",
+                "text": "Bring her a coffee without saying anything.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_02_6"
+            },
+            {
+                "id": "d_counseling_brid_02_5",
+                "type": "Choice",
+                "text": "Is something the matter?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_02_9"
+            },
+            {
+                "id": "d_counseling_brid_02_6",
+                "type": "Speech",
+                "text": "Ah... Coffee.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_02_7",
+                "type": "Speech",
+                "text": "Just what I needed to keep me sharp.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_02_8",
+                "type": "Speech",
+                "text": "Thank you.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_02_12"
+            },
+            {
+                "id": "d_counseling_brid_02_9",
+                "type": "Speech",
+                "text": "Ah. I must look so tired, don't I?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_02_10",
+                "type": "Speech",
+                "text": "Forgive me.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_02_11",
+                "type": "Speech",
+                "text": "It's not a big deal. You don't have to worry about me.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_02_12",
+                "type": "Narration",
+                "text": "I work alongside Brid, who has a lot on her plate.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_03_1",
+                "type": "Speech",
+                "text": "Commander, I want to ask you something.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_03_2",
+                "type": "Speech",
+                "text": "Do you prefer your coffee bitter?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_03_3",
+                "type": "Speech",
+                "text": "Or do you prefer a nutty flavor?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_03_4",
+                "type": "Choice",
+                "text": "Bitter.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_03_6"
+            },
+            {
+                "id": "d_counseling_brid_03_5",
+                "type": "Choice",
+                "text": "Nutty.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_03_9"
+            },
+            {
+                "id": "d_counseling_brid_03_6",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_03_7",
+                "type": "Speech",
+                "text": "I wanted to give you some of the coffee I bought today...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_03_8",
+                "type": "Speech",
+                "text": "But, I'm afraid you won't like it.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_03_12"
+            },
+            {
+                "id": "d_counseling_brid_03_9",
+                "type": "Speech",
+                "text": "I'm glad to hear that.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_03_10",
+                "type": "Speech",
+                "text": "I want to share the coffee I bought today with you.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_03_11",
+                "type": "Speech",
+                "text": "I think you'll enjoy it.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_03_12",
+                "type": "Narration",
+                "text": "I spend time with Brid while drinking coffee.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_04_1",
+                "type": "Speech",
+                "text": "Did you know that Diesel likes to sing?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_04_2",
+                "type": "Speech",
+                "text": "Passengers occasionally report that some tone-deaf woman is bombarding them with noise.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_04_3",
+                "type": "Speech",
+                "text": "I believe it must be Diesel.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_04_4",
+                "type": "Speech",
+                "text": "What can I do to discourage Diesel from singing without offending her?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_04_5",
+                "type": "Choice",
+                "text": "Tell her to stop her awful singing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_04_7"
+            },
+            {
+                "id": "d_counseling_brid_04_6",
+                "type": "Choice",
+                "text": "Tell her to fill her mouth with candy during her shift.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_04_10"
+            },
+            {
+                "id": "d_counseling_brid_04_7",
+                "type": "Speech",
+                "text": "I'm not sure if saying that won't hurt her feelings.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_04_8",
+                "type": "Speech",
+                "text": "*Sigh* But perhaps there's no other choice.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_04_9",
+                "type": "Speech",
+                "text": "I will try to speak to her sincerely.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_04_12"
+            },
+            {
+                "id": "d_counseling_brid_04_10",
+                "type": "Speech",
+                "text": "That's a great idea.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_04_11",
+                "type": "Speech",
+                "text": "Thank you, Commander.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_04_12",
+                "type": "Narration",
+                "text": "Brid and I remain concerned about Diesel's singing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_05_1",
+                "type": "Speech",
+                "text": "I have noted that you occasionally use our train service, Commander.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_05_2",
+                "type": "Speech",
+                "text": "Have you experienced any inconveniences?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_05_3",
+                "type": "Choice",
+                "text": "A few days ago, Soline was sitting beside me and grumbling.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_05_5"
+            },
+            {
+                "id": "d_counseling_brid_05_4",
+                "type": "Choice",
+                "text": "No, none at all.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_05_7"
+            },
+            {
+                "id": "d_counseling_brid_05_5",
+                "type": "Speech",
+                "text": "It seems that kind of thing is bound to happen.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_05_6",
+                "type": "Speech",
+                "text": "Thank you for your feedback.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_05_11"
+            },
+            {
+                "id": "d_counseling_brid_05_7",
+                "type": "Speech",
+                "text": "There must be something.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_05_8",
+                "type": "Speech",
+                "text": "This is for improving the service of the Ark Express.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_05_9",
+                "type": "Speech",
+                "text": "We are not trying to get anyone in trouble.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_05_10",
+                "type": "Speech",
+                "text": "So, you don't need to cover for anyone.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_05_11",
+                "type": "Narration",
+                "text": "I discuss with Brid how to improve the service of the Ark Express.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_06_1",
+                "type": "Speech",
+                "text": "Someone was saying that",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_06_2",
+                "type": "Speech",
+                "text": "the AZX is still far from completion.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_06_3",
+                "type": "Speech",
+                "text": "Do you agree, Commander?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_06_4",
+                "type": "Choice",
+                "text": "Yes. There's plenty of room for improvement.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_06_6"
+            },
+            {
+                "id": "d_counseling_brid_06_5",
+                "type": "Choice",
+                "text": "No. I believe it is perfect as it is.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_06_9"
+            },
+            {
+                "id": "d_counseling_brid_06_6",
+                "type": "Speech",
+                "text": "Hm. I know you are trying to be diplomatic...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_06_7",
+                "type": "Speech",
+                "text": "But the fact is, you see it as incomplete.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_06_8",
+                "type": "Speech",
+                "text": "I see your point.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_06_11"
+            },
+            {
+                "id": "d_counseling_brid_06_9",
+                "type": "Speech",
+                "text": "Although I know clearly that she is still incomplete...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_06_10",
+                "type": "Speech",
+                "text": "... I'm still glad to hear you say that.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_06_11",
+                "type": "Narration",
+                "text": "I have a conversation with Brid about the good points of the AZX.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_07_1",
+                "type": "Speech",
+                "text": "Commander, when you have a lot of things to do,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_07_2",
+                "type": "Speech",
+                "text": "do you do it all at once and then relax?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_07_3",
+                "type": "Speech",
+                "text": "Or do you alternate between work and breaks to keep things in balance?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_07_4",
+                "type": "Choice",
+                "text": "I do it all at once.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_07_6"
+            },
+            {
+                "id": "d_counseling_brid_07_5",
+                "type": "Choice",
+                "text": "I try to balance it out.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_07_8"
+            },
+            {
+                "id": "d_counseling_brid_07_6",
+                "type": "Speech",
+                "text": "I see. So, you are just like me.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_07_7",
+                "type": "Speech",
+                "text": "You never know what else will come up, so I prefer finishing everything at once.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_07_11"
+            },
+            {
+                "id": "d_counseling_brid_07_8",
+                "type": "Speech",
+                "text": "Judging by the way you work with Counters,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_07_9",
+                "type": "Speech",
+                "text": "I didn't think you were the type to seek balance.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_07_10",
+                "type": "Speech",
+                "text": "Your answer is very unexpected.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_07_11",
+                "type": "Narration",
+                "text": "I have a conversation with Brid about how difficult it is to be a burned-out office worker.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_08_1",
+                "type": "Speech",
+                "text": "Nice weather today.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_08_2",
+                "type": "Speech",
+                "text": "Are you working today, or will you be going out to have some fun?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_08_3",
+                "type": "Choice",
+                "text": "Do I have other options, aside from work?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_08_5"
+            },
+            {
+                "id": "d_counseling_brid_08_4",
+                "type": "Choice",
+                "text": "I'm going out to have fun.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_08_8"
+            },
+            {
+                "id": "d_counseling_brid_08_5",
+                "type": "Speech",
+                "text": "You understand your situation well.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_08_6",
+                "type": "Speech",
+                "text": "A commander's work never ends.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_08_7",
+                "type": "Speech",
+                "text": "Keep it up.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_08_10"
+            },
+            {
+                "id": "d_counseling_brid_08_8",
+                "type": "Speech",
+                "text": "You have many tasks that need to be completed today.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_08_9",
+                "type": "Speech",
+                "text": "You really think you can just put them off?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_08_10",
+                "type": "Narration",
+                "text": "I work hard with Brid.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_09_1",
+                "type": "Speech",
+                "text": "Sometimes,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_2",
+                "type": "Speech",
+                "text": "I regret handing over the leadership role to Diesel.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_3",
+                "type": "Speech",
+                "text": "I turned down the job because I didn't think I could lead the squad.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_4",
+                "type": "Speech",
+                "text": "Now I wonder if I have given her too heavy a burden.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_5",
+                "type": "Choice",
+                "text": "It does seem pretty hard on her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_09_7"
+            },
+            {
+                "id": "d_counseling_brid_09_6",
+                "type": "Choice",
+                "text": "Diesel is a strong leader.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_09_10"
+            },
+            {
+                "id": "d_counseling_brid_09_7",
+                "type": "Speech",
+                "text": "Uh... That's not it. Diesel is an extraordinary leader.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_8",
+                "type": "Speech",
+                "text": "I'm sorry for not being clear.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_9",
+                "type": "Speech",
+                "text": "I feel sorry for Diesel.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_09_14"
+            },
+            {
+                "id": "d_counseling_brid_09_10",
+                "type": "Speech",
+                "text": "That's correct.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_11",
+                "type": "Speech",
+                "text": "Diesel is a strong leader.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_12",
+                "type": "Speech",
+                "text": "If I keep worrying like this, others will doubt her ability.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_13",
+                "type": "Speech",
+                "text": "Thank you for saying that.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_09_14",
+                "type": "Narration",
+                "text": "I have a conversation with Brid about Diesel's leadership.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_10_1",
+                "type": "Speech",
+                "text": "It appears the number of passengers using the Ark Express has significantly increased recently.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_2",
+                "type": "Speech",
+                "text": "Of course, this is a good sign for us.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_3",
+                "type": "Speech",
+                "text": "But, I'm curious why this happened. There haven't been any special events.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_4",
+                "type": "Speech",
+                "text": "Commander, perhaps you know the reason?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_5",
+                "type": "Choice",
+                "text": "Brid is becoming more and more popular.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_10_7"
+            },
+            {
+                "id": "d_counseling_brid_10_6",
+                "type": "Choice",
+                "text": "The AZX is becoming more and more popular.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_10_11"
+            },
+            {
+                "id": "d_counseling_brid_10_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_8",
+                "type": "Speech",
+                "text": "I'm asking you seriously.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_9",
+                "type": "Speech",
+                "text": "Do I sound like I'm joking?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_10",
+                "type": "Speech",
+                "text": "Fine. I withdraw the question.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_10_14"
+            },
+            {
+                "id": "d_counseling_brid_10_11",
+                "type": "Speech",
+                "text": "Great minds think alike.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_12",
+                "type": "Speech",
+                "text": "I believe that's the reason, too.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_13",
+                "type": "Speech",
+                "text": "Thank you for confirming it.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_10_14",
+                "type": "Narration",
+                "text": "I spend some quality time with Brid.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_11_1",
+                "type": "Speech",
+                "text": "If you had a time machine,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_11_2",
+                "type": "Speech",
+                "text": "would you want to go to the past,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_11_3",
+                "type": "Speech",
+                "text": "or the future?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_11_4",
+                "type": "Choice",
+                "text": "The past.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_11_6"
+            },
+            {
+                "id": "d_counseling_brid_11_5",
+                "type": "Choice",
+                "text": "The future.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_11_9"
+            },
+            {
+                "id": "d_counseling_brid_11_6",
+                "type": "Speech",
+                "text": "So would I.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_11_7",
+                "type": "Speech",
+                "text": "I'd want to go back to the day of the AFX Incident,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_11_8",
+                "type": "Speech",
+                "text": "time paradoxes be darned.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_11_12"
+            },
+            {
+                "id": "d_counseling_brid_11_9",
+                "type": "Speech",
+                "text": "I figured as much.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_11_10",
+                "type": "Speech",
+                "text": "You'd prefer to see the future, not relive the past.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_11_11",
+                "type": "Speech",
+                "text": "That's probably the more normal choice...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_11_12",
+                "type": "Narration",
+                "text": "Brid and I fantasized more about time machines.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_12_1",
+                "type": "Speech",
+                "text": "When you're working, do you prefer talking face-to-face,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_12_2",
+                "type": "Speech",
+                "text": "or through text messages?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_12_3",
+                "type": "Choice",
+                "text": "Face-to-face.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_12_5"
+            },
+            {
+                "id": "d_counseling_brid_12_4",
+                "type": "Choice",
+                "text": "Text messages.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_12_9"
+            },
+            {
+                "id": "d_counseling_brid_12_5",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_12_6",
+                "type": "Speech",
+                "text": "Using text messages for work conversations can be good because it cuts out any extraneous small talk.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_12_7",
+                "type": "Speech",
+                "text": "It's also easier to prevent things from slipping through the cracks.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_12_8",
+                "type": "Speech",
+                "text": "But I can still respect your way of going about things.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_12_12"
+            },
+            {
+                "id": "d_counseling_brid_12_9",
+                "type": "Speech",
+                "text": "I feel the same.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_12_10",
+                "type": "Speech",
+                "text": "I think it's more efficient",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_12_11",
+                "type": "Speech",
+                "text": "at preventing things from slipping through the cracks.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_12_12",
+                "type": "Narration",
+                "text": "Brid and I have a conversation about our working styles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_13_1",
+                "type": "Speech",
+                "text": "Commander,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_13_2",
+                "type": "Speech",
+                "text": "when you look at me, what do you see?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_13_3",
+                "type": "Choice",
+                "text": "A coffee addict.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_13_5"
+            },
+            {
+                "id": "d_counseling_brid_13_4",
+                "type": "Choice",
+                "text": "A workaholic.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_13_8"
+            },
+            {
+                "id": "d_counseling_brid_13_5",
+                "type": "Speech",
+                "text": "A coffee addict?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_13_6",
+                "type": "Speech",
+                "text": "Don't be ridiculous.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_13_7",
+                "type": "Speech",
+                "text": "8 cups a day is perfectly acceptable for the average worker.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_13_12"
+            },
+            {
+                "id": "d_counseling_brid_13_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_13_9",
+                "type": "Speech",
+                "text": "I already knew it,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_13_10",
+                "type": "Speech",
+                "text": "but it's different hearing it back from someone else.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_13_11",
+                "type": "Speech",
+                "text": "Regardless, it seems to be an accurate assessment. Thank you.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_13_12",
+                "type": "Narration",
+                "text": "I speak to Brid further about her habits and her personality.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_14_1",
+                "type": "Speech",
+                "text": "Commander.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_2",
+                "type": "Speech",
+                "text": "Don't you have something to say to me?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_3",
+                "type": "Choice",
+                "text": "Did you finish all your work?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_14_5"
+            },
+            {
+                "id": "d_counseling_brid_14_4",
+                "type": "Choice",
+                "text": "I'm sorry?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_14_10"
+            },
+            {
+                "id": "d_counseling_brid_14_5",
+                "type": "Speech",
+                "text": "Yes, of course I did...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_6",
+                "type": "Speech",
+                "text": "Ah!",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_7",
+                "type": "Speech",
+                "text": "I forgot to receive a report from Soline.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_8",
+                "type": "Speech",
+                "text": "In fact, I was going to remind you that last time you asked me the time of the train I was driving.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_9",
+                "type": "Speech",
+                "text": "But instead, it reminded me of the unfinished work.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_14_13"
+            },
+            {
+                "id": "d_counseling_brid_14_10",
+                "type": "Speech",
+                "text": "Why are you apologizing?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_11",
+                "type": "Speech",
+                "text": "In fact, I was going to remind you that last time you asked me the time of the train I was driving.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_12",
+                "type": "Speech",
+                "text": "But now I'm starting to wonder what you've done wrong.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_14_13",
+                "type": "Narration",
+                "text": "I have a conversation with Brid.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_15_1",
+                "type": "Speech",
+                "text": "If you had a day off,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_15_2",
+                "type": "Speech",
+                "text": "what would you want to do?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_15_3",
+                "type": "Choice",
+                "text": "Sleep in all day.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_15_5"
+            },
+            {
+                "id": "d_counseling_brid_15_4",
+                "type": "Choice",
+                "text": "Day off? There is no such thing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_15_9"
+            },
+            {
+                "id": "d_counseling_brid_15_5",
+                "type": "Speech",
+                "text": "You should make the most of your days off.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_15_6",
+                "type": "Speech",
+                "text": "You can sleep in anytime,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_15_7",
+                "type": "Speech",
+                "text": "so it's a waste to sleep the entire day away.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_15_8",
+                "type": "Speech",
+                "text": "Nevertheless, I will respect your opinion.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_15_12"
+            },
+            {
+                "id": "d_counseling_brid_15_9",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_15_10",
+                "type": "Speech",
+                "text": "So true.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_15_11",
+                "type": "Speech",
+                "text": "Keep at it.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_15_12",
+                "type": "Narration",
+                "text": "Brid and I have a conversation about days off.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_16_1",
+                "type": "Speech",
+                "text": "Is there anyone you're having difficulty working with?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_16_2",
+                "type": "Choice",
+                "text": "No one comes to mind.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_16_4"
+            },
+            {
+                "id": "d_counseling_brid_16_3",
+                "type": "Choice",
+                "text": "There is someone who's a bit childish.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_16_8"
+            },
+            {
+                "id": "d_counseling_brid_16_4",
+                "type": "Speech",
+                "text": "That's great that you get along with everyone so well.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_16_5",
+                "type": "Speech",
+                "text": "But then again,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_16_6",
+                "type": "Speech",
+                "text": "if you're going to lead all of these Nikkes,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_16_7",
+                "type": "Speech",
+                "text": "that's to be expected.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_16_11"
+            },
+            {
+                "id": "d_counseling_brid_16_8",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_16_9",
+                "type": "Speech",
+                "text": "I thought you of all people wouldn't find Soline difficult...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_16_10",
+                "type": "Speech",
+                "text": "But I can certainly understand your feelings.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_16_11",
+                "type": "Narration",
+                "text": "I have a conversation with Brid about her co-workers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_17_1",
+                "type": "Speech",
+                "text": "Someone once told me that",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_2",
+                "type": "Speech",
+                "text": "lying isn't always a bad thing...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_3",
+                "type": "Speech",
+                "text": "Do you believe there's such a thing as a white lie?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_4",
+                "type": "Choice",
+                "text": "I do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_17_6"
+            },
+            {
+                "id": "d_counseling_brid_17_5",
+                "type": "Choice",
+                "text": "No, I don't.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_17_9"
+            },
+            {
+                "id": "d_counseling_brid_17_6",
+                "type": "Speech",
+                "text": "So that's how you feel...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_7",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_8",
+                "type": "Speech",
+                "text": "I'm sorry.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_17_11"
+            },
+            {
+                "id": "d_counseling_brid_17_9",
+                "type": "Speech",
+                "text": "I feel the same way.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_10",
+                "type": "Speech",
+                "text": "The worst truth is still better than the best lie.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_11",
+                "type": "Speech",
+                "text": "No matter how much pain it could cause me,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_12",
+                "type": "Speech",
+                "text": "I would always prefer to hear the most devastating truth over any lie.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_17_13",
+                "type": "Narration",
+                "text": "Brid and I talk more about the idea of lying.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_18_1",
+                "type": "Speech",
+                "text": "A few days ago, I heard that Talentum Mall has new investment products.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_2",
+                "type": "Speech",
+                "text": "They claimed it could drastically increase any Nikke's salary, and asked whether I was interested.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_3",
+                "type": "Speech",
+                "text": "Commander, do you tend to jump at new challenges that present themselves?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_4",
+                "type": "Speech",
+                "text": "Or do you prefer to play it safe and not risk it?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_5",
+                "type": "Choice",
+                "text": "I often take on challenges.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_18_7"
+            },
+            {
+                "id": "d_counseling_brid_18_6",
+                "type": "Choice",
+                "text": "I prefer to play it safe.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_18_11"
+            },
+            {
+                "id": "d_counseling_brid_18_7",
+                "type": "Speech",
+                "text": "I thought so.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_8",
+                "type": "Speech",
+                "text": "That's why you're always heading up to the surface even when reclaiming it is by no means a certainty.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_9",
+                "type": "Speech",
+                "text": "But taking on too many challenges could cause you to lose everything,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_10",
+                "type": "Speech",
+                "text": "so I hope you don't overexert yourself and end up worse off for it.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_18_15"
+            },
+            {
+                "id": "d_counseling_brid_18_11",
+                "type": "Speech",
+                "text": "That's surprising. I thought it would be the other way around.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_12",
+                "type": "Speech",
+                "text": "To be honest, I tend to play things safe as well.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_13",
+                "type": "Speech",
+                "text": "For me, the risk of losing everything I have",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_14",
+                "type": "Speech",
+                "text": "is not worth any potential profits I could gain from going out on a limb.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_18_15",
+                "type": "Narration",
+                "text": "Brid and I talk a little more about taking on new challenges.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_19_1",
+                "type": "Speech",
+                "text": "Passengers often tell me that",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_2",
+                "type": "Speech",
+                "text": "trains are a very romantic way of traveling.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_3",
+                "type": "Speech",
+                "text": "How do you feel about trains?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_4",
+                "type": "Choice",
+                "text": "I don't have time for such flights of fancy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_19_6"
+            },
+            {
+                "id": "d_counseling_brid_19_5",
+                "type": "Choice",
+                "text": "I long for the day I can ride the rails up on the surface.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_19_9"
+            },
+            {
+                "id": "d_counseling_brid_19_6",
+                "type": "Speech",
+                "text": "Same here.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_7",
+                "type": "Speech",
+                "text": "There's too much going on in our own reality",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_8",
+                "type": "Speech",
+                "text": "to entertain any dreams of travel right now.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_19_14"
+            },
+            {
+                "id": "d_counseling_brid_19_9",
+                "type": "Speech",
+                "text": "Traversing the surface on a train certainly sounds like a dream all right.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_11",
+                "type": "Speech",
+                "text": "A dream that isn't promised.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_12",
+                "type": "Speech",
+                "text": "However, if a time like that ever comes",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_13",
+                "type": "Speech",
+                "text": "I would want to operate that train that you are on.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_19_14",
+                "type": "Narration",
+                "text": "Brid and I talk about train travel.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_brid_20_1",
+                "type": "Speech",
+                "text": "I feel like time has been flying by so fast lately.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_20_2",
+                "type": "Speech",
+                "text": "Let me ask you,",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_20_3",
+                "type": "Speech",
+                "text": "where do you think I will be in 10 years?",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_20_4",
+                "type": "Choice",
+                "text": "You'll probably be a member of the Ark Express.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_brid_20_6"
+            },
+            {
+                "id": "d_counseling_brid_20_5",
+                "type": "Choice",
+                "text": "You'll probably still be running the train like you are now.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_brid_20_8"
+            },
+            {
+                "id": "d_counseling_brid_20_6",
+                "type": "Speech",
+                "text": "I'm sorry to tell you this, but",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_20_7",
+                "type": "Speech",
+                "text": "as long as I am a Nikke, I'm afraid that's impossible.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": "d_counseling_brid_20_11"
+            },
+            {
+                "id": "d_counseling_brid_20_8",
+                "type": "Speech",
+                "text": "Yes, I'll be doing just what I'm doing now.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_20_9",
+                "type": "Speech",
+                "text": "Thank you.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_20_10",
+                "type": "Speech",
+                "text": "If you ask me, there's no better future than that.",
+                "speaker": "Brid",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_brid_20_11",
+                "type": "Narration",
+                "text": "Brid and I discuss the future.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

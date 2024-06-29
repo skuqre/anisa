@@ -1,0 +1,1797 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_poli_01_1",
+                "type": "Speech",
+                "text": "As a police officer, I see a lot of drunks on the streets.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_01_2",
+                "type": "Speech",
+                "text": "Some of them even threaten us, asking why lowly police dare to arrest them. Grr...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_01_3",
+                "type": "Speech",
+                "text": "What should I do when I run into this kind of person?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_01_4",
+                "type": "Choice",
+                "text": "Show them who's boss.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_01_6"
+            },
+            {
+                "id": "d_counseling_poli_01_5",
+                "type": "Choice",
+                "text": "Let it slide. The police are only here to protect and serve.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_01_9"
+            },
+            {
+                "id": "d_counseling_poli_01_6",
+                "type": "Speech",
+                "text": "Good idea!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_01_7",
+                "type": "Speech",
+                "text": "The iron fist of the law must keep a tight grip!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_01_8",
+                "type": "Speech",
+                "text": "It's like you read my mind or something!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_01_12"
+            },
+            {
+                "id": "d_counseling_poli_01_9",
+                "type": "Speech",
+                "text": "Uh... I didn't know you were going to give such an earnest answer.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_01_10",
+                "type": "Speech",
+                "text": "I guess I have no choice.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_01_11",
+                "type": "Speech",
+                "text": "Fine. I'll be more patient with them.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_01_12",
+                "type": "Narration",
+                "text": "I listen to Poli talk about the challenges of being a police officer.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_02_1",
+                "type": "Speech",
+                "text": "Ugh, Miranda's over-enthusiasm got the better of her again today.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_02_2",
+                "type": "Speech",
+                "text": "She ended up botching an investigation!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_02_3",
+                "type": "Speech",
+                "text": "What can I do to make her stop doing that?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_02_4",
+                "type": "Choice",
+                "text": "Strict punishment.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_02_6"
+            },
+            {
+                "id": "d_counseling_poli_02_5",
+                "type": "Choice",
+                "text": "It's better to just give up.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_02_8"
+            },
+            {
+                "id": "d_counseling_poli_02_6",
+                "type": "Speech",
+                "text": "I've done that so many times already. Grr...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_02_7",
+                "type": "Speech",
+                "text": "And yet, she never stops making a mess.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_02_11"
+            },
+            {
+                "id": "d_counseling_poli_02_8",
+                "type": "Speech",
+                "text": "Ugh. Is that the only way?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_02_9",
+                "type": "Speech",
+                "text": "I guess I will just have to give up.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_02_10",
+                "type": "Speech",
+                "text": "But I'm glad someone else thinks the same way, anyway.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_02_11",
+                "type": "Narration",
+                "text": "I comfort Poli about Miranda's bad habits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_03_1",
+                "type": "Speech",
+                "text": "Commander, have you heard of sweet potato-flavored Splendamin?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_03_2",
+                "type": "Speech",
+                "text": "It's been getting pretty popular recently.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_03_3",
+                "type": "Choice",
+                "text": "Yeah, I like it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_03_5"
+            },
+            {
+                "id": "d_counseling_poli_03_4",
+                "type": "Choice",
+                "text": "Are you sure it's not just popular with you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_03_10"
+            },
+            {
+                "id": "d_counseling_poli_03_5",
+                "type": "Speech",
+                "text": "Ha! I knew you'd get it!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_03_6",
+                "type": "Speech",
+                "text": "The greatness of sweet potato flavor!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_03_7",
+                "type": "Speech",
+                "text": "I can hardly live without it!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_03_8",
+                "type": "Speech",
+                "text": "Hmm, Miranda said if I eat too much, I will get fat.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_03_9",
+                "type": "Speech",
+                "text": "Seems that it's too hard for a child like her to realize its greatness.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_03_12"
+            },
+            {
+                "id": "d_counseling_poli_03_10",
+                "type": "Speech",
+                "text": "Commander! You, too?!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_03_11",
+                "type": "Speech",
+                "text": "How could it...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_03_12",
+                "type": "Narration",
+                "text": "I praise the greatness of sweet potato-flavored Splendamin with Poli.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_04_1",
+                "type": "Speech",
+                "text": "You know, I was just thinking about this the other day...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_04_2",
+                "type": "Speech",
+                "text": "If I didn't become a police officer, what do you think I would have been?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_04_3",
+                "type": "Choice",
+                "text": "I think you'd make a great lapdog.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_04_5"
+            },
+            {
+                "id": "d_counseling_poli_04_4",
+                "type": "Choice",
+                "text": "Nothing suits you like being a police officer.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_04_8"
+            },
+            {
+                "id": "d_counseling_poli_04_5",
+                "type": "Speech",
+                "text": "D-dog!?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_04_6",
+                "type": "Speech",
+                "text": "I asked you a serious question and you're treating it like a joke?! Grrr...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_04_7",
+                "type": "Speech",
+                "text": "Arf! You've gone too far!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_04_11"
+            },
+            {
+                "id": "d_counseling_poli_04_8",
+                "type": "Speech",
+                "text": "Hmmm... Is that so?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_04_9",
+                "type": "Speech",
+                "text": "There's no career for me except the police...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_04_10",
+                "type": "Speech",
+                "text": "That sounds pretty nice!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_04_11",
+                "type": "Narration",
+                "text": "I have a conversation with Poli about careers.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_05_1",
+                "type": "Speech",
+                "text": "I like warm days best.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_05_2",
+                "type": "Speech",
+                "text": "They make me feel so relaxed and sleepy...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_05_3",
+                "type": "Speech",
+                "text": "I just wanna lie down on the ground.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_05_4",
+                "type": "Choice",
+                "text": "Well, you're already pretty close to the ground.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_05_6"
+            },
+            {
+                "id": "d_counseling_poli_05_5",
+                "type": "Choice",
+                "text": "Do you want me to pet you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_05_8"
+            },
+            {
+                "id": "d_counseling_poli_05_6",
+                "type": "Speech",
+                "text": "You are so mean.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_05_7",
+                "type": "Speech",
+                "text": "Just because I'm short doesn't mean I'm always lying on the ground, you know! Grrr...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_05_10"
+            },
+            {
+                "id": "d_counseling_poli_05_8",
+                "type": "Speech",
+                "text": "How did you know I wanted to be pet?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_05_9",
+                "type": "Speech",
+                "text": "Commander, your instincts are as sharp as mine.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_05_10",
+                "type": "Narration",
+                "text": "I enjoy the warm weather with Poli.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_06_1",
+                "type": "Speech",
+                "text": "Ugh... Commander, this rainy weather makes me feel like a sloth.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_06_2",
+                "type": "Speech",
+                "text": "My body's so drained. I'm turning into a literal couch potato.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_06_3",
+                "type": "Choice",
+                "text": "Do you want me to pet you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_06_5"
+            },
+            {
+                "id": "d_counseling_poli_06_4",
+                "type": "Choice",
+                "text": "It's because you have dog fur.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_06_7"
+            },
+            {
+                "id": "d_counseling_poli_06_5",
+                "type": "Speech",
+                "text": "Uh, I have no idea why you just said that, but since you did...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_06_6",
+                "type": "Speech",
+                "text": "I do like being stroked. I'll take it, with pleasure.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_06_10"
+            },
+            {
+                "id": "d_counseling_poli_06_7",
+                "type": "Speech",
+                "text": "D-dog fur!?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_06_8",
+                "type": "Speech",
+                "text": "I know my hair is extremely fluffy and voluptuous,",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_06_9",
+                "type": "Speech",
+                "text": "but you don't get to call it dog fur!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_06_10",
+                "type": "Narration",
+                "text": "I talk with Poli about rainy weather.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_07_1",
+                "type": "Speech",
+                "text": "A few days ago, a kid said I look like a marshmallow!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_2",
+                "type": "Speech",
+                "text": "The nerve of that brat! Argh...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_3",
+                "type": "Speech",
+                "text": "Grr... I'm furious. Why in the world would he say that?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_4",
+                "type": "Choice",
+                "text": "Because of your fluffy hair?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_07_6"
+            },
+            {
+                "id": "d_counseling_poli_07_5",
+                "type": "Choice",
+                "text": "Because of your chipmunk cheeks?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_07_10"
+            },
+            {
+                "id": "d_counseling_poli_07_6",
+                "type": "Speech",
+                "text": "Hmm... Okay, fair enough.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_7",
+                "type": "Speech",
+                "text": "I guess my hair is really the problem here.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_8",
+                "type": "Speech",
+                "text": "Hmmm... But it's part of who I am.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_9",
+                "type": "Speech",
+                "text": "I'm not gonna change it just cuz of some nosy kids.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_07_15"
+            },
+            {
+                "id": "d_counseling_poli_07_10",
+                "type": "Speech",
+                "text": "Ch-cheeks?!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_11",
+                "type": "Speech",
+                "text": "I-I didn't expect that...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_12",
+                "type": "Speech",
+                "text": "... Fine! I've decided. I'm going to go on a diet, starting today!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_13",
+                "type": "Speech",
+                "text": "Then no one will ever say I look like a marshmallow again!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_14",
+                "type": "Speech",
+                "text": "Thanks for the tip, Commander!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_07_15",
+                "type": "Narration",
+                "text": "I talk with Poli, who really does look like a marshmallow.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_08_1",
+                "type": "Speech",
+                "text": "Commander, tell me the truth.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_08_2",
+                "type": "Speech",
+                "text": "Are you a dog person or a cat person?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_08_3",
+                "type": "Choice",
+                "text": "Of course, a dog person.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_08_5"
+            },
+            {
+                "id": "d_counseling_poli_08_4",
+                "type": "Choice",
+                "text": "Definitely a cat person.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_08_7"
+            },
+            {
+                "id": "d_counseling_poli_08_5",
+                "type": "Speech",
+                "text": "Haha, I knew it!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_08_6",
+                "type": "Speech",
+                "text": "Your smell told me everything!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_08_10"
+            },
+            {
+                "id": "d_counseling_poli_08_7",
+                "type": "Speech",
+                "text": "C-cat person? Grrr...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_08_8",
+                "type": "Speech",
+                "text": "Wh-why...?! Usually, you can't keep your eyes off of my fluffy hair!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_08_9",
+                "type": "Speech",
+                "text": "I can't accept this! Arrgghh...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_08_10",
+                "type": "Narration",
+                "text": "I have a serious discussion with Poli about the loveliness of puppies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_09_1",
+                "type": "Speech",
+                "text": "Commander, I'm in a really bad mood right now!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_09_2",
+                "type": "Speech",
+                "text": "How can I calm down?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_09_3",
+                "type": "Choice",
+                "text": "Come here. Let me pet you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_09_5"
+            },
+            {
+                "id": "d_counseling_poli_09_4",
+                "type": "Choice",
+                "text": "Just get rid of whatever's bothering you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_09_7"
+            },
+            {
+                "id": "d_counseling_poli_09_5",
+                "type": "Speech",
+                "text": "Sounds like a plan!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_09_6",
+                "type": "Speech",
+                "text": "Looks like I really asked the right person!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_09_10"
+            },
+            {
+                "id": "d_counseling_poli_09_7",
+                "type": "Speech",
+                "text": "But the person I'm angry at is myself.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_09_8",
+                "type": "Speech",
+                "text": "It'd be pretty impractical to get rid of myself...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_09_9",
+                "type": "Speech",
+                "text": "Ugh.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_09_10",
+                "type": "Narration",
+                "text": "I try to calm Poli down.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_10_1",
+                "type": "Speech",
+                "text": "Commander. Listen carefully.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_10_2",
+                "type": "Speech",
+                "text": "I ate some pudding and put the leftovers in the fridge.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_10_3",
+                "type": "Speech",
+                "text": "But, Miranda got hungry and ate it all.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_10_4",
+                "type": "Speech",
+                "text": "Miranda told me she didn't know the pudding was mine, and that she was about to starve to death.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_10_5",
+                "type": "Speech",
+                "text": "Should I believe her?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_10_6",
+                "type": "Choice",
+                "text": "It sounds like the cowardly excuse of a criminal.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_10_8"
+            },
+            {
+                "id": "d_counseling_poli_10_7",
+                "type": "Choice",
+                "text": "Wouldn't it be better to trust her word?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_10_10"
+            },
+            {
+                "id": "d_counseling_poli_10_8",
+                "type": "Speech",
+                "text": "That's right!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_10_9",
+                "type": "Speech",
+                "text": "It's time to drop the hammer of justice on that criminal! Grr...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_10_12"
+            },
+            {
+                "id": "d_counseling_poli_10_10",
+                "type": "Speech",
+                "text": "Wooo... trust her?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_10_11",
+                "type": "Speech",
+                "text": "Do I really have to?!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_10_12",
+                "type": "Narration",
+                "text": "I try to console Poli's anger against Miranda.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_11_1",
+                "type": "Speech",
+                "text": "I was watching a crime thriller with Miranda today",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_11_2",
+                "type": "Speech",
+                "text": "and she had no idea who the criminal was.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_11_3",
+                "type": "Speech",
+                "text": "It was so obvious who they were too!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_11_4",
+                "type": "Choice",
+                "text": "You're a veteran police officer, so spotting criminals is practically second nature for you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_11_6"
+            },
+            {
+                "id": "d_counseling_poli_11_5",
+                "type": "Choice",
+                "text": "You... didn't by any chance know who the criminal was before you watched the movie, did you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_11_9"
+            },
+            {
+                "id": "d_counseling_poli_11_6",
+                "type": "Speech",
+                "text": "You really think that, Commander?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_11_7",
+                "type": "Speech",
+                "text": "That makes me feel good!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_11_8",
+                "type": "Speech",
+                "text": "That's probably why I was able to figure out who the criminal was!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_11_12"
+            },
+            {
+                "id": "d_counseling_poli_11_9",
+                "type": "Speech",
+                "text": "What do you mean?!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_11_10",
+                "type": "Speech",
+                "text": "I would never resort to such a dirty trick!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_11_11",
+                "type": "Speech",
+                "text": "I have pride in my policing skills.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_11_12",
+                "type": "Narration",
+                "text": "Poli and I talk more about the criminal in the movie that she watched.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_12_1",
+                "type": "Speech",
+                "text": "I've been thinking about changing my hairstyle.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_12_2",
+                "type": "Speech",
+                "text": "What kind of style should I change it to?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_12_3",
+                "type": "Choice",
+                "text": "I think what you've got going on now suits you perfectly.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_12_5"
+            },
+            {
+                "id": "d_counseling_poli_12_4",
+                "type": "Choice",
+                "text": "A cute pixie cut.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_12_8"
+            },
+            {
+                "id": "d_counseling_poli_12_5",
+                "type": "Speech",
+                "text": "Agreed. Even though I want to change it,",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_12_6",
+                "type": "Speech",
+                "text": "no other hairstyle really tickles my fancy.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_12_7",
+                "type": "Speech",
+                "text": "Anyway, I guess I'll just keep it like it is then.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_12_12"
+            },
+            {
+                "id": "d_counseling_poli_12_8",
+                "type": "Speech",
+                "text": "A pixie cut?!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_12_9",
+                "type": "Speech",
+                "text": "Doing that would only",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_12_10",
+                "type": "Speech",
+                "text": "make my hair more curly!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_12_11",
+                "type": "Speech",
+                "text": "Just thinking about it gives me goosebumps...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_12_12",
+                "type": "Narration",
+                "text": "Poli and I talk more in an effort to figure out a hairstyle she'll like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_13_1",
+                "type": "Speech",
+                "text": "Commander, do you prefer spending time alone,",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_13_2",
+                "type": "Speech",
+                "text": "or going out with a group of people?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_13_3",
+                "type": "Choice",
+                "text": "I enjoy being around you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_13_5"
+            },
+            {
+                "id": "d_counseling_poli_13_4",
+                "type": "Choice",
+                "text": "I enjoy going out with a big group.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_13_8"
+            },
+            {
+                "id": "d_counseling_poli_13_5",
+                "type": "Speech",
+                "text": "Where did that come from?!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_13_6",
+                "type": "Speech",
+                "text": "However, it's not a bad answer.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_13_7",
+                "type": "Speech",
+                "text": "I enjoy spending time with you as well.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_13_10"
+            },
+            {
+                "id": "d_counseling_poli_13_8",
+                "type": "Speech",
+                "text": "A big group, huh?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_13_9",
+                "type": "Speech",
+                "text": "I tend to have more fun in smaller groups.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_13_10",
+                "type": "Narration",
+                "text": "Poli and I talk more about how we prefer hanging out with others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_14_1",
+                "type": "Speech",
+                "text": "Commander, if I was a toy,",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_14_2",
+                "type": "Speech",
+                "text": "what type of toy do you think I would be?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_14_3",
+                "type": "Choice",
+                "text": "An adorable stuffed puppy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_14_5"
+            },
+            {
+                "id": "d_counseling_poli_14_4",
+                "type": "Choice",
+                "text": "A bad-to-the-bone police figurine.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_14_7"
+            },
+            {
+                "id": "d_counseling_poli_14_5",
+                "type": "Speech",
+                "text": "A puppy?! Grrr...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_14_6",
+                "type": "Speech",
+                "text": "I'd pick badass over cute any day.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_14_11"
+            },
+            {
+                "id": "d_counseling_poli_14_7",
+                "type": "Speech",
+                "text": "Nice!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_14_8",
+                "type": "Speech",
+                "text": "I'd rather be a badass than cute.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_14_9",
+                "type": "Speech",
+                "text": "Thanks for letting me know what you think.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_14_10",
+                "type": "Speech",
+                "text": "Who knows, if I keep making my mark, store shelves may be flooded with Poli figurines one day.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_14_11",
+                "type": "Narration",
+                "text": "Poli and I pondered how to make Poli figurines.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_15_1",
+                "type": "Speech",
+                "text": "Commander, is there any other career you'd like to try out other than what you're doing now?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_15_2",
+                "type": "Choice",
+                "text": "I'd like to give being a police officer a shot, like you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_15_4"
+            },
+            {
+                "id": "d_counseling_poli_15_3",
+                "type": "Choice",
+                "text": "I'd want to be a dog sitter.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_15_8"
+            },
+            {
+                "id": "d_counseling_poli_15_4",
+                "type": "Speech",
+                "text": "It's good you want to be a police officer, but if you want to get to my level,",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_15_5",
+                "type": "Speech",
+                "text": "it won't be easy!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_15_6",
+                "type": "Speech",
+                "text": "However, if I have you under my supervision,",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_15_7",
+                "type": "Speech",
+                "text": "I may have more fun on the job!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_15_11"
+            },
+            {
+                "id": "d_counseling_poli_15_8",
+                "type": "Speech",
+                "text": "A dog sitter?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_15_9",
+                "type": "Speech",
+                "text": "Now there's an answer I didn't expect.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_15_10",
+                "type": "Speech",
+                "text": "Hey, you're not poking fun at me, are you? Grrrr...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_15_11",
+                "type": "Narration",
+                "text": "Poli and I had fun imagining all sorts of careers we'd like to try out.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_16_1",
+                "type": "Speech",
+                "text": "*Grrrr*",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_16_2",
+                "type": "Choice",
+                "text": "Is there a dog nearby?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_16_4"
+            },
+            {
+                "id": "d_counseling_poli_16_3",
+                "type": "Choice",
+                "text": "What's going on?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_16_7"
+            },
+            {
+                "id": "d_counseling_poli_16_4",
+                "type": "Speech",
+                "text": "What?!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_16_5",
+                "type": "Speech",
+                "text": "I was already in a bad mood, and you're only making it worse!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_16_6",
+                "type": "Speech",
+                "text": "*Grrrr*",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_16_10"
+            },
+            {
+                "id": "d_counseling_poli_16_7",
+                "type": "Speech",
+                "text": "Let me tell you, I am seriously peeved!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_16_8",
+                "type": "Speech",
+                "text": "Some wino tried to pick a fight with me today.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_16_9",
+                "type": "Speech",
+                "text": "He kept making fun of my bark... Grrrrrr",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_16_10",
+                "type": "Narration",
+                "text": "I do my best to calm down Poli.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_17_1",
+                "type": "Speech",
+                "text": "Today, I don't want to do anything. I just want to kick back and relax.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_17_2",
+                "type": "Speech",
+                "text": "I have so much to do though...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_17_3",
+                "type": "Choice",
+                "text": "Forget all that, let's hang out.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_17_5"
+            },
+            {
+                "id": "d_counseling_poli_17_4",
+                "type": "Choice",
+                "text": "Let's hang out after you're done.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_17_9"
+            },
+            {
+                "id": "d_counseling_poli_17_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_17_6",
+                "type": "Speech",
+                "text": "Right now? Where? Do you think we should...?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_17_7",
+                "type": "Speech",
+                "text": "Yeah, sure! Work hard, play hard, right?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_17_8",
+                "type": "Speech",
+                "text": "Let's go to the park.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_17_12"
+            },
+            {
+                "id": "d_counseling_poli_17_9",
+                "type": "Speech",
+                "text": "I suppose you're right.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_17_10",
+                "type": "Speech",
+                "text": "But I can't seem to concentrate.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_17_11",
+                "type": "Speech",
+                "text": "Do you want to hang out when I'm done with work?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_17_12",
+                "type": "Narration",
+                "text": "I have a fun time hanging out with Poli.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_18_1",
+                "type": "Speech",
+                "text": "Drats, just look at this! I scraped my knee again today.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_18_2",
+                "type": "Speech",
+                "text": "I had a good streak of no injuries going too... at least I didn't take too hard a spill.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_18_3",
+                "type": "Choice",
+                "text": "Change the bandage.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_18_5"
+            },
+            {
+                "id": "d_counseling_poli_18_4",
+                "type": "Choice",
+                "text": "You should be more careful.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_18_7"
+            },
+            {
+                "id": "d_counseling_poli_18_5",
+                "type": "Speech",
+                "text": "Huh? Oh, you don't have to... thanks!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_18_6",
+                "type": "Speech",
+                "text": "I'm sure that'll help it heal more quickly.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_18_9"
+            },
+            {
+                "id": "d_counseling_poli_18_7",
+                "type": "Speech",
+                "text": "I could say the same thing to you!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_18_8",
+                "type": "Speech",
+                "text": "Anyway, I was being careful! And I still got injured!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_18_9",
+                "type": "Narration",
+                "text": "I talk to Poli as I look more closely at her wound.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_19_1",
+                "type": "Speech",
+                "text": "When I was on patrol today, this little girl said,",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_19_2",
+                "type": "Speech",
+                "text": "Poli! Curly! Cool!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_19_3",
+                "type": "Speech",
+                "text": "What do you think she meant?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_19_4",
+                "type": "Choice",
+                "text": "Your hair is cool because it's so curly.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_19_6"
+            },
+            {
+                "id": "d_counseling_poli_19_5",
+                "type": "Choice",
+                "text": "She thinks that you're cool.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_19_8"
+            },
+            {
+                "id": "d_counseling_poli_19_6",
+                "type": "Speech",
+                "text": "So she liked my hair?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_19_7",
+                "type": "Speech",
+                "text": "Hmm... I guess it is kinda cool.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_19_10"
+            },
+            {
+                "id": "d_counseling_poli_19_8",
+                "type": "Speech",
+                "text": "Me? Cool?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_19_9",
+                "type": "Speech",
+                "text": "Well, I guess it's always nice to hear a compliment.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_19_10",
+                "type": "Narration",
+                "text": "Poli and I have a nice chat.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_poli_20_1",
+                "type": "Speech",
+                "text": "I want to be on the force until the day I die.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_20_2",
+                "type": "Speech",
+                "text": "Think I can do it?",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_20_3",
+                "type": "Choice",
+                "text": "In your case Poli, I think it's possible.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_poli_20_5"
+            },
+            {
+                "id": "d_counseling_poli_20_4",
+                "type": "Choice",
+                "text": "There's no such thing as lifelong careers anymore.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_poli_20_7"
+            },
+            {
+                "id": "d_counseling_poli_20_5",
+                "type": "Speech",
+                "text": "Woof, woof! That's awesome to hear you say that!",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_20_6",
+                "type": "Speech",
+                "text": "I'll protect you until the very end.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": "d_counseling_poli_20_9"
+            },
+            {
+                "id": "d_counseling_poli_20_7",
+                "type": "Speech",
+                "text": "Fair enough, good point... but you don't have to be such a party pooper...",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_20_8",
+                "type": "Speech",
+                "text": "I still want to do this job for life.",
+                "speaker": "Poli",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_poli_20_9",
+                "type": "Narration",
+                "text": "Poli and I have a conversation about career aspirations.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}

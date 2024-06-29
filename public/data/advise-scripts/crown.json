@@ -1,0 +1,2037 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_crown_01_1",
+                "type": "Speech",
+                "text": "Welcome.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_2",
+                "type": "Speech",
+                "text": "Shall we start the concert?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_3",
+                "type": "Choice",
+                "text": "You mean counseling?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_01_5"
+            },
+            {
+                "id": "d_counseling_crown_01_4",
+                "type": "Choice",
+                "text": "... Right. Let's start the show.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_01_9"
+            },
+            {
+                "id": "d_counseling_crown_01_5",
+                "type": "Speech",
+                "text": "Oh, r-right! Counseling.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_6",
+                "type": "Speech",
+                "text": "That's what I meant.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_7",
+                "type": "Speech",
+                "text": "I simply wanted to test you,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_8",
+                "type": "Speech",
+                "text": "and you passed. Congratulations.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_01_16"
+            },
+            {
+                "id": "d_counseling_crown_01_9",
+                "type": "Speech",
+                "text": "Very well.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_10",
+                "type": "Speech",
+                "text": "Hmm?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_11",
+                "type": "Speech",
+                "text": "Why do you have your eyes closed?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_12",
+                "type": "Speech",
+                "text": "Isn't this the part where we talk to each other?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_13",
+                "type": "Self",
+                "text": "I have my eyes closed so I can focus on the concert that's about to start.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_14",
+                "type": "Speech",
+                "text": "?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_01_15",
+                "type": "Self",
+                "text": "?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_crown_01_16"
+            },
+            {
+                "id": "d_counseling_crown_01_16",
+                "type": "Narration",
+                "text": "I go over what counseling is with Crown in great detail.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_02_1",
+                "type": "Speech",
+                "text": "Regardless of how long it takes,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_02_2",
+                "type": "Speech",
+                "text": "I will make sure that all the wishes of my people are fulfilled.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_02_3",
+                "type": "Choice",
+                "text": "And what's your wish, Crown?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_02_5"
+            },
+            {
+                "id": "d_counseling_crown_02_4",
+                "type": "Choice",
+                "text": "Is that your wish? Incredible.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_02_9"
+            },
+            {
+                "id": "d_counseling_crown_02_5",
+                "type": "Speech",
+                "text": "I don't have one.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_02_6",
+                "type": "Self",
+                "text": "Huh? Why not?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_02_7",
+                "type": "Speech",
+                "text": "If I had a wish,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_02_8",
+                "type": "Speech",
+                "text": "then I would be consumed by the desire to fulfill it.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_02_12"
+            },
+            {
+                "id": "d_counseling_crown_02_9",
+                "type": "Speech",
+                "text": "You praise me excessively.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_02_10",
+                "type": "Speech",
+                "text": "But yes.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_02_11",
+                "type": "Speech",
+                "text": "That is my wish.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_02_12"
+            },
+            {
+                "id": "d_counseling_crown_02_12",
+                "type": "Narration",
+                "text": "Crown and I talk more about wishes.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_03_1",
+                "type": "Speech",
+                "text": "I heard that you have many Nikkes in your care.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_2",
+                "type": "Speech",
+                "text": "What is your reason for doing so?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_3",
+                "type": "Choice",
+                "text": "Perhaps it's the same reason that you take care of your subjects.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_03_5"
+            },
+            {
+                "id": "d_counseling_crown_03_4",
+                "type": "Choice",
+                "text": "I enjoy it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_03_9"
+            },
+            {
+                "id": "d_counseling_crown_03_5",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_6",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_7",
+                "type": "Speech",
+                "text": "Then, you must continue caring for them",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_8",
+                "type": "Speech",
+                "text": "as you have done until now.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_03_11"
+            },
+            {
+                "id": "d_counseling_crown_03_9",
+                "type": "Speech",
+                "text": "I see...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_10",
+                "type": "Speech",
+                "text": "That's not the explanation I was expecting. However...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_03_11"
+            },
+            {
+                "id": "d_counseling_crown_03_11",
+                "type": "Speech",
+                "text": "You must always be a support in the storm for them.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_12",
+                "type": "Self",
+                "text": "Do you mean \"port in the storm\"?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_13",
+                "type": "Speech",
+                "text": "Ah, yes. That's it... hehe.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_03_14",
+                "type": "Narration",
+                "text": "Amidst awkward laughter, Crowd quickly excuses herself.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_04_1",
+                "type": "Speech",
+                "text": "Once we have shown you the way,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_04_2",
+                "type": "Speech",
+                "text": "you, Chime, and I must return to the Crown Kingdom.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_04_3",
+                "type": "Choice",
+                "text": "Sorry, but you two will have to head back without me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_04_5"
+            },
+            {
+                "id": "d_counseling_crown_04_4",
+                "type": "Choice",
+                "text": "It's a pity I can't join you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_04_8"
+            },
+            {
+                "id": "d_counseling_crown_04_5",
+                "type": "Speech",
+                "text": "... I can sense no hesitation in your voice, nor any hint of regret.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_04_6",
+                "type": "Speech",
+                "text": "Very well. For now, Chime and I will be the only two returning.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_04_7",
+                "type": "Speech",
+                "text": "You, however, will remain as one of our citizens, so we will continue to keep watch over you.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_04_11"
+            },
+            {
+                "id": "d_counseling_crown_04_8",
+                "type": "Speech",
+                "text": "Very good. That is the answer I was looking for.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_04_9",
+                "type": "Speech",
+                "text": "However, do not be upset.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_04_10",
+                "type": "Speech",
+                "text": "You can join us anytime, should you wish.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_04_11"
+            },
+            {
+                "id": "d_counseling_crown_04_11",
+                "type": "Speech",
+                "text": "Always. Never forget that.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_04_12",
+                "type": "Narration",
+                "text": "All of us speculate about when Crown might return to the kingdom.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_05_1",
+                "type": "Speech",
+                "text": "What kind of person is Marian",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_05_2",
+                "type": "Speech",
+                "text": "when she's with you?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_05_3",
+                "type": "Choice",
+                "text": "Innocent and pure.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_05_5"
+            },
+            {
+                "id": "d_counseling_crown_05_4",
+                "type": "Choice",
+                "text": "Kind and warm-hearted.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_05_8"
+            },
+            {
+                "id": "d_counseling_crown_05_5",
+                "type": "Speech",
+                "text": "I see.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_05_6",
+                "type": "Speech",
+                "text": "In fact, that was the feeling I got when I first met her.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_05_7",
+                "type": "Speech",
+                "text": "However, that has changed somewhat.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_05_11"
+            },
+            {
+                "id": "d_counseling_crown_05_8",
+                "type": "Speech",
+                "text": "Very much like she is now.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_05_9",
+                "type": "Speech",
+                "text": "She takes good care of those around her and is very understanding.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_05_10",
+                "type": "Speech",
+                "text": "... She's the same to everyone.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_05_11"
+            },
+            {
+                "id": "d_counseling_crown_05_11",
+                "type": "Narration",
+                "text": "Crown smiles bitterly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_06_1",
+                "type": "Speech",
+                "text": "Is there anything you would like to know about the Crown Kingdom?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_06_2",
+                "type": "Choice",
+                "text": "How did you become the king?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_06_4"
+            },
+            {
+                "id": "d_counseling_crown_06_3",
+                "type": "Choice",
+                "text": "What is this treasure that you're guarding?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_06_8"
+            },
+            {
+                "id": "d_counseling_crown_06_4",
+                "type": "Speech",
+                "text": "One of the citizens wished for me to become king,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_06_5",
+                "type": "Speech",
+                "text": "and so I had to accommodate them.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_06_6",
+                "type": "Speech",
+                "text": "It is the king's duty to fulfill the wishes of the people.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_06_7",
+                "type": "Speech",
+                "text": "It always has been this way and will continue to be so.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_06_12"
+            },
+            {
+                "id": "d_counseling_crown_06_8",
+                "type": "Speech",
+                "text": "As I told you before,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_06_9",
+                "type": "Speech",
+                "text": "that is a secret.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_06_10",
+                "type": "Speech",
+                "text": "However, should you come and visit the kingdom yourself,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_06_11",
+                "type": "Speech",
+                "text": "I will make sure that you find the answer to this question.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_06_12"
+            },
+            {
+                "id": "d_counseling_crown_06_12",
+                "type": "Narration",
+                "text": "I continue to ask various questions about the Crown Kingdom.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_07_1",
+                "type": "Speech",
+                "text": "What do you think",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_07_2",
+                "type": "Speech",
+                "text": "a king's purpose is?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_07_3",
+                "type": "Choice",
+                "text": "To lead the country as the citizens see fit.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_07_5"
+            },
+            {
+                "id": "d_counseling_crown_07_4",
+                "type": "Choice",
+                "text": "To lead the country as you see fit.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_07_9"
+            },
+            {
+                "id": "d_counseling_crown_07_5",
+                "type": "Speech",
+                "text": "Yes,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_07_6",
+                "type": "Speech",
+                "text": "a king always leads the way.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_07_7",
+                "type": "Speech",
+                "text": "They must be a guiding light for their people, a beacon to turn to in times of darkness.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_07_8",
+                "type": "Speech",
+                "text": "This is something that I always keep in mind.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_07_12"
+            },
+            {
+                "id": "d_counseling_crown_07_9",
+                "type": "Speech",
+                "text": "Hmm... it seems you have a different perspective than me.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_07_10",
+                "type": "Speech",
+                "text": "If the people's opinions are not taken into account,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_07_11",
+                "type": "Speech",
+                "text": "how can that be called leading a nation?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_07_12"
+            },
+            {
+                "id": "d_counseling_crown_07_12",
+                "type": "Narration",
+                "text": "Crown and I deliberate on what it means to be a king.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_08_1",
+                "type": "Speech",
+                "text": "The population of our kingdom has reached 50 people,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_08_2",
+                "type": "Speech",
+                "text": "and so the responsibility weighs ever heavier on my head.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_08_3",
+                "type": "Choice",
+                "text": "Wow, that's a lot.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_08_5"
+            },
+            {
+                "id": "d_counseling_crown_08_4",
+                "type": "Choice",
+                "text": "That seems difficult to handle alone.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_08_8"
+            },
+            {
+                "id": "d_counseling_crown_08_5",
+                "type": "Speech",
+                "text": "It's not a lot.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_08_6",
+                "type": "Speech",
+                "text": "These numbers will only increase going forward.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_08_7",
+                "type": "Speech",
+                "text": "Who's to say you won't also count yourself among the kingdom's subjects in due time?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_08_13"
+            },
+            {
+                "id": "d_counseling_crown_08_8",
+                "type": "Speech",
+                "text": "It is not difficult at all.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_08_9",
+                "type": "Speech",
+                "text": "It is to be expected for a king to be responsible for their subjects.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_08_10",
+                "type": "Speech",
+                "text": "You look worried.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_08_11",
+                "type": "Speech",
+                "text": "Are you concerned for me?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_08_12",
+                "type": "Speech",
+                "text": "You are a kind person.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_08_13"
+            },
+            {
+                "id": "d_counseling_crown_08_13",
+                "type": "Narration",
+                "text": "Crown smiles warmly.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_09_1",
+                "type": "Speech",
+                "text": "Allow me to be straight with you.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_2",
+                "type": "Speech",
+                "text": "Do you have no intention of coming to the kingdom with us?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_3",
+                "type": "Choice",
+                "text": "Straightly?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_09_5"
+            },
+            {
+                "id": "d_counseling_crown_09_4",
+                "type": "Choice",
+                "text": "I'm sorry, but I don't.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_09_11"
+            },
+            {
+                "id": "d_counseling_crown_09_5",
+                "type": "Self",
+                "text": "I think you meant \"straight\".",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_6",
+                "type": "Speech",
+                "text": "Ah, yes. Right. That.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_7",
+                "type": "Speech",
+                "text": "Well? What is your answer?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_9",
+                "type": "Speech",
+                "text": "Forget it. You don't need to answer.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_10",
+                "type": "Speech",
+                "text": "Your expression says it all.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_09_14"
+            },
+            {
+                "id": "d_counseling_crown_09_11",
+                "type": "Speech",
+                "text": "It is disappointing, but there is nothing we can do.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_12",
+                "type": "Speech",
+                "text": "You have said to yourself that you also have something you wish to protect,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_09_13",
+                "type": "Speech",
+                "text": "and I must respect that.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_09_14"
+            },
+            {
+                "id": "d_counseling_crown_09_14",
+                "type": "Narration",
+                "text": "As soon as our conversation ends, Crown leaves to go find Chime.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_10_1",
+                "type": "Speech",
+                "text": "I'm curious...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_10_2",
+                "type": "Speech",
+                "text": "What kind of food is popular in the Ark?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_10_3",
+                "type": "Choice",
+                "text": "Gummy worms are pretty popular these days.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_10_5"
+            },
+            {
+                "id": "d_counseling_crown_10_4",
+                "type": "Choice",
+                "text": "You're always spoiled for dessert choices in the Ark.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_10_9"
+            },
+            {
+                "id": "d_counseling_crown_10_5",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_10_6",
+                "type": "Speech",
+                "text": "Gummy worms are actually popular in the Ark?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_10_7",
+                "type": "Speech",
+                "text": "So that's why Marian is such a fan of worms.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_10_8",
+                "type": "Self",
+                "text": "They're not real worms... they're just worm-shaped candies.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": "d_counseling_crown_10_13"
+            },
+            {
+                "id": "d_counseling_crown_10_9",
+                "type": "Speech",
+                "text": "I suppose that makes sense.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_10_10",
+                "type": "Speech",
+                "text": "Chime once made me a dessert that's sold in the Ark.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_10_11",
+                "type": "Speech",
+                "text": "Its beauty was so great that I almost felt bad eating it.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_10_12",
+                "type": "Speech",
+                "text": "If I ever have the chance, I would love to taste it again.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_10_13"
+            },
+            {
+                "id": "d_counseling_crown_10_13",
+                "type": "Narration",
+                "text": "Crown and I discuss the food in the Ark.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_11_1",
+                "type": "Speech",
+                "text": "Lovely weather we're having.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_11_2",
+                "type": "Speech",
+                "text": "What kind of weather do you prefer?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_11_3",
+                "type": "Choice",
+                "text": "Clear and sunny weather.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_11_5"
+            },
+            {
+                "id": "d_counseling_crown_11_4",
+                "type": "Choice",
+                "text": "Cool and refreshing rainy weather.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_11_9"
+            },
+            {
+                "id": "d_counseling_crown_11_5",
+                "type": "Speech",
+                "text": "That's my personal preference as well.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_11_6",
+                "type": "Speech",
+                "text": "When it's clear outside, you can see far off into the distance even when you're standing still.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_11_7",
+                "type": "Speech",
+                "text": "It allows you to locate all sorts of objects,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_11_8",
+                "type": "Speech",
+                "text": "which makes our job much easier.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_11_13"
+            },
+            {
+                "id": "d_counseling_crown_11_9",
+                "type": "Speech",
+                "text": "Do you prefer rainy weather?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_11_10",
+                "type": "Speech",
+                "text": "Certainly, rain is a wonderful thing that nourishes the land,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_11_11",
+                "type": "Speech",
+                "text": "but if it pours incessantly for days on end,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_11_12",
+                "type": "Speech",
+                "text": "it is not good for our castle in many ways.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_11_13"
+            },
+            {
+                "id": "d_counseling_crown_11_13",
+                "type": "Narration",
+                "text": "I lay down side-by-side with Crown as we both bask in the sun.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_12_1",
+                "type": "Speech",
+                "text": "Even though she's not here right now,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_12_2",
+                "type": "Speech",
+                "text": "I always feel so safe and secure when Chime is at my side.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_12_3",
+                "type": "Choice",
+                "text": "I'm sure she feels the same way about you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_12_5"
+            },
+            {
+                "id": "d_counseling_crown_12_4",
+                "type": "Choice",
+                "text": "Hard to imagine someone like Chime will give you a sense of security.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_12_8"
+            },
+            {
+                "id": "d_counseling_crown_12_5",
+                "type": "Speech",
+                "text": "That's right.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_12_6",
+                "type": "Speech",
+                "text": "I know it without her ever having to say anything.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_12_7",
+                "type": "Speech",
+                "text": "She is one of this kingdom's most precious citizens.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_12_11"
+            },
+            {
+                "id": "d_counseling_crown_12_8",
+                "type": "Speech",
+                "text": "She makes me feel perfectly secure.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_12_9",
+                "type": "Speech",
+                "text": "Although combat isn't her area of expertise,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_12_10",
+                "type": "Speech",
+                "text": "she excels in many other areas.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_12_11"
+            },
+            {
+                "id": "d_counseling_crown_12_11",
+                "type": "Narration",
+                "text": "Crown and I discuss Chime's abilities.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_13_1",
+                "type": "Narration",
+                "text": "Crown looks off into the distance, lost in thought.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_13_2",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_13_3",
+                "type": "Choice",
+                "text": "Talk to her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_13_5"
+            },
+            {
+                "id": "d_counseling_crown_13_4",
+                "type": "Choice",
+                "text": "Don't say anything and wait.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_13_8"
+            },
+            {
+                "id": "d_counseling_crown_13_5",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_13_6",
+                "type": "Speech",
+                "text": "Oh, hello.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_13_7",
+                "type": "Speech",
+                "text": "I was just pondering the future of the kingdom.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_13_13"
+            },
+            {
+                "id": "d_counseling_crown_13_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_13_9",
+                "type": "Narration",
+                "text": "Soon after.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_13_10",
+                "type": "Speech",
+                "text": "Were you waiting for me?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_13_11",
+                "type": "Speech",
+                "text": "You're such a thoughtful person.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_13_12",
+                "type": "Speech",
+                "text": "Thank you.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_13_13"
+            },
+            {
+                "id": "d_counseling_crown_13_13",
+                "type": "Narration",
+                "text": "I spend some peaceful time with Crown.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_14_1",
+                "type": "Speech",
+                "text": "So this is Splendamin?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_14_2",
+                "type": "Speech",
+                "text": "What does it taste like?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_14_3",
+                "type": "Choice",
+                "text": "... Maybe you should wipe the drool from your mouth.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_14_5"
+            },
+            {
+                "id": "d_counseling_crown_14_4",
+                "type": "Choice",
+                "text": "Would you like to try some?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_14_8"
+            },
+            {
+                "id": "d_counseling_crown_14_5",
+                "type": "Narration",
+                "text": "*Wipe wipe*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_14_6",
+                "type": "Speech",
+                "text": "I-I'm not drooling!",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_14_7",
+                "type": "Speech",
+                "text": "It's not me, first of all.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_14_12"
+            },
+            {
+                "id": "d_counseling_crown_14_8",
+                "type": "Speech",
+                "text": "If you're offering, I won't refuse.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_14_9",
+                "type": "Narration",
+                "text": "*Munch*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_14_10",
+                "type": "Speech",
+                "text": "!",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_14_11",
+                "type": "Speech",
+                "text": "So this is what Splendamin tastes like.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_14_12"
+            },
+            {
+                "id": "d_counseling_crown_14_12",
+                "type": "Narration",
+                "text": "I share my Splendamin with Crown.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_15_1",
+                "type": "Speech",
+                "text": "What are you doing?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_2",
+                "type": "Speech",
+                "text": "Oh.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_3",
+                "type": "Speech",
+                "text": "You were using your phone.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_4",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_5",
+                "type": "Narration",
+                "text": "I can feel Crown staring me down, which is unnerving.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_6",
+                "type": "Choice",
+                "text": "Is this interesting to you?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_15_8"
+            },
+            {
+                "id": "d_counseling_crown_15_7",
+                "type": "Choice",
+                "text": "Do you mind? You're staring.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_15_12"
+            },
+            {
+                "id": "d_counseling_crown_15_8",
+                "type": "Speech",
+                "text": "Very.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_9",
+                "type": "Speech",
+                "text": "It's been a while since I've seen someone use a phone.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_10",
+                "type": "Speech",
+                "text": "I find it fascinating.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_11",
+                "type": "Speech",
+                "text": "Can you show me more?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_15_14"
+            },
+            {
+                "id": "d_counseling_crown_15_12",
+                "type": "Speech",
+                "text": "I'm sorry.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_15_13",
+                "type": "Speech",
+                "text": "It's just been a while since I used a phone, so I was curious how they work nowadays.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_15_14"
+            },
+            {
+                "id": "d_counseling_crown_15_14",
+                "type": "Narration",
+                "text": "I show Crown the various features of my phone.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_16_1",
+                "type": "Speech",
+                "text": "Have you seen Chime, by any chance?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_16_2",
+                "type": "Speech",
+                "text": "I haven't seen her for a while.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_16_3",
+                "type": "Choice",
+                "text": "Maybe she went out for a walk.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_16_5"
+            },
+            {
+                "id": "d_counseling_crown_16_4",
+                "type": "Choice",
+                "text": "Maybe she went out to scout the surroundings.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_16_7"
+            },
+            {
+                "id": "d_counseling_crown_16_5",
+                "type": "Speech",
+                "text": "No, she's been gone too long for that.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_16_6",
+                "type": "Speech",
+                "text": "Plus, she would have said something to me beforehand.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_16_10"
+            },
+            {
+                "id": "d_counseling_crown_16_7",
+                "type": "Speech",
+                "text": "Oh, that could be it.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_16_8",
+                "type": "Speech",
+                "text": "Seeing as she left without saying anything...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_16_9",
+                "type": "Speech",
+                "text": "All right, I'll wait for a while longer.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_16_10"
+            },
+            {
+                "id": "d_counseling_crown_16_10",
+                "type": "Narration",
+                "text": "Crown and I wait for Chime.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_17_1",
+                "type": "Speech",
+                "text": "What do you think is the most important part",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_2",
+                "type": "Speech",
+                "text": "of leading a kingdom?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_3",
+                "type": "Choice",
+                "text": "Comporting yourself like a true king.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_17_5"
+            },
+            {
+                "id": "d_counseling_crown_17_4",
+                "type": "Choice",
+                "text": "Being wealthy and prosperous.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_17_11"
+            },
+            {
+                "id": "d_counseling_crown_17_5",
+                "type": "Speech",
+                "text": "You have a similar mindset as me.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_6",
+                "type": "Speech",
+                "text": "I agree with that thought.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_7",
+                "type": "Speech",
+                "text": "I will continue along the path I've chosen,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_8",
+                "type": "Speech",
+                "text": "to become a leader worthy of calling themselves a true king.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_9",
+                "type": "Self",
+                "text": "Do you mean \"path\"?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_10",
+                "type": "Speech",
+                "text": "Ah, yes, that's it, hehe.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_17_14"
+            },
+            {
+                "id": "d_counseling_crown_17_11",
+                "type": "Speech",
+                "text": "While prosperity is indeed quite important,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_12",
+                "type": "Speech",
+                "text": "as one does not want the citizens to live impecuniously,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_17_13",
+                "type": "Speech",
+                "text": "there are other things which are far more important.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_17_14"
+            },
+            {
+                "id": "d_counseling_crown_17_14",
+                "type": "Narration",
+                "text": "Crown and I discuss the matters in a kingdom.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_18_1",
+                "type": "Speech",
+                "text": "It seems you and the Counters share a strong bond,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_18_2",
+                "type": "Speech",
+                "text": "just like Chime and I.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_18_3",
+                "type": "Choice",
+                "text": "I think the Counters and I might have a stronger connection.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_18_5"
+            },
+            {
+                "id": "d_counseling_crown_18_4",
+                "type": "Choice",
+                "text": "I think you two may have an ever stronger connection.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_18_8"
+            },
+            {
+                "id": "d_counseling_crown_18_5",
+                "type": "Speech",
+                "text": "Haha, I see.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_18_6",
+                "type": "Speech",
+                "text": "I'm glad you can say that with such confidence.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_18_7",
+                "type": "Speech",
+                "text": "I hope you continue to grow that bond.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_18_10"
+            },
+            {
+                "id": "d_counseling_crown_18_8",
+                "type": "Speech",
+                "text": "In my eyes, your bond seems no less strong than ours.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_18_9",
+                "type": "Speech",
+                "text": "You must have confidence in yourself.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_18_10"
+            },
+            {
+                "id": "d_counseling_crown_18_10",
+                "type": "Narration",
+                "text": "Crown and I discuss the bonds between us and others.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_19_1",
+                "type": "Speech",
+                "text": "*Cough cough*",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_19_2",
+                "type": "Speech",
+                "text": "Ugh...",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_19_3",
+                "type": "Choice",
+                "text": "Are you feeling unwell?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_19_5"
+            },
+            {
+                "id": "d_counseling_crown_19_4",
+                "type": "Choice",
+                "text": "Eat slowly, or else you're going to choke.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_19_8"
+            },
+            {
+                "id": "d_counseling_crown_19_5",
+                "type": "Speech",
+                "text": "No, I'm fine.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_19_6",
+                "type": "Speech",
+                "text": "It's just that I have a weak constitution to begin with.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_19_7",
+                "type": "Speech",
+                "text": "Thank you for asking.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_19_12"
+            },
+            {
+                "id": "d_counseling_crown_19_8",
+                "type": "Speech",
+                "text": "... Sorry?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_19_9",
+                "type": "Speech",
+                "text": "*Cough*",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_19_10",
+                "type": "Speech",
+                "text": "I didn't eat anything.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_19_11",
+                "type": "Speech",
+                "text": "*Cough cough*",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_19_12"
+            },
+            {
+                "id": "d_counseling_crown_19_12",
+                "type": "Narration",
+                "text": "Thankfully, Crown's coughing soon subsides.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_crown_20_1",
+                "type": "Speech",
+                "text": "You said you live in a place called the Outpost, right?",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_20_2",
+                "type": "Speech",
+                "text": "I would be quite interested in seeing what such a kingdom looks like.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_20_3",
+                "type": "Choice",
+                "text": "If you're curious, you can come visit anytime.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_crown_20_5"
+            },
+            {
+                "id": "d_counseling_crown_20_4",
+                "type": "Choice",
+                "text": "But it's not nearly as grand as your kingdom.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_crown_20_8"
+            },
+            {
+                "id": "d_counseling_crown_20_5",
+                "type": "Speech",
+                "text": "I appreciate the invitation.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_20_6",
+                "type": "Speech",
+                "text": "If the opportunity arises,",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_20_7",
+                "type": "Speech",
+                "text": "I will be sure to visit.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_20_11"
+            },
+            {
+                "id": "d_counseling_crown_20_8",
+                "type": "Speech",
+                "text": "I am well aware of its lack of grandeur.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_20_9",
+                "type": "Speech",
+                "text": "Anis and Neon have told me about it.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_crown_20_10",
+                "type": "Speech",
+                "text": "They say that while it may not be opulent, it is a fine place.",
+                "speaker": "Crown",
+                "points": null,
+                "jumpTo": "d_counseling_crown_20_11"
+            },
+            {
+                "id": "d_counseling_crown_20_11",
+                "type": "Narration",
+                "text": "I briefly tell Crown more about the Outpost.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "29/06/2024"
+}
