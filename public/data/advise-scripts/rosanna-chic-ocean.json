@@ -1,0 +1,2277 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_01_1",
+                "type": "Speech",
+                "text": "Mister, why do you keep staring at me like that?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_2",
+                "type": "Speech",
+                "text": "Do you really like my swimsuit that much?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_3",
+                "type": "Choice",
+                "text": "Yeah, I love it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_01_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_4",
+                "type": "Choice",
+                "text": "It's all right, I guess.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_01_9"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_5",
+                "type": "Speech",
+                "text": "I appreciate your honesty.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_6",
+                "type": "Speech",
+                "text": "I'm not going anywhere, so go ahead and keep looking.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_7",
+                "type": "Speech",
+                "text": "Feel free to snap a photo while you're at it.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_8",
+                "type": "Speech",
+                "text": "Would you like me to pose for you?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_01_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_9",
+                "type": "Speech",
+                "text": "You're not being honest with me.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_10",
+                "type": "Speech",
+                "text": "You couldn't take your eyes off me earlier,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_11",
+                "type": "Speech",
+                "text": "and now you're acting like my swimsuit isn't much to look at?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_12",
+                "type": "Speech",
+                "text": "That doesn't make much sense, does it?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_01_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_01_13",
+                "type": "Narration",
+                "text": "Rosanna and I have a conversation about the swimsuit she's wearing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_02_1",
+                "type": "Speech",
+                "text": "Mmm, this is delicious.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_2",
+                "type": "Speech",
+                "text": "Would you like to try some?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_3",
+                "type": "Speech",
+                "text": "I made it myself.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_4",
+                "type": "Choice",
+                "text": "Take a sip.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_02_6"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_5",
+                "type": "Choice",
+                "text": "Down it in one gulp.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_02_11"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_6",
+                "type": "Narration",
+                "text": "*Sip*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_7",
+                "type": "Speech",
+                "text": "Well, well, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_8",
+                "type": "Speech",
+                "text": "Seems you know your way around a drink.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_9",
+                "type": "Speech",
+                "text": "The taste changes as the ice melts,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_10",
+                "type": "Speech",
+                "text": "so take your time and savor it slowly.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_02_16"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_11",
+                "type": "Narration",
+                "text": "*Gulp gulp gulp*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_12",
+                "type": "Self",
+                "text": "Ahhhhh!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_13",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_14",
+                "type": "Speech",
+                "text": "Wow.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_15",
+                "type": "Speech",
+                "text": "I didn't think you'd down it in one shot.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_02_16"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_02_16",
+                "type": "Narration",
+                "text": "I chat with Rosanna while having a drink.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_03_1",
+                "type": "Speech",
+                "text": "I know you're supposed to strike a pose for the camera,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_2",
+                "type": "Speech",
+                "text": "but it's not really my thing,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_3",
+                "type": "Speech",
+                "text": "and I'm not sure what pose would suit me best.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_4",
+                "type": "Speech",
+                "text": "Mind giving me your take on it, Mister?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_5",
+                "type": "Monologue",
+                "text": "Rosanna shows me several poses.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_6",
+                "type": "Choice",
+                "text": "I think those cute poses really suit you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_03_8"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_7",
+                "type": "Choice",
+                "text": "I think confident and sexy poses really suit you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_03_11"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_8",
+                "type": "Speech",
+                "text": "... Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_9",
+                "type": "Speech",
+                "text": "You can't be serious.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_10",
+                "type": "Speech",
+                "text": "You're messing with me, aren't you?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_03_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_11",
+                "type": "Speech",
+                "text": "Just as I expected.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_12",
+                "type": "Speech",
+                "text": "But hearing it from you, Mister,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_13",
+                "type": "Speech",
+                "text": "gives me even more confidence.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_14",
+                "type": "Speech",
+                "text": "I'll have to practice those poses more often, then.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_03_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_03_15",
+                "type": "Narration",
+                "text": "I coach Rosanna on the types of poses that suit her.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_04_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_2",
+                "type": "Monologue",
+                "text": "Rosanna is carefully maintaining her surfboard with a serious expression.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_3",
+                "type": "Choice",
+                "text": "Talk to her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_04_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_4",
+                "type": "Choice",
+                "text": "Wait for her.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_04_9"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_5",
+                "type": "Speech",
+                "text": "Hey there, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_6",
+                "type": "Speech",
+                "text": "You finally made it?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_7",
+                "type": "Speech",
+                "text": "Give me a moment.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_8",
+                "type": "Speech",
+                "text": "I'm in the middle of something important.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_04_14"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_9",
+                "type": "Narration",
+                "text": "Soon after.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_10",
+                "type": "Speech",
+                "text": "Did you wait for me, Mister?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_11",
+                "type": "Speech",
+                "text": "How commendable.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_12",
+                "type": "Speech",
+                "text": "Come here.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_13",
+                "type": "Speech",
+                "text": "I want to praise you for your thoughtfulness.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_04_14"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_04_14",
+                "type": "Narration",
+                "text": "Rosanna and I have a conversation on how to take care of surfboards.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_05_1",
+                "type": "Speech",
+                "text": "Mister, don't you ever get bored being alone?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_2",
+                "type": "Speech",
+                "text": "Is there anything you'd like to do with me?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_3",
+                "type": "Choice",
+                "text": "Let's go surfing.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_05_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_4",
+                "type": "Choice",
+                "text": "Let's build a sand castle.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_05_9"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_5",
+                "type": "Speech",
+                "text": "I figured you'd be interested in that,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_6",
+                "type": "Speech",
+                "text": "so I brought an extra surfboard.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_7",
+                "type": "Speech",
+                "text": "Let's go!",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_8",
+                "type": "Speech",
+                "text": "Today, we're going to get you riding a wave.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_05_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_9",
+                "type": "Speech",
+                "text": "What?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_10",
+                "type": "Speech",
+                "text": "You mean the thing Sakura's been obsessed with lately?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_11",
+                "type": "Speech",
+                "text": "... I am not really interested in that.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_12",
+                "type": "Speech",
+                "text": "Let's step out for a walk for now.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_05_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_05_13",
+                "type": "Narration",
+                "text": "Rosanna takes my hand and gently tugs me towards the beach.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_06_1",
+                "type": "Speech",
+                "text": "*Sigh* This isn't easy.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_2",
+                "type": "Speech",
+                "text": "I've been giving Viper surfing lessons for days now,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_3",
+                "type": "Speech",
+                "text": "but her skills aren't improving at all.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_4",
+                "type": "Speech",
+                "text": "Do you have any brilliant ideas, Mister?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_5",
+                "type": "Choice",
+                "text": "I could help you teach her.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_06_7"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_6",
+                "type": "Choice",
+                "text": "How about starting over with the basics?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_06_10"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_7",
+                "type": "Speech",
+                "text": "No.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_8",
+                "type": "Speech",
+                "text": "I can say with absolute certainty that that's the worst possible idea.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_9",
+                "type": "Speech",
+                "text": "With you around, there's no way Viper can focus.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_06_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_10",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_11",
+                "type": "Speech",
+                "text": "But we started from the basics...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_12",
+                "type": "Speech",
+                "text": "Oh.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_13",
+                "type": "Speech",
+                "text": "I should start with teaching her how to balance on solid ground first.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_14",
+                "type": "Speech",
+                "text": "Thanks for the advice, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_06_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_06_15",
+                "type": "Narration",
+                "text": "I listen to Rosanna complain about Viper for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_07_1",
+                "type": "Speech",
+                "text": "What do you think is the most important aspect of surfing?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_2",
+                "type": "Choice",
+                "text": "Balance.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_07_4"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_3",
+                "type": "Choice",
+                "text": "Advanced tricks.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_07_8"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_4",
+                "type": "Speech",
+                "text": "You really know your stuff, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_5",
+                "type": "Speech",
+                "text": "It may seem easy, but it's not.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_6",
+                "type": "Speech",
+                "text": "You've gotta nail that balance",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_7",
+                "type": "Speech",
+                "text": "to start riding the waves.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_07_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_8",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_9",
+                "type": "Speech",
+                "text": "You seem to enjoy showing off, huh?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_10",
+                "type": "Speech",
+                "text": "Not that there's anything wrong with that,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_11",
+                "type": "Speech",
+                "text": "but there are more important things to consider.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_07_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_07_12",
+                "type": "Narration",
+                "text": "Rosanna and I continue to talk about surfing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_08_1",
+                "type": "Speech",
+                "text": "I'm having a tough time",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_2",
+                "type": "Speech",
+                "text": "getting used to this boisterous atmosphere.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_3",
+                "type": "Choice",
+                "text": "Want to take a stroll with me?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_08_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_4",
+                "type": "Choice",
+                "text": "You'll get used to it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_08_9"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_5",
+                "type": "Speech",
+                "text": "Sure.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_6",
+                "type": "Speech",
+                "text": "I'm always open to invitations for a date.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_7",
+                "type": "Speech",
+                "text": "Where should we go?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_8",
+                "type": "Speech",
+                "text": "Do you have somewhere in mind?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_08_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_9",
+                "type": "Speech",
+                "text": "I seriously doubt it.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_10",
+                "type": "Speech",
+                "text": "I don't think I even want to get used to it.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_11",
+                "type": "Speech",
+                "text": "*Sigh*... Let's take a walk to clear our heads.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_08_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_08_12",
+                "type": "Narration",
+                "text": "Rosanna and I stroll around the island.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_09_1",
+                "type": "Speech",
+                "text": "Those fellas over there",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_2",
+                "type": "Speech",
+                "text": "have been fishing all day.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_3",
+                "type": "Speech",
+                "text": "Don't they get bored, just doing that?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_4",
+                "type": "Choice",
+                "text": "Would you like to try it out yourself and see if it's boring or not?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_09_6"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_5",
+                "type": "Choice",
+                "text": "Don't you surf all day?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_09_10"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_6",
+                "type": "Speech",
+                "text": "I'll pass.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_7",
+                "type": "Speech",
+                "text": "Sitting around doing nothing and blankly staring at a fishing rod",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_8",
+                "type": "Speech",
+                "text": "doesn't exactly sound like my idea of fun.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_9",
+                "type": "Speech",
+                "text": "I'd only get antsy.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_09_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_10",
+                "type": "Speech",
+                "text": "I do. Why?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_11",
+                "type": "Self",
+                "text": "That's essentially the same thing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_12",
+                "type": "Speech",
+                "text": "Aaah,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_13",
+                "type": "Speech",
+                "text": "so that's what they're into, huh?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_14",
+                "type": "Speech",
+                "text": "I still find it amazing that they get so much out of sitting around doing nothing.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_09_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_09_15",
+                "type": "Narration",
+                "text": "Rosanna and I have a conversation about fishing.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_10_1",
+                "type": "Speech",
+                "text": "This sand is so annoying.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_2",
+                "type": "Speech",
+                "text": "It never comes off completely.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_3",
+                "type": "Choice",
+                "text": "Why don't you use something other than your hands?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_10_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_4",
+                "type": "Choice",
+                "text": "Why don't you wash it off with water?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_10_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_5",
+                "type": "Speech",
+                "text": "Like what?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_6",
+                "type": "Monologue",
+                "text": "I proceed to use some talcum powder and a dry towel to brush off the sand.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_7",
+                "type": "Narration",
+                "text": "*Wipe wipe*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_8",
+                "type": "Speech",
+                "text": "Hmm?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_9",
+                "type": "Speech",
+                "text": "It came off so easily.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_10",
+                "type": "Speech",
+                "text": "I should have known you'd come up with something.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_11",
+                "type": "Speech",
+                "text": "Thanks, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_10_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_12",
+                "type": "Speech",
+                "text": "I always take a shower",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_13",
+                "type": "Speech",
+                "text": "when I get back to our accommodation,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_14",
+                "type": "Speech",
+                "text": "but I can never get them out completely.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_10_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_10_15",
+                "type": "Narration",
+                "text": "I help brush off the sand that's stuck on Rosanna.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_11_1",
+                "type": "Speech",
+                "text": "I had no idea Sakura brought a swimsuit like that with her.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_2",
+                "type": "Speech",
+                "text": "She must be awfully confident to wear something like that.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_3",
+                "type": "Choice",
+                "text": "Yeah, it was pretty.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_11_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_4",
+                "type": "Choice",
+                "text": "Yours is more...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_11_9"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_5",
+                "type": "Speech",
+                "text": "Hmm?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_6",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_7",
+                "type": "Speech",
+                "text": "Prettier than the one I'm wearing?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_8",
+                "type": "Speech",
+                "text": "Don't look away. Tell it to me straight.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_11_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_9",
+                "type": "Speech",
+                "text": "More what?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_10",
+                "type": "Speech",
+                "text": "Haha.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_11",
+                "type": "Speech",
+                "text": "Why's your face suddenly so red?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_12",
+                "type": "Speech",
+                "text": "Oh, Mister, your reactions crack me up sometimes. You're adorable.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_11_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_11_13",
+                "type": "Narration",
+                "text": "Rosanna and I talk about Sakura's swimsuit.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_12_1",
+                "type": "Speech",
+                "text": "Look at this, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_2",
+                "type": "Self",
+                "text": "It's a seashell.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_3",
+                "type": "Speech",
+                "text": "I ran into Mary by the beach earlier, and she gave it to me.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_4",
+                "type": "Speech",
+                "text": "She said that if you put it up to your ear, you can hear the ocean.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_5",
+                "type": "Choice",
+                "text": "Don't tell me you actually believed that?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_12_7"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_6",
+                "type": "Choice",
+                "text": "Isn't the sound of the waves nice?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_12_10"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_7",
+                "type": "Speech",
+                "text": "So it's not true?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_8",
+                "type": "Speech",
+                "text": "That's too bad...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_9",
+                "type": "Speech",
+                "text": "But...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_12_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_10",
+                "type": "Speech",
+                "text": "So she wasn't pulling my leg?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_11",
+                "type": "Monologue",
+                "text": "Rosanna puts the shell to her ear.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_12",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_13",
+                "type": "Speech",
+                "text": "Yes,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_14",
+                "type": "Speech",
+                "text": "it sounds lovely.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_12_15"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_15",
+                "type": "Speech",
+                "text": "It's not every day I get a gift, so I ought to take it with me.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_16",
+                "type": "Self",
+                "text": "You know as well as I do that we can't just take things we find on the surface.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_17",
+                "type": "Speech",
+                "text": "I know.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_18",
+                "type": "Speech",
+                "text": "As long as I'm careful though,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_19",
+                "type": "Speech",
+                "text": "there shouldn't be any issues.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_12_20",
+                "type": "Narration",
+                "text": "Rosanna examines the shell for a long time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_13_1",
+                "type": "Speech",
+                "text": "Never imagined I'd lay eyes on the real ocean.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_2",
+                "type": "Speech",
+                "text": "Life is full of surprises.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_3",
+                "type": "Self",
+                "text": "It sure is.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_4",
+                "type": "Choice",
+                "text": "It's even better since you're here.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_13_6"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_5",
+                "type": "Choice",
+                "text": "It's even better because all of us are here together.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_13_10"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_6",
+                "type": "Speech",
+                "text": "I feel the same.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_7",
+                "type": "Speech",
+                "text": "I'm having a blast with you here, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_8",
+                "type": "Speech",
+                "text": "Having the others around can be quite bothersome,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_9",
+                "type": "Speech",
+                "text": "but whatever.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_13_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_10",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_11",
+                "type": "Speech",
+                "text": "I'm not so sure I agree.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_12",
+                "type": "Speech",
+                "text": "If at all possible, I would have preferred it to be just you and me.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_13_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_13_13",
+                "type": "Narration",
+                "text": "Rosanna and I enjoy the view of the ocean.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_14_1",
+                "type": "Speech",
+                "text": "Mister,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_2",
+                "type": "Speech",
+                "text": "what type of ocean view appeals to you the most?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_3",
+                "type": "Choice",
+                "text": "The ocean on a sunny afternoon.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_14_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_4",
+                "type": "Choice",
+                "text": "The ocean at dusk.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_14_8"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_5",
+                "type": "Speech",
+                "text": "That's not bad at all.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_6",
+                "type": "Speech",
+                "text": "Perfect for hitting the waves.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_7",
+                "type": "Speech",
+                "text": "But it\u2019s not quite to my taste.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_14_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_8",
+                "type": "Speech",
+                "text": "Heh, you do know a thing or two, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_9",
+                "type": "Speech",
+                "text": "I also find the view of the ocean at sunset absolutely captivating.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_10",
+                "type": "Speech",
+                "text": "It's so easy to",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_11",
+                "type": "Speech",
+                "text": "get sucked in by its beauty.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_14_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_14_12",
+                "type": "Narration",
+                "text": "Rosanna and I continue to talk about the ocean view.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_15_1",
+                "type": "Speech",
+                "text": "Did I overdo it with the surfing?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_2",
+                "type": "Speech",
+                "text": "I'm parched.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_3",
+                "type": "Speech",
+                "text": "Do you have anything to drink, Mister?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_4",
+                "type": "Choice",
+                "text": "Hand her an iced drink.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_15_6"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_5",
+                "type": "Choice",
+                "text": "Hand her a cup of hot tea.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_15_9"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_6",
+                "type": "Speech",
+                "text": "Ah,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_7",
+                "type": "Speech",
+                "text": "that hits the spot.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_8",
+                "type": "Speech",
+                "text": "Thanks, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_15_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_9",
+                "type": "Speech",
+                "text": "?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_10",
+                "type": "Speech",
+                "text": "Are you kidding me with this?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_11",
+                "type": "Speech",
+                "text": "I'm not Sakura.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_15_12"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_15_12",
+                "type": "Narration",
+                "text": "Rosanna and I have a conversation about what drinks she enjoys.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_16_1",
+                "type": "Speech",
+                "text": "Mister, what's got you so fixated?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_2",
+                "type": "Choice",
+                "text": "The rose tattoo on your hip.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_16_4"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_3",
+                "type": "Choice",
+                "text": "The rose tattoo on your arm.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_16_8"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_4",
+                "type": "Speech",
+                "text": "Oh, this?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_5",
+                "type": "Speech",
+                "text": "It shows that I'm the boss of Hedonia.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_6",
+                "type": "Speech",
+                "text": "My, my, how bold of you.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_7",
+                "type": "Speech",
+                "text": "Didn't think you'd be ogling at me.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_16_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_8",
+                "type": "Speech",
+                "text": "Oh, this?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_9",
+                "type": "Speech",
+                "text": "It shows that I'm the boss of Hedonia.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_10",
+                "type": "Speech",
+                "text": "But is that the only one you've found?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_11",
+                "type": "Speech",
+                "text": "I have more, you know.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_12",
+                "type": "Speech",
+                "text": "Why don't you try finding them too?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_16_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_16_13",
+                "type": "Narration",
+                "text": "Rosanna and I discuss the tattoos on her body.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_17_1",
+                "type": "Speech",
+                "text": "Mister, can you help me apply sunscreen?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_2",
+                "type": "Speech",
+                "text": "There are a few places I can't reach myself.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_3",
+                "type": "Choice",
+                "text": "Apply sunscreen to her back and waist.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_17_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_4",
+                "type": "Choice",
+                "text": "Apply sunscreen to her thighs and calves.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_17_10"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_5",
+                "type": "Narration",
+                "text": "*Slather slather*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_6",
+                "type": "Speech",
+                "text": "That's it.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_7",
+                "type": "Speech",
+                "text": "Mmm...",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_8",
+                "type": "Speech",
+                "text": "That feels nice.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_9",
+                "type": "Speech",
+                "text": "Why don't you keep going and apply it to other areas?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_17_14"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_10",
+                "type": "Narration",
+                "text": "*Slather slather*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_11",
+                "type": "Speech",
+                "text": "I already took care of those areas, Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_12",
+                "type": "Speech",
+                "text": "I told you I need help with the areas I can't reach.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_13",
+                "type": "Speech",
+                "text": "Try again.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_17_14"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_17_14",
+                "type": "Narration",
+                "text": "I carefully apply more sunscreen.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_18_1",
+                "type": "Narration",
+                "text": "*Click*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_2",
+                "type": "Self",
+                "text": "?!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_3",
+                "type": "Speech",
+                "text": "Hehe, you look so surprised. I like it.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_4",
+                "type": "Speech",
+                "text": "Still, why don't you try smiling?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_5",
+                "type": "Choice",
+                "text": "Make a silly face.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_18_7"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_6",
+                "type": "Choice",
+                "text": "Flash a bright smile.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_18_11"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_7",
+                "type": "Narration",
+                "text": "*Click*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_8",
+                "type": "Speech",
+                "text": "Hmm... That's a pretty goofy expression, even for you.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_9",
+                "type": "Speech",
+                "text": "Still, it could come in handy.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_10",
+                "type": "Speech",
+                "text": "I can use it to scare the others away and prevent them from clinging to you.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_18_16"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_11",
+                "type": "Narration",
+                "text": "*Click*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_12",
+                "type": "Speech",
+                "text": "Tee-hee.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_13",
+                "type": "Speech",
+                "text": "Mister, why do you look so awkward when you smile?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_14",
+                "type": "Speech",
+                "text": "This one looks awfully cute, though.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_15",
+                "type": "Speech",
+                "text": "I think I'll use it as my phone background.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_18_16"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_16",
+                "type": "Self",
+                "text": "W-wait, I was just messing around!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_17",
+                "type": "Self",
+                "text": "Take another one!",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_18_18",
+                "type": "Narration",
+                "text": "Rosanna and I have an impromptu photoshoot.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_19_1",
+                "type": "Speech",
+                "text": "You know the girl who's like a puppy and always follows Viper around?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_2",
+                "type": "Speech",
+                "text": "She never seems to get tired.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_3",
+                "type": "Choice",
+                "text": "Maybe she's born that way.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_19_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_4",
+                "type": "Choice",
+                "text": "Maybe she's really a puppy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_19_8"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_5",
+                "type": "Speech",
+                "text": "I know, right?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_6",
+                "type": "Speech",
+                "text": "Her athleticism is nothing to scoff at either.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_7",
+                "type": "Speech",
+                "text": "To be born with such vivaciousness... Fascinating.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_19_11"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_8",
+                "type": "Speech",
+                "text": "... Mister.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_9",
+                "type": "Speech",
+                "text": "I'll pretend I didn't hear that joke.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_10",
+                "type": "Speech",
+                "text": "Next time, try something less hackneyed.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_19_11"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_19_11",
+                "type": "Narration",
+                "text": "Rosanna and I watch Jackal tirelessly run on the beach.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_rosanna_chicocean_20_1",
+                "type": "Speech",
+                "text": "Mister,",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_2",
+                "type": "Speech",
+                "text": "how would you describe our current situation at the beach in one word?",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_3",
+                "type": "Choice",
+                "text": "Happiness.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_rosanna_chicocean_20_5"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_4",
+                "type": "Choice",
+                "text": "Peace.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_rosanna_chicocean_20_8"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_5",
+                "type": "Speech",
+                "text": "Hmm... You're right.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_6",
+                "type": "Speech",
+                "text": "You do look happy.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_7",
+                "type": "Speech",
+                "text": "I will say that my thoughts are slightly different, though.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_20_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_8",
+                "type": "Speech",
+                "text": "Ah.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_9",
+                "type": "Speech",
+                "text": "Yes, exactly!",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_10",
+                "type": "Speech",
+                "text": "It's so peaceful here",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_11",
+                "type": "Speech",
+                "text": "that I sometimes feel like I'm dreaming.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_12",
+                "type": "Speech",
+                "text": "I didn't think it was possible for me to ever feel this way.",
+                "speaker": "Rosanna",
+                "points": null,
+                "jumpTo": "d_counseling_rosanna_chicocean_20_13"
+            },
+            {
+                "id": "d_counseling_rosanna_chicocean_20_13",
+                "type": "Narration",
+                "text": "I spend a peaceful moment with Rosanna.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "05/07/2024"
+}

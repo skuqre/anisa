@@ -1,0 +1,2053 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_1",
+                "type": "Speech",
+                "text": "If you could create only one thing with sand,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_2",
+                "type": "Speech",
+                "text": "what would you make?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_3",
+                "type": "Choice",
+                "text": "A bust of you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_01_5"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_4",
+                "type": "Choice",
+                "text": "A model of the Seimeikai mansion.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_01_8"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_5",
+                "type": "Speech",
+                "text": "Me?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_6",
+                "type": "Speech",
+                "text": "Can I take this to mean that you consider my face a work of art?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_7",
+                "type": "Speech",
+                "text": "Hehe.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_01_11"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_8",
+                "type": "Speech",
+                "text": "The Seimeikai mansion?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_9",
+                "type": "Speech",
+                "text": "That's a rather unexpected answer.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_10",
+                "type": "Speech",
+                "text": "I thought you'd choose something you had more of a personal connection to.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_01_11"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_01_11",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Sakura.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_1",
+                "type": "Monologue",
+                "text": "Sakura is fiddling with a camera.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_2",
+                "type": "Speech",
+                "text": "There's only one shot left on this roll.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_3",
+                "type": "Speech",
+                "text": "Can I take a picture of you, {AccountData.NickName}-kun?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_4",
+                "type": "Choice",
+                "text": "I'd prefer to take a picture with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_02_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_5",
+                "type": "Choice",
+                "text": "Strike a pose.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_02_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_6",
+                "type": "Speech",
+                "text": "Now that you mention it, I don't think I have any photos of just you and me.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_7",
+                "type": "Speech",
+                "text": "Then, I shall move closer.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_8",
+                "type": "Speech",
+                "text": "What kind of photo would you like to take?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_02_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_9",
+                "type": "Speech",
+                "text": "Hehe, I would have regretted not taking it.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_10",
+                "type": "Speech",
+                "text": "Would you like to do another pose?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_11",
+                "type": "Speech",
+                "text": "I can't quite see your face right now.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_02_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_02_12",
+                "type": "Narration",
+                "text": "Sakura and I take a plethora of photos together.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_1",
+                "type": "Speech",
+                "text": "Since this is our first time at the beach together,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_2",
+                "type": "Speech",
+                "text": "I feel that I should call you by a different name.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_3",
+                "type": "Speech",
+                "text": "What should I call you?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_4",
+                "type": "Choice",
+                "text": "How about \"Honey\"?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_03_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_5",
+                "type": "Choice",
+                "text": "How about just \"{AccountData.NickName}\"?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_03_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_6",
+                "type": "Speech",
+                "text": "Isn't that what Viper calls you?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_7",
+                "type": "Speech",
+                "text": "I don't want to refer to you by the same nickname.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_8",
+                "type": "Speech",
+                "text": "Isn't there anything else?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_03_15"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_10",
+                "type": "Speech",
+                "text": "I don't believe I've ever called you just by your name.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_11",
+                "type": "Speech",
+                "text": "I suppose I can try...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_12",
+                "type": "Speech",
+                "text": "{AccountData.NickName}...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_13",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_14",
+                "type": "Speech",
+                "text": "Strange... why do I feel so flush all of a sudden?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_03_15"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_03_15",
+                "type": "Narration",
+                "text": "Sakura and I talk about nicknames.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_1",
+                "type": "Speech",
+                "text": "Should I depart from this place, I fear I shall dearly miss it.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_2",
+                "type": "Speech",
+                "text": "During your time here, what has brought you the greatest delight?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_3",
+                "type": "Choice",
+                "text": "Everything I did with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_04_5"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_4",
+                "type": "Choice",
+                "text": "Let me think for a moment.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_04_8"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_5",
+                "type": "Speech",
+                "text": "I also enjoyed the time we spent together.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_6",
+                "type": "Speech",
+                "text": "As each summer approaches,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_7",
+                "type": "Speech",
+                "text": "I shall find myself reminiscing about the summer spent in your company.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_04_11"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_8",
+                "type": "Speech",
+                "text": "I understand.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_9",
+                "type": "Speech",
+                "text": "You've done so much during your time here,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_10",
+                "type": "Speech",
+                "text": "I can see why you'd need a while to think about it.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_04_11"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_04_11",
+                "type": "Narration",
+                "text": "Sakura and I have a productive counseling session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_1",
+                "type": "Speech",
+                "text": "During the barbecue,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_2",
+                "type": "Speech",
+                "text": "I spilled some sauce on my robe.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_3",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_4",
+                "type": "Choice",
+                "text": "Take it off.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_05_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_5",
+                "type": "Choice",
+                "text": "I'll wash it for you. You can wear my shirt in the meantime.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_05_8"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_6",
+                "type": "Speech",
+                "text": "No, I'd feel naked without my robe.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_7",
+                "type": "Speech",
+                "text": "I'll try to clean it with some water first.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_05_11"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_8",
+                "type": "Speech",
+                "text": "Hehe, I appreciate you saying that.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_9",
+                "type": "Speech",
+                "text": "I absolutely adore this sweeter side of you.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_10",
+                "type": "Speech",
+                "text": "It only increases my desire to make you completely mine.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_05_11"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_05_11",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Sakura.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_1",
+                "type": "Speech",
+                "text": "Although Rosanna's swimsuit isn't quite to my taste,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_2",
+                "type": "Speech",
+                "text": "I must admit",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_3",
+                "type": "Speech",
+                "text": "it exudes both boldness and charisma.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_4",
+                "type": "Choice",
+                "text": "Personally, I prefer your swimsuit.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_06_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_5",
+                "type": "Choice",
+                "text": "Yeah, I love it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_06_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_6",
+                "type": "Speech",
+                "text": "Hehe, so you like my swimsuit more?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_7",
+                "type": "Speech",
+                "text": "That makes me really happy.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_8",
+                "type": "Speech",
+                "text": "The more I think about it, the more I think we share the same preferences.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_06_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_9",
+                "type": "Speech",
+                "text": "Hmm... So that is your preference, I see.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_10",
+                "type": "Speech",
+                "text": "I understand.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_11",
+                "type": "Speech",
+                "text": "You're referring to the swimsuit, correct? Not Rosanna herself?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_06_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_06_12",
+                "type": "Narration",
+                "text": "Sakura and I have a conversation about swimsuits.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_1",
+                "type": "Speech",
+                "text": "I'm worried that once we head back to the Ark,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_2",
+                "type": "Speech",
+                "text": "I'll start missing the ocean.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_3",
+                "type": "Speech",
+                "text": "It's also a shame that I won't be able to wear this swimsuit anymore.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_4",
+                "type": "Choice",
+                "text": "We can go to a pool.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_07_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_5",
+                "type": "Choice",
+                "text": "Let's come back next summer.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_07_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_6",
+                "type": "Speech",
+                "text": "... But a swimming pool",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_7",
+                "type": "Speech",
+                "text": "isn't the same as an open ocean.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_8",
+                "type": "Speech",
+                "text": "Well, I guess I'll have to make do with the pool.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_07_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_9",
+                "type": "Speech",
+                "text": "Absolutely.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_10",
+                "type": "Speech",
+                "text": "I'd love nothing more",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_11",
+                "type": "Speech",
+                "text": "than to go to the beach with you again.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_12",
+                "type": "Speech",
+                "text": "I'm already looking forward to the next summer.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_07_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_07_13",
+                "type": "Narration",
+                "text": "Sakura and I have a productive counseling session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_2",
+                "type": "Monologue",
+                "text": "Sakura doesn't seem to have noticed my arrival.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_3",
+                "type": "Choice",
+                "text": "*Knock knock*",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_08_5"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_4",
+                "type": "Choice",
+                "text": "...",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_08_10"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_5",
+                "type": "Speech",
+                "text": "!!",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_6",
+                "type": "Self",
+                "text": "Sorry, did I startle you?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_7",
+                "type": "Speech",
+                "text": "Yes.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_8",
+                "type": "Speech",
+                "text": "I was lost in my own thoughts for a moment",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_9",
+                "type": "Speech",
+                "text": "and didn't realize you were here.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_08_15"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_11",
+                "type": "Speech",
+                "text": "Why aren't you saying anything?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_12",
+                "type": "Self",
+                "text": "I didn't want to disturb you.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_13",
+                "type": "Speech",
+                "text": "Hehe, you're such a sweetie.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_14",
+                "type": "Speech",
+                "text": "... Thank you.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_08_15"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_08_15",
+                "type": "Narration",
+                "text": "Sakura and I have a productive counseling session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_2",
+                "type": "Speech",
+                "text": "The sea is especially beautiful at night.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_3",
+                "type": "Speech",
+                "text": "If you have time,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_4",
+                "type": "Speech",
+                "text": "would you like to have a drink with me in the moonlight?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_5",
+                "type": "Choice",
+                "text": "How about a kiss?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_09_7"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_6",
+                "type": "Choice",
+                "text": "I'll prepare the drinks.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_09_10"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_7",
+                "type": "Speech",
+                "text": "... What?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_9",
+                "type": "Speech",
+                "text": "Do you say things like this to the others as well?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_09_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_10",
+                "type": "Speech",
+                "text": "That won't be necessary.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_11",
+                "type": "Speech",
+                "text": "I've prepared a special drink for the occasion.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_12",
+                "type": "Speech",
+                "text": "Come then, let's have a drink together.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_09_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_09_13",
+                "type": "Narration",
+                "text": "I have a pleasant time with Sakura.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_1",
+                "type": "Speech",
+                "text": "Mary gave me some new lip gloss today.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_2",
+                "type": "Speech",
+                "text": "Not only is it moisturizing, but it also has a wonderful scent.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_3",
+                "type": "Speech",
+                "text": "Would you like some?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_4",
+                "type": "Choice",
+                "text": "Only if you apply it for me.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_10_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_5",
+                "type": "Choice",
+                "text": "No, thanks. I'm good.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_10_10"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_6",
+                "type": "Speech",
+                "text": "... Me?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_7",
+                "type": "Speech",
+                "text": "Okay, fine.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_8",
+                "type": "Speech",
+                "text": "Why don't you come a little closer, then?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_9",
+                "type": "Speech",
+                "text": "... Just a little more.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_10_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_10",
+                "type": "Speech",
+                "text": "Would you perhaps consider applying a little?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_11",
+                "type": "Speech",
+                "text": "If your lips are too dry, they're liable to crack.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_10_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_10_12",
+                "type": "Narration",
+                "text": "Sakura and I spend the time applying some lip gloss.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_1",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_2",
+                "type": "Monologue",
+                "text": "Sakura is glancing at her phone with a look of consternation.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_3",
+                "type": "Self",
+                "text": "Is something wrong?",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_4",
+                "type": "Speech",
+                "text": "I'm picking out pictures to show Moran when I get back to the Ark.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_5",
+                "type": "Speech",
+                "text": "Which pictures would you suggest I show her?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_6",
+                "type": "Choice",
+                "text": "Pictures of the ocean.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_11_8"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_7",
+                "type": "Choice",
+                "text": "Pictures of sand castles.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_11_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_8",
+                "type": "Speech",
+                "text": "Indeed, there's nothing quite as splendid as a picture of the ocean.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_9",
+                "type": "Speech",
+                "text": "I could show her all the pictures I took of the wildlife here:",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_10",
+                "type": "Speech",
+                "text": "Dolphins, sea lions, and even flamingos.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_11",
+                "type": "Speech",
+                "text": "It'd be nice if she were to join us at the beach next time.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_11_14"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_12",
+                "type": "Speech",
+                "text": "I don't think Moran would be too interested in pictures of sand castles.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_13",
+                "type": "Speech",
+                "text": "I should find something else to show her.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_11_14"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_11_14",
+                "type": "Narration",
+                "text": "I spend time helping Sakura choose which pictures to show Moran.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_1",
+                "type": "Speech",
+                "text": "Guilty gave me some coconut juice earlier today.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_2",
+                "type": "Speech",
+                "text": "Have you tried it?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_3",
+                "type": "Choice",
+                "text": "It's not to my liking.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_12_5"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_4",
+                "type": "Choice",
+                "text": "It was absolutely delicious.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_12_8"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_5",
+                "type": "Speech",
+                "text": "Same here.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_6",
+                "type": "Speech",
+                "text": "I'd be okay with never trying it again,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_7",
+                "type": "Speech",
+                "text": "but Guilty can't seem to get enough of that stuff.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_12_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_8",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_9",
+                "type": "Speech",
+                "text": "I'm not a big fan, personally.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_10",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_11",
+                "type": "Speech",
+                "text": "I guess everyone has their own preferences.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_12_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_12_12",
+                "type": "Narration",
+                "text": "Sakura and I have a conversation about coconut juice.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_1",
+                "type": "Speech",
+                "text": "Here, I'd like for you to have this bracelet.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_2",
+                "type": "Speech",
+                "text": "I crafted it from seashells and conch shells...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_3",
+                "type": "Speech",
+                "text": "I hope you like it.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_4",
+                "type": "Choice",
+                "text": "I'll keep it as a memento.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_13_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_5",
+                "type": "Choice",
+                "text": "I'll wear it every day.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_13_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_6",
+                "type": "Speech",
+                "text": "Rather than treating it as a memento,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_7",
+                "type": "Speech",
+                "text": "I would much prefer for you to wear it every day...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_8",
+                "type": "Speech",
+                "text": "Since I made it with you in mind.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_13_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_9",
+                "type": "Speech",
+                "text": "Hehe, really?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_10",
+                "type": "Speech",
+                "text": "It was worth all the effort, then.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_11",
+                "type": "Speech",
+                "text": "I added in various seashells and conch shells that I thought would suit you.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_12",
+                "type": "Speech",
+                "text": "Hurry and put it on your wrist.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_13_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_13_13",
+                "type": "Narration",
+                "text": "Sakura and I have a conversation about the bracelet she made for me.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_1",
+                "type": "Speech",
+                "text": "Getting my picture taken",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_2",
+                "type": "Speech",
+                "text": "isn't something that comes naturally to me.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_3",
+                "type": "Speech",
+                "text": "What pose do you think suits me?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_4",
+                "type": "Choice",
+                "text": "Something graceful and dignified.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_14_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_5",
+                "type": "Choice",
+                "text": "Something sexy and captivating.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_14_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_6",
+                "type": "Speech",
+                "text": "That strikes me as something I can manage quite easily.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_7",
+                "type": "Speech",
+                "text": "I'll try a pose so tell me what you think.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_8",
+                "type": "Speech",
+                "text": "After all, I've no clue what I'm doing.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_14_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_9",
+                "type": "Speech",
+                "text": "Hmm...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_10",
+                "type": "Speech",
+                "text": "I must confess, I am rather uncertain as to what pose that is",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_11",
+                "type": "Speech",
+                "text": "since nothing comes to mind.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_12",
+                "type": "Speech",
+                "text": "Are you sure that's the type of pose that would suit me?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_14_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_14_13",
+                "type": "Narration",
+                "text": "Sakura and I talk more about different types of poses.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_1",
+                "type": "Speech",
+                "text": "{AccountData.NickName}-kun,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_2",
+                "type": "Speech",
+                "text": "you may not believe this,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_3",
+                "type": "Speech",
+                "text": "but I think I saw a ghost here yesterday.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_4",
+                "type": "Choice",
+                "text": "Actually, I think that might have been me.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_15_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_5",
+                "type": "Choice",
+                "text": "Don't worry, I'll protect you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_15_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_6",
+                "type": "Speech",
+                "text": "... I see.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_7",
+                "type": "Speech",
+                "text": "Frankly speaking, I'm not particularly afraid of ghosts.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_8",
+                "type": "Speech",
+                "text": "In my opinion, humans are far more frightening.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_15_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_9",
+                "type": "Speech",
+                "text": "You will?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_10",
+                "type": "Speech",
+                "text": "That puts my mind at ease.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_11",
+                "type": "Speech",
+                "text": "I shall do everything within my power to keep you safe,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_12",
+                "type": "Speech",
+                "text": "no matter what.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_15_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_15_13",
+                "type": "Narration",
+                "text": "Sakura and I have a conversation about ghosts.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_1",
+                "type": "Speech",
+                "text": "I've decided to have a water fight with Rosanna later,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_2",
+                "type": "Speech",
+                "text": "and she's pretty confident that she'll win.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_3",
+                "type": "Choice",
+                "text": "No way, you'll win.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_16_5"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_4",
+                "type": "Choice",
+                "text": "Who knows, Rosanna might just beat you?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_16_8"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_5",
+                "type": "Speech",
+                "text": "Hehe, glad to hear you're on my side.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_6",
+                "type": "Speech",
+                "text": "Now that I have your support,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_7",
+                "type": "Speech",
+                "text": "I'm sure to win.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_16_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_8",
+                "type": "Speech",
+                "text": "...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_9",
+                "type": "Speech",
+                "text": "So that's how you feel...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_10",
+                "type": "Speech",
+                "text": "I understand.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_11",
+                "type": "Speech",
+                "text": "... It seems I must defeat Rosanna, by any means necessary.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_16_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_16_12",
+                "type": "Narration",
+                "text": "Sakura and I have a conversation about water fights.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_1",
+                "type": "Speech",
+                "text": "Take a look at this, {AccountData.NickName}-kun.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_2",
+                "type": "Speech",
+                "text": "I found this tiny turtle today while I was building a sand castle.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_3",
+                "type": "Speech",
+                "text": "Isn't it adorable?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_4",
+                "type": "Choice",
+                "text": "It looks just like you.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_17_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_5",
+                "type": "Choice",
+                "text": "It's so cute.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_17_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_6",
+                "type": "Speech",
+                "text": "Me?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_7",
+                "type": "Speech",
+                "text": "How so?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_8",
+                "type": "Speech",
+                "text": "What part do you think resembles me?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_17_14"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_9",
+                "type": "Speech",
+                "text": "I'm glad you think so.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_10",
+                "type": "Speech",
+                "text": "Rosanna and Viper didn't like it. In fact, they were grossed out by it.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_11",
+                "type": "Speech",
+                "text": "The way it dawdles about so slowly is simply adorable to behold.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_12",
+                "type": "Speech",
+                "text": "It sure would be nice if I was able to take this little guy with me back to the Ark.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_13",
+                "type": "Speech",
+                "text": "Oh well...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_17_14"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_17_14",
+                "type": "Narration",
+                "text": "Sakura and I have a conversation about turtles.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_1",
+                "type": "Speech",
+                "text": "We really got to enjoy the seaside a great deal while we were up here.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_2",
+                "type": "Speech",
+                "text": "Of all the things we did here,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_3",
+                "type": "Speech",
+                "text": "what do you remember the most?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_4",
+                "type": "Choice",
+                "text": "Building sand castles with you.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_18_6"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_5",
+                "type": "Choice",
+                "text": "Surfing with Rosanna.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_18_9"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_6",
+                "type": "Speech",
+                "text": "That's my fondest memory as well.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_7",
+                "type": "Speech",
+                "text": "I didn't even realize how fast time was passing.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_8",
+                "type": "Speech",
+                "text": "... There will be another day where we can build sand castles, won't there?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_18_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_9",
+                "type": "Speech",
+                "text": "Really?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_10",
+                "type": "Speech",
+                "text": "Personally, I despise physical activities,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_11",
+                "type": "Speech",
+                "text": "but it seems like you get a real kick out of them.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_18_12"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_18_12",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Sakura.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_1",
+                "type": "Speech",
+                "text": "Phew...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_2",
+                "type": "Speech",
+                "text": "Jackal asked me to teach her how to build a sand castle,",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_3",
+                "type": "Speech",
+                "text": "but all she does is eat sand.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_4",
+                "type": "Speech",
+                "text": "What should I do?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_5",
+                "type": "Choice",
+                "text": "The easiest option would be to give up.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_19_7"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_6",
+                "type": "Choice",
+                "text": "Try mixing some of the bait you made into the sand.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_19_10"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_7",
+                "type": "Speech",
+                "text": "Giving up isn't in my vocabulary.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_8",
+                "type": "Speech",
+                "text": "I will get her to make the perfect sand castle if it's the last thing I do.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_9",
+                "type": "Speech",
+                "text": "There has to be a better method. I just have to think.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_19_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_10",
+                "type": "Speech",
+                "text": "Hmm... That's not a bad idea.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_11",
+                "type": "Speech",
+                "text": "Jackal does despise that bait...",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_12",
+                "type": "Speech",
+                "text": "I'll have to give it a try.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_19_13"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_19_13",
+                "type": "Narration",
+                "text": "Sakura and I have a conversation about Jackal.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_1",
+                "type": "Narration",
+                "text": "*Splash splash*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_2",
+                "type": "Monologue",
+                "text": "Sakura is splashing water with her feet.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_3",
+                "type": "Choice",
+                "text": "Join her and splash along.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_sakura_bloominsummer_20_5"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_4",
+                "type": "Choice",
+                "text": "Splash her with water.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_sakura_bloominsummer_20_8"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_5",
+                "type": "Speech",
+                "text": "Haha, hey there.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_6",
+                "type": "Speech",
+                "text": "I find splashing water at the beach to be quite relaxing.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_7",
+                "type": "Speech",
+                "text": "Care to join me?",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_20_11"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_8",
+                "type": "Speech",
+                "text": "Hey!",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_9",
+                "type": "Speech",
+                "text": "I didn't want to get wet, so that's why I've only been dipping my toes in the water.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_10",
+                "type": "Speech",
+                "text": "But thanks to you, I'm completely soaked now.",
+                "speaker": "Sakura",
+                "points": null,
+                "jumpTo": "d_counseling_sakura_bloominsummer_20_11"
+            },
+            {
+                "id": "d_counseling_sakura_bloominsummer_20_11",
+                "type": "Narration",
+                "text": "I spend some meaningful time with Sakura.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "05/07/2024"
+}
