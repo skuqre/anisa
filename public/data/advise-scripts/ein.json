@@ -1,0 +1,2237 @@
+{
+    "adviseScripts": [
+        [
+            {
+                "id": "d_counseling_ein_01_1",
+                "type": "Speech",
+                "text": "Ugh, class is so boring!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_2",
+                "type": "Speech",
+                "text": "I don't know how other people endure it.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_3",
+                "type": "Choice",
+                "text": "Maybe they just grin and bear it, even though it's deathly boring.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_01_5"
+            },
+            {
+                "id": "d_counseling_ein_01_4",
+                "type": "Choice",
+                "text": "Maybe they actually enjoy being in class.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_01_10"
+            },
+            {
+                "id": "d_counseling_ein_01_5",
+                "type": "Speech",
+                "text": "I think you may be right.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_6",
+                "type": "Speech",
+                "text": "Even if they don't say as much, I'm sure they must feel that way.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_7",
+                "type": "Speech",
+                "text": "Whenever I look around during class, I always see a few people dozing off,",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_8",
+                "type": "Speech",
+                "text": "and many more doing all sorts of other things.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_9",
+                "type": "Speech",
+                "text": "Argh, I really feel like I'm gonna die of boredom over here.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_01_14"
+            },
+            {
+                "id": "d_counseling_ein_01_10",
+                "type": "Speech",
+                "text": "*Gasp*! No way!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_11",
+                "type": "Speech",
+                "text": "There's no way people like that actually exist.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_12",
+                "type": "Speech",
+                "text": "Oh!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_01_13",
+                "type": "Speech",
+                "text": "Unless we're talking about a model student like Zwei.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_01_14"
+            },
+            {
+                "id": "d_counseling_ein_01_14",
+                "type": "Narration",
+                "text": "Ein explains how not to get caught slacking off during class.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_02_1",
+                "type": "Speech",
+                "text": "Teacher, Teacher!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_2",
+                "type": "Speech",
+                "text": "Give me your phone for a second.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_3",
+                "type": "Choice",
+                "text": "Sorry, no can do.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_02_5"
+            },
+            {
+                "id": "d_counseling_ein_02_4",
+                "type": "Choice",
+                "text": "Sure, here you go.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_02_10"
+            },
+            {
+                "id": "d_counseling_ein_02_5",
+                "type": "Speech",
+                "text": "Aw, why not?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_6",
+                "type": "Speech",
+                "text": "Not even for a moment?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_7",
+                "type": "Speech",
+                "text": "Come on! Please?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_8",
+                "type": "Speech",
+                "text": "I swear it'll only be for a moment.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_9",
+                "type": "Speech",
+                "text": "I'm curious about what kind of music you listen to.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_02_15"
+            },
+            {
+                "id": "d_counseling_ein_02_10",
+                "type": "Speech",
+                "text": "Woohoo!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_11",
+                "type": "Speech",
+                "text": "Thanks, Teacher.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_12",
+                "type": "Speech",
+                "text": "I can see you're curious why I asked for your phone.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_13",
+                "type": "Speech",
+                "text": "I'm curious as to what songs you've got on your playlist.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_02_14",
+                "type": "Speech",
+                "text": "You don't have just old songs on there, do you?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_02_15"
+            },
+            {
+                "id": "d_counseling_ein_02_15",
+                "type": "Narration",
+                "text": "Ein and I have a conversation about our favorite music.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_03_1",
+                "type": "Speech",
+                "text": "Teacher, come here for a moment.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_2",
+                "type": "Speech",
+                "text": "Now, smile.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_3",
+                "type": "Choice",
+                "text": "Smile broadly.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_03_5"
+            },
+            {
+                "id": "d_counseling_ein_03_4",
+                "type": "Choice",
+                "text": "Don't smile and look serious.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_03_9"
+            },
+            {
+                "id": "d_counseling_ein_03_5",
+                "type": "Speech",
+                "text": "Wow, amazing!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_6",
+                "type": "Speech",
+                "text": "You're really handsome, Teacher.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_7",
+                "type": "Speech",
+                "text": "I thought the others were exaggerating a bit when they said how handsome you were,",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_8",
+                "type": "Speech",
+                "text": "but you're really dashing when you smile.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_03_13"
+            },
+            {
+                "id": "d_counseling_ein_03_9",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_10",
+                "type": "Speech",
+                "text": "What's with that face? I said smile.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_11",
+                "type": "Speech",
+                "text": "Then again,",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_12",
+                "type": "Speech",
+                "text": "you actually look pretty good with a serious expression.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_03_13"
+            },
+            {
+                "id": "d_counseling_ein_03_13",
+                "type": "Speech",
+                "text": "You look like a professional model.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_03_14",
+                "type": "Narration",
+                "text": "Ein continues to compliment my appearance throughout the counseling session.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_04_1",
+                "type": "Speech",
+                "text": "Mhmm...",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_04_2",
+                "type": "Speech",
+                "text": "Oh yeah!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_04_3",
+                "type": "Choice",
+                "text": "What's this song? You seem to really like it.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_04_5"
+            },
+            {
+                "id": "d_counseling_ein_04_4",
+                "type": "Choice",
+                "text": "Mhmm... oh yeah!",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_04_9"
+            },
+            {
+                "id": "d_counseling_ein_04_5",
+                "type": "Speech",
+                "text": "*Gasp* You don't know this song?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_04_6",
+                "type": "Speech",
+                "text": "This song is at the top of the charts right now.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_04_7",
+                "type": "Speech",
+                "text": "It's been in a boatload of ads and videos.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_04_8",
+                "type": "Speech",
+                "text": "I'm disappointed in you, Teacher.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_04_13"
+            },
+            {
+                "id": "d_counseling_ein_04_9",
+                "type": "Speech",
+                "text": "I knew you'd be familiar with this song.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_04_10",
+                "type": "Speech",
+                "text": "Isn't the chorus out of this world?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_04_11",
+                "type": "Speech",
+                "text": "It's so catchy.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_04_12",
+                "type": "Speech",
+                "text": "I often find myself humming it without even realizing.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_04_13"
+            },
+            {
+                "id": "d_counseling_ein_04_13",
+                "type": "Narration",
+                "text": "Ein and I spend time listening to the song.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_05_1",
+                "type": "Speech",
+                "text": "Ugh, I can't stand homework.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_2",
+                "type": "Speech",
+                "text": "It's got to be the most irritating thing in the world.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_3",
+                "type": "Speech",
+                "text": "Can you help me out, Teacher?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_4",
+                "type": "Choice",
+                "text": "Okay, I'll help.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_05_6"
+            },
+            {
+                "id": "d_counseling_ein_05_5",
+                "type": "Choice",
+                "text": "Doesn't that defeat the purpose of homework?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_05_11"
+            },
+            {
+                "id": "d_counseling_ein_05_6",
+                "type": "Speech",
+                "text": "Yes, score!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_7",
+                "type": "Speech",
+                "text": "This is the part I'm stuck on.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_8",
+                "type": "Self",
+                "text": "... This is the first page.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_9",
+                "type": "Speech",
+                "text": "Yeah, and?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_10",
+                "type": "Speech",
+                "text": "I didn't start yet, hehe.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_05_15"
+            },
+            {
+                "id": "d_counseling_ein_05_11",
+                "type": "Speech",
+                "text": "Oh my gosh... d\u00e9j\u00e0 vu.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_12",
+                "type": "Speech",
+                "text": "That's exactly what Miss Marciana told me.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_13",
+                "type": "Speech",
+                "text": "Honestly, whether I do it on my own or with someone helping me, it's the exact same thing.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_05_14",
+                "type": "Speech",
+                "text": "So help me out, Teacher!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_05_15"
+            },
+            {
+                "id": "d_counseling_ein_05_15",
+                "type": "Narration",
+                "text": "I help Ein with her homework.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_06_1",
+                "type": "Speech",
+                "text": "Teacher, look at this.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_2",
+                "type": "Speech",
+                "text": "It's a photo I took of Rei dozing off in class earlier.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_3",
+                "type": "Speech",
+                "text": "Isn't she adorable?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_4",
+                "type": "Speech",
+                "text": "I just wanna eat her up.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_5",
+                "type": "Choice",
+                "text": "What a strange thing to say...",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_06_7"
+            },
+            {
+                "id": "d_counseling_ein_06_6",
+                "type": "Choice",
+                "text": "I know what you mean. She's so cute.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_06_12"
+            },
+            {
+                "id": "d_counseling_ein_06_7",
+                "type": "Speech",
+                "text": "It's just an expression!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_8",
+                "type": "Speech",
+                "text": "It's not like I'm actually gonna start munching on her.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_9",
+                "type": "Speech",
+                "text": "... Oh, actually...",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_10",
+                "type": "Speech",
+                "text": "Come to think of it, I think I did bite her before.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_11",
+                "type": "Speech",
+                "text": "Fine, I'll be more careful.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_06_18"
+            },
+            {
+                "id": "d_counseling_ein_06_12",
+                "type": "Speech",
+                "text": "I know, right?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_13",
+                "type": "Speech",
+                "text": "Especially her cheeks!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_14",
+                "type": "Speech",
+                "text": "Whenever she wakes up from a nap, her cheeks are always beet red from resting on her desk.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_15",
+                "type": "Speech",
+                "text": "It's absolutely adorable.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_16",
+                "type": "Speech",
+                "text": "Nothing beats poking her squishy cheeks.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_06_17",
+                "type": "Speech",
+                "text": "*Sigh* I wish I could poke them now.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_06_18"
+            },
+            {
+                "id": "d_counseling_ein_06_18",
+                "type": "Narration",
+                "text": "Ein and I have a conversation about Rei.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_07_1",
+                "type": "Speech",
+                "text": "I love Zwei,",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_07_2",
+                "type": "Speech",
+                "text": "but she can be really frustrating sometimes.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_07_3",
+                "type": "Choice",
+                "text": "Does it have to do with her being a model student?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_07_5"
+            },
+            {
+                "id": "d_counseling_ein_07_4",
+                "type": "Choice",
+                "text": "Oh? What do you mean?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_07_9"
+            },
+            {
+                "id": "d_counseling_ein_07_5",
+                "type": "Speech",
+                "text": "Exactly!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_07_6",
+                "type": "Speech",
+                "text": "She nags me relentlessly if I so much as break the most trivial rule.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_07_7",
+                "type": "Speech",
+                "text": "She acts like it's the end of the world if her grades drop the tiniest bit.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_07_8",
+                "type": "Speech",
+                "text": "Sometimes I feel that she's too tightly wound.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_07_13"
+            },
+            {
+                "id": "d_counseling_ein_07_9",
+                "type": "Speech",
+                "text": "I thought you'd know what I was talking about, Teacher.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_07_10",
+                "type": "Speech",
+                "text": "To me, it feels like Zwei is a prisoner to expectations.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_07_11",
+                "type": "Speech",
+                "text": "She has to always be the model student of all model students.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_07_12",
+                "type": "Speech",
+                "text": "That causes her to behave in ways which can be frustrating sometimes.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_07_13"
+            },
+            {
+                "id": "d_counseling_ein_07_13",
+                "type": "Narration",
+                "text": "Ein and I have a conversation about Zwei.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_08_1",
+                "type": "Speech",
+                "text": "Wow, look at this, Teacher!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_08_2",
+                "type": "Speech",
+                "text": "I got my nails done. What do you think? I did it myself.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_08_3",
+                "type": "Choice",
+                "text": "Too many jewels for my liking.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_08_5"
+            },
+            {
+                "id": "d_counseling_ein_08_4",
+                "type": "Choice",
+                "text": "Very flashy. I like it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_08_8"
+            },
+            {
+                "id": "d_counseling_ein_08_5",
+                "type": "Speech",
+                "text": "You think?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_08_6",
+                "type": "Speech",
+                "text": "That style has been in vogue lately,",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_08_7",
+                "type": "Speech",
+                "text": "but I guess it's not your cup of tea.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_08_12"
+            },
+            {
+                "id": "d_counseling_ein_08_8",
+                "type": "Speech",
+                "text": "I know, right? So sparkly!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_08_9",
+                "type": "Speech",
+                "text": "I was asking you because I wasn't sure if I was going over the top with it.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_08_10",
+                "type": "Speech",
+                "text": "I'm glad that you like it too.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_08_11",
+                "type": "Speech",
+                "text": "It was worth the effort, hehe!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_08_12"
+            },
+            {
+                "id": "d_counseling_ein_08_12",
+                "type": "Narration",
+                "text": "I listen to Ein brag about her nails for a while.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_09_1",
+                "type": "Speech",
+                "text": "H-hello, Rupee.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_2",
+                "type": "Speech",
+                "text": "Do you remember me?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_3",
+                "type": "Speech",
+                "text": "No, that sounds way too timid.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_4",
+                "type": "Speech",
+                "text": "Dang it!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_5",
+                "type": "Monologue",
+                "text": "Ein is holding her phone, agonizing over a text.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_6",
+                "type": "Monologue",
+                "text": "Looking over her shoulder, I can see she's writing a message to Rupee.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_7",
+                "type": "Choice",
+                "text": "Give her advice on what to send.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_09_9"
+            },
+            {
+                "id": "d_counseling_ein_09_8",
+                "type": "Choice",
+                "text": "Say nothing.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_09_15"
+            },
+            {
+                "id": "d_counseling_ein_09_9",
+                "type": "Speech",
+                "text": "Teacher!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_10",
+                "type": "Speech",
+                "text": "You came just in time!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_11",
+                "type": "Speech",
+                "text": "I can't send this.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_12",
+                "type": "Speech",
+                "text": "I'm too nervous.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_13",
+                "type": "Speech",
+                "text": "Can you help me compose a message instead?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_14",
+                "type": "Speech",
+                "text": "Just don't come off too clingy or too formal!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_09_20"
+            },
+            {
+                "id": "d_counseling_ein_09_15",
+                "type": "Speech",
+                "text": "How have you been? I hope you're doing well.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_16",
+                "type": "Speech",
+                "text": "No, that's too generic.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_17",
+                "type": "Speech",
+                "text": "Oh, Teacher!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_18",
+                "type": "Speech",
+                "text": "Why are you just standing there?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_09_19",
+                "type": "Speech",
+                "text": "Hurry up and sit over here. I've got something important I need your help with.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_09_20"
+            },
+            {
+                "id": "d_counseling_ein_09_20",
+                "type": "Narration",
+                "text": "Ein agonizes over her text for a long time, but eventually decides not to contact Rupee.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_10_1",
+                "type": "Speech",
+                "text": "Teacher, are you busy?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_10_2",
+                "type": "Choice",
+                "text": "Yeah, I'm busy.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_10_4"
+            },
+            {
+                "id": "d_counseling_ein_10_3",
+                "type": "Choice",
+                "text": "No, I'm not busy.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_10_8"
+            },
+            {
+                "id": "d_counseling_ein_10_4",
+                "type": "Speech",
+                "text": "Aw, that's too bad.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_10_5",
+                "type": "Speech",
+                "text": "I was planning on going somewhere fun.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_10_6",
+                "type": "Speech",
+                "text": "But if you're busy, I guess that plan is out.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_10_7",
+                "type": "Speech",
+                "text": "Let's hurry and continue with our session.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_10_12"
+            },
+            {
+                "id": "d_counseling_ein_10_8",
+                "type": "Speech",
+                "text": "Oh, really?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_10_9",
+                "type": "Speech",
+                "text": "Why don't we go shopping together, then?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_10_10",
+                "type": "Speech",
+                "text": "I'll pick out a nice outfit for you!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_10_11",
+                "type": "Speech",
+                "text": "Let's hurry and finish our session!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_10_12"
+            },
+            {
+                "id": "d_counseling_ein_10_12",
+                "type": "Narration",
+                "text": "I quickly finish my session with Ein.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_11_1",
+                "type": "Speech",
+                "text": "I wanna go to a karaoke bar!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_2",
+                "type": "Speech",
+                "text": "What do you usually do when you go to a karaoke bar, Teacher?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_3",
+                "type": "Speech",
+                "text": "The reason I ask is because you don't seem like the type to stand up and belt your heart out.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_4",
+                "type": "Choice",
+                "text": "I love singing, so I never put the mic down.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_11_6"
+            },
+            {
+                "id": "d_counseling_ein_11_5",
+                "type": "Choice",
+                "text": "I help set the mood by shaking a tambourine.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_11_10"
+            },
+            {
+                "id": "d_counseling_ein_11_6",
+                "type": "Speech",
+                "text": "Wow, really?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_7",
+                "type": "Speech",
+                "text": "I never expected that.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_8",
+                "type": "Speech",
+                "text": "You say you never put the microphone down?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_9",
+                "type": "Speech",
+                "text": "Sounds like I may have some competition!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_11_15"
+            },
+            {
+                "id": "d_counseling_ein_11_10",
+                "type": "Speech",
+                "text": "That's perfect.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_11",
+                "type": "Speech",
+                "text": "I really like people who play the tambourine.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_12",
+                "type": "Speech",
+                "text": "It feels a bit empty when it's just me singing alone.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_13",
+                "type": "Speech",
+                "text": "Whenever I hear the tambourine, my heart starts to race!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_11_14",
+                "type": "Speech",
+                "text": "Let's go to karaoke together next time, Teacher!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_11_15"
+            },
+            {
+                "id": "d_counseling_ein_11_15",
+                "type": "Narration",
+                "text": "Ein and I have a conversation about karaoke.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_12_1",
+                "type": "Speech",
+                "text": "What are we going to talk about today, Teacher?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_2",
+                "type": "Choice",
+                "text": "What about school?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_12_4"
+            },
+            {
+                "id": "d_counseling_ein_12_3",
+                "type": "Choice",
+                "text": "What about dreams?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_12_9"
+            },
+            {
+                "id": "d_counseling_ein_12_4",
+                "type": "Speech",
+                "text": "School? What's there to talk about?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_5",
+                "type": "Speech",
+                "text": "Class is boring.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_6",
+                "type": "Speech",
+                "text": "Homework is irritating.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_7",
+                "type": "Speech",
+                "text": "It can be fun at times because of my friends and classmates.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_8",
+                "type": "Speech",
+                "text": "What else is there?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_12_14"
+            },
+            {
+                "id": "d_counseling_ein_12_9",
+                "type": "Speech",
+                "text": "That's great!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_10",
+                "type": "Speech",
+                "text": "You must be tired of hearing me say this by now,",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_11",
+                "type": "Speech",
+                "text": "but my dream is to become an exclusive designer for Rushae.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_12",
+                "type": "Speech",
+                "text": "I'm going to make it a reality, no matter what I do!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_12_13",
+                "type": "Speech",
+                "text": "I even started studying design!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_12_14"
+            },
+            {
+                "id": "d_counseling_ein_12_14",
+                "type": "Narration",
+                "text": "Ein and I spend some time talking about various things.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_13_1",
+                "type": "Speech",
+                "text": "Teacher, I have big news!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_2",
+                "type": "Speech",
+                "text": "Miss Marciana didn't check our homework today!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_3",
+                "type": "Speech",
+                "text": "She's usually so strict, so for her to not check our homework... I thought I was dreaming!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_4",
+                "type": "Choice",
+                "text": "Maybe the homework wasn't due today.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_13_6"
+            },
+            {
+                "id": "d_counseling_ein_13_5",
+                "type": "Choice",
+                "text": "You're right. You are dreaming right now.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_13_11"
+            },
+            {
+                "id": "d_counseling_ein_13_6",
+                "type": "Speech",
+                "text": "Oh, really? No way...",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_7",
+                "type": "Speech",
+                "text": "*Gasp* Oh my gosh!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_8",
+                "type": "Speech",
+                "text": "The homework is due tomorrow.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_9",
+                "type": "Speech",
+                "text": "How did you know, Teacher?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_10",
+                "type": "Speech",
+                "text": "You're amazing.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_13_14"
+            },
+            {
+                "id": "d_counseling_ein_13_11",
+                "type": "Speech",
+                "text": "Hey!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_12",
+                "type": "Speech",
+                "text": "I'm not a kid, you know?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_13_13",
+                "type": "Speech",
+                "text": "Do you really think I'd fall for a childish joke like that?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_13_14"
+            },
+            {
+                "id": "d_counseling_ein_13_14",
+                "type": "Narration",
+                "text": "I help Ein finish her homework.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_14_1",
+                "type": "Speech",
+                "text": "Rupee is my favorite person.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_2",
+                "type": "Speech",
+                "text": "What about you, Teacher?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_3",
+                "type": "Choice",
+                "text": "It's a secret.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_14_5"
+            },
+            {
+                "id": "d_counseling_ein_14_4",
+                "type": "Choice",
+                "text": "You.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_14_9"
+            },
+            {
+                "id": "d_counseling_ein_14_5",
+                "type": "Speech",
+                "text": "Everything is a secret with you.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_6",
+                "type": "Speech",
+                "text": "You're not too embarrassed to reveal your favorite, are you?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_7",
+                "type": "Speech",
+                "text": "Fine, let me guess.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_8",
+                "type": "Speech",
+                "text": "Zwei? Rei? Or Rupee as well?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_14_15"
+            },
+            {
+                "id": "d_counseling_ein_14_9",
+                "type": "Speech",
+                "text": "Huh? Me?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_10",
+                "type": "Speech",
+                "text": "You're lying, aren't you?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_11",
+                "type": "Speech",
+                "text": "Wait... you're not?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_12",
+                "type": "Speech",
+                "text": "Wh-what about me is...",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_13",
+                "type": "Speech",
+                "text": "How can you be so brazen?! This is embarrassing!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_14_14",
+                "type": "Speech",
+                "text": "Man, is it me, or it's getting hot in here?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_14_15"
+            },
+            {
+                "id": "d_counseling_ein_14_15",
+                "type": "Narration",
+                "text": "Ein and I have a conversation about our favorite people.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_15_1",
+                "type": "Speech",
+                "text": "Phew... I'm drained.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_15_2",
+                "type": "Speech",
+                "text": "Maybe it's because I've been really hitting the books in class lately.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_15_3",
+                "type": "Choice",
+                "text": "How about we take a rest today?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_15_5"
+            },
+            {
+                "id": "d_counseling_ein_15_4",
+                "type": "Choice",
+                "text": "Why don't we go outside and hang out?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_15_7"
+            },
+            {
+                "id": "d_counseling_ein_15_5",
+                "type": "Speech",
+                "text": "That sounds great.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_15_6",
+                "type": "Speech",
+                "text": "Can I lie down on the sofa?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_15_9"
+            },
+            {
+                "id": "d_counseling_ein_15_7",
+                "type": "Speech",
+                "text": "No way, I'm pooped.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_15_8",
+                "type": "Speech",
+                "text": "I don't have the energy to go gallivanting about now.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_15_9"
+            },
+            {
+                "id": "d_counseling_ein_15_9",
+                "type": "Narration",
+                "text": "Ein lies on the sofa.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_16_1",
+                "type": "Speech",
+                "text": "Isn't the weather lovely outside?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_16_2",
+                "type": "Speech",
+                "text": "It's a perfect day for skipping school and hanging out outside.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_16_3",
+                "type": "Choice",
+                "text": "Be that as it may, you should still go to school.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_16_5"
+            },
+            {
+                "id": "d_counseling_ein_16_4",
+                "type": "Choice",
+                "text": "Why don't we hang out after school?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_16_7"
+            },
+            {
+                "id": "d_counseling_ein_16_5",
+                "type": "Speech",
+                "text": "I know, I know. I will.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_16_6",
+                "type": "Speech",
+                "text": "I wasn't really planning on playing hooky.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_16_11"
+            },
+            {
+                "id": "d_counseling_ein_16_7",
+                "type": "Speech",
+                "text": "*Gasp* Really?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_16_8",
+                "type": "Speech",
+                "text": "Yay! Where should we go?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_16_9",
+                "type": "Speech",
+                "text": "But skipping school is a big no-no, right?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_16_10",
+                "type": "Speech",
+                "text": "I really shouldn't joke about these things.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_16_11"
+            },
+            {
+                "id": "d_counseling_ein_16_11",
+                "type": "Narration",
+                "text": "Ein eventually makes it to school on time.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_17_1",
+                "type": "Speech",
+                "text": "Hey Teacher.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_17_2",
+                "type": "Speech",
+                "text": "Don't you think Naga and Tia are a bit unusual?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_17_3",
+                "type": "Choice",
+                "text": "You mean because they always stick together?",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_17_5"
+            },
+            {
+                "id": "d_counseling_ein_17_4",
+                "type": "Choice",
+                "text": "You mean because they're so obsessed with desserts and accessories?",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_17_9"
+            },
+            {
+                "id": "d_counseling_ein_17_5",
+                "type": "Speech",
+                "text": "Yes, exactly!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_17_6",
+                "type": "Speech",
+                "text": "I don't think",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_17_7",
+                "type": "Speech",
+                "text": "I've ever seen them be apart.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_17_8",
+                "type": "Speech",
+                "text": "They must have been close in their past life.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_17_12"
+            },
+            {
+                "id": "d_counseling_ein_17_9",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_17_10",
+                "type": "Speech",
+                "text": "How's that strange?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_17_11",
+                "type": "Speech",
+                "text": "Everyone's into different things. That's totally fine.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_17_12"
+            },
+            {
+                "id": "d_counseling_ein_17_12",
+                "type": "Narration",
+                "text": "Ein and I have a conversation about Naga and Tia.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_18_1",
+                "type": "Speech",
+                "text": "Teacher, let's make a bet!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_18_2",
+                "type": "Speech",
+                "text": "Who can type a message faster and more accurately without looking at the screen?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_18_3",
+                "type": "Choice",
+                "text": "No, I don't want to.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_18_5"
+            },
+            {
+                "id": "d_counseling_ein_18_4",
+                "type": "Choice",
+                "text": "Okay, let's do it.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_18_8"
+            },
+            {
+                "id": "d_counseling_ein_18_5",
+                "type": "Speech",
+                "text": "Why not?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_18_6",
+                "type": "Speech",
+                "text": "I'm confident that I'll win!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_18_7",
+                "type": "Speech",
+                "text": "Let's try it just once, pleaaaaase?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_18_13"
+            },
+            {
+                "id": "d_counseling_ein_18_8",
+                "type": "Speech",
+                "text": "Alright!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_18_9",
+                "type": "Speech",
+                "text": "Then, get ready!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_18_10",
+                "type": "Speech",
+                "text": "Go!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_18_11",
+                "type": "Narration",
+                "text": "*Tadadadadadak* *Ding*",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_18_12",
+                "type": "Speech",
+                "text": "Yes! I won!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_18_13"
+            },
+            {
+                "id": "d_counseling_ein_18_13",
+                "type": "Narration",
+                "text": "Ein gives me tips on how to type quickly on the phone.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_19_1",
+                "type": "Speech",
+                "text": "I bumped into Tia at the dessert shop earlier.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_19_2",
+                "type": "Speech",
+                "text": "She was buying more than 20 slices of cake.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_19_3",
+                "type": "Speech",
+                "text": "How can she pack away that many sweets?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_19_4",
+                "type": "Choice",
+                "text": "She has a separate stomach for desserts.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_19_6"
+            },
+            {
+                "id": "d_counseling_ein_19_5",
+                "type": "Choice",
+                "text": "You should ask her yourself.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_19_10"
+            },
+            {
+                "id": "d_counseling_ein_19_6",
+                "type": "Speech",
+                "text": "Huh?",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_19_7",
+                "type": "Speech",
+                "text": "Now that I think about it,",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_19_8",
+                "type": "Speech",
+                "text": "I'm pretty sure she said something along those lines.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_19_9",
+                "type": "Speech",
+                "text": "Fascinating!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_19_12"
+            },
+            {
+                "id": "d_counseling_ein_19_10",
+                "type": "Speech",
+                "text": "I did!",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_19_11",
+                "type": "Speech",
+                "text": "... But I forget what her answer was.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_19_12"
+            },
+            {
+                "id": "d_counseling_ein_19_12",
+                "type": "Narration",
+                "text": "Ein and I have a conversation about what desserts we like.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ],
+        [
+            {
+                "id": "d_counseling_ein_20_1",
+                "type": "Speech",
+                "text": "Here, take this, Teacher.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_20_2",
+                "type": "Speech",
+                "text": "It's a snack Rei gave me.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_20_3",
+                "type": "Speech",
+                "text": "I left some for you.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_20_4",
+                "type": "Choice",
+                "text": "Thanks.",
+                "speaker": null,
+                "points": 120,
+                "jumpTo": "d_counseling_ein_20_6"
+            },
+            {
+                "id": "d_counseling_ein_20_5",
+                "type": "Choice",
+                "text": "No thanks, I'm fine. I'm full.",
+                "speaker": null,
+                "points": 100,
+                "jumpTo": "d_counseling_ein_20_9"
+            },
+            {
+                "id": "d_counseling_ein_20_6",
+                "type": "Speech",
+                "text": "No need to thank me.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_20_7",
+                "type": "Speech",
+                "text": "The snacks Rei gives out are always super delicious,",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_20_8",
+                "type": "Speech",
+                "text": "so I wanted you to try some.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_20_13"
+            },
+            {
+                "id": "d_counseling_ein_20_9",
+                "type": "Speech",
+                "text": "Here, then take this.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_20_10",
+                "type": "Speech",
+                "text": "This one is smaller than the others.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_20_11",
+                "type": "Speech",
+                "text": "Just take one.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": null
+            },
+            {
+                "id": "d_counseling_ein_20_12",
+                "type": "Speech",
+                "text": "I brought them specially for you, Teacher.",
+                "speaker": "Ein",
+                "points": null,
+                "jumpTo": "d_counseling_ein_20_13"
+            },
+            {
+                "id": "d_counseling_ein_20_13",
+                "type": "Narration",
+                "text": "Ein and I indulge in some snacks.",
+                "speaker": null,
+                "points": null,
+                "jumpTo": null
+            }
+        ]
+    ],
+    "scriptLastUpdate": "25/07/2024"
+}

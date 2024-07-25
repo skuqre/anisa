@@ -1,1 +1,0 @@
-You are free to use these, I just won't document them.

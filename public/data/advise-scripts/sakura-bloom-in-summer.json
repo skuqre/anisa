@@ -216,7 +216,7 @@
             {
                 "id": "d_counseling_sakura_bloominsummer_03_4",
                 "type": "Choice",
-                "text": "How about \"Honey\"?",
+                "text": "Honey?",
                 "speaker": null,
                 "points": 100,
                 "jumpTo": "d_counseling_sakura_bloominsummer_03_6"
@@ -224,7 +224,7 @@
             {
                 "id": "d_counseling_sakura_bloominsummer_03_5",
                 "type": "Choice",
-                "text": "How about just \"{AccountData.NickName}\"?",
+                "text": "{AccountData.NickName}?",
                 "speaker": null,
                 "points": 120,
                 "jumpTo": "d_counseling_sakura_bloominsummer_03_9"
@@ -2049,5 +2049,5 @@
             }
         ]
     ],
-    "scriptLastUpdate": "05/07/2024"
+    "scriptLastUpdate": "25/07/2024"
 }
